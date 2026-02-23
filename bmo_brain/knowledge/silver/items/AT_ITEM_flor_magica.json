@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_flor_magica",
+  "tipo": "objeto",
+  "nome": "Flor Mágica",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Flor_M%C3%A1gica",
+  "sections": {
+    "descricao": "# Flor Mágica\n\nA Flor Mágica aparece no episódio \" Memória de Uma Memória \", quando Ash obteve com a venda do ursinho da Marceline , Hambo , para a bruxa Maja . Diz-se que os bens preciosos como estes fazem excelentes misturas. Ela funciona como uma varinha e também pode criar um fantasma e pode chocar eletricamente alguém. O Fantasma , em seguida, canta \"sou um gênio, sou um gênio...\". Também é aparentemente um cara.",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "Flor Mágica parece ser uma varinha com uma haste verde e flores vermelhas com pétalas brancas."
+  },
+  "source_file": "Flor_Magica.md"
+}

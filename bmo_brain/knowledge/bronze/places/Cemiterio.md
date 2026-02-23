@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Cemitério"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cemit%C3%A9rio"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cemit%C3%A9rio"
 ---
+
+> Cemitério é um lugar de Hora de Aventura.
 
 # Cemitério
 

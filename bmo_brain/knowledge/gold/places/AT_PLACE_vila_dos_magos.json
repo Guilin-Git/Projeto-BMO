@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_vila_dos_magos",
+  "tipo": "lugar",
+  "nome": "Vila dos Magos",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_vila_dos_magos_descricao",
+      "text": "[Lugar: Vila dos Magos]\nDescricao:\n# Vila dos Magos\n\nA Vila dos Magos é um lugar visto no episódio \" Bruxo \". O grande edifício central é o Grande Salão de Magia, onde os alunos magos treinam para se tornar magos supremos com o ensino do Bufo . Por 847 anos, a vila estava em risco de ser atingida por um meteoro, e Bufo secretamente enganava os magos supremos e usava sua magia para impedir a colisão. Finn usou seu pensamento \"jovem\" para resolver o problema movendo a vila fora do caminho do meteoro usando seus poderes de Mago Supremo.\n\nA Vila dos Magos foi acessada através de um portal aberto pelo Ceifeiro , por isso não está claro onde está em relação ao resto da Terra de Terra de Ooo .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vila_dos_magos",
+        "nome": "Vila dos Magos",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

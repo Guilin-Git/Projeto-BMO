@@ -1,17 +1,45 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 23
 nome: "Sonho de Dia Chuvoso"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Sonho_de_Dia_Chuvoso"
 data_exibicao: "06 de Setembro de 2010"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Tim McKeon"
 codigo_producao: "692-002"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Sonho_de_Dia_Chuvoso"
 ---
 
 # Sonho de Dia Chuvoso
 
 **Temporada 1 — Episódio 23**
+
+## Descrição
+" Sonho de Dia Chuvoso " é o 23º episódio da 1ª temporada de Hora de Aventura . É o 23 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Tim McKeon
+
+
+### Escritor
 
 ## Sinopse
 Uma Chuva de Canivetes força Finn e Jake a ficarem na Casa na Árvore e Jake decide usar sua imaginação para se divertir, porém tudo que ele imagina acaba virando real.
@@ -36,6 +64,75 @@ Em seguida, alguns pingüins vêm e se aglomeram ao redor do inseto, e levá-lo 
 Então Jake testa sua imaginação e encontra-la sob controle, e a tempestade faca parou, o que significa que pode finalmente ir em uma aventura, mas Finn diz feliz que ele teve toda a aventura que ele pode lidar por um dia. Então Finn imagina que o chão é lava e, em seguida, Jake começa a derreter no chão. Ele diz que está "brincando" que está apenas usando seus poderes.
 
 ## Personagens
-### Principais
+
+### Personagens Principais
+
 - Finn
+
 - Jake
+
+
+### Personagens Secundarios
+
+- BMO
+
+- Fada
+
+- Inseto Bellamy
+
+- Tocador de Alaúde
+
+- Goblin da Bazooka
+
+- Pinguins
+
+- Mestre da Charadas
+
+- O Caracol
+
+- Princesa Frutinhas (numa foto)
+
+- Lady Íris (numa foto)
+
+
+### Personagens Mencionados
+
+- Margaret
+
+## Referência Cultural
+- O Mestre enigma dizendo que a pena para responder a um enigma incorretamente é a morte, uma referência a Esfinge, uma criatura que mata qualquer um que não responda a seus enigmas corretamente.
+
+- Quando Jake Começa a Imaginar que o chão é a lava  é uma Referencia a uma Brincadeira classica que o chão é de lava e não pode encostar o pé nele.
+
+## Localização do Caracol
+Ao lado de Finn e Jake quando eles falam com BMO.
+
+## Erros
+- Os olhos de Jake parecem ser opostos (em vez de branco no meio , ele é negro ,vice-versa para as bordas) muitos vezes ao longo do episódio.
+
+- No inicio do episódio , Finn tem uma lista de tarefas escritas em seu braço , mas ele desaparece para o resto do episódio após Finn fazer comentários sobre a tempestade canivete de ser bonita.
+
+- Quando Finn da passos no chão e coloca o pé no fogo , BMO está sobre a mesa. No entanto , quando tudo na sala começa a derreter , BMO não é visto em qualquer outro lugar.
+
+## Curiosidades
+- Durante todo o episódio , Jake é mostrado para ter habilidades psicológicas extremas e defeitos: Criando coisas existentes com sua mente (as cobras , o mestre crivo , goblin com bazuca etc) a habilidade de derreter e queimar coisas com sua mente e ter a capacidade de ver coisas que não estão realmente lá.
+
+- Todos os três seres que Finn encontra na sua imaginação fazem algo com suas extremidades.O Tocador de Alaude e Inseto Bellamy tanto mexem seus trasseiros e de Finn ,quanto a Fada que aperta o botão da máquina de imaginação de Jake com a dela.
+
+- Esse é o episódio favorito de Pendleton Ward, da primeira temporada.
+
+- Depois de Finn e Jake pularem no balde e irem até uma outra parte da Casa na Árvore , há vários detalhes escondidos naquela sala: As iniciais A.T., dentro de um coração, estão escritas em uma das paredes daquela sala. A.T. significa Adventure Time (Hora de Aventura, em inglês). Um dos doces dentro da sala tem a forma de uma cabeça de gato, com um rosto.
+
+- Os sucos encontrados naquela sala tem uma foto da Princesa Frutinhas.
+
+- Há uma foto da Lady Íris atrás de Jake .
+
+- "2", "Goblins" e "Flip" As únicas palavras legíveis nos braços de Finn são "flip" (virar ou inverter), "goblins", "3", "2" e "U".
+
+- Finn e Jake tem em sua casa um mini-míssel nuclear e um grande
+
+- O comercial para este episódio é o primeiro comercial live-action para a série.
+
+- As iniciais A.T., dentro de um coração, estão escritas em uma das paredes daquela sala. A.T. significa Adventure Time (Hora de Aventura, em inglês).
+
+- Um dos doces dentro da sala tem a forma de uma cabeça de gato, com um rosto.

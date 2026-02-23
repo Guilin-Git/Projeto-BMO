@@ -1,0 +1,31 @@
+{
+  "id": "AT_S10E7273",
+  "tipo": "episodio",
+  "nome": "Marcy & Hunson",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Marcy_e_Hunson",
+  "sections": {
+    "informacoes": "### Temporada\n\n### Episódio\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+    "creditos": "### Diretor\n\n### Escritor",
+    "sinopse": "Hunson vem para Terra de Ooo ver Marceline em seu Show.",
+    "curiosidades": "- Esta é a primeira aparição real de Hunson Abadeer desde \" A Monstrinha do Papai \" da 4ª temporada.\n\n- Este episódio revela que o guarda alto e magro que abriu a porta para o laboratório de Gumbald para BMO e Rei Gelado em \"BMO Vendedor\" foi Chiclete .",
+    "conexoes_de_episodios": "- A Espada da Noite apareceu anteriormente em \" Orb \" duas vezes: no cartão de título, e quando Finn encontra Jake no jogo dos sonhos.\n\n- Marceline é vista usando o suéter da princesa Jujuba da minissérie Estaca Zero quando Finn, Jake e Hunson entram em sua casa.\n\n- No flashback de \" Tudo Permanece \", quando Simon estava saindo, ele disse para Marceline: \"Vou arranjar alguém para vir cuidar de você\". Este episódio revela que essa pessoa era Hunson Abadeer. Isso faz sentido porque Marceline é vista passando tempo com ele em sua memória dele comendo suas batatas fritas em \"Memória de Uma Memória\""
+  },
+  "source_file": "T10_E7273_Marcy_Hunson.md",
+  "season": 10,
+  "episode": 7273,
+  "episode_id": "S10E7273",
+  "diretor": "Cole Sanchez",
+  "codigo_producao": "1054-278",
+  "data_exibicao": "01/05/2018",
+  "characters_secondary": [
+    "Finn",
+    "Jake",
+    "Marceline",
+    "Hunson Abadeer",
+    "Mordomo Menta",
+    "Primo Chiclete",
+    "Princesa Jujuba",
+    "Fantasmas",
+    "Caracol"
+  ]
+}

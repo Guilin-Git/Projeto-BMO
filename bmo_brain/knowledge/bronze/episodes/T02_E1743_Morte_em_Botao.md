@@ -1,16 +1,49 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 1743
 nome: "Morte em Botão"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Morte_em_Bot%C3%A3o"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Kent Osborne Patrick McHale Pendleton Ward"
 codigo_producao: "1002-044"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Morte_em_Bot%C3%A3o"
 ---
 
 # Morte em Botão
 
 **Temporada 2 — Episódio 1743**
+
+## Descrição
+" Morte em Botão " é o 17º episódio da 2ª temporada de Hora de Aventura . É o quadragésimo terceiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Kent Osborne
+
+- Patrick McHale
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Cole Sanchez
+
+- Jesse Moynihan
 
 ## Sinopse
 Após matar a Planta Princesa da Princesa Jujuba quando deixados para tomar conta dela, Finn e Jake vão á Terra dos Mortos para recuperar sua alma.
@@ -27,16 +60,52 @@ Morte desafia Finn para uma batalha musical para a alma e memórias, com a morte
 Prestes a morrer, Finn diz que o Mordomo Menta disse oi, que surpreende a Morte dizendo "O quê? Você conhece o Mordomo Menta ?" e permite-lhes ter o que eles querem. Ele restaura a memória de Jake com o beijo da morte e envia a alma da flor de volta ao seu corpo, então transporta Finn e Jake volta para Ooo apenas a tempo de encontrar a Princesa Jujuba . Ela come uma flor, e muda seu penteado, e ela agradece a Finn e Jake com um abraço de grupo. Mordomo Menta aproveita a oportunidade para informar que o pagamento pelos serviços prestados será a carne deles, que Finn e Jake acharam que ele só está brincando, que ele lhes diz, como seus olhos começam a brilhar estranhamente, ele vai levar a carne deles, enquanto eles dormem. De Finn e Jake param de sorrir, e o episódio termina.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Morte
+
 - Planta Princesa
 
+
 ### Secundários
+
 - Mordomo Menta
+
 - Manhã
+
 - Stanley e Família
+
 - Esqueletos Crânio Falante Guarda do Portão
+
 - Caracol
+
+- Crânio Falante
+
+- Guarda do Portão
+
+## Curiosidades
+- Conferência de Ciência da Princesa Jujuba acontece na casa do Stanley , que é referido como estando em Vila Vegetal .
+
+- Há 20 carros de polícia diferentes espalhadas pela Terra dos Mortos metade se parecem com Dodge Coronets 75-76s e alguns com Monacos, Diplomats ou caprices 1989-90s .
+
+- No Title Card, no colo de Jake tem um livro cuja capa está escrito "Fellin' Good" (se sentindo bem)
+
+- O Rio do Esquecimento é uma referência ao Rio Lete da Mitologia Grega. O Rio Lete é um rio que fica no submundo, que é governado pelo Deus dos Mortos, Hades. Quem bebe dele ou até o toca experimenta o esquecimento completo.
+
+- Um site fez uma sátira macabra de Hora de Aventura chamada "Socrates Wish" e usou o Title Card do episodio citado aqui mas com a imagem ampliada.
+
+- Quando a Morte sai da bateria para cantar, o som de bateria continua e a sons de guitarra também, porém não à guitarras, o que pode significar que ele esta usando playback.
+
+- Finn sabe tocar flauta, mas quando ele vai enfrentar a Morte ele escolhe o guizo de trenó.
+
+## Erros
+- Quando Mordomo Menta está vesgando seus olhos, a sua gravata borboleta é azul em vez de vermelho.
+
+- Quando Jake pede Finn a corda em sua mochila, um dos braços de Jake é parcialmente transparente.

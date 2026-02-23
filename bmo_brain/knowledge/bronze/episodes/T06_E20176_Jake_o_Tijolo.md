@@ -1,16 +1,42 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 20176
 nome: "Jake, o Tijolo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Jake,_o_Tijolo"
 data_exibicao: "08/12/2014"
 diretor: "Kent Osborne (supervisor) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Jake,_o_Tijolo"
 ---
 
 # Jake, o Tijolo
 
 **Temporada 6 — Episódio 20176**
+
+## Descrição
+" Jake, o Tijolo " é o 20º episódio da 6ª temporada de Hora de Aventura . É o 176 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Jake quer cumprir uma ambição bizarra ao longo de sua vida.
@@ -25,34 +51,128 @@ O episódio mostra personagens, escutando a transmissão, com os ouvintes notáv
 Jake então aprende uma lição sobre viver a vida, ele sai da casa de tijolos, assiste finalmente a casa entrar em colapso sem a sua presença, em seguida, ele fala com Finn pelo walkie-talkie e dicide voltar pra casa com o Finn feliz.
 
 ## Personagens
-### Principais
+
+### Personagens Principais
+
 - Finn
+
 - Jake
+
 - BMO
+
 - Coelho
+
 - Cervo
 
-### Secundários
+
+### Personagens Secundários
+
 - Castores
+
 - Lich
+
 - Dona Tromba
+
 - Sr. Porco
+
 - Marceline
+
 - Lemonhope
+
 - Lady Íris
+
 - T.V.
+
 - Betty
+
 - Neptr
+
 - Shelby
+
 - Toicinho do Mar
+
 - Randy
+
 - Princesa Caroço
+
 - Princesa Tartaruga
+
 - Abracadaniel
+
 - Princesa de Fogo
+
 - Rei Gelado
+
 - Pinguins Gunter
+
 - Aldeões de Wubiwub (mencionados)
+
 - Povo Doce Coronel Milho Doce Princesa Jujuba Garçom da Taverna Doce Mordomo Menta Guardas Banana Chocolate Buck Pudim Chet Jovens Marshmallows Banana Chocolate Pai da Gominha Adolescente Princesa Biscoito Canelinha Ponche Sr. Cremoso Gominha 1 Gominha 2 Minhoco Pessoal do Castelo Clone do James Chicletão
+
 - Homem Banana
+
 - Caracol
+
+- Gunter
+
+- Coronel Milho Doce
+
+- Princesa Jujuba
+
+- Garçom da Taverna Doce
+
+- Mordomo Menta
+
+- Guardas Banana
+
+- Chocolate
+
+- Buck Pudim
+
+- Chet
+
+- Jovens Marshmallows
+
+- Banana Chocolate
+
+- Pai da Gominha Adolescente
+
+- Princesa Biscoito
+
+- Canelinha
+
+- Ponche
+
+- Sr. Cremoso
+
+- Gominha 1
+
+- Gominha 2
+
+- Minhoco
+
+- Pessoal do Castelo
+
+- Clone do James
+
+- Chicletão
+
+## Caracol
+- Aparece debaixo da TV, na última aparição do Homem Banana . "Aparece debaixo da TV, na última aparição do Homem Banana ."
+
+## Erros
+Enquanto Jake falava, no Reino Gelado estava nevando mas um floco de neve não se movia.
+
+## Censuras
+- É censurada a parte onde Finn atira a maçã no tronco e erra.
+
+## Curiosidades
+- Esse é o terceiro episódio que começa com "Jake o..." (Jake the...), os outros são Jake o Cão e Jake, o Pai .
+
+- Esse foi o episódio com mais personagens até agora.
+
+- Esse episódio teve participações especiais de personagens esquecidos.
+
+- A Banana Chocolate aparece no hospício junto com a Princesa Biscoito nesse episódio.
+
+- Esse episódio revela que o Homem Banana já foi libertado da prisão do Reino Doce, já que desde sua prisão em Consertamos um Caminhão , ele só foi citado por Finn em " A Torre ".

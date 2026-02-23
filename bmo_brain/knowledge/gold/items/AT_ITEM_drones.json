@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_drones",
+  "tipo": "objeto",
+  "nome": "Drones",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_drones_descricao",
+      "text": "[Objeto: Drones]\nDescricao:\n# Drones\n\nDrones são utilizados pela fábrica para o transporte de Super Porp ao longo de Terra de Ooo . No entanto, devido aos acontecimentos de \" Roxo Escuro \", os drones não funcionam bem e transporta Super Porp com um gosto ruim.\n\nEm segredo os drones também foram usados para espionar civis e digitalizá-los para verificar se há um compatível para suceder a fábrica depois de Cheryl.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_drones",
+        "nome": "Drones",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_drones_aparicoes",
+      "text": "[Objeto: Drones]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_drones",
+        "nome": "Drones",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

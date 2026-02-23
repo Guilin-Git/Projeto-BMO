@@ -1,16 +1,51 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 733
 nome: "Incansável"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Incans%C3%A1vel"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-033"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Incans%C3%A1vel"
 ---
 
 # Incansável
 
 **Temporada 2 — Episódio 733**
+
+## Descrição
+" Incansável " é o 7º episódio da 2ª temporada de Hora de Aventura . É o trigésimo terceiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Adam Muto
+
+- Rebecca Sugar
 
 ## Sinopse
 Jake e Finn fizeram uma festa na casa de arvore, a agitação de Finn chamou a atenção de gnomos disfarçados. Os Gnomos capturaram Finn para carregar uma maquina e agora Jake precisa vencer sua desconcentração para achar Finn .
@@ -31,18 +66,50 @@ Na caverna os Gnomos conseguem carregar a maquina, mas Jake acaba aparecendo na 
 No final do episódio, Jake perde a energia dos demônios festeiros e os dois vão embora da caverna.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Gnomos
+
 - Deus da Festa
 
+
 ### Secundários
+
 - BMO
+
 - Marceline
+
 - Canelinha
+
 - O Caracol
+
 - Princesa Jujuba
+
 - Besouro Dançarino
+
 - Dona Tromba
+
 - Ninfas
+
+## Caracol
+Aparece em cima de uma tv quebrada perto das Ninfas .
+
+## Curiosidades
+- O nome original do episódio é " Poder Animal ".
+
+- Parece haver um pequeno animal vermelho dentro do refrigerador de isopor que Jake derruba.
+
+- Este é o primeiro episódio que se vê a Princesa Jujuba e Marceline juntas, embora não tenham efetivamente interagido com a outra.
+
+- A batata do saco usado para cobrir a cabeça do Finn tem cinco bocas.
+
+- Quando Jake acorda e vai procurar Finn em sua cama, em uma cena a parte da cabeça do saco de dormir do Finn está vermelho claro, mas depois volta a ser vermelho escuro
+
+- Na hora em que Jake, esta bebendo a vitamina de grama, em seu copo à um simbolo parecido com a letra Pi
+
+- Finn é obrigado a dançar pole-dance, uma dança sexual

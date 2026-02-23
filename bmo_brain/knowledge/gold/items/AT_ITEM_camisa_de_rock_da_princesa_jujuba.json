@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba",
+  "tipo": "objeto",
+  "nome": "Camisa de Rock da Princesa Jujuba",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba_descricao",
+      "text": "[Objeto: Camisa de Rock da Princesa Jujuba]\nDescricao:\n# Camisa de Rock da Princesa Jujuba\n\nA Camisa de Rock da Princesa Jujuba era um presente da Marceline para Princesa Jujuba . A Princesa Jujuba usava ela toda noite, antes de Maja ficar com a camisa.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba",
+        "nome": "Camisa de Rock da Princesa Jujuba",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba_aparicoes",
+      "text": "[Objeto: Camisa de Rock da Princesa Jujuba]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba",
+        "nome": "Camisa de Rock da Princesa Jujuba",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba_aparencia",
+      "text": "[Objeto: Camisa de Rock da Princesa Jujuba]\nAparencia:\nA camisa é preta com mangas. Nela há fundo verde e um lago azul, com uma pequena espada cinza embaixo. Na camisa também há duas nozes em espeto. As nozes na camisa são em diversas formas. Uma delas está com chocolate embaixo, deixando derreter. Na imagem da camisa, elas são sufocadas por uma grande serpente amarela com boca aberta e língua para fora.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba",
+        "nome": "Camisa de Rock da Princesa Jujuba",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba_curiosidades",
+      "text": "[Objeto: Camisa de Rock da Princesa Jujuba]\nCuriosidades:\n- É revelado no episódio \" A Bruxa do Céu \" que a camisa tem mais sentimentos do que Hambo .\n\n- A Princesa Jujuba usava ela toda a noite. Ela dizia que era seu pijama, isso é comprovado no episódio \" A Bruxa do Céu \", em que Princesa Jujuba é vista acordando com a camisa, e cheirando ela.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba",
+        "nome": "Camisa de Rock da Princesa Jujuba",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

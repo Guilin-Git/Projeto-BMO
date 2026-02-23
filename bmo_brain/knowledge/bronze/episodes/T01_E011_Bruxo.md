@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 11
 nome: "Bruxo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Bruxo"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Bruxo"
 ---
 
 # Bruxo
 
 **Temporada 1 — Episódio 11**
+
+## Descrição
+" Bruxo " é o 11º episódio da 1ª temporada de Hora de Aventura . É o décimo primeiro episódio no total.
 
 ## Sinopse
 Finn e Jake começam a fazer um treinamento de bruxo estimulados por um homem sapo , mas no fim o homem sapo dá os poderes a eles. eles são levados a ajudar a parar um asteroide.
@@ -22,16 +26,39 @@ Os meninos passam por muitos mais níveis e ganham mais poderes até que só est
 Então Jake saiu da janela quando Finn tentou mover a vila. Finn tenta despertar Jake com um feitiço para ajuda-lo, que desvia o feitiço e traz uma rocha viva em seu lugar. Finn começa a se arrepender do que fez, então os assistentes mais velhos aparecem com o mesmo feitiços. Mas eles disseram que só veio a ficar longe do meteoro. Mas, mesmo assim ajudam Finn e são capazes de mover a distância a partir da aldeia de meteoros. Uma vez que o meteoro atinge o solo, que provoca uma grande explosão que desintegra as roupas de todos, até os pêlos de Jake. Bufo, em seguida, diz que este era o seu plano para todos os 847 anos que o meteoro estava por vir á Terra, e que ninguém vai ter poderes de mago mais de graça. Finn diz que ele ainda deve dar poderes de mago de graça e que ele não deveria tomar crédito das ideias que não são suas. O episódio termina com Finn e Jake andando nas planícies do início do episódio e aparece o Ceifador de novo, desta vez, ele oferece um coração Demônio de graça e Finn e Jake aceitam.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Bufo
 
+
 ### Secundários
+
 - Ceifeiro
+
 - Magos Velhos
+
 - Estudantes Magos
+
 - Cavalo de Sombra
+
 - Pedra
+
 - Leão
+
 - O Caracol
+
+## Curiosidades
+- Finn aparece pelado pela primeira vez nesse episódio, sua censura aparece com um tronco, mas seu bumbum aparece sem censura (como sempre). A censura era pra ser um castor e não um tronco mais o Cartoon Network pediu pra mudar isto. Na capa inicial do episódio, na barriga de Jake está escrito "Dr.Seuss", ou seja uma homenagem ao cartunista famoso pelos desenhos seus que são produzidos até hoje na Disney. Como por exemplo "Lorax" e o "Gato da Cartola".
+
+- Finn diz que Jake não é responsável.
+
+- O nome original desse episódio era "Finn, o Bruxo" apesar de Jake também ter sido.
+
+- A censura era pra ser um castor e não um tronco mais o Cartoon Network pediu pra mudar isto.
+
+- Na capa inicial do episódio, na barriga de Jake está escrito "Dr.Seuss", ou seja uma homenagem ao cartunista famoso pelos desenhos seus que são produzidos até hoje na Disney. Como por exemplo "Lorax" e o "Gato da Cartola".

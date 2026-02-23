@@ -1,0 +1,86 @@
+{
+  "id": "AT_S10E6272",
+  "tipo": "episodio",
+  "nome": "Anel de Fogo",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E6272_meta",
+      "text": "[Episódio: Anel de Fogo (Temporada 10, Ep 6272)]\nDiretor: Cole Sanchez\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E6272",
+        "temporada": 10,
+        "numero_ep": 6272,
+        "nome": "Anel de Fogo",
+        "characters_secondary": "Dona Tromba|Randy|Danny|Wyatt|Sr. Porco|Docinho|Mamãe Tromba|Rei de Terra de Ooo (flashback)|Piratas (flashback)|Caracol|Mãe Goma",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E6272_sinopse",
+      "text": "[Episódio: Anel de Fogo (Temporada 10, Ep 6272)]\nSinopse: Quando uma velha chama vem chamando em negócios urgentes, Dona Tromba reconsidera seu passado selvagem e seu presente tranquilo.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E6272",
+        "temporada": 10,
+        "numero_ep": 6272,
+        "nome": "Anel de Fogo",
+        "characters_secondary": "Dona Tromba|Randy|Danny|Wyatt|Sr. Porco|Docinho|Mamãe Tromba|Rei de Terra de Ooo (flashback)|Piratas (flashback)|Caracol|Mãe Goma",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E6272_informacoes",
+      "text": "[Episódio: Anel de Fogo (Temporada 10, Ep 6272)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E6272",
+        "temporada": 10,
+        "numero_ep": 6272,
+        "nome": "Anel de Fogo",
+        "characters_secondary": "Dona Tromba|Randy|Danny|Wyatt|Sr. Porco|Docinho|Mamãe Tromba|Rei de Terra de Ooo (flashback)|Piratas (flashback)|Caracol|Mãe Goma",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E6272_creditos",
+      "text": "[Episódio: Anel de Fogo (Temporada 10, Ep 6272)]\nCreditos:\n### Diretor\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E6272",
+        "temporada": 10,
+        "numero_ep": 6272,
+        "nome": "Anel de Fogo",
+        "characters_secondary": "Dona Tromba|Randy|Danny|Wyatt|Sr. Porco|Docinho|Mamãe Tromba|Rei de Terra de Ooo (flashback)|Piratas (flashback)|Caracol|Mãe Goma",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E6272_curiosidades",
+      "text": "[Episódio: Anel de Fogo (Temporada 10, Ep 6272)]\nCuriosidades:\n- Steve Wolfhard afirmou que este episódio \"foi o episódio mais louco por sexo\" que ele embarcou para Hora de Aventura.\n\n- Este é o nono (e último) episódio (sem contar os episódios de troca de gênero) em que tanto Finn quanto Jake não aparecem nem são mencionados, sendo o primeiro \" O Dia da Princesa \", o segundo sendo \" Evergreen \", sendo o terceiro \" Amigos para Sempre \", sendo o quarto \" Fofura \", o quinto sendo \" Orgalorg \", o sexto sendo \" Verminhos \", o sétimo sendo \" Coroa Quebrada \", e o oitavo sendo \" Lady Íris da Dimensão de Cristal \".\n\n- É revelado neste episódio que Dona Tromba tem um olho falso.\n\n- A arte promocional de \" Min & Marty \" indica que foi o navio de Dona Tromba que resgatou Martin .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E6272",
+        "temporada": 10,
+        "numero_ep": 6272,
+        "nome": "Anel de Fogo",
+        "characters_secondary": "Dona Tromba|Randy|Danny|Wyatt|Sr. Porco|Docinho|Mamãe Tromba|Rei de Terra de Ooo (flashback)|Piratas (flashback)|Caracol|Mãe Goma",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E6272_conexoes_de_episodios",
+      "text": "[Episódio: Anel de Fogo (Temporada 10, Ep 6272)]\nConexoes_De_Episodios:\n- O cartão de título para este episódio é paralelo ao cartão de título de \" Dona Tromba \", com o personagem acima mencionado sendo o foco e na mesma pose em ambos.\n\n- Esta é a primeira vez que Randy e Danny recebem papeis falantes. É também a primeira aparição desde \" Casamento de Maçã \".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E6272",
+        "temporada": 10,
+        "numero_ep": 6272,
+        "nome": "Anel de Fogo",
+        "characters_secondary": "Dona Tromba|Randy|Danny|Wyatt|Sr. Porco|Docinho|Mamãe Tromba|Rei de Terra de Ooo (flashback)|Piratas (flashback)|Caracol|Mãe Goma",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

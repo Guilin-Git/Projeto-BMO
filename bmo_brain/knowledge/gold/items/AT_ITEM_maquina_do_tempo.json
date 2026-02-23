@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_maquina_do_tempo",
+  "tipo": "objeto",
+  "nome": "Máquina do Tempo",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_maquina_do_tempo_descricao",
+      "text": "[Objeto: Máquina do Tempo]\nDescricao:\n# Máquina do Tempo",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_do_tempo",
+        "nome": "Máquina do Tempo",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maquina_do_tempo_aparicoes",
+      "text": "[Objeto: Máquina do Tempo]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_do_tempo",
+        "nome": "Máquina do Tempo",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maquina_do_tempo_sobre",
+      "text": "[Objeto: Máquina do Tempo]\nSobre:\nEla pode fazer pessoas voltarem do tempo a partir de suas partículas, como fez com as criaturinhas no começo do episódio. A Princesa Caroço achava que ela podia voltar no tempo, para que Brad a amasse de novo. A Princesa Caroço também teletransporta as partículas de Johnnie e pensa que ele voltou a Taverna Doce .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_do_tempo",
+        "nome": "Máquina do Tempo",
+        "secao": "sobre"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maquina_do_tempo_curiosidades",
+      "text": "[Objeto: Máquina do Tempo]\nCuriosidades:\n- Segundo a Princesa Jujuba só pode se tocar nela com luvas especiais.\n\n- Provavelmente quem é transportado nessa máquina vai para uma dimensão paralela, já que no final do episódio Johnnie aparece naquela dimensão.\n\n- Existe um objeto com poderes similares e que também é criado pela Jujuba nas HQ'S.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_do_tempo",
+        "nome": "Máquina do Tempo",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

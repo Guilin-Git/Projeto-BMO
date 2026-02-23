@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_fogos_de_artificio_liquidos",
+  "tipo": "objeto",
+  "nome": "Fogos de Artifício Líquidos",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Fogos_de_Artif%C3%ADcio_L%C3%ADquidos",
+  "sections": {
+    "descricao": "# Fogos de Artifício Líquidos\n\nFogos de Artifício Líquido são pirotecnia que faz chover colorido, pintura como líquido. Princesa Jujuba criou no episódio \" Incêndio \". Eles foram acendidos pela primeira vez no início do episódio e só foram acendidos de novo acidentalmente pela Princesa de Fogo ao final do episódio. A chuva subseqüente levou ela à desmaiar.",
+    "aparicoes": "### Primeira Aparição",
+    "curiosidade": "- Durante a segunda vez que os Fogos de Artifício Líquido foram acesas (eram cinco foguetes em vez de três), choveu mais rápido do que a primeira vez."
+  },
+  "source_file": "Fogos_de_Artificio_Liquidos.md"
+}

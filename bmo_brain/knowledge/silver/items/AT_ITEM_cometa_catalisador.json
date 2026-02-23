@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_cometa_catalisador",
+  "tipo": "objeto",
+  "nome": "Cometa Catalisador",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Cometa_Catalisador",
+  "sections": {
+    "descricao": "# Cometa Catalisador",
+    "aparicoes": "### Primeira Aparição\n\n### Última Aparição",
+    "sobre": "Em \" Evergreen \", o cometa é mostrado como um risco em potencial para a vida na Terra, o que leva o Mago Evergreen a construir uma coroa para destruir tal cometa. Fora isso, nada mais é mostrado sobre ele.\n\nJá em \" Plano Astral \", Grob Gob Glob Grod revela que, a cada mil anos (é desconhecido se são anos terrestres ou marcianos, já que um ano em Marte corresponde a 687 dias na Terra) o Cometa Catalizador reencarna em rota de colisão com a Terra. Mas, sem motivo algum, ele quebra esse padrão e está prestes a colidir com Marte, o que causaria a exterminação da vida no planeta. No final do episódio, Glob e seus irmãos abrem mão da própria vida a fim de mudar o curso do cometa, salvando todos no processo. Mas é descoberto que não era um cometa, e sim a nave de Martin , que estava descontrolada."
+  },
+  "source_file": "Cometa_Catalisador.md"
+}

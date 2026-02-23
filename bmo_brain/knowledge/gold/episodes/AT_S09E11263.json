@@ -1,0 +1,86 @@
+{
+  "id": "AT_S09E11263",
+  "tipo": "episodio",
+  "nome": "Papear",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S09E11263_meta",
+      "text": "[Episódio: Papear (Temporada 9, Ep 11263)]\nDiretor: Elizabeth Ito\nRoteiro: Kent Osborne , Jack Pendarvis , Julia Pott , Patrick , McHale , Ashly Burch , Adam Muto",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E11263",
+        "temporada": 9,
+        "numero_ep": 11263,
+        "nome": "Papear",
+        "characters_secondary": "Finn|Jake|Marceline|BMO|Mãe da Marceline|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E11263_sinopse",
+      "text": "[Episódio: Papear (Temporada 9, Ep 11263)]\nSinopse: BMO e Marceline trocam histórias sobre suas recentes aventuras.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E11263",
+        "temporada": 9,
+        "numero_ep": 11263,
+        "nome": "Papear",
+        "characters_secondary": "Finn|Jake|Marceline|BMO|Mãe da Marceline|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E11263_informacoes",
+      "text": "[Episódio: Papear (Temporada 9, Ep 11263)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E11263",
+        "temporada": 9,
+        "numero_ep": 11263,
+        "nome": "Papear",
+        "characters_secondary": "Finn|Jake|Marceline|BMO|Mãe da Marceline|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E11263_creditos",
+      "text": "[Episódio: Papear (Temporada 9, Ep 11263)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E11263",
+        "temporada": 9,
+        "numero_ep": 11263,
+        "nome": "Papear",
+        "characters_secondary": "Finn|Jake|Marceline|BMO|Mãe da Marceline|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E11263_curiosidades",
+      "text": "[Episódio: Papear (Temporada 9, Ep 11263)]\nCuriosidades:\n- Quando BMO está contando a história, aparece um pássaro gritando que se assemelha ao que \"Morcedai\" de Apenas um Show faz durante a série.\n\n- Este episódio apresenta sequências especiais dos animadores convidados Alex Butera e Lindsay Small, que também trabalharam na animação dos convidados no episódio \" Além da Gruta \".\n\n- Marceline diz que encontrou o pen-drive velho em seu sotão.\n\n- Quando BMO conta a história da menina e da mulher do eclipse, que só aparecia durante eclipses, o céu estava claro, sendo quem em eclipses, o céu fica completamente escuro",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E11263",
+        "temporada": 9,
+        "numero_ep": 11263,
+        "nome": "Papear",
+        "characters_secondary": "Finn|Jake|Marceline|BMO|Mãe da Marceline|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E11263_conexoes_de_episodios",
+      "text": "[Episódio: Papear (Temporada 9, Ep 11263)]\nConexoes_De_Episodios:\n- O BMO não sabe que os vampiros foram eliminados, porque ele não estava presente em nenhum episódio da mini-série Estaca Zero . De acordo com Adam Muto , o BMO estava na casa da árvore.\n\n- Marceline pergunta para BMO sobre sua viagem de barco que ocorreu em Ilhas.\n\n- A história de Marceline representa o que aconteceu com ela antes de ser amaldiçoada pelo feitiço elemental em Elementos .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E11263",
+        "temporada": 9,
+        "numero_ep": 11263,
+        "nome": "Papear",
+        "characters_secondary": "Finn|Jake|Marceline|BMO|Mãe da Marceline|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

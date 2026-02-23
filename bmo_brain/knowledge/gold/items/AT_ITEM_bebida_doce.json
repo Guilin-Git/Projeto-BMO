@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_bebida_doce",
+  "tipo": "objeto",
+  "nome": "Bebida Doce",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_bebida_doce_descricao",
+      "text": "[Objeto: Bebida Doce]\nDescricao:\n# Bebida Doce",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bebida_doce",
+        "nome": "Bebida Doce",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bebida_doce_aparicoes",
+      "text": "[Objeto: Bebida Doce]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bebida_doce",
+        "nome": "Bebida Doce",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bebida_doce_aparencia",
+      "text": "[Objeto: Bebida Doce]\nAparencia:\nEla está dentro de um pote de sorvete rosa com patinhos, tem um canudinho branco, e ela é rosa e tem olhos e bocas.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bebida_doce",
+        "nome": "Bebida Doce",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

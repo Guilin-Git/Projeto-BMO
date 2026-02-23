@@ -1,16 +1,49 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 935
 nome: "As Outras Tortas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/As_Outras_Tortas"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-038"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/As_Outras_Tortas"
 ---
 
 # As Outras Tortas
 
 **Temporada 2 — Episódio 935**
+
+## Descrição
+" As Outras Tortas " é o 9º episódio da 2ª temporada de Hora de Aventura . É o trigésimo quinto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Ako Castuera
+
+- Tom Herpich
 
 ## Sinopse
 A Princesa Jujuba dá a tarefa de levar as Tortas Reais para a Cerimônia Anual da Massagem nas Costas à Finn e Jake , mas Finn prefere usar o caminho mais perigoso, o que deixa as tortas em perigo.
@@ -27,18 +60,45 @@ Finn e Jake correm para o Salão Real do Congresso, e ver o que eles acreditam s
 Como ele se afasta da galáxia de sabores, Princesa Caroço flutua por e agarra a uma grande rosquinha. De Volta no Congresso Real, Finn responde com um simples "agh"...
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Canelinha
 
+- Entregador das Tortas Reais
+
+
 ### Secundários
+
 - Princesa Caroço
+
 - Taddle
+
 - Grimby
+
 - JJ
+
 - Chuds
+
 - Borboleta com Arma Lazer
+
 - Backrubbers
+
 - O Caracol
+
+## Caracol
+Aparece na janela enquanto Canelinha está acenando.
+
+## Curiosidades
+- Quando Finn e Jake chegam na cerimônia e pensando que Canelinha entregou as tortas envenenadas, o título da música cartão começa a tocar.
+
+- Quando Finn e Jake estão no deserto se pode ver, claramente que o deserto, era um lago, pois há muitos botes, sem suas velas, parecida a cruzes.
+
+## Erros
+- Quando os vagabundos roubam as tortas a barrinha vermelha desce, mas quando Finn coloca a câmara anti gravitacional nas costas, a barrinha vermelha esta cheia de novo.

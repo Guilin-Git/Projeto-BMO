@@ -1,0 +1,13 @@
+{
+  "id": "AT_ITEM_espada_relampago",
+  "tipo": "objeto",
+  "nome": "Espada Relâmpago",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Rel%C3%A2mpago",
+  "sections": {
+    "descricao": "# Espada Relâmpago",
+    "aparicoes": "### Primeira Aparição",
+    "sobre": "É uma espada com a lâmina em formato de relâmpago. Finn recebe ela como recompensa a partir do primeiro monstro que ele encontra e a usa para destruir as Formigas Azuis de Cristal.",
+    "curiosidades": "- Se virá-la de cabeça para baixo, parece que o relâmpago está saindo da nuvem.\n\n- Ela lança um raio que não conhecido como lança o raio,o que mostrou foi que ele balançou forte e saiu o raio."
+  },
+  "source_file": "Espada_Relampago.md"
+}

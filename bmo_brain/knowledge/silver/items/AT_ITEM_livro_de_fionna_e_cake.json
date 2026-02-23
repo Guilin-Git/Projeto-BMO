@@ -1,0 +1,13 @@
+{
+  "id": "AT_ITEM_livro_de_fionna_e_cake",
+  "tipo": "objeto",
+  "nome": "Livro de Fionna e Cake",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Livro_de_Fionna_e_Cake",
+  "sections": {
+    "descricao": "# Livro de Fionna e Cake\n\nO Livro de Fionna e Cake é um livro de fã-fic escrito pelo Rei Gelado no episódio \" Fionna e Cake \". É um livro sobre as versões de gênero trocado dos personagens principais da série. Rei Gelado obriga Finn e Jake ao ouvi-lo a lê-lo, aprisionando-os em gelo (embora a cabeça de Finn não esteja em gelo completo). O livro é muito mais romântico do que as aventuras regulares Finn e Jake da 1ª até a 3ª temporada.",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "Na capa diz: \"Fionna and Cake\". A capa também mostra Fionna e beijando o Rei Gelado . Parece estar escrito em algum tipo de ligante e não tem cores.",
+    "curiosidades": "- O Livro de Fionna e Cake não é o mesmo livro trazido a vida no episódio \" Masmorra do Mistério \".\n\n- Na Edição 1 nos quadrinhos de Hora de Aventura, Rei Gelado estava escrevendo uma continuação chamada \"Fionna e Cake, conheçam Finn e Jake\"."
+  },
+  "source_file": "Livro_de_Fionna_e_Cake.md"
+}

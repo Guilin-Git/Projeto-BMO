@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_pocao_de_pele_de_pedra",
+  "tipo": "objeto",
+  "nome": "Poção de Pele de Pedra",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_pocao_de_pele_de_pedra_descricao",
+      "text": "[Objeto: Poção de Pele de Pedra]\nDescricao:\n# Poção de Pele de Pedra",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pocao_de_pele_de_pedra",
+        "nome": "Poção de Pele de Pedra",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_pocao_de_pele_de_pedra_aparicoes",
+      "text": "[Objeto: Poção de Pele de Pedra]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pocao_de_pele_de_pedra",
+        "nome": "Poção de Pele de Pedra",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_pocao_de_pele_de_pedra_aparencia",
+      "text": "[Objeto: Poção de Pele de Pedra]\nAparencia:\nA poção tem uma cor azul-violeta, e é armazenada em uma pequena garrafa de vidro transparente, fechada com uma rolha.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pocao_de_pele_de_pedra",
+        "nome": "Poção de Pele de Pedra",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_pocao_de_pele_de_pedra_visao_global",
+      "text": "[Objeto: Poção de Pele de Pedra]\nVisao_Global:\nA Poção de Pele de Pedra é uma poção mágica de melhoramento do corpo que permite que cresça no bebedor uma armadura forte de pedra sobre sua pele. O tamanho exato e a força da armadura é determinada pela quantidade de poções bebidas pelo usuário. Não está claro como encontrar a poção ou quais são os ingredientes. No entanto, Finn , que não tem habilidade ou conhecimento mágico, conseguiu fazê-la em grandes quantidades, o que implica que a poção é fácil de encontrar/fazer. Mesmo que a poção seja um benéfico para a auto-defesa, ela pode ter efeitos colaterais perigosos se o usuário bebe demais. Isso é mostrado quando as mãos do sapateiro da cidade ficaram grande demais para fazer o seu trabalho. Parece que um médico qualificado pode desfazer os efeitos nocivos, como o sapateiro foi até um para ter os efeitos desfeito.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pocao_de_pele_de_pedra",
+        "nome": "Poção de Pele de Pedra",
+        "secao": "visao_global"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_pocao_de_pele_de_pedra_significancia",
+      "text": "[Objeto: Poção de Pele de Pedra]\nSignificancia:\nQuando Billy diz Finn e Jake para desistir da violência, eles tentam ajudar as pessoas de outras maneiras. Eles fazem mingau para dar aos habitantes da cidade, mas sem o conhecimento de Jake, Finn coloca Poção de Pele de Pedra nele. Ele descobre quando os habitantes da cidade começam a mudar em criaturas tipo-rocha. Jake pergunta a Finn quanto poção que ele colocou no mingau, com Finn revelando várias garrafas vazias. O sapateiro da cidade não podia mais fazer o seu trabalho, forçando Finn e Jake a cuidar de sua loja enquanto ele ia ao médico.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pocao_de_pele_de_pedra",
+        "nome": "Poção de Pele de Pedra",
+        "secao": "significancia"
+      }
+    }
+  ]
+}

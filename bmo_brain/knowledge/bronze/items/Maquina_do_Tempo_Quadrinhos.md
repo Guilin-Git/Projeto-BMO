@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Máquina do Tempo (Quadrinhos)"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/M%C3%A1quina_do_Tempo_(Quadrinhos)"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/M%C3%A1quina_do_Tempo_(Quadrinhos)"
 ---
+
+> Máquina do Tempo (Quadrinhos) é um objeto/item de Hora de Aventura.
 
 # Máquina do Tempo (Quadrinhos)
 

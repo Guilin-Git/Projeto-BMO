@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Labirinto"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Labirinto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Labirinto"
 ---
+
+> Labirinto é um lugar de Hora de Aventura.
 
 # Labirinto
 

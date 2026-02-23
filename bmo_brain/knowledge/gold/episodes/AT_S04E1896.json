@@ -1,0 +1,92 @@
+{
+  "id": "AT_S04E1896",
+  "tipo": "episodio",
+  "nome": "Rei Minhoca",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "AT_S04E1896_meta",
+      "text": "[Episódio: Rei Minhoca (Temporada 4, Ep 1896)]\nDiretor: -\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E1896",
+        "temporada": 4,
+        "numero_ep": 1896,
+        "nome": "Rei Minhoca",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E1896_informacoes",
+      "text": "[Episódio: Rei Minhoca (Temporada 4, Ep 1896)]\nInformacoes:\n### Nome\n\n### Sexo\n\n### Espécie\n\n### Ocupação",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E1896",
+        "temporada": 4,
+        "numero_ep": 1896,
+        "nome": "Rei Minhoca",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E1896_detalhes",
+      "text": "[Episódio: Rei Minhoca (Temporada 4, Ep 1896)]\nDetalhes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E1896",
+        "temporada": 4,
+        "numero_ep": 1896,
+        "nome": "Rei Minhoca",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E1896_dubladores",
+      "text": "[Episódio: Rei Minhoca (Temporada 4, Ep 1896)]\nDubladores:\n### Inglês\n\n### Português (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E1896",
+        "temporada": 4,
+        "numero_ep": 1896,
+        "nome": "Rei Minhoca",
+        "secao": "dubladores"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E1896_historia",
+      "text": "[Episódio: Rei Minhoca (Temporada 4, Ep 1896)]\nHistoria:\nEle teve sua primeira aparição em \" Despejados! \",  ele pede a Finn e Jake que o abracem, mas eles recusam. Então, hipnotiza-os usando um feixe de luz verde disparado de seus olhos, e os controla.\nJá em \" O Rei Minhoca \", é mostrado que ele pode usar o seu feixe de luz para prender suas vítimas em uma prisão mental. A única forma de se libertar é fazer com que seus medos mais profundos apareçam no plano dos sonhos, isso faz com que o reino mental se desestabilize e faz com que a casca do Rei Minhoca ficasse enrugada.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E1896",
+        "temporada": 4,
+        "numero_ep": 1896,
+        "nome": "Rei Minhoca",
+        "secao": "historia"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E1896_aparencia",
+      "text": "[Episódio: Rei Minhoca (Temporada 4, Ep 1896)]\nAparencia:\nEle é uma grande minhoca verde-marinho com listras de cor verde-marinho-escuro e usa uma pequena coroa amarela em sua cabeça.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E1896",
+        "temporada": 4,
+        "numero_ep": 1896,
+        "nome": "Rei Minhoca",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E1896_curiosidades",
+      "text": "[Episódio: Rei Minhoca (Temporada 4, Ep 1896)]\nCuriosidades:\n- No episódio O Rei Minhoca consegue entrar nos sonho de Finn causando-o pesadelos.\n\n- Ele costuma falar \"Oi gente\" mesmo quando existe apenas uma pessoa no local.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E1896",
+        "temporada": 4,
+        "numero_ep": 1896,
+        "nome": "Rei Minhoca",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

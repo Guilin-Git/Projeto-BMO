@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 47151
 nome: "O Trono Vermelho"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Trono_Vermelho"
 data_exibicao: "09/06/2014"
 diretor: "Elizabeth Ito (supervisão) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Trono_Vermelho"
 ---
 
 # O Trono Vermelho
 
 **Temporada 5 — Episódio 47151**
+
+## Descrição
+" O Trono Vermelho " é o 47º episódio da 5ª temporada de Hora de Aventura. É o 151º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Quando o Rei de Fogo foge da prisão e assume o Reino de Fogo novamente, Princesa de Fogo vira-se para a única pessoa em quem ela acredita poder confiar... Finn .
@@ -33,9 +57,81 @@ Rei de Fogo insulta o povo para a escolha de sua filha sobre ele, chamando-a de 
 muito de seu poder. Canelinha discorda, dizendo que, enquanto Princesa de Fogo não é cruel, ela é forte de coração, e ele aprendeu muito de estar ao seu redor. Ele promete ficar ao seu lado como seu cavaleiro e campeão, porque ele a ama. Princesa de Fogo a agradece e se dão as mãos. O povo se alegra, o Rei de Fogo está indignado, e Finn murmura baixinho, "Gente, eu fui trocado pelo Canelinha?"
 
 ## Personagens
-### Principais
+
+### Personagens Principais
+
 - Finn
+
 - Princesa de Fogo
+
 - Canelinha
+
 - Rei de Fogo
+
 - Don John
+
+
+### Personagens Menores
+
+- Princesa Jujuba (mencionada)
+
+- Ursula
+
+- Jake 2
+
+- Jake (mencionado)
+
+- Lady Íris (mencionada)
+
+- Caracol
+
+## Curiosidades
+- A Princesa de Fogo tem o mesmo corte de cabelo que ela tinha em " Terra e Água ", mas ele só pode aparecer assim. A cor de seu cabelo está um pouco mais escuro e mais baixo, similar ao que acontece quando ela fica molhada, isso porque ela foi envenenada.
+
+- Neste episódio Lobos de Fogo parecem ser maiores do que em episódios anteriores.
+
+- Neste episódio a Espada da Grama está enrolada ainda mais no braço de Finn.
+
+- Canelinha diz que ama a Princesa de Fogo e que ele sempre estará ao seu lado.
+
+- Finn acha que a Princesa de Fogo ainda tem sentimentos por ele, mas ela não tem.
+
+- Canelinha chamou seu Lobo de Fogo de "Jake 2", e o ensinou a voar.
+
+- Princesa de Fogo chama Canelinha de "CB" ( C innamon B un, seu nome original).
+
+- Durante todo o episódio, Canelinha é rude com Finn, e continuamente o puxa para longe da Princesa . No final do episódio, sabemos que era porque ele tinha uma queda por ela.
+
+- Este é o terceiro episódio sem Jake, os primeiros foram " Garotinho Mal " e " Chicletão ".
+
+- A atitude de Finn muda muito quando a Princesa de Fogo está próxima. Por exemplo, ele se mostra muito diferente quando eles estão nos portões do Reino de Fogo , sem pensar que os guardas estão sendo controlados e que eles podem ser capturados.
+
+- Canelinha está muito diferente neste episódio.
+
+- Canelinha é visto lutando pela primeira vez.
+
+- É revelado que Finn acha que a Princesa de Fogo ainda o ama, porque quando Don John pede a mão da Princesa e ela nega, Finn fala: "Ela não vai se casar com você, porque ela ainda tem sentimentos por mim!".
+
+- Princesa de Fogo diz que não confia na Princesa Jujuba e Canelinha diz que ela é traiçoeira.
+
+- Neste episódio, é revelado que Finn começou a fazer aulas de piano.
+
+- Canelinha foi totalmente cozido neste episódio.
+
+- Não se sabe porquê a espada de grama ficou enrolada e visível quando Finn colocou a roupa a prova de fogo.
+
+- No cartão de título mostra uma parte da luta de Donh Jonh e do Rei de fogo.
+
+- Neste episódio é totalmente confirmado que Glob é uma divindade suprema, porque uma das cidadãs do Reino de Fogo diz: "Que Glob abençoe sua alma".
+
+- No Brasil este episódio foi exibido antes de " Frio e Fogo " e " Terra e Água ", mesmo que seus acontecimentos tenham sido posteriores.
+
+## Conexões de Episódios
+- Este é o segundo episódio especial do "Dia dos Namorados" da série. O primeiro deles é o episódio " Incêndio ", que encerra a 3ª temporada e que foi ao ar no dia 13 de fevereiro de 2012 (Dia do Namorados nos EUA).
+
+- Neste episódio Canelinha é totalmente fervido e fica mais inteligente, isso é porque no episódio " As Outras Tortas " a Princesa Jujuba diz que ele era "meio-cozido".
+
+- É a segunda vez que Canelinha diz que a Jujuba é do mal. A primeira foi em " Earth & Water ".
+
+## Censura
+- Foi censurado a cena em que o cidadão do Reino de Fogo atira fogo na cara do Canelinha deixando ele inteligente.

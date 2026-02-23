@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_luvas_da_maquina_do_tempo",
+  "tipo": "objeto",
+  "nome": "Luvas da Máquina do Tempo",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_luvas_da_maquina_do_tempo_descricao",
+      "text": "[Objeto: Luvas da Máquina do Tempo]\nDescricao:\n# Luvas da Máquina do Tempo",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_luvas_da_maquina_do_tempo",
+        "nome": "Luvas da Máquina do Tempo",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_luvas_da_maquina_do_tempo_informacoes",
+      "text": "[Objeto: Luvas da Máquina do Tempo]\nInformacoes:\n### Tipo\n\n### Dono\n\nPrincesa Caroço (temporariamente)",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_luvas_da_maquina_do_tempo",
+        "nome": "Luvas da Máquina do Tempo",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_luvas_da_maquina_do_tempo_aparicoes",
+      "text": "[Objeto: Luvas da Máquina do Tempo]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_luvas_da_maquina_do_tempo",
+        "nome": "Luvas da Máquina do Tempo",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_luvas_da_maquina_do_tempo_aparencia",
+      "text": "[Objeto: Luvas da Máquina do Tempo]\nAparencia:\nElas são verdes e tem um contador de tempo como os dos relógios que marca o tempo, tem linhas pretas que tem bolinhas amarelas no final.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_luvas_da_maquina_do_tempo",
+        "nome": "Luvas da Máquina do Tempo",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_luvas_da_maquina_do_tempo_sobre",
+      "text": "[Objeto: Luvas da Máquina do Tempo]\nSobre:\nA Princesa Jujuba usou elas no começo e no final de \" Péssima Hora \" quando ela usa para teletransportar  as criaturinhas e a Princesa Caroço.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_luvas_da_maquina_do_tempo",
+        "nome": "Luvas da Máquina do Tempo",
+        "secao": "sobre"
+      }
+    }
+  ]
+}

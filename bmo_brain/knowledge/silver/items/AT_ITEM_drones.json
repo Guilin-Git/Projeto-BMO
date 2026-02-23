@@ -1,0 +1,11 @@
+{
+  "id": "AT_ITEM_drones",
+  "tipo": "objeto",
+  "nome": "Drones",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Drones",
+  "sections": {
+    "descricao": "# Drones\n\nDrones são utilizados pela fábrica para o transporte de Super Porp ao longo de Terra de Ooo . No entanto, devido aos acontecimentos de \" Roxo Escuro \", os drones não funcionam bem e transporta Super Porp com um gosto ruim.\n\nEm segredo os drones também foram usados para espionar civis e digitalizá-los para verificar se há um compatível para suceder a fábrica depois de Cheryl.",
+    "aparicoes": "### Primeira Aparição"
+  },
+  "source_file": "Drones.md"
+}

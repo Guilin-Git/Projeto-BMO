@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_cidade_dos_ladroes_local",
+  "tipo": "lugar",
+  "nome": "Cidade dos Ladrões (Local)",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_cidade_dos_ladroes_local_descricao",
+      "text": "[Lugar: Cidade dos Ladrões (Local)]\nDescricao:\n# Cidade dos Ladrões (Local)\n\nA Cidade dos Ladrões é o principal cenário do episódio com o mesmo nome . Todo mundo que mora lá é um ladrão, e passam a maior parte do seu tempo a roubar as coisas de outro. De acordo com a Bruxa Hag , qualquer um que vai lá também se tornará um ladrão, um destino que se abateu sobre os dois Finn , que foi levado a roubar uma caixa, e Jake , que de alguma forma roubou um par de botas sem perceber. Há tantos ladrões na cidade que ninguém pode ficar com algo para mais de um minuto sem que seja roubado, embora uma loja subterrâneo é mostrada sem experimentar qualquer roubo (com exceção de Jake). Não se sabe se ele costumava ser uma vila normal.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_cidade_dos_ladroes_local",
+        "nome": "Cidade dos Ladrões (Local)",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_cidade_dos_ladroes_local_curiosidades",
+      "text": "[Lugar: Cidade dos Ladrões (Local)]\nCuriosidades:\n- Jake ainda pode ter tido alguma da magia da cidade sobre ele, já que ele, sem saber, roubou uma rosquinha no próximo episódio \" O Jardim da Bruxa \".\n\n- Parece que aqueles que nasceram na cidade continuará a ser um ladrão, mesmo depois de ser \"purificado\".\n\n- A Cidade reside no casco de uma Tartaruga Gigante morta.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_cidade_dos_ladroes_local",
+        "nome": "Cidade dos Ladrões (Local)",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

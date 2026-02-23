@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 1694
 nome: "Pegando um Foguinho"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Pegando_Um_Foguinho"
 data_exibicao: "22/04/2013"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-094"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Pegando_Um_Foguinho"
 ---
 
 # Pegando um Foguinho
 
 **Temporada 4 — Episódio 1694**
+
+## Descrição
+" Pegando Um Foguinho " é o 16º episódio da 4ª temporada de Hora de Aventura . É o nonagésimo quarto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Princesa Jujuba descobre que a Princesa do Fogo pode causar um desastre natural se beijar Finn , enquanto Finn e Jake acham que ela está com ciúmes.
@@ -33,3 +60,55 @@ Em seguida a Princesa Jujuba vai a Casa na Árvore e pergunta a Jake se Finn est
 Jake e a Princesa Jujuba chegam tarde demais, quando eles estão prestes a se beijar. A Princesa de Fogo e Finn se beijam , em seguida a Princesa de Fogo causa uma explosão, ela ficou tão quente que fez um buraco e começou a cair em direção ao núcleo. Finn em seguida se enrola no braço de Jake e desce dentro do buraco para salva-lá, Jake deita em cima do buraco (para não perder Finn ). Chegando lá Finn vê Princesa de Fogo , apagada e encolhida em um canto, enquanto isso na superfície a Princesa Jujuba diz a Jake que se ele ficasse na porta do buraco por 24,8 segundos, ele tiraria o oxigênio da Princesa de Fogo impedindo a combustão. Enquanto isso Finn pega a Princesa de Fogo em seus braços e diz que precisa dela, e em seguida faz uma respiração boca-boca na Princesa de Fogo , o que acende ela um pouco, Jake puxa os dois para a superfície.
 
 Finn pergunta se ela está bem e ela diz que sim, em seguida Finn pega uma pedra e a beija e dá a Princesa de Fogo que a beija também e ambos foram andando. A Princesa Jujuba que estava atrás de uma pedra os espionando exclama "oh Finn" quando ela se virou, Jake estava atrás dela, ela pergunta o que foi, e ele exclama de uma forma jocosa "ciúminho, hein" e a Princesa Jujuba responde "sai dessa", e assim termina o episodio.
+
+## Personagens
+- Finn
+
+- Princesa de Fogo
+
+- Jake
+
+- Princesa Jujuba
+
+- Manhã
+
+- Caracol
+
+- Dona Tromb a (no sonho de Jake)
+
+- Rei de Fogo (mencionado)
+
+## Música
+- " Panquecas de Toucinho "
+
+## Curiosidades
+- Este foi o episodio com mais audiência de Hora de Aventura, com mais de 3.5 milhões de pessoas que viram o episodio em sua estréia, só no Cartoon Network dos U.S.A.
+
+- É revelado que Princesa Jujuba pediu ao Rei de Fogo que prendesse a Princesa de Fogo por causa de sua irritabilidade emocional.
+
+- Esse episódio marca o primeiro beijo entre Finn e a Princesa de Fogo .
+
+- O cartão de título desse episódio é o oposto do cartão de título do episódio " Incêndio ". A Princesa Jujuba chora por cima de fotos do Finn, enquanto em "Incêndio", Finn chora por cima de fotos da princesa.
+
+- No Storyboard Jake menciona o nono degrau, no qual ele diz "E então você vai passar para o nono degrau! Apenas certifique-se que você tem um lugar confortável para sentar-se no dia seguinte. Porque uh... Você vai precisar de um tempo para refletir sobre o que você fez".
+
+- Quando Jake está explicando os níveis de um relacionamento à Finn, ele está falando sobre as coisas que só se aplicam às relações dele e da Lady Íris .
+
+- Quando Jake esta desenhando na lama, no inicio do episódio, ele estava desenhando a Lady Irís.
+
+- Quando a Princesa Jujuba explica para o Jake por que Finn não pode ver a Princesa de Fogo, a sua tela holo contém: A leitura digital de temperatura (inferior direito) de 53 °F. y= mx + b= c qual é a fórmula para uma linha em um plano de coordenadas cartesianas, com exceção do "c" é supérfluo. A imagem da Terra com uma cratera gigante.
+
+- É desconhecido se Finn ficou sabendo do real motivo que a Princesa Jujuba estava proibindo seu namoro com a Princesa de Fogo, porque Finn achou que era ciúme.
+
+- A Princesa jujuba quase matou Finn e a Princesa de Fogo sufocados.
+
+- A leitura digital de temperatura (inferior direito) de 53 °F.
+
+- y= mx + b= c qual é a fórmula para uma linha em um plano de coordenadas cartesianas, com exceção do "c" é supérfluo.
+
+- A imagem da Terra com uma cratera gigante.
+
+## Erros
+- Antes da Princesa de Fogo abraçar o Finn, a chama da sua casa desaparece. No entanto depois eles se abraçam, a chama reaparece.
+
+- Quando Finn está fora ao nascer do sol, mas você olha de perto, você pode ver um ponto em cima da nuvem gigante na direita.

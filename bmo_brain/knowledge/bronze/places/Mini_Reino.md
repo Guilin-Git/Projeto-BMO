@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Mini Reino"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Mini_Reino"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Mini_Reino"
 ---
+
+> Mini Reino é um lugar de Hora de Aventura.
 
 # Mini Reino
 

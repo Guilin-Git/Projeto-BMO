@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 17121
 nome: "BMO Perdido"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/BMO_Perdido"
 data_exibicao: "07/10/2013 (06/10/2013 por uma espiadinha)"
 diretor: "Nate Cash (supervisão) Nick Jennings (arte)"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-123"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/BMO_Perdido"
 ---
 
 # BMO Perdido
 
 **Temporada 5 — Episódio 17121**
+
+## Descrição
+" BMO Perdido " é o 17º episódio da 5ª temporada de Hora de Aventura . É o centésimo vigésimo primeiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 BMO se perde e tem a ajuda de Bolha e Faísca para voltar pra casa.
@@ -30,12 +57,40 @@ Bolha voa pela floresta e fica com BMO em um registro. BMO explica que ele perde
 Depois de ouvir o discurso, BMO levanta seus braços ao redor feliz e diz: "Yay!"
 
 ## Personagens
+- BMO
+
+- Bolha/Ar
+
+- Faísca
+
+
 ### Secundários
+
 - Finn
+
 - Jake
+
 - Águia
+
 - Mãe do Faísca
+
 - Minhoca
+
 - Urso
+
 - Bebê
+
 - Caracol
+
+## Caracol
+Em um galho enquanto BMO e Faísca desciam a correnteza o Caracol aparece em um galho.
+
+## Curiosidade
+- O comportamento de BMO com o Faísca é explicado em " Ser Mais ", quando Moe diz que ele foi feito para cuidar de crianças.
+
+- Quando bolha estava falando de sua casa aparece uma árvore parecida com a casa da árvore
+
+## Censura
+- A parte que BMO cobre a mão do bebê foi censurada.
+
+- Também foi censurada a parte que BMO bate no bumbum do Faísca.

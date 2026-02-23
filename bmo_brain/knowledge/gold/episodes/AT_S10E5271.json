@@ -1,0 +1,20 @@
+{
+  "id": "AT_S10E5271",
+  "tipo": "episodio",
+  "nome": "Dezessete",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E5271_meta",
+      "text": "[Episódio: Dezessete (Temporada 10, Ep 5271)]\nDiretor: -\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E5271",
+        "temporada": 10,
+        "numero_ep": 5271,
+        "nome": "Dezessete",
+        "secao": "metadados"
+      }
+    }
+  ]
+}

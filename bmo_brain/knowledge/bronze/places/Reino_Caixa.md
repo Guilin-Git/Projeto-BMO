@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Reino Caixa"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_Caixa"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_Caixa"
 ---
+
+> Reino Caixa é um lugar de Hora de Aventura.
 
 # Reino Caixa
 

@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 30134
 nome: "Frio e Fogo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Frio_e_Fogo"
 data_exibicao: "12/08/14 (SBT) 15/08/2014 (CN)"
 diretor: "Elizabeth Ito (supervisando) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Frio_e_Fogo"
 ---
 
 # Frio e Fogo
 
 **Temporada 5 — Episódio 30134**
+
+## Descrição
+" Frio e Fogo " é o 30º episódio da 5ª temporada de Hora de Aventura . É o 134º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Uma luta entre o Rei Gelado e a Princesa de Fogo faz Finn sonhar. Finn se torna obcecado com o sonho e em descobrir como isso vai acabar, então ele manipula os dois para entrarem em combate novamente,porem isso pode acabar mal.
@@ -38,16 +61,61 @@ Finn desperta em destruição do Reino Gelado causado pela Princesa de fogo. Ele
 
 Quando Princesa de Fogo percebe seu erro, ela encolhe para sua forma normal e pede desculpas. Finn explica que ele é o único que está arrependido. Ele explica que ele havia manipulado eles a lutarem, e admite que ele era o único que forjou as cartas. Princesa de Fogo se ​​sente traída, especialmente porque as coisas que Finn mencionou em sua carta era tão pessoal para eles como um casal. Ela ignora o seu pedido de desculpas (só de ouvir o "wah" mostrado no sonho de Finn) e lhe diz que ela precisa de um tempo sozinha. Quando ela vai embora no por do sol, o Rei Gelado diz Finn: "Você estragou tudo, cara."
 
+## Censuras (na America Latina)
+- Bem no início do episódio, é censurado a parte em que a Princesa de Fogo levanta a roupa do Rei Gelado e coloca fogo na "bunda" dele.
+
+- É censurado o momento em que o Rei Gelado levanta a roupa e mostra a sua "nova cueca à prova de fogo".
+
+- A frase: "I didn't even got to test my new fire proof Grandies" também foi censurada. Isso significaria algo como "Eu mal testei a minha nova calcinha-cueca à prova de fogo", no mesmo instante Finn pede para Rei Gelado "cobrir isso ai" o que faz a frase perder todo o sentido já que a cena foi cortada na America Latina.
+
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Princesa de Fogo
+
 - Rei Gelado
 
+
 ### Secundários
+
 - Jake
+
 - Caracol
+
 - Princesa Jujuba
+
 - Coruja Cósmica
+
 - Gunter
+
 - BMO
+
+## Curiosidades
+- Nesse episódio houve o primeiro contato entre a Princesa de Fogo e o Rei Gelado. Até então o Rei Gelado só tinha feito uma menção a ela no episódio " Me Lembro de Você " no qual ele canta sua música " Oh Jujuba! " falando que ela é "tudo bem".
+
+- Nesse episódio a Finn e a Princesa de Fogo "terminam" sua relação.
+
+- De acordo com que foi dito em uma conferência os produtores de Hora de Aventura falaram que "talvez" sua relação regresse na 6 temporada.
+
+- E a primeira vez que Finn é antagonista, isto por provocar as brigas entre a Princesa de Fogo e o Rei Gelado.
+
+- Este episodio foi visto por 3.009 milhões de pessoas, se convertendo no sétimo episodio mais visto em toda a série.
+
+- Se revela que a Princesa de Fogo, conta a Finn segredos pessoais sobre ela.
+
+- Finn coloca coisas nas cartas que nem a Princesa de Fogo e nem o Rei Gelado sabiam(exemplo: o Rei Gelado saber das velas perfumadas da Princesa de Fogo e a Princesa de Fogo saber que seu nome era Simon).
+
+- No primeiro sonho do Finn, a Coruja Cósmica pode ser ouvida dizendo: "Você estragou tudo" várias vezes.
+
+- Gunter quase morreu neste episódio pela Princesa de Fogo .
+
+- Rei Gelado mostra se preocupar com Gunter já que quando Finn ia salvá-lo, Rei Gelado pede que salve Gunter.
+
+- Assim como Todos os Baixinhos , este episódio também passou primeiro no SBT.
+
+- A Cartoon Network anunciou esse episódio depois de ter passado ele.
+
+- Ao que aparenta, Finn estava tendo sonhos eróticos com a Princesa de Fogo .

@@ -1,16 +1,55 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 1642
 nome: "Guardiões do Brilho do Sol"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Guardi%C3%B5es_do_Brilho_do_Sol"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Steve Little Kent Osborne Thurop Van Orman Merriwether Williams Pendleton Ward"
 codigo_producao: "1002-42"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Guardi%C3%B5es_do_Brilho_do_Sol"
 ---
 
 # Guardiões do Brilho do Sol
 
 **Temporada 2 — Episódio 1642**
+
+## Descrição
+" Guardiões do Brilho do Sol " é o 16º episódio da 2ª temporada de Hora de Aventura . É o 42º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Patrick McHale
+
+- Steve Little
+
+- Kent Osborne
+
+- Thurop Van Orman
+
+- Merriwether Williams
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Ako Castuera
+
+- Tom Herpich
 
 ## Sinopse
 Finn e Jake enganam BMO para entrarem dentro de um jogo chamado " Guardiões do Brilho do Sol ", onde eles tentam derrotar o " Dorminhoco " o chefe final do jogo.
@@ -27,3 +66,64 @@ Eles vão até a caverna um pouco mais para encontrar o Coelho Meloso , outro ch
 Jake diz ao Finn que o Dorminhoco está na frente deles e Finn tenta deslocar-se sobre ele, mas ele é visto e Dorminhoco libera uma onda sonora. Jake tenta ajuda-lo, empurrando-o contra as ondas sonoras, mas Finn acaba por ser engolido. Com apenas uma vida restante de cada um, Finn e Jake tentam fugir, mas Coelho Meloso dispara rajadas no duo. Eles fogem e pulam sobre o poço, enquanto Coelho e Dorminhoco saltam sobre o abismo e sobre o Abelhante. Os aventureiros percorrem a caverna e batem no final da tela e percebem que eles estão presos. No entanto, Jake vê a Bomba e Finn lembra que não pode obtê-la. Jake tenta puxar a Bomba fora da interface do jogo, na parte superior do ecrã e um grande sinal de "ERROR!" sai. Jake consegue arrancá-la, mas abre um buraco no jogo que suga Finn e ele. Acontece que a remoção da Bomba abriu um buraco no BMO. Finn e Jake escapam pouco antes de os monstros de saírem no buraco na lateral do BMO.
 
 Os vilões fazem um buraco na parede e estam prestes a matar Finn e Jake, mas depois eles percebem a luz do sol. Eles param de atacar Finn, dizendo-lhes que tudo o que queriam era a luz do sol... e matar BMO por aprisioná-los no jogo. Finn diz BMO para empurrar seu botão, mas não pode porque está preso pelo Coelho Meloso. Os monstros percebem que Finn e Jake são amigos de BMO e começam a atacá-los novamente. Como Jake está sendo comido pelo Dorminhoco, BMO diz ao Finn a usar o movimento de combinação especial. Finn realiza com sucesso a combinação e destrói os monstros. BMO então repreende Finn e Jake para ir no jogo e culpa-los para a maioria dos danos da casa. No entanto, Finn diz que agora ele sabe o que esperar e quer jogar o jogo. Irritado, BMO começa a executar o movimento de combinação e Finn diz a ele que ele estava apenas brincando. O episódio termina com uma tela que diz: "GAME OVER".
+
+## Personagens
+- Finn
+
+- Jake
+
+- BMO
+
+- Dorminhoco
+
+- Abelhante
+
+- Coelho Meloso
+
+- Caracol
+
+## Caracol
+Aparece na porta da Casa na Árvore quando o Dorminhoco , o Abelhante e o Coelhinho Meloso estão segurando o BMO .
+
+## Curiosidades
+- Jake disse que iria tomar as moedas para o mundo real e que seria rico, apesar do fato deles terem um grande tesouro em sua casa, o que implicaria que já é rico.
+
+- Quando Finn olha para a perna e exclama: "Minha perna é matemática!" vemos que é feito de código binário. Quando decodificado, o código parado na segunda linha lê "Perna de Finn" e as outras linhas se lê "Olá mundo!"
+
+- No final do episódio, BMO prende Finn e Jake dentro dele.
+
+- Neste episódio é demonstrado que BMO pode sugar coisas e seres vivos para dentro de seu corpo, isso explica porque ele sempre aparece com um novo jogo.
+
+- É a primeira aparição principal de BMO.
+
+- No jogo "Heróis do ritmo" da Cartoon Network,existe uma fase com o mesmo nome.
+
+
+### Referências
+
+- Quando Finn está cantando sua Canção Computador , os olhos começam a se mover para cima e para baixo e saltar para a boca e para trás. Esta é uma referência ao jogo Pong.
+
+- Este episódio tem muitos efeitos sonoros da série Mega Man.
+
+- Quando Jake se estende por todo o primeiro poço do fogo, ele só usa ângulos de 90 graus, giro semelhante ao jogo Snake.
+
+- A premissa de entrar no mundo digital originou no filme Tron.
+
+- A bomba pode ser uma referência ao Super Mario Bros. O tipo de bomba arma em Super Mario Bros é chamado de Bob-omb.
+
+- Quando Finn e Jake são atacados pelo Coelho Meloso, Jake perde suas moedas semelhante ao Sonic quando perde os anéis.
+
+
+### Erros
+
+- Quando Finn e Jake encontram o Coelho Meloso (enquanto eles estão dentro do jogo) Finn está de mãos vazias e Jake está segurando três moedas. Dois segundos depois, quando eles gritam Jake está de mãos vazias e Finn está segurando uma moeda única.
+
+- Quando Finn e Jake estão jogando o jogo na tela do BMO, há duas fogueiras abaixo das moedas e dois mais antes do Dorminhoco, no entanto, quando eles estão dentro do jogo estes poços não existem.
+
+- Quando a pilha de moedas são derrubadas, é mostrado os "pontos" de Jake vão até zero. Embora depois de sair do jogo, Jake ainda mantém uma moeda.
+
+- Quando Finn e Jake jogam o jogo no BMO, o personagem só tem uma vida. No entanto, quando Finn e Jake entram no jogo, que tem um total de três vidas cada.
+
+- Depois que Abelhante, Coelho Meloso e Dorminhoco, BMO ficou com o lado esquerdo aberto. Mas no final o seu lado esquerdo aparece normal.
+
+- Finn e BMO usam o combo mesmo não estando mais no video - game

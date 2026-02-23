@@ -1,0 +1,48 @@
+{
+  "id": "AT_PLACE_casa_do_homem_banana",
+  "tipo": "lugar",
+  "nome": "Casa do Homem Banana",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_casa_do_homem_banana_descricao",
+      "text": "[Lugar: Casa do Homem Banana]\nDescricao:\n# Casa do Homem Banana\n\nA Casa do Homem Banana é o lugar onde o Homem Banana reside. Foi exibido pela primeira e única vez em \" A Nova Fronteira \". Na primeira, Finn pensou que a casa do Homem da Banana foi construída no sol, mas Jake explicou ao Finn que a casa não é realmente sobre o sol, ela só parece estar lá. A casa fica a leste da Casa na Árvore , na Terra da Grama . A casa está à beira de uma floresta e acima da Caverna Subterrânea .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_do_homem_banana",
+        "nome": "Casa do Homem Banana",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_casa_do_homem_banana_aparencia",
+      "text": "[Lugar: Casa do Homem Banana]\nAparencia:\nA Casa do Homem Banana é uma cúpula geodésica. A casa é em forma de esfera, com exceção da porta de entrada. A casa é cinza claro, com tubos de cinza mais escuro correndo ao longo de seus lados, fazendo um padrão triangular. Há canos pretos curtos saindo do chão em um ângulo, apoiando a casa. No terreno ao redor da casa, há folhas e galhos. O interior da casa é branco. Há tubos mais cinzentos que correm ao longo das paredes internas. Em frente da casa, existe um carro de preto semi-enterrado no solo. Há mais lixo espalhado em torno da casa, que não podem ser identificados. Existem pelo menos quatro janelas: pelo menos três perto do chão, um no telhado. Existe um objeto estranho no telhado que se assemelha a uma parabólica.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_do_homem_banana",
+        "nome": "Casa do Homem Banana",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_casa_do_homem_banana_dentro_da_casa",
+      "text": "[Lugar: Casa do Homem Banana]\nDentro_Da_Casa:\nNo chão há um tapete amarelo com um design com tons de laranja. Há uma televisão marrom em um carrinho azul claro. O Homem Banana usa a TV para reproduzir vídeos de treino. No topo da TV há um estranho objeto que poderia ser a antena da TV. Há duas cadeiras vermelhas. Contra a parede, há um player de vídeo antigo que parece que foi feito antes da Guerra dos Cogumelos . Na parede há uma grande foto de um cacho de bananas. Por seu lado esquerdo há duas fotos menores, à sua direita, há três. As imagens pequenas à esquerda são de uma banana descascada e do sistema solar. As imagens em seu direito são do capacete de um astronauta, uma banana split, e um gorila. Acima da imagem grande, há uma medalha moldada. A medalha é de prata, com asas.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_do_homem_banana",
+        "nome": "Casa do Homem Banana",
+        "secao": "dentro_da_casa"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_casa_do_homem_banana_quintal",
+      "text": "[Lugar: Casa do Homem Banana]\nQuintal:\nCostumava haver um foguete no quintal da casa, mas Finn e Jake o explodiram. O foguete era da mesma cor que a casa e foi completamente escondido da vista. Havia uma plataforma que levou da casa para o foguete, e uma escada de madeira que pode ser usada se você quiser entrar no foguete de fora. Espalhados ao redor do foguete estavam ferramentas, uma caixa de modelos dos planetas (Saturno, Terra e Júpiter, respectivamente), um cronômetro, uma régua, uma borracha e um desenho e um modelo do sistema solar. Agora, onde todas as coisas que costumava estar, há um enorme buraco onde o foguete caiu. O buraco leva para a Caverna Subterrânea .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_do_homem_banana",
+        "nome": "Casa do Homem Banana",
+        "secao": "quintal"
+      }
+    }
+  ]
+}

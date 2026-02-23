@@ -2,8 +2,10 @@
 tipo: "personagem"
 nome: "Finn"
 categoria: "Protagonistas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Finn"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Finn"
 ---
+
+> Finn é um personagem de Hora de Aventura. Categoria: Protagonistas.
 
 # Finn
 
@@ -26,7 +28,23 @@ No final do episódio " BMO ", Finn e Jake são vistos em idades mais avançadas
 
 Em " Susana Forte ", ele diz que não sabe nada sobre seus pais ou quaisquer outros humanos, e em " Criado ", até brinca dizendo que "nasceu de um repolho".
 
-## Aparência
+## Estado como último  humano
+Finn por muito tempo foi o único humano confirmado na Terra de Ooo . No episódio " Os Pais Dela ", o pai de Lady Íris se surpreende ao vê-lo, pois achava que os humanos estavam extintos.
+
+Até " Susana Forte ", Finn acredita que ele nunca conheceu outro ser humano. Finn fica melancólico quando ele pensa demais no assunto. No mesmo episódio, ele encontra Susana Forte . Mesmo que os outros membros da tribo de Hyoomanos de Susana revelam-se "gente peixe", a espécie de Susana é deixada a ambígua, até " Esconde-Esconde " , onde é revelado que ela é Humana.
+
+Seu status como único humano de Ooo acaba quando Betty Grof viaja no tempo para o presente, em " Betty ".
+
+Em " Lista do Que Fazer Antes de Morrer do Billy ", Billy informa a Finn que seu pai humano está vivo na Cidadela . Isso faz que ele viaje até lá para salvá-lo, o tornado um dos humanos conhecidos na série.
+
+Em " Pré-Início ", Dra. Banha revela que existem humanos fora de Ooo. Na minissérie " Ilhas ", Finn viaja até as ilhas fora de Ooo e encontra uma civilização humana próspera e sua mãe, Minerva .
+
+Adam Muto disse que o fato de Finn ser o último humano de Ooo nunca foi a sua característica mais importante. [ 4 ]
+
+## Características
+
+### Aparência
+
 Finn é um garoto humano de 17 anos. No início da série Finn tinha cerca de 1,50 de altura, mas após " O Resfriador " ele teve um surto de crescimento. Em " Venha Comigo ", Princesa Jujuba comenta sobre isso, dizendo que ele está ficando alto, quase da sua altura. Em " Obsidiana " ele já claramente mais alto que ela. Ele tem vários dentes perdidos por morder árvores, pedras entre outras coisas.
 
 Sua forma varia um pouco dependendo de que artista de storyboard está desenhado ele.
@@ -43,11 +61,42 @@ Ele dorme com um pijama vermelho ou em um saco de dormir bege com suas roupas no
 
 Em " Obsidiana ", Finn aparece como um adulto, muito mais alto e robusto. Ele possuí uma barba loira que cobre grande parte de seu rosto. Além de ter uma tatuagem no peito em homenagem ao seu irmão Jake . Em " Juntos Novamente ", Finn aparece como um idoso, com uma longa barba branca, e demonstra estar com mais peso. Ele tem outro braço mecânico.
 
+
+#### Cabelo
+
 Finn tem grandes cabelos loiros, herdados da sua mãe. Finn nunca foi visto sem o seu chapéu até " Para Cortar os Cabelos de Uma Mulher ", onde revela-se que ele tem longas mechas douradas. Inicialmente, seu cabelo era maior que ele mesmo, e possuía um grande brilho. No mesmo episódio ele o raspa completamente e o dá para a Bruxa da Floresta . Com o passar do tempo seu cabelo vai crescendo novamente, até " Outro Jeito ", onde ele já havia chegado aos seus ombros, e Finn o deixou crescer até " O Lich ", e o raspou novamente em " Davey ". Seu cabelo já voltou ao seu tamanho original em " Posso Entrar? ".
 
 Em " Templo de Marte ", Finn é visto com o cabelo raspado novamente pois tinha pegado piolhos de Marceline . Apesar de tudo, ele demonstra não se importar muito com o seu cabelo.
 
 Em " Obsidiana ", Finn aparece como um adulto. Seu cabelo agora é mais curto e escuro, além dele ter uma barba.
+
+
+### Habilidades
+
+
+#### Fisíca
+
+Finn é proficiente em várias formas de combate, incluindo o combate corpo-a-corpo, magia e esgrima. Ele pode saltar muito alto e é excepcionalmente forte e ágil para um menino de sua idade. Apesar de sua idade e sua aparência, Finn é bastante forte e atlético, ele pode ser visto lutando com uma variedades de monstros e criaturas de dez vezes o seu tamanho. Finn também é capaz de levantar a Princesa Jujuba, como mostrado em " Recuo Mortal " , quando ele pega-la e coloca-a em sua cama, e capaz de levantar Marceline como visto em " Monstrinha do Papai " .
+
+Além disso, ele foi capaz de levantar uma árvore e bater com ela em Barb em " Teia de Estranhos ". Em " Outro Jeito " , Finn foi capaz de correr levando o olho de um ciclope gigante. Por último, em " Masmorra do Papai ", quando ele esfaqueou o monstro maligno no olho, ele foi capaz de levantá-lo do chão e virá-lo. Finn é muito tolerante à dor, como mostrado em " Ninguém Pode te Ouvir ", quando Stag quebra suas pernas, ele não se importa muito com o ocorrido. Além disso, em " O Lich ", ele foi capaz de quebrar o Enquirídio no joelho, sem contar a resistência ao fogo que Finn adqiriu por te convivido com a Princesa de Fogo , como mostrado em " Pegando um Foguinho ", " Chicletão ", e em " Filho do Urso Rapper ", onde ele não esboça reação quando ela o queima.
+
+Finn também é imune a eletricidade graças a água mágica que tomou em " Feitiço da Flauta ". A resistência a eletricidade parece ter permanecido com ele, já que não sofreu danos quando foi eletrocutado por uma enguia da Dra. Banha em " Pré-Início ".
+
+
+#### Mental
+
+Finn tem a capacidade de lutar mentalmente habilidades psíquicas. A primeira vez foi contra o Lich . A segunda vez foi contra Goliad , quando ele foi capaz de manipular seus pensamentos, a fim de evitar revelar o plano para derrotar Goliad, permitindo Princesa Jujuba criar Stormo . Como demonstrado em " Sustos ". Finn pode bloquear memórias indesejáveis no cofre , o que é visto mais tarde em " Rei Minhoca ". Apesar de não ter frequentado a escola, apenas fazendo algumas aulas com a Princesa Jujuba [ 5 ] , Finn sabe ler e escrever (muito provavelmente isso foi ensinado por Joshua e Margaret ), e ele também pode fazer operações matemáticas simples.
+
+Ele conseguiu interagir com o Plano Astral mais de uma vez - mesmo sem ter o conhecimento de magia nescessário para fazer isso [ 6 ] -, e ter uma projeção de consciência , que lhe permitiu que sua consciência escapasse do seu corpo físico.
+
+Finn tem apresentado muitas outras habilidades em artesanato. Ele tem algumas habilidades de origami, como mostrado em " Ricardio, o Coração ", em que ele faz a Princesa Jujuba um guindaste de papel, bem como em " O Armário da Marceline ", no qual ele faz um avião de papel perfeito. Além disso, ele construiu uma maquete do Reino Doce feito de sua saliva. [ 7 ]
+
+
+#### Temporárias
+
+Finn e Jake ganharam habilidades mágicas no episódio " Bruxo ", mas eles nunca usaram essas habilidades em qualquer outro episódio. Pendleton Ward revelou mais tarde que toda a magia que Finn e Jake ganharam nesse episódio foram destruídas. Da mesma forma em " A Câmara das Lâminas Congeladas " , quando Finn e Jake ganham habilidades de ninjas.
+
+Em " A Torre ", Finn temporariamente ganha um braço mental controlado por suas emoções, que também lhe permitia a telecinese.
 
 ## Personalidade
 Devido à educação que recebeu de Joshua , Margaret e Jake , Finn cresceu com um grande senso de justiça e responsabilidade, sendo naturalmente nobre e recusando-se a cometer qualquer tipo de ato que possa prejudicar um inocente. Finn é visto por todos de Ooo como um grande herói áspero que luta contra o mal, apesar de ainda ser um garoto normal que comete erros o tempo todo, sendo retratado de uma forma extremamente humana. Mesmo com todo o seu respeito e fama por toda Ooo, é mostrado que ele também deseja uma ter vida normal e simples, sem qualquer reconhecimento ou elogios por atos bondosos.
@@ -56,28 +105,16 @@ Finn é mostrado ser destemido e gosta de colocar a si mesmo no meio do perigo, 
 
 No decorrer das temporadas ele se torna mais calmo e alcança uma paz espiritual. Exemplos da maturidade de Finn e de sua sinceridade consigo mesmo foi a sua capacidade de resistir à escolha de Matthew de se fundir com a montanha e se tornar um ser singular com ela, e sua decisão final que ele toma em " O Cometa " de escolher não abandonar sua forma humana atual e continuar a viver uma vida normal em Ooo com todos que ele ama ao invés da possibilidade da transcendência total.
 
-## Habilidades
-Finn é proficiente em várias formas de combate, incluindo o combate corpo-a-corpo, magia e esgrima. Ele pode saltar muito alto e é excepcionalmente forte e ágil para um menino de sua idade. Apesar de sua idade e sua aparência, Finn é bastante forte e atlético, ele pode ser visto lutando com uma variedades de monstros e criaturas de dez vezes o seu tamanho. Finn também é capaz de levantar a Princesa Jujuba, como mostrado em " Recuo Mortal " , quando ele pega-la e coloca-a em sua cama, e capaz de levantar Marceline como visto em " Monstrinha do Papai " .
 
-Além disso, ele foi capaz de levantar uma árvore e bater com ela em Barb em " Teia de Estranhos ". Em " Outro Jeito " , Finn foi capaz de correr levando o olho de um ciclope gigante. Por último, em " Masmorra do Papai ", quando ele esfaqueou o monstro maligno no olho, ele foi capaz de levantá-lo do chão e virá-lo. Finn é muito tolerante à dor, como mostrado em " Ninguém Pode te Ouvir ", quando Stag quebra suas pernas, ele não se importa muito com o ocorrido. Além disso, em " O Lich ", ele foi capaz de quebrar o Enquirídio no joelho, sem contar a resistência ao fogo que Finn adqiriu por te convivido com a Princesa de Fogo , como mostrado em " Pegando um Foguinho ", " Chicletão ", e em " Filho do Urso Rapper ", onde ele não esboça reação quando ela o queima.
+### Traços do personagem
 
-Finn também é imune a eletricidade graças a água mágica que tomou em " Feitiço da Flauta ". A resistência a eletricidade parece ter permanecido com ele, já que não sofreu danos quando foi eletrocutado por uma enguia da Dra. Banha em " Pré-Início ".
+Finn demonstra ser um dos poucos personagens que envelhecem consistentemente. Com passar das temporadas, a voz de Finn vai ficando mais grave devido a puberdade.
 
-Finn tem a capacidade de lutar mentalmente habilidades psíquicas. A primeira vez foi contra o Lich . A segunda vez foi contra Goliad , quando ele foi capaz de manipular seus pensamentos, a fim de evitar revelar o plano para derrotar Goliad, permitindo Princesa Jujuba criar Stormo . Como demonstrado em " Sustos ". Finn pode bloquear memórias indesejáveis no cofre , o que é visto mais tarde em " Rei Minhoca ". Apesar de não ter frequentado a escola, apenas fazendo algumas aulas com a Princesa Jujuba [ 5 ] , Finn sabe ler e escrever (muito provavelmente isso foi ensinado por Joshua e Margaret ), e ele também pode fazer operações matemáticas simples.
+Finn tinha talassofobia, o medo do oceano. Muito provavelmente ele adquiriu esse medo quando ele e Martin foram atacados pelo Guardião das Ilhas, e logo depois ele ficou vagando sozinho pelo oceano enquanto era bebê por uma quantidade de tempo desconhecida. Finn consegue superar esse medo em " Lista do Que Fazer Antes de Morrer do Billy ". Ele também tem um medo inexplicável de palhaços, e fica desesperado quando se aproxima de um. [ 8 ] Quando ele era apaixonado por Princesa Jujuba, ele tinha uma grande insegurança dela o achar "jovem demais". [ 9 ] [ 10 ] Finn também tem Deuteranopia, um tipo de daltonismo que faz a pessoa não saber diferenciar a cor verde do vermelho. [ 11 ]
 
-Ele conseguiu interagir com o Plano Astral mais de uma vez - mesmo sem ter o conhecimento de magia nescessário para fazer isso [ 6 ] -, e ter uma projeção de consciência , que lhe permitiu que sua consciência escapasse do seu corpo físico.
+Finn tende a ser muito teimoso, como visto em " Lembranças da Montanha Boom Boom " , " Masmorra " , " Bruxo " , e especialmente em " Outro Jeito ". Finn também pode ser facilmente enganado. Um bom exemplo disso é em " Os Olhos ", quando Jake o convenceu de que "falcões gigantes" iriam levar o cavalo que ele queria matar para uma "terra de sol" e iriam cuidar dele com amor e carinho.
 
-Finn tem apresentado muitas outras habilidades em artesanato. Ele tem algumas habilidades de origami, como mostrado em " Ricardio, o Coração ", em que ele faz a Princesa Jujuba um guindaste de papel, bem como em " O Armário da Marceline ", no qual ele faz um avião de papel perfeito. Além disso, ele construiu uma maquete do Reino Doce feito de sua saliva. [ 7 ]
-
-Finn e Jake ganharam habilidades mágicas no episódio " Bruxo ", mas eles nunca usaram essas habilidades em qualquer outro episódio. Pendleton Ward revelou mais tarde que toda a magia que Finn e Jake ganharam nesse episódio foram destruídas. Da mesma forma em " A Câmara das Lâminas Congeladas " , quando Finn e Jake ganham habilidades de ninjas.
-
-Em " A Torre ", Finn temporariamente ganha um braço mental controlado por suas emoções, que também lhe permitia a telecinese.
-
-Devido à educação que recebeu de Joshua , Margaret e Jake , Finn cresceu com um grande senso de justiça e responsabilidade, sendo naturalmente nobre e recusando-se a cometer qualquer tipo de ato que possa prejudicar um inocente. Finn é visto por todos de Ooo como um grande herói áspero que luta contra o mal, apesar de ainda ser um garoto normal que comete erros o tempo todo, sendo retratado de uma forma extremamente humana. Mesmo com todo o seu respeito e fama por toda Ooo, é mostrado que ele também deseja uma ter vida normal e simples, sem qualquer reconhecimento ou elogios por atos bondosos.
-
-Finn é mostrado ser destemido e gosta de colocar a si mesmo no meio do perigo, simplesmente porque ele gosta de um desafio. Esse foi um dos motivos que o fez ter se tornado amigo de Marceline , pelos dois compartilharem a mesma sede por aventuras. Enquanto ele se apresenta para os outros como um herói rude e forte, também tem um lado terno capaz de amor e compaixão, como mostrado por sua paixão de infância pela Princesa Jujuba e seu relacionamento fraterno com Jake. O crescimento de Finn aceitar romance e o amor físico também é demostrado quando ele voluntariamente beija a Princesa Jujuba em " Jovem Demais " e sua namorada, Princesa de Fogo em " Pegando Um Foguinho " . Com o passar do tempo, Finn deixou de enxergar Princesa Jujuba como sua paixão, e passou a vê-la como uma guardiã ou irmã mais velha.
-
-No decorrer das temporadas ele se torna mais calmo e alcança uma paz espiritual. Exemplos da maturidade de Finn e de sua sinceridade consigo mesmo foi a sua capacidade de resistir à escolha de Matthew de se fundir com a montanha e se tornar um ser singular com ela, e sua decisão final que ele toma em " O Cometa " de escolher não abandonar sua forma humana atual e continuar a viver uma vida normal em Ooo com todos que ele ama ao invés da possibilidade da transcendência total.
+Assim como Jake , ele tem um grande pavor de qualquer vampiro que não seja Marceline.
 
 ## Relacionamentos
 
@@ -109,7 +146,7 @@ Finn e Marceline compartilham uma relação de dois grandes amigos, dispostos a 
 
 Apesar de serem inicialmente inimigos, Finn e Marceline logo ficaram amigos. Marceline tenta o intimidar em seu episódio de estréia, " Despejados! ", mas fica impressionada com a coragem do garoto. Ambos Marceline e Finn compartilham a mesma centelha de aventura, perigo e emoção.
 
-Uma das razões dos dois se tornarem amigos próximos é que Finn havia salvado sua vida em " Criado ", quando Jake expôs a ela á a luz do sol e a jogou alho  em uma tentativa equivocada de ajudar seu irmão. Em " Vem Comigo ", Marceline deixa claro que ela não quer namorar Finn, e ele explica que também não está interessado em ter um relacionamento com ela. Eles vão ao cinema juntos, mas apenas como amigos. Ela diz que gosta de cuidar e se preocupa com o bem estar dele, como em " Assinatura de Calor ".
+Uma das razões dos dois se tornarem amigos próximos é que Finn havia salvado sua vida em " Criado ", quando Jake expôs a ela á a luz do sol e a jogou alho em uma tentativa equivocada de ajudar seu irmão. Em " Vem Comigo ", Marceline deixa claro que ela não quer namorar Finn, e ele explica que também não está interessado em ter um relacionamento com ela. Eles vão ao cinema juntos, mas apenas como amigos. Ela diz que gosta de cuidar e se preocupa com o bem estar dele, como em " Assinatura de Calor ".
 
 Em " Menininho Mau ", Marceline conta uma história centrada na interação entre a sua contraparte masculina, Marshall Lee , e a contraparte feminina de Finn: Fionna . É possível que ela baseou a história em sua própria interação com Finn, no entanto, apesar de Marceline afirmar gostar de Finn só como um amigo, Marshall Lee parecia pensar que Fionna gostava dele mais do que apenas como um amigo.
 
@@ -159,3 +196,97 @@ No episódio " O Trono Vermelho ", Finn pensa
 que eles poderiam ter uma segunda chance e tenta impressioná-la, mas ela fala que não tem mais sentimentos por ele e o trabalho dos dois era apenas um negócio.
 
 Em " Breezinha " foi revelado que ele não fala mais com ela.
+
+## Inimigos
+
+### Lich
+
+O desejo de Lich para matar a vida traz-lo em constante conflito com Finn. Eles se conheceram em Folia Mortal , embora esteja implícito em O Herói Dele que Finn já sabia sobre o Lich, onde o Lich é libertado de sua prisão, vai em um rampage e tenta recuperar o seu poder de destruir toda a vida. No episódio, o Lich tenta mergulhar Finn em seu Bem do Poder , o que implica que o Lich acredita Finn deve estar em seu lado. Ele também afirma que ele acredita que Finn é o seu inferior.
+
+O Lich foi mostrado tentando e ter sucesso em manipular as emoções de Finn várias vezes. Isto foi mostrado pela primeira vez em Recuo Mortal , onde o Lich (disfarçado de Princesa Jujuba) manipula as emoções românticas de Finn. Finn guarda um receio por Lich ter matado o Billy.
+
+## Encarnações
+Em " O Cofre " algumas das vidas passadas de Finn são mostradas.
+
+
+### O Cometa
+
+Finn é a reencarnação do Cometa Catalisador Azul que atingiu a Terra após a Guerra dos Cogumelos . Podemos afirmar que por causa disso ele pode ser algum tipo de Entidade Cósmica . Um cometa semelhante a esse é visto em " Plano Astral ", mas na verdade é revelado que ele era apenas a nave de Martin .
+
+Lich também é a reencarnação de um Cometa Catalisador.
+
+
+### Uma borboleta
+
+Quando o cometa atingiu a Terra ele tomou a forma de uma borboleta. A borboleta possuí grandes asas com a parte mais ao centro delas sendo um azul claro e o resto sendo roxo. Finn brevemente se transforma nela em " Juntos Novamente ", quando o Sr. Raposo diz a ele que no Mundo dos Mortos ele pode assumir a forma de qualquer vida passado que ele teve.
+
+
+### "Um troço"
+
+Outra encarnação de Finn foi um grande gosma rosa senciente. Finn se refere a ela como "um troço". Essa encarnação é muito semelhante a Mãe Goma . Finn também se transforma nela em " Juntos Novamente ".
+
+
+### Shoko
+
+Finn tinha diversas alucinações com um ser que ele apelidou como "A Dama Fantasma". É revelado que ela é Shoko , uma de suas vidas passadas, que morreu após cair em um rio radioativo do Reino Doce .
+
+
+### Shermy
+
+Muito provavelmente Shermy , um gato falante que vive na Terra de Ooo de 1000 anos depois seja uma das reencarnações de Finn, assim como Beth pode ser uma reencarnação de Jake, mas isso não foi confirmado.
+
+## Curiosidades
+- Detalhe das estátuas em "Venha Comigo"
+
+- A placa com os nomes "Fin" e "Jer"
+
+- Tittlecard de "Parados"
+
+- Durante a abertura de " Venha Comigo ", o último episódio, podem se ver duas estátuas caídas de Finn e Jake . Como a abertura se passa 1000 anos no futuro, é provável que os dois tenham sido lembrados como grandes heróis. No entanto, existe uma placa de pedra quebrada do lado das estátuas, que apesar de impedir de ver boa parte do que está escrito, pode-se ver as palavras "Fin" e "Jer", indicando que a segunda estátua é de Jermaine , e não de Jake. Essas estátuas podem ser as mesmas do tittlecard do episódio " Parados ".
+
+- Durante a série, na dublagem original, sua voz foi engrossando com o passar das temporadas. Isso se deve ao fato de seu dublador ( Jeremy Shada ), ter crescido junto com o personagem, já que começou dublando ele com 13 anos e atualmente tem 24 anos.
+
+- Adam Muto confirmou que seu aniversário é dia 14 de Março. [ 12 ]
+
+- Ele dorme falando. [ 13 ]
+
+- Sua comida favorita é bolo de carne, como afirmado em " Parados ", " Traje de Jake " e " Três Baldes ".
+
+- Finn tem Deuteranopia, um tipo de daltonismo que faz a pessoa não saber diferenciar a cor verde do vermelho. [ 11 ]
+
+- Princesa Jujuba secretamente implantou um localizador na sua orelha, conforme declarado em " Lady & Jujuba ".
+
+- Existe uma contradição em relação ao seu nome. A Adventure Time Encyclopædia , diz que ele recebeu o nome "Finn" de Joshua e Margaret , porém em " Min e Marty " é mostrado que ele tinha recebido esse nome dos seus pais.
+
+- Em " O Trono Vermelho ", ele diz que está fazendo aulas de piano.
+
+- Ele demonstra ter algumas aulas escolares com Princesa Jujuba, como mostrado em " Lemonhope, Parte I ".
+
+- Em todas as suas variantes alternativas, ele eventualmente teve seu braço direito removido. Isso mostra que talvez futuramente Shermy perca seu braço.
+
+- Finn começou a deixar seus pelos faciais crescerem, porém BMO os raspa toda manhã, como visto em " Tudo Bem Sem Rato ".
+
+- O sobrenome de Finn é uma variante holandesa do nome do seu pai Martin, que significa "guerreiro".
+
+- É confirmado em " Mistura de Realidades ", que ele tem uma marca de nascença em "um lugar estranho" do seu corpo.
+
+- Ele engoliu um computador quando criança, por isso tem a habilidade de cantar em auto-tune.
+
+- Aparentemente ele tem uma amigo a distância com quem se comunica com cartas chamado Danny Gladiolas, como ele afirmou em " Nozes & Chuva ".
+
+- Em " Grande Estranheza ", Starchy lê um artigo de jornal sobre o eventos que ocorreram com Finn em " Re-Início ".
+
+- Finn é daltônico.
+
+- No entanto, existe uma placa de pedra quebrada do lado das estátuas, que apesar de impedir de ver boa parte do que está escrito, pode-se ver as palavras "Fin" e "Jer", indicando que a segunda estátua é de Jermaine , e não de Jake.
+
+- Essas estátuas podem ser as mesmas do tittlecard do episódio " Parados ".
+
+- Isso mostra que talvez futuramente Shermy perca seu braço.
+
+
+### Referências Culturais
+
+- Finn McCool era um aventureiro e herói da mitologia irlandesa. "Finn" é na verdade um apelido que significa "loiro".
+
+- Finn tem algumas semelhanças com o personagem Link da série de jogos The Legend of Zelda e Edward Elric do anime Fullmetal Alchemist: Brotherhood .

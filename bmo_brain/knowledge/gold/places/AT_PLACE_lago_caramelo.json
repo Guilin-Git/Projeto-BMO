@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_lago_caramelo",
+  "tipo": "lugar",
+  "nome": "Lago Caramelo",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_lago_caramelo_descricao",
+      "text": "[Lugar: Lago Caramelo]\nDescricao:\n# Lago Caramelo\n\nO Lago Caramelo é um lago localizado aos arredores do Reino Doce , próximo as Florestas de Algodão Doce .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_lago_caramelo",
+        "nome": "Lago Caramelo",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

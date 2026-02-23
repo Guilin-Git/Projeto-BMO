@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Vila Macia"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Vila_Macia"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Vila_Macia"
 ---
+
+> Vila Macia é um lugar de Hora de Aventura.
 
 # Vila Macia
 
@@ -13,3 +15,8 @@ O Finn chega na Vila quando está saindo de uma floresta. A vila é pequena e de
 
 ## Aparência
 Toda a Vila Macia parece ser feita de penugem macia, incluindo as casas, árvores e terra de cor creme. A parede da aldeia é rosa, e como tudo, ela parece ser composto de uma substância macia, como um travesseiro. A Vila Macia também parece pode ser feita de algodão ou nuvens.
+
+## Curiosidades
+- O Povo Macio parece ser feito a partir dos mesmos materiais que sua aldeia. Eles vêm em uma variedade de cores vivas (verde claro, rosa, azul e amarelo) e ele aparece como 2-3 pequenas nuvens empilhadas em cima de cada um, e as pernas e os braços estão ligados para o neles também.
+
+- A aparencia da vila um pouco se assemelha ao beco de agonal de Harry Potter.

@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_dirigivel_do_rei_de_ooo",
+  "tipo": "objeto",
+  "nome": "Dirigível do Rei de Ooo",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_dirigivel_do_rei_de_ooo_descricao",
+      "text": "[Objeto: Dirigível do Rei de Ooo]\nDescricao:\n# Dirigível do Rei de Terra de Ooo",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_dirigivel_do_rei_de_ooo",
+        "nome": "Dirigível do Rei de Ooo",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_dirigivel_do_rei_de_ooo_aparicoes",
+      "text": "[Objeto: Dirigível do Rei de Ooo]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_dirigivel_do_rei_de_ooo",
+        "nome": "Dirigível do Rei de Ooo",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_dirigivel_do_rei_de_ooo_sobre",
+      "text": "[Objeto: Dirigível do Rei de Ooo]\nSobre:\nEle é um dirigível comum. A Princesa Jujuba tenta achar papéis para incriminar o Rei de Terra de Ooo e depois, atira o dirigível no chão.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_dirigivel_do_rei_de_ooo",
+        "nome": "Dirigível do Rei de Ooo",
+        "secao": "sobre"
+      }
+    }
+  ]
+}

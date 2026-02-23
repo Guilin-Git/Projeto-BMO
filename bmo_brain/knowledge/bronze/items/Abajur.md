@@ -2,8 +2,10 @@
 tipo: "objeto"
 nome: "Abajur"
 primeira_aparicao: "", Amigos Para Sempre, ""
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Abajur"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Abajur"
 ---
+
+> Abajur é um objeto/item de Hora de Aventura.
 
 # Abajur
 
@@ -13,3 +15,20 @@ Abajur é trazida à vida pelo Antigo Bruxo Adormecido Da Vida no episódio " Am
 Como a maioria dos móveis do Rei Gelado, a Abajur parece ser altamente inteligente e fala com um vocabulário muito sofisticado que o Rei Gelado acha confuso. No entanto, ao contrário dos seus companheiros de móveis, ela possui uma quantidade razoável de piedade pelo Rei Gelado e tenta encontrar maneiras para que ele se encaixar.
 
 A Abajur volta a ser um objeto depois que vários móveis foram destruídos pelos Rei Gelado .
+
+## Informações
+
+### Nome
+
+
+### Sexo
+
+
+### Espécie
+
+
+### Moradia
+
+## Detalhes
+
+### Primeira Aparição

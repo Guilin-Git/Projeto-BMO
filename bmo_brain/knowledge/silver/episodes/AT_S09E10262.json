@@ -1,0 +1,35 @@
+{
+  "id": "AT_S09E10262",
+  "tipo": "episodio",
+  "nome": "Abstrato",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Abstrato",
+  "sections": {
+    "informacoes": "### Temporada\n\n### Episódio\n\n### Exibição\n\n### Exibição (BR)",
+    "creditos": "### Diretor\n\n### História\n\n### Escritor",
+    "sinopse": "Conforme Jake passa por mudanças pessoais, ele é assombrado por um sonho sinistro onde encontra com seu irmão Jermaine .",
+    "curiosidades": "- Uma das habilidades de Jake de sua forma nova/normal/natural é ser capaz de sentir as emoções de objetos, como torradas.\n\n- Finn tornou-se desconfortável com a nova parecência de Jake desde o episódio anterior.\n\n- Dentro da tenda dos James , há muitas medalhas penduradas. Isso mostra que a Princesa Jujuba manteve sua promessa e continuou enviando medalhas todos os dias.",
+    "conexoes_de_episodios": "- Este episódio é uma continuação do final de \" Ganchos Celestes II \".\n\n- A verdade das origens de Jake , que foi revelada em \" Joshua e Margaret \", também faz parte deste episódio."
+  },
+  "source_file": "T09_E10262_Abstrato.md",
+  "season": 9,
+  "episode": 10262,
+  "episode_id": "S09E10262",
+  "diretor": "Adam Muto",
+  "roteiro": "Graham Falk",
+  "data_exibicao": "16/11/2017",
+  "characters_main": [
+    "Jake",
+    "Jermaine"
+  ],
+  "characters_secondary": [
+    "Finn",
+    "BMO",
+    "Refri",
+    "James",
+    "Bryce",
+    "Lady Íris",
+    "Shapeshifter",
+    "Joshua",
+    "Caracol"
+  ]
+}

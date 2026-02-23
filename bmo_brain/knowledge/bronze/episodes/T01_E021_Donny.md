@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 21
 nome: "Donny"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Donny_(Epis%C3%B3dio)"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Donny_(Epis%C3%B3dio)"
 ---
 
 # Donny
 
 **Temporada 1 — Episódio 21**
+
+## Descrição
+" Donny " é o 21º episódio da 1º temporada de Hora de Aventura . É o vigésimo primeiro episódio no total.
 
 ## Sinopse
 Quando Finn e Jake vêem um ogro chamado Donny, eles decidem ajudá-lo a mudar de vida, sem saber das consequências ecológicas da sua ação.
@@ -18,9 +22,47 @@ Finn e Jake estão em patrulha de segurança quando se deparam com uma cidade de
 O Porquê-Bisomen explica a Finn que sem Donny ao redor para produzir obnoxigênio (que é letal para eles), eles são livres para consumir as pessoas casas até que a Coruja Cósmica consuma todos eles. Finn corre de volta para a casa da árvore e descobre que Donny está bem civilizado, bem falado, e mais importante, não é um idiota. Finn e Jake força Donny arrastar de volta para a casa onde pessoas estão sendo comidos por Porquê-Bisomen. Finn diz a Donny que eles acham que suas músicas de auto-aperfeiçoamento são estúpidos, e que ao tentar não ser um idiota, ele está sendo mais idiota, depois de ser ridicularizado por ambos os Porquê-Bisomens e as Pessoas Casas, Donny retorna ao seu antigo estado, libertando assim a obnoxigênio fazendo os Porquê-Bisomens fugir e sem querer salvando as pessoa casas. Enquanto Donny parece estar furioso com Finn e Jake, e retorna para as pessoas casas, no final do episódio, Donny vê Finn e Jake partindo, e diz com tristeza, "eu nunca vou te esquecer".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Donny
+
 - Porquê-Bisomens
+
 - Pessoas Casas
+
+
+### Menores
+
+- BMO
+
+- Caracol
+
+- Coruja Cósmica (mencionada e desenhada)
+
+## Canções
+- Canção da Empatia
+
+- Canção do Gel
+
+## Curiosidades
+- Este é o primeiro episódio em que BMO fala.
+
+- Quando o Sr. Banco está quebrado, é mostrado que as casas são como conchas que eles usam, ao invés de parte de seus corpos.
+
+- O gato de Natasha Allegri, Pancake, pode ser visto através da janela de uma garota-casa com óculos.
+
+- Devido a diálogos usados na dublagem original, este episódio é censurado na Austrália.
+
+- O nome original desse episódio era "Um Ogro Chamado Donny".
+
+
+### Erros
+
+- Quando Finn retorna para a aldeia com Donny, sua mochila está danificada por causa do ataque Porquê-Bisomen antes. No entanto, a mochila é reparada, quando ele e Jake estão indo embora.
+
+- Quando BMO é colocado de volta na mesa, as letras do lado são "BWO" em vez de "BMO".

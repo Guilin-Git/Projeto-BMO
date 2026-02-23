@@ -2,8 +2,10 @@
 tipo: "personagem"
 nome: "Jake"
 categoria: "Protagonistas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Jake"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Jake"
 ---
+
+> Jake é um personagem de Hora de Aventura. Categoria: Protagonistas.
 
 # Jake
 
@@ -12,41 +14,145 @@ Jake, o Cão é um dos personagens principais de Hora de Aventura . Ele é um h�
 
 O personagem é um grande ídolo de Finn, o acompanhando em aventuras por aí. Apesar de normalmente apresentar um comportamento infantil, Jake é extremamente maduro, constantemente dando conselhos e lições ao seus próximos. Um dos seus maiores passatempos é tocar Viola .
 
-## Aparência
+## História
+
+### Nascimento
+
+Os investigadores Joshua e Margaret saem em uma missão de encontrar uma criatura que está assombrando Dona Tromba . Durante o processo de investigação Joshua é atacado pela tal criatura, que o mordeu na cabeça. Jake mais tarde nasce da pústula que havia crescido na cabeça do seu pai, no mesmo dia que seu irmão Jermaine
+
+Os seus poderes de elasticidade são frutos dessa mutação que houve com o alienígena Warren Ampersand e seu pai Joshua. Embora Jake não soubesse da origem de seus poderes até " Jake, Filho das Estrelas ", e antes dessa descoberta ele acreditava que havia ganhado suas habilidades ao nadar em uma poça de lama mágica quando era criança. [ 1 ] [ 2 ]
+
+
+### Vida
+
+Pouco é explorado o passado de Jake e sua família durante a série.
+
+Em algum momento enquanto Jake e Jermaine ainda eram filhotes, seus pais encontraram um bebê humano chamado Finn abandonado em uma floresta, o resgatando e o criando como se fosse o seu filho. Com o passar dos anos Jake iria desenvolver uma grande amizade com o garoto humano. [ 3 ]
+
+Durante a infância, Joshua pressionava seus filhos a serem fortes e corajosos, o que influenciou muito no caráter dos três irmãos, enquanto Margaret costumava ser mais cuidadosa e protetora. [ 4 ] [ 5 ]
+
+Em algum momento antes da morte dos seus pais, Jake acaba se mudando para a Casa na Árvore e entra para o mundo do crime, se envolvendo com criminosos como Tiffany , Gareth e Irmãos Repolho Voador .
+
+Depois de um tempo Jake abandona essa vida e passa a viver pacificamente lutando contra malfeitores junto com seu irmão Finn, construindo um grande legado como herói na Terra de Ooo , sendo respeitado até em outros planetas, como Marte . Além de ter conhecido várias entidades cósmicas poderosas como GLOB , A Coruja Cósmica e Prismo , com quem criou uma grande amizade.
+
+
+### Terras Distantes
+
+Ver artigo principal: Hora de Aventura: Terras Distantes
+
+Alguns anos após " Venha Comigo ", Jake falece por motivos desconhecidos. Em sua homenagem, Finn tatua seu rosto no peito, como visto em " Obsidiana ". Ele passa então a viver no 50º Mundo dos Mortos , onde ele coexiste em um Nirvana eterno junto com outros seres.
+
+Muito anos depois, Finn também falece e parte em uma jornada para encontrar e "viver" com seu irmão, como haviam prometido antes da morte. Após derrotar a nova Morte que comandava o Mundo dos Mortos que estava sendo controlada por Lich , Jake desiste da vida utópica para reencarnar novamente junto com seu amado irmão.
+
+## Características
+
+### Aparência física
+
 Sua forma sem alterações é a de um bulldog de cor amarela com olhos grandes e característicos. Ele pode se transformar em todos os tipos de formas graças aos seus poderes. Ele também usa calças transparentes feitas de teias de aranha tecidas, como visto no episódio " Donny ".
 
 Nas temporadas anteriores, o design de Jake era mais fino e aerodinâmico, mas conforme a série progrediu, ele se tornou mais texturizado e bulboso.
 
 Após os eventos de " Elementos ", Jake se transforma em um monstro gigante de cinco olhos e pele azul que se assemelha a Warren Ampersand . Ele tem o poder de mudar entre esse forma e a sua original.
 
-## Personalidade
-Jake é geralmente descontraído e positivo, e tende a não se estressar muito em situações perigosas, segundo ele mesmo, ele age de um jeito animado em todas as situações para não deixar o ambiente triste. Jake age como um mentor/pai para Finn o dando conselhos e o animando quando triste. Porém, durante a série ele demonstra ser um muito inconsequente e irresponsável, já que sempre deixava Finn enfrentar batalhas e aventuras sozinho quando ele era pequeno. Apesar de tudo isso, ele é muito inteligente e maduro. Ele não consegue executar uma tarefa por muito tempo, e mostra não se importar com coisas que estão acontecendo ao se redor, como em " Pegando um Foguinho ", onde ele adormece duas vezes em explicações importantes da Princesa Jujuba .
 
-Jake acredita firmemente em destinos do universo e conceitos filosóficos. No episódio " A Nova Fronteira ", ele faz todo o esforço para realizar seu sonho de morte, onde a Coruja Cósmica havia aparecido. Em " Puhoy ", ele diz a Finn para se "concentrar no que é real", e parar de se perder em cenários imaginários. Depois, ele joga a sua caneca favorita pela janela, afirmando que "não é real" e que não se importa mais com aquilo.
+### Habilidades
 
-Jake possuí vários sintomas de TDAH. Diversas vezes ele é mostrado esquecendo de coisas que acabaram de acontecer, ou fazendo coisas completamente não relacionadas durante uma conversa.  Além de se mostrar um pouco bipolar ou inconsistente em suas afirmações, como em " O Duque ", quando ele diz a Finn para culpar o Duque das Nozes pelo o que aconteceu com Princesa Jujuba, mas depois disso ele passa o episódio inteiro tentando convencer o irmão a assumir a culpa. Em " A Fina Linha Amarela ", ele elogia o grafite de Guarda Banana 16, e afirma que o que ele fez é certo. Porém depois ele tenta prende-lo e insulta sua arte.
+- Seus poderes de elasticidade o permitem mudar o tamanho e forma de seu corpo, o que se demonstra muito útil durante toda a série, além de poder mudar o tamanho de seus órgãos internos, dentes e ossos. Apesar de tudo isso, esses poderes tem limitações, já que Jake não pode se esticar infinitamente. Quanto mais ele se estica mais fraco ele fica, podendo até morrer se ultrapassar seu limite.
 
-É possível que ele tenha uma "fobia" de intrusos, como visto em " Vitória Sobre a Fofura ", " Despejados! " e em " Terra e Água " e " Davey ", quando ele percebe que alguém entrou em sua casa sem permissão, fica petrificado.
+- Ele possuí todas as habilidades de um cachorro normal, como um olfato apurado. Aparentemente ele pode detectar a localização precisa de um objeto a quilômetros de distância. Em " A Câmara das Lâminas Congeladas ", ele afirma ter um olfato mil vezes melhor que Finn.
 
-## Habilidades
+- Jake também possuí uma imaginação sobrenaturalmente poderosa, como pode ser visto em " Sonho de dia Chuvoso ". Qualquer coisa que ele imagina se torna realidade; no entanto, apenas ele pode ver suas próprias criações.
+
+- Jake é fluente em coreano, pois é a língua nativa de sua esposa Lady Íris . Em " Os Pais Dela ", ele escreve uma carta em Hangul, o alfabeto coreano. Ele também entende braile, como mostrado em " O Grande Homem Pássaro ".
+
+- Ele pode se comunicar com seu subconsciente e com seu irmão Jermaine por meio dos sonhos.
+
+- Ele também entende braile, como mostrado em " O Grande Homem Pássaro ".
+
+## Hobbies
 Jake demonstra ser um músico habilidoso, principalmente com a viola (ver : Viola do Jake ), sabendo tocar 14ª sonata de Beethoven, além muitas outras músicas. Ele deu o nome de uma de suas filhas por causa do instrumento. Ele também toca violão, como pode ser visto quando ele toca uma canção em " Susana Forte ", e em " Incêndio ", ele toca perfeitamente ukulele. Ele constantemente aparece cantando na série, criando até suas próprias canções, e demonstra saber muito sobre música em geral, como em " O Que Faltava ". Durante a série Jake também é visto lendo livros para passar o tempo diversas vezes.
 
 Jake também afirma ser um ótimo jogador de Guerra de Cartas , tendo um vasto conhecimento sobre o jogo.
 
 Ele é um grande chefe, adorando cozinhar, como mostrado em quase todos os episódios. Ele sabe diversas receitas de vários povos, como em " Ladrão de Maçãs ", onde ele faz comida coreana para Finn .
 
+## Personalidade
+Ver também: Jake/Formas alternativas
+
 Jake é geralmente descontraído e positivo, e tende a não se estressar muito em situações perigosas, segundo ele mesmo, ele age de um jeito animado em todas as situações para não deixar o ambiente triste. Jake age como um mentor/pai para Finn o dando conselhos e o animando quando triste. Porém, durante a série ele demonstra ser um muito inconsequente e irresponsável, já que sempre deixava Finn enfrentar batalhas e aventuras sozinho quando ele era pequeno. Apesar de tudo isso, ele é muito inteligente e maduro. Ele não consegue executar uma tarefa por muito tempo, e mostra não se importar com coisas que estão acontecendo ao se redor, como em " Pegando um Foguinho ", onde ele adormece duas vezes em explicações importantes da Princesa Jujuba .
 
 Jake acredita firmemente em destinos do universo e conceitos filosóficos. No episódio " A Nova Fronteira ", ele faz todo o esforço para realizar seu sonho de morte, onde a Coruja Cósmica havia aparecido. Em " Puhoy ", ele diz a Finn para se "concentrar no que é real", e parar de se perder em cenários imaginários. Depois, ele joga a sua caneca favorita pela janela, afirmando que "não é real" e que não se importa mais com aquilo.
 
-Jake possuí vários sintomas de TDAH. Diversas vezes ele é mostrado esquecendo de coisas que acabaram de acontecer, ou fazendo coisas completamente não relacionadas durante uma conversa.  Além de se mostrar um pouco bipolar ou inconsistente em suas afirmações, como em " O Duque ", quando ele diz a Finn para culpar o Duque das Nozes pelo o que aconteceu com Princesa Jujuba, mas depois disso ele passa o episódio inteiro tentando convencer o irmão a assumir a culpa. Em " A Fina Linha Amarela ", ele elogia o grafite de Guarda Banana 16, e afirma que o que ele fez é certo. Porém depois ele tenta prende-lo e insulta sua arte.
+Jake possuí vários sintomas de TDAH. Diversas vezes ele é mostrado esquecendo de coisas que acabaram de acontecer, ou fazendo coisas completamente não relacionadas durante uma conversa. Além de se mostrar um pouco bipolar ou inconsistente em suas afirmações, como em " O Duque ", quando ele diz a Finn para culpar o Duque das Nozes pelo o que aconteceu com Princesa Jujuba, mas depois disso ele passa o episódio inteiro tentando convencer o irmão a assumir a culpa. Em " A Fina Linha Amarela ", ele elogia o grafite de Guarda Banana 16, e afirma que o que ele fez é certo. Porém depois ele tenta prende-lo e insulta sua arte.
 
 É possível que ele tenha uma "fobia" de intrusos, como visto em " Vitória Sobre a Fofura ", " Despejados! " e em " Terra e Água " e " Davey ", quando ele percebe que alguém entrou em sua casa sem permissão, fica petrificado.
 
+## Idade
 No início da série, Jake tinha 28 "anos mágicos de cachorro". Em " Masmorra do Papai " e " Jake, o Pai ", ele e Finn são visto como bebês durante a mesma época, mas ele envelhece mais rápido que humanos e mais devagar que cachorros, já que em " Memória de uma Memória " podem ser vistas fotos dele e de Jermaine como crianças mais velhas e Finn ainda bebê. No primeiro episódio de Terras Distantes , " BMO ", pode se ver Jake como um adolescente, e Finn como uma criança.
 
 É provável que em anos humanos Jake tenha 16 anos. Isso é afirmado em " Joshua e Margaret "; Joshua cita um "duende de fogo" que está queimando as florestas do Reino Doce . Esse mesmos acontecimentos ocorrem em " Terra e Água ", que mostra Princesa de Fogo bebê, então o "duende" seria ela, que tem 16 anos.
 
 Sua idade atual seria de 34 anos, como confirmado por Steve Wolfhard . [ 6 ] Em " Guerra de Cartas Com Pai e Filha ", ele diz que perdeu a noção de quantos anos tem, achando que tem mais de 40.
 
+## Aparições
 Diferentemente de outros personagens, Finn e Jake aparecem na grande maioria dos episódios, então a lista a seguir mostrara as suas aparições menores e episódios em que ele está ausente.
+
+
+### Secundárias
+
+
+### Ausências
+
+## Curiosidades
+- Jake é um bulldog [ 7 ] , por tanto sua família e o cão que salvou a vida de Bob (pai de Lady Íris ) são da mesma raça.
+
+- Jake tinha uma coleção de tapa-olhos, como visto em " Zig Zag ".
+
+- Em " O Rei Silencioso ", ele diz que suas entranhas fora amaldiçoadas a cheirar a baunilha por um mago.
+
+- Em " Silêncio! " e " Cineastas ", Jake escreve com a mão direita, o que significa que ele é destro.
+
+- Em " O Poço ", ele quase se refere como Jay T. Cachorrão , evidenciando de que talvez eles sejam a mesma pessoa.
+
+- Em " Cara Triste " e " Erro é Erro " é mostrado que partes do seu corpo tem um estranho "transtorno de personalidade" que as faz ganhar "vida".
+
+- As primeiras palavras de Jake foram: " Olá, papai, olá mamãe, é muito bom estar aqui com vocês! ". [ 1 ]
+
+- Ele não toma água com gelo pois tem dentes sensíveis.
+
+- Se Finn não o tivesse influenciado tanto, ele provavelmente ainda iria estar cometendo crimes, como dito por Tiffany em " Dentista ". Ele era visto como uma espécie de mestre por sua antiga gangue criminosa.
+
+- Jake é daltônico, como dito por Finn na HQ " Laundromarceline ". No entanto, as HQs não são consideradas cannons.
+
+- Ele costuma comer macarrão quando está irritado, como visto em " Vem Comigo ".
+
+- Ele afirmou que usa calças invisíveis feitas de teias de aranhas por duendes em " Donny "
+
+- Aparentemente ele deseja muito trabalhar como carteiro, como dito em " Princesa Biscoito ".
+
+- Em " Festinha de Princesas " e " O Príncipe das Caixas " ele diz que odeia gatos por "uma coisa que eles fizeram".
+
+- Jake tinha um grande medo de vampiros, mas o perdeu quando fez amizade com Marceline .
+
+- Tecnicamente, ele e Rei Gelado são ex-maridos, por conta dos eventos do episódio " Quando os Sinos de Casamento Derretem ".
+
+- Em " Obrigado ", ele usa a Coroa de Rei Gelado , porém ele não sofre seus efeitos, já que a coroa ainda tinha um usuário vivo.
+
+- Jake usa óculos para leitura em algumas ocasiões.
+
+- Originalmente ele devia ter uma irmã chamada Jessica, mas a ideia for descartada.
+
+- Ele é o terceiro melhor jogador de Castelo de Kompy .
+
+- Jake e seu irmão Jermaine conseguem se comunicar pelos sonhos, visto pela primeira vez em " Cristais Tem Poder ".
+
+- Ele era visto como uma espécie de mestre por sua antiga gangue criminosa.
+
+
+### Referências culturais
+
+- Jake sabe tocar " Eine Kleine Nachtmusik " de Mozart, " Sonata ao Luar - 14ª sonata " e " Sinfonia N.º 5 " de Beethoven, na Viola .
+
+- O nascimento de Jake é semelhante ao da deusa grega Atena, que nasceu da cabeça de Zeus.
+
+- O design de Jake é semelhante a Dogbert de " Dilbert " .

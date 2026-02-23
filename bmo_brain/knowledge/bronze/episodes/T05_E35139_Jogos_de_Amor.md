@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 35139
 nome: "Jogos de Amor"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Jogos_de_Amor"
 data_exibicao: "31/03/2014"
 diretor: "Elizabeth Ito (supervisora) Nick Jennings (art)"
 roteiro: "Kent Osborne Jack Pendarvis Pendleton Ward Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Jogos_de_Amor"
 ---
 
 # Jogos de Amor
 
 **Temporada 5 — Episódio 35139**
+
+## Descrição
+" Jogos de Amor " é o 35º episódio da 5ª temporada de Hora de Aventura . É o 139º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Princesa Geleca precisa de um marido, ou então ela vai perder o Reino Geleca para sua irmã desagradável. Finn entra em cena para salvar o dia, mas primeiro eles terão de vencer uma série de Jogos de Amor para provar ao pai da Princesa Geleca que eles estão realmente apaixonados.
@@ -25,20 +49,69 @@ A primeira prova e cantar, a canção mais melosa e emotiva determinada por Anci
 Ancião Plops anuncia que a Princesa Geleca segue sendo a governante do reino geleca, os cidadãos exigem que Finn e a Princesa Geleca se beijem. A Princesa Geleca pergunta a Finn o que ele acha, e Finn diz que não quer decepcionar todas aquelas pessoas, de repente quando vão se beijar a Princesa Gosminha começa a vomitar, e diz que não pode fazer isto, e assim acaba o episodio.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Geleca
+
 - Blargata
+
 - Ancião Plops
+
 - Guillermo
 
+
 ### Secundários
+
 - Dona Tromba
+
 - Sr. Porco
+
 - Princesa Cachorro Quente
+
 - Guardiões de Chiclete
+
 - Rei Gelado
+
 - BMO
+
 - Princesa de Fogo (mencionada)
+
 - Caracol
+
+## Músicas
+- " Eu Não Esqueço Você "
+
+## Curiosidades
+- É a primeira aparição do Reino Geleca .
+
+- É visto que o Rei Gelado ainda mora com Finn e Jake .
+
+- Neste episodio da para perceber que Finn ainda não esqueceu a Princesa de Fogo .
+
+- Esse é o primeiro episódio com storyboard por Andy Ristaino .
+
+- A Princesa Geleca diz que não tem mais interesse por Finn .
+
+- Finn chama Rei Gelado de Simon.
+
+- Esse é o episodio de Hora de Aventura com mais insinuações sexuais, junto com " All the Little People " e " Te Peguei! ".
+
+- É revelado que Dona Tromba e Sr. Porco já conheciam o Reino Geleca .
+
+- A melhor balada de Ooo fica no reino Geleca.
+
+- Na prova da conchinha a Princesa Geleca diz:"vamos Finn, coloque essa bela cobra em mim.", que é uma referência sexual.
+
+- A voz auto-tune de Finn não está presente quando ele canta " Eu Não Esqueço Você ".
+
+- Pelo que a Princesa Gosminha disse, parece que existe vários Reinos Gelecas, já que ela diz que Guilermo veio de um Reino Geleca distante.
+
+## Censuras
+- É censurado quando Rei Gelado diz que pode se casar com a Princesa Geleca .
+
+- Uma das partes da Prova da Conchinha foi censurada.

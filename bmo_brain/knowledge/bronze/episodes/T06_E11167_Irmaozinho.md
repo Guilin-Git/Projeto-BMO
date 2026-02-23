@@ -1,15 +1,35 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 11167
 nome: "Irmãozinho"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Irm%C3%A3ozinho"
 data_exibicao: "10/07/2014"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Irm%C3%A3ozinho"
 ---
 
 # Irmãozinho
 
 **Temporada 6 — Episódio 11167**
+
+## Descrição
+" Irmãozinho " é o 11º episódio da 6ª temporada de Hora de Aventura . É o 166 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+## Créditos
+
+### História
+
+Pendleton Ward Jack Pendarvis Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Shelby é atirado em um novo papel depois de um acidente de festa.
@@ -34,7 +54,69 @@ O terceiro item é a chama sagrada. Ele continua e é saudado por um rato ninja.
 Ele, então, pega sua espada e vai direto aos dentes do rato. A cena muda para Shelby vendo tanto Finn e Jake ser feliz. Shelby começa a cantar sobre seu irmão. Aos poucos, a voz de Kent vem e ambos começam a cantar ao mesmo tempo. Após isso, Shelby e Kent ficam felizes, mas, em seguida, Shelby escreve sobre como o seu irmão, devido a sua ingestão da gota de orvalho, precisa voltar pra lá. Talvez ele estivesse indo para as ofertas que os ratos fizeram, mas ele só sabia que, devido à quebra da maldição do Rei Rato, o salgueiro vai florescer pela primeira vez. A cena muda para o salgueiro, que floresceu com flores cor de rosa e o episódio termina.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Shelby
+
 - Kent
+
 - Rei Rato
+
+
+### Menores:
+
+- Finn
+
+- Jake
+
+- Besouro Dançarino
+
+- Barba de Folha
+
+- Ferreiro
+
+- Mago Rato
+
+- Cavaleiro Rato
+
+- Caracol
+
+## Curiosidades
+- O Irmão do Shelby baseia-se no conceito em que as minhocas podem ter dois segmentos de vida, quando divididas em duas.
+
+- Kent pode andar, mesmo sendo um verme, mais Shelby não pode.
+
+- Esta é a primeira vez que vemos a Casa na Árvore com flores, talvez porque estejam na primavera, em luto ao refri, ou em homenagem á Madeleine Flores, pois esse foi o primeiro episódio escrito por ela.
+
+- A cena de Parkour de Shelby no início do episódio faz uma referência a série "The Office",com Shelby gritando "Parkour".
+
+- Kent lembra um Parasita Científico .
+
+- A fabricação da espada,pode ser uma referencia a série de videojogos The Legend of Zelda,no qual as "Quatro Espadas",são feitas de objetos sagrados que precisam ser coletados.
+
+## Referências Culturais
+- O retorno de Kent para o metro, devido à co-participação do orvalho é semelhante ao mito de Perséfone, que deve retornar ao Hades durante o inverno devido a comer várias sementes de romã, enquanto sob a terra depois de se tornar sua rainha.
+
+- A Luta do Irmão do Shelby contra o rei dos ratos, e o próprio Irmão assemelham-se ao Kirby do jogo:Kirby:Return to Dream Land.
+
+## Conexões de Episódios
+- A dança que o Besouro Dançarino fez foi a que Jake fez em " Incansável ". Ele também está dançando a mesma música.
+
+- Kent lembra um Parasita Científico que foi visto em vários episódios da série.
+
+- A premissa deste episódio é semelhante ao do episódio desfeito, "Brothers in Insomnia", a única mudança sendo Shelby e seu irmão serem o foco principal do episódio, em vez de Finn e Jake.
+
+- A espada verde de Kent lembra a Espada da Grama .
+
+- Ele também está dançando a mesma música.
+
+## Erros
+Quando Shelby está cantando, avia dois pregos na janela mas no fim da musica um deles desaparece.
+
+## Censuras
+- Um Besouro Bebendo em um Copo (alusão à bebidas alcoólicas).
+
+- Quando Shelby lê o bilhete ele lê o nome "Butterson" e não leu a palavra "Butty", que liretalmente significa "traseiro", "bumbum".
+
+- Parte de Kent confuso e perguntando pela segunda vez aonde está.

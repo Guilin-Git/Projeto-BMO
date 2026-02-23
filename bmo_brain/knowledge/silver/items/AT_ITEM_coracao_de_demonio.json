@@ -1,0 +1,13 @@
+{
+  "id": "AT_ITEM_coracao_de_demonio",
+  "tipo": "objeto",
+  "nome": "Coração de Demônio",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Cora%C3%A7%C3%A3o_de_Dem%C3%B4nio",
+  "sections": {
+    "descricao": "# Coração de Demônio",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "O Coração de Demônio tem a aparência de um coração humano comum com as colorações normais, mas tem várias bocas e espinhos nele.",
+    "curiosidade": "- É o itens que aumenta a força temporariamente no jogo Adventure Time: Explore the Dungeon Because I DON'T KNOW!"
+  },
+  "source_file": "Coracao_de_Demonio.md"
+}

@@ -1,10 +1,18 @@
 ---
 tipo: "lugar"
 nome: "Montanha de Matthew"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Montanha_de_Matthew"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Montanha_de_Matthew"
 ---
+
+> Montanha de Matthew é um lugar de Hora de Aventura.
 
 # Montanha de Matthew
 
 ## Descrição
 A Montanha de Matthew é uma região na Terra de Ooo . A montanha pode ser visto com um telescópio a partir de agora. A montanha foi explorada por Finn e Limãograb 3 como também eles lutaram por cima de obstáculos espirituais dentro da montanha. Jake não era permitido na montanha. A montanha também tem uma seção onde Matthew (o governante) estava vivendo. É acessível uma vez que todos os obstáculos são completados.
+
+## Interior
+O interior da montanha é uma enorme caverna com pedras irregulares castanhos e gotejamento de água. O interior da montanha também é mostrado para ter um caminho que leva a três painéis de vidro, onde um ser que explora a caverna deve escolher entre três opções para continuar sua jornada (mostrado em " A Montanha "). As escolhas estão relacionadas com a mente e, em seguida, usado como um obstáculo. Uma vez que o obstáculo espiritual é completado, o ser poderá entrar com uma seção onde eles iriam se deparar com Matthew (o governante).
+
+## Experiência
+Só um ser com problemas ou algo causando-lhes desconforto mental podem entrar na montanha. Um ser que explora a montanha vai se deparar com três painéis de vidro, onde três opções serão exibidas em sua direção para decidir como eles continuam sua jornada. As escolhas estão relacionadas com a mente do ser e depois usado como um obstáculo. Estes obstáculos são para desestressar um ser problemas e usar os seus factores perturbadores em sua mente para conquistar estes problemas. Os obstáculos foram visto em "The Mountain" com o Finn e Limãograb 3 estavam explorando a montanha e os seus pensamentos conturbados foram usados como um obstáculo na montanha. Uma vez que o obstáculo espiritual é completado, o ser poderá entrar com uma seção onde eles iriam se deparar com Matthew (o governante). No entanto, devido aos acontecimentos de "A Montanha", Matthew está falecido e a situação atual da montanha é desconhecida.

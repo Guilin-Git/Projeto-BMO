@@ -1,0 +1,86 @@
+{
+  "id": "AT_S10E002",
+  "tipo": "episodio",
+  "nome": "Você Viu a Bagunça dos Bolinhos?",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E002_meta",
+      "text": "[Episódio: Você Viu a Bagunça dos Bolinhos? (Temporada 10, Ep 2)]\nDiretor: Andres Salaff\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E002",
+        "temporada": 10,
+        "numero_ep": 2,
+        "nome": "Você Viu a Bagunça dos Bolinhos?",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E002_sinopse",
+      "text": "[Episódio: Você Viu a Bagunça dos Bolinhos? (Temporada 10, Ep 2)]\nSinopse: Finn e Jake ajuda Princesa Jujuba à lutar contra uma praga.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E002",
+        "temporada": 10,
+        "numero_ep": 2,
+        "nome": "Você Viu a Bagunça dos Bolinhos?",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E002_informacoes",
+      "text": "[Episódio: Você Viu a Bagunça dos Bolinhos? (Temporada 10, Ep 2)]\nInformacoes:\n### Temporada\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E002",
+        "temporada": 10,
+        "numero_ep": 2,
+        "nome": "Você Viu a Bagunça dos Bolinhos?",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E002_creditos",
+      "text": "[Episódio: Você Viu a Bagunça dos Bolinhos? (Temporada 10, Ep 2)]\nCreditos:\n### Diretor\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E002",
+        "temporada": 10,
+        "numero_ep": 2,
+        "nome": "Você Viu a Bagunça dos Bolinhos?",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E002_curiosidades",
+      "text": "[Episódio: Você Viu a Bagunça dos Bolinhos? (Temporada 10, Ep 2)]\nCuriosidades:\n- A cabana de Gumbald foi transformada em muffins pelos micróbios fazendo os se fundir com a doença do Finn e cria um muffin mutante gigante.\n\n- Esse curta é uma historia de acordo com o Tumblr de Steve Wolfhard .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E002",
+        "temporada": 10,
+        "numero_ep": 2,
+        "nome": "Você Viu a Bagunça dos Bolinhos?",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E002_conexoes_de_episodios",
+      "text": "[Episódio: Você Viu a Bagunça dos Bolinhos? (Temporada 10, Ep 2)]\nConexoes_De_Episodios:\n- Finn ainda está doente com os germes do rato do curta anterior .\n\n- Princesa Jujuba ainda está sem seu trono seguindo os acontecimento de Grande Destruição .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E002",
+        "temporada": 10,
+        "numero_ep": 2,
+        "nome": "Você Viu a Bagunça dos Bolinhos?",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

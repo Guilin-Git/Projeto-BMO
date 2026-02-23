@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 1997
 nome: "Lady & Jujuba"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Lady_%26_Jujuba"
 data_exibicao: "27/05/2013"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Lady_%26_Jujuba"
 ---
 
 # Lady & Jujuba
 
 **Temporada 4 — Episódio 1997**
+
+## Descrição
+" Lady & Jujuba " é o 19º episódio da 4ª temporada de Hora de Aventura . É o nonagésimo sétimo (97º) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Lady Íris e Princesa Jujuba saem em busca de Finn e Jake que desapareceram em uma batalha contra o Rei Gelado .
@@ -29,14 +53,51 @@ Jujuba olha para seu corpo e diz que se casa com ele se ganhar uma batalha corpo
 No Hospital, Finn e Jake acordam, Finn conta a princesa que Ricardio voltou e que está super sinistro. Ela diz que já deu um jeito nele e diz que foram 2 dias para trazerem eles na Lady íris mais 1 hora para fazer o antídoto e mais 15 minutos para fazer um novo coração pro Rei Gelado com caramelos e maracais. Ele começa dançar e Jujuba manda ele ir embora. Lady Íris acorda e pergunta a Princesa se Jake está bem, ela diz que sim e também que não sabia e não devia ter colocado ela em perigo. Ela pede desculpas por não ter contado antes, Lady vai falar com Jake e ele fica feliz ela começa e Jake acha estranho. Lady diz "I Am Pregnant!" (Estou grávida), Jake surpreendido diz "Vou ter Filhotes?! ".
 
 ## Personagens
+
 ### Principais
+
 - Lady Íris
+
 - Princesa Jujuba
+
 - Ricardio
 
+
 ### Secundários
+
 - Finn
+
 - Jake
+
 - Rei Gelado
+
 - Filhotes de Jake e Lady (mencionados)
+
 - Zumbis Doces (mencionados)
+
+## Curiosidades
+- É a segunda vez em que Lady fala inglês e a segunda que ela fala português, (a primeira foi em " Pânico na Festa do Pijama ) isso pode ou não ser um erro.
+
+- É o último episódio em que Ricardio aparece. Com isso, Rei Gelado ganha um novo coração de caramelo e maracas.
+
+- No final do episódio, Lady Íris revela estar grávida (em inglês).
+
+- É o segundo episódio em que Finn e Jake não são os personagens principais.
+
+- É o primeiro episódio em que Jujuba aparece lutando.
+
+- Se pode observar no Cartão de título, que os rostos de Finn e Jake , estão riscados (incluindo uma da Princesa Jujuba com 13 anos), fazendo referência que o episódio tem como foco a Princesa Jujuba e a Lady Íris , e estão sobre algo engilhado e vermelho, com cordões vermelhos também.
+
+- Ricardio nesse episódio parece uma Forma de Majora de The Legend of Zelda: Majora's Mask .
+
+- Lady Íris só disse uma frase em português, que foi " Rei Gelado! ", quando que a versão dos EUA ela falou em inglês que estava grávida, enquanto aqui não foi traduzido.
+
+- Lady Íris menciona os Zumbis Doces.
+
+- Ricardio tem uma aparência e um dublador diferente neste episódio.
+
+- Ricardio chama o Rei Gelado de Simon quando passa por ele enquanto este está desmaiado.
+
+- No monitor de coração da Princesa Jujuba aparece 5 sinais cardíacos, que são os filhotes de Lady Íris .
+
+- A Princesa Jujuba foi a primeira a saber que Lady Íris estava grávida.

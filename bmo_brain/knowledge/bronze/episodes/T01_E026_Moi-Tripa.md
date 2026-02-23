@@ -1,16 +1,45 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 26
 nome: "Mói-Tripa"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_M%C3%B3i-Tripa"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Tim McKeon"
 codigo_producao: "692-024"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_M%C3%B3i-Tripa"
 ---
 
 # Mói-Tripa
 
 **Temporada 1 — Episódio 26**
+
+## Descrição
+" O Mói-Tripa " é o 26º episódio da 1ª temporada de Hora de Aventura . É o vigésimo sexto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Tim McKeon
+
+
+### Escritor
+
+- Bert Youn
+
+- Ako Castuera
 
 ## Sinopse
 Quando o ouro de várias aldeias são devorados por uma criatura chamada de "Mói-Tripa", Finn e Jake saem em busca de descobrir quem é o culpado, enquanto Jake tenta manter os pensamentos que ele é o Mói-Tripa real.
@@ -27,13 +56,55 @@ Finn então elabora um plano para atrair o Mói-Tripa fora no aberto usando dent
 As pessoas espetos se aproximam o cadáver do Mói-Tipa e descobrem que é, na verdade, a esposa do Chefe Espeto, Sharon , em um traje. Ela roubou todo o ouro, porque ela queria ir às compras, e usando Jake como um disfarce. Com o mistério resolvido, o Povo Espeto querem dar a Finn e Jake um abraço, terminando com a ambos gritando em agonia.
 
 ## Personagens
-### Principais
+
+### Personagens Principais
+
 - Finn
+
 - Jake
+
 - Mói-Tripa/Sharon
 
-### Secundários
+
+### Personagens Secundários
+
 - Povo Macio
+
 - Povo Cúbico
+
 - Povo Espeto Prefeito Espeto
+
 - O Caracol
+
+- Prefeito Espeto
+
+## Localização do Caracol
+Aparece no final do episódio enquanto o Prefeito Espeto agradece à Finn e Jake .
+
+## Curiosidades
+- Após Jake leva o dente de ouro de Finn, um bilhete que caiu de sua mochila escrito: "Não perca este papel.-PB ( Princesa Jujuba )".
+
+- No final do episódio, o logotipo "Adventure Time" foi mostrado destruído (veja a galeria).
+
+- Este é o último episódio a ter Derek Drymon creditado como produtor executivo.
+
+- O cartão do título exibe três pessoas presas dentro do olho do Mói-Tripa gritando (veja a galeria).
+
+- Quando Jake diz que pode ser o Mói-Tripa enquanto dorme, Finn diz que não porque ele o vigia a noite e tira fotos.
+
+- É o ultimo episódio da 1ª temporada.
+
+- O nome original desse episódio era "O Mói-Tripas.
+
+- É revelado que Jake odeia que Finn toque sua Viola, pois ele toca muito ruim.
+
+- Finn diz que seu umbigo se parece com Jake.
+
+- O último episódio da primeira temporada seria um chamado "Torre de Ossos", mas foi um episódio descartado, e então, ficou este.
+
+## Erros
+- Neste episódio, Finn diz que Jake tem sido o seu melhor amigo durante o tempo que ele pode se lembrar, mas em " Lembranças da Montanha Boom Boom ", Finn fala-se sozinho na floresta como um bebê.
+
+- Quando Finn toca viola para liberar Jake de seu estado Mói-Tripa, ele segurou o arco da viola com a mão esquerda, mas a cena seguinte mostrou que ele segurava o arco com a mão direita.
+
+- Quando Jake esta voltando ao tamanho normal, ele está segurando sua viola, mas quando ele está no tamanho normal, sua viola desaparece.

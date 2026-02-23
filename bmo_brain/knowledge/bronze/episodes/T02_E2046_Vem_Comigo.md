@@ -1,16 +1,49 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 2046
 nome: "Vem Comigo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Vem_Comigo"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1002-046"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Vem_Comigo"
 ---
 
 # Vem Comigo
 
 **Temporada 2 — Episódio 2046**
+
+## Descrição
+" Vem Comigo " é o 20º episódio da 2ª temporada de Hora de Aventura . É o 46º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Patrick McHale
+
+- Kent Osborne
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Ako Castuera
+
+- Tom Herpich
 
 ## Sinopse
 Á noite terá um cinema para namorados e Finn resolve chamar a Princesa Jujuba , mas ela não está interessada, então ele pede ajuda á Jake e Marceline para conquistá-la.
@@ -45,14 +78,53 @@ Finn cai no sofá deprimido, Marceline então explica que não quer namorar com 
 Na Noite de Casais, Finn conversava com Marceline quando o filme começou. Finn e Marceline começaram a ficar enjoados vendo todos os casais se beijando. Finn então diz para Marceline "Você me da a honra de cair fora daqui"., Marceline aceita e os dois saem com os lobos e quebram a tela do cinema.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Marceline
+
 - Princesa Jujuba
 
+
 ### Secundários
+
 - Povo Doce Guarda Banana Sra. Pirulito Sr. Sorvete Gominha 1
+
 - Lady Íris
+
 - Lobos
+
 - Caracol
+
+- Guarda Banana
+
+- Sra. Pirulito
+
+- Sr. Sorvete
+
+- Gominha 1
+
+## Curiosidades
+- Nesse episódio o cabelo de Marceline está meio raspado.
+
+- Somente neste episódio Marceline chama a Princesa Jujuba de "Jiloba" e "Bonnie".
+
+- De acordo com Finn, quando Jake está com raiva, ele come espaguete para se acalmar. Isto é demonstrado mais tarde no episódio.
+
+- Finn não se queixa do sofá da Marceline neste episódio, mas ele alegou que é duro como pedra em " Assinatura de Calor ".
+
+- Na casa de Marceline há quatro lápides ao lado.
+
+- Neste episódio Finn foi banido do Reino Doce pela Princesa Jujuba, e só é visto lá depois em " Folia Mortal ".
+
+- Neste episódio Marceline revela o primeiro nome da Princesa Jujuba , "Bonnibel".
+
+- O cartão de titulo é a mesma cena em Jovem Demais que Finn olha pra Jujuba no castelo.
+
+- Marceline falou Errado na parte do plano do Jake,ela fala "Galota"
+
+- A mesma música do cartão titulo toca no cinema

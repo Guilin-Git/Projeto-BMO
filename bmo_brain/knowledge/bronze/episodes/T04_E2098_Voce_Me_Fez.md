@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 2098
 nome: "Você Me Fez"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Voc%C3%AA_Me_Fez"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-099"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Voc%C3%AA_Me_Fez"
 ---
 
 # Você Me Fez
 
 **Temporada 4 — Episódio 2098**
+
+## Descrição
+" Você Me Fez " é o 20º episódio da 4ª temporada de Hora de Aventura . É o 98º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 O Conde de Limãograb fica louco de solidão, pois ninguém entende seu jeito azedo de ser, e culpa a Princesa Jujuba por tê-lo feito assim.
@@ -29,14 +50,59 @@ Finn, Jake e a Princesa Jujuba, correm para o Reino Limão, Princesa Jujuba diz 
 O episodio termina com Finn, Jake e a Princesa Jujuba despedindo-se dos Condes de Lemongrab.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Conde de Limãograb
+
 - Gangue dos Cães
 
+
 ### Secundários
+
 - Povo Doce Moranguinha Starchy Guardas Banana Senhor Bolinho Crocante Mordomo Menta Conde de Limãograb 2 Camelo Limãograb Cavalo Alado Limãograb
+
 - Caracol
+
 - Chamusco (em um cartaz de procurado)
+
+- Moranguinha
+
+- Starchy
+
+- Guardas Banana
+
+- Senhor Bolinho
+
+- Crocante
+
+- Mordomo Menta
+
+- Conde de Limãograb 2
+
+- Camelo Limãograb
+
+- Cavalo Alado Limãograb
+
+## Curiosidades
+- Nas câmeras de segurança do Guardas Banana, é possível ver o Senhor Bolinho com o braço quebrado, antes de tê-lo quebrado.
+
+- Em uma cena, na cabine dos Guardas Banana está um desenho de Chamusco , escrito "Procurado".
+
+- Aparentemente Limãograb ficou louco porque estava solitário.
+
+- Na arte promocional, é visto a Gangue dos Cães jogando uma bola de basquete em Jake , como ele havia dito.
+
+- É mostrado que o Conde de Limãograb tem várias luvas de baseball. Ele mantém cada uma delas em uma sala separada em seu castelo.
+
+## Erros
+- Quando Conde de Limãograb usa a espada de som da Gangue dos Cães , seu sapatos desaparecem em um segundo.
+
+## Referência Cultural
+- No cartão de titulo do episodio é possível ver a Princesa Jujuba em um laboratório com geringonças e muita eletricidade; uma referência ao filme clássico de horror Frankeinsten.

@@ -1,17 +1,41 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 2476
 nome: "Princesa Fantasma"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Princesa_Fantasma_(Epis%C3%B3dio)"
 data_exibicao: "30/01/2012"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-077"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Princesa_Fantasma_(Epis%C3%B3dio)"
 ---
 
 # Princesa Fantasma
 
 **Temporada 3 — Episódio 2476**
+
+## Descrição
+Princesa Fantasma é o vigésimo quarto episódio da terceira temporada de Hora de Aventura . E o setuagésimo sexto no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake vão ao cemitério para descobrir a causa da morte de Princesa Fantasma , enquanto ela encontra o seu verdadeiro amor , revelando seu passado trágico.
@@ -30,11 +54,56 @@ Momentos depois, Jake reconhece Clarence está dizendo "Minha vida é como um pu
 Clarence, então, começa a ascender ao 50° Mundo dos Mortos com a Princesa Fantasma, por ter descoberto a causa de sua morte. Os dois têm um apaixonado beijo nos lábios quando eles evaporam-se no céu. De volta ao acampamento, Jake come um cachorro-quente com queijo derretido, superando seu trauma.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Fantasma
+
 - Clarence
 
+
+### Menores
+
+- Babolha
+
+- Tonya
+
+- Fantasmas Dançarinas
+
+- Fantasmas Fortes
+
+- Caracol
+
 ## Curiosidades
-==Referências Culturais==
+- Em sua vida mortal, Princesa Fantasma era originalmente conhecida como a Princesa Guerreira e também tinha o cabelo loiro .
+
+- Quando o locutor apresenta as Fantasmas Dançarinas , ele menciona um site com o nome de ghostdates.com.
+
+- No caixão de Clarence tem um escudo em sua tampa, enquanto no caixão da Princesa Fantasma há as letras gregas Alfa e Ômega na tampa.
+
+- No iTunes, este episódio, junto com os episódios de " Outro Jeito ", " Calabouço do Papai " e " Incêndio " são rotulados incorretamente como parte da quarta temporada.
+
+- Os tesouros roubados pelo Jake são: um braço de plástico a partir de uma figura de ação, um lápis, um refrigerante de lata vazia, um anel, um rolo de fita adesiva, um invólucro, uma chave, um biscoito, uma carteira, um brinco , um dado de seis lados, um dado de vinte faces, um saco de mojo mágica, um antigo crânio, algumas bolinhas de gude, algumas moedas, algumas pedras, um mouse de um computador, e no punho da adaga de Clarence.
+
+- Pendleton Ward afirmou na Comic Con 2012, que, devido à censura do Cartoon Network os escritores tiveram que mudar toda a palavra "murder" (assassinato) para "moitered" e "murtlelurtle".
+
+- É a segunda vez que Finn desenterra uma princesa já falecida. A primeira foi a Princesa Beleza em " Para Cortar os Cabelos de uma Mulher ".
+
+- Parece que Jake ficou traumatizado por comer queijo derretido porque viu Clarence morrer por queijo derretido.
+
+- A arte alternativa desse episódio é uma paródia ao cartaz do filme de terror do ano de 1987, The Lost Boys.
+
+- A construção semi-circular onde a Princesa Fantasma, Clarence e os outros espíritos foram assistir o espetáculo, é uma clara referência à arquitetura dos teatros da Grécia antiga do período clássico (século IV a.C.).
+
+## Erros
+- Clarence deve ter sido morto recentemente devido ao fato de que Jake (já adulto) testemunhou sua morte, a porém Princesa fantasma esteve no Cemitério à mais tempo do que quase todo os Fantasmas de acordo com o Babolha o indivíduo enterrado ao lado dela o que parece indicar que ela morreu há muito tempo no passado.
+
+- Seria impossível para Clarence, Princesa Fantasma e Babolha comer o salgadinho, como eles iriam através deles, a menos que esta era uma espécie de marca de fantasmas.
+
+- Clarence jogou dois salgados para Babolha. No entanto, quando ele volta para seu túmulo, apenas uma é mostrada.
+
+- A mini-espada que estava pendurado no chifre esquerdo de Clarence passa para seu chifre direito, quando ele diz: "Eu não posso, minha alma está presa."

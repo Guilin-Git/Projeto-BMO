@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_templo_das_metaforas",
+  "tipo": "objeto",
+  "nome": "Templo das Metáforas",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_templo_das_metaforas_descricao",
+      "text": "[Objeto: Templo das Metáforas]\nDescricao:\n# Templo das Metáforas\n\nTemplo das Metáforas (em inglês: Metaphor Temple ) é um jogo de texto de Aventura e RPG que Finn joga no episódio \" Eu sou uma Espada \". O jogo foi criado por alguém desconhecido que se chama Charlie. Jake o descreve como um \"jogo cerebral\".",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_templo_das_metaforas",
+        "nome": "Templo das Metáforas",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_templo_das_metaforas_informacoes",
+      "text": "[Objeto: Templo das Metáforas]\nInformacoes:\n### Tipo\n\n### Criador\n\n### Dono",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_templo_das_metaforas",
+        "nome": "Templo das Metáforas",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_templo_das_metaforas_aparicoes",
+      "text": "[Objeto: Templo das Metáforas]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_templo_das_metaforas",
+        "nome": "Templo das Metáforas",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

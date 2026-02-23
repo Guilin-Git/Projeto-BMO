@@ -1,0 +1,38 @@
+{
+  "id": "AT_PLACE_vilarejo_dos_pequenos_aldeoes",
+  "tipo": "lugar",
+  "nome": "Vilarejo dos Pequenos Aldeões",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_vilarejo_dos_pequenos_aldeoes_descricao",
+      "text": "[Lugar: Vilarejo dos Pequenos Aldeões]\nDescricao:\n# Vilarejo dos Pequenos Aldeões\n\nEste é um pequeno assentamento agrário feito pelos Aldeões mostrado em A Visita . Os aldeões logo o abandonaram e vieram a morar na Casa na Árvore .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vilarejo_dos_pequenos_aldeoes",
+        "nome": "Vilarejo dos Pequenos Aldeões",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_vilarejo_dos_pequenos_aldeoes_informacoes",
+      "text": "[Lugar: Vilarejo dos Pequenos Aldeões]\nInformacoes:\n### Localização\n\n### Tipo\n\n### Residentes",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vilarejo_dos_pequenos_aldeoes",
+        "nome": "Vilarejo dos Pequenos Aldeões",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_vilarejo_dos_pequenos_aldeoes_sobre",
+      "text": "[Lugar: Vilarejo dos Pequenos Aldeões]\nSobre:\nA vila possuí um reservatório de água, e grandes áreas para a plantação de milho. A nave de Martin cai do lado da vila. Para construir outra e escapar da li, ele engana os aldeões para trabalharem para ele. No entanto ele é interrompido por seu filho, Finn , que impede que a antiga nave exploda e tira todos os aldeões do lugar e os leva para a Casa na Árvore.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vilarejo_dos_pequenos_aldeoes",
+        "nome": "Vilarejo dos Pequenos Aldeões",
+        "secao": "sobre"
+      }
+    }
+  ]
+}

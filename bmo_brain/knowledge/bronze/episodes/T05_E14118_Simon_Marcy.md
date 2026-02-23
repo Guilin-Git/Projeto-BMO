@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 14118
 nome: "Simon & Marcy"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Simon_%26_Marcy"
 data_exibicao: "16/09/2013"
 diretor: "Adam Muto (supervisão) Nick Jennings (arte)"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Simon_%26_Marcy"
 ---
 
 # Simon & Marcy
 
 **Temporada 5 — Episódio 14118**
+
+## Descrição
+" Simon & Marcy " é o 14º episódio da 5ª temporada de Hora de Aventura . É o centésimo octagésimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Marceline conta a Finn e Jake sobre seu passado com o Rei Gelado em um flashback de 996 anos atrás.
@@ -26,18 +50,75 @@ Com o final do dia, Simon arruma o acampamento para os dois. O cervo que ele con
 
 Simon decide que Marcy precisa de canja de galinha, e se lembra que viu um mercadinho na cidade que eles recentemente passaram. Não querendo que Marcy andasse todo o percurso, ele encontrou uma motocicleta abandonada, mas perde o controle quando ele tenta dirigir-la, e ela explode depois de bater em uma parede. Ainda não querendo que Marcy andasse, Simon a empurra em uma cadeira com rodas por toda cidade. Ele canta e faz beatboxes ao longo de todo o caminho para alegrar Marcy. Uma vez que a porta estava trancada, Simon quebra a janela para conseguir entrar no mercadinho, mas ele adverte Marcy dizendo que vandalismo é errado. As prateleiras do mercadinhos estão todas vazias (exceto por alguns cartões de aniversário). Só então, Marcy olha pelo espelho de segurança no final do corredor, e percebe algo cambaleando pelo próximo corredor. Simon para sobre as prateleiras e fica chocado ao ver um tipo estranho de criatura mutante . Alertado sobre a sua presença, ele avança em direção a eles, mas Simon bate na criatura esmagando sua cara com a cora, e eles fogem.
 
-Mais tarde, Simon e Marcy buscam mais fundo pela cidade abandonada, andando por um largo escoamento de esgoto. Marcy parece pior, mas Simon percebe um caminhão de comida abandonado sobre uma ponte quebrada que passa sobre eles. Eles escalam até lá em cima só para ver que é um caminhão de mariscos chamado de "Mariscambulância". Frustrado, Simon pede a Marcy que tapasse seus ouvidos enquanto ele bravejava e chutava o caminhão. De repente, algumas criaturas começam a sair de baixo e dentro do caminhão. Simon empurra o caminhão para fora da ponte com as criaturas dentro, mas a sirene do caminhão começa a tocar depois de colidir com o chão. Isso atraiu uma horda de criaturas, que perseguiram Simon e Marcy para um beco sem saída. Para proteger Marcy, Simon é forçado a colocar a coroa e tenta ficar normal cantando a música " Where Everybody Knows Your Name " (de Gary Portnoy), Simon deixa seus óculos cair,  Simon desceu com a barba e cabelo grande, parecendo a forma atual do rei gelado, então ele retira a coroa e volta a ser Simon assustado. No entanto, desta vez, a maioria dos efeitos da coroa não vão embora (a sua barba é a única coisa que volta ao tamanho normal). Canja de galinha e um abridor de latas caem sobre uma substância rosa agarrada ao lado da construção. Após uma inspeção mais próxima, essa substância parece ter um um rosto, que sorri para Simon. Esse rosto é o de Princesa Jujuba já que ela tem mais de 2 Milhões de Anos. Ele então usa a sopa para cura Marcy. Ela diz que o ama e o abraça, e parece estar feliz por tudo ter acabado. Porém, em seguida, Simon diz: "Eu te amo... Gunter". Isso prova que foi a coroa que o deixou louco.
+Mais tarde, Simon e Marcy buscam mais fundo pela cidade abandonada, andando por um largo escoamento de esgoto. Marcy parece pior, mas Simon percebe um caminhão de comida abandonado sobre uma ponte quebrada que passa sobre eles. Eles escalam até lá em cima só para ver que é um caminhão de mariscos chamado de "Mariscambulância". Frustrado, Simon pede a Marcy que tapasse seus ouvidos enquanto ele bravejava e chutava o caminhão. De repente, algumas criaturas começam a sair de baixo e dentro do caminhão. Simon empurra o caminhão para fora da ponte com as criaturas dentro, mas a sirene do caminhão começa a tocar depois de colidir com o chão. Isso atraiu uma horda de criaturas, que perseguiram Simon e Marcy para um beco sem saída. Para proteger Marcy, Simon é forçado a colocar a coroa e tenta ficar normal cantando a música " Where Everybody Knows Your Name " (de Gary Portnoy), Simon deixa seus óculos cair, Simon desceu com a barba e cabelo grande, parecendo a forma atual do rei gelado, então ele retira a coroa e volta a ser Simon assustado. No entanto, desta vez, a maioria dos efeitos da coroa não vão embora (a sua barba é a única coisa que volta ao tamanho normal). Canja de galinha e um abridor de latas caem sobre uma substância rosa agarrada ao lado da construção. Após uma inspeção mais próxima, essa substância parece ter um um rosto, que sorri para Simon. Esse rosto é o de Princesa Jujuba já que ela tem mais de 2 Milhões de Anos. Ele então usa a sopa para cura Marcy. Ela diz que o ama e o abraça, e parece estar feliz por tudo ter acabado. Porém, em seguida, Simon diz: "Eu te amo... Gunter". Isso prova que foi a coroa que o deixou louco.
 
 Em seguida, o episódio volta para o presente. Marceline termina a historia dizendo que ela e Simon viveram felizes para sempre. Então o Rei Gelado diz para ela continuar contando historinhas enquanto ele marca mais cestas, provando que ele não tem qualquer vestígio de lembranças de si mesmo. O episódio termina com Marceline, Finn e Jake sorrindo para o Rei Gelado se divertindo e sendo feliz.
 
 ## Personagens
-### Principais
+
+### Personagens Principais
+
 - Marceline
+
 - Rei Gelado ( Simon )
 
-### Secundários
+
+### Personagens Secundários
+
 - Monstros de gosma
+
 - Mãe Goma
+
 - Finn
+
 - Jake
+
 - Caracol
+
+## Músicas
+- " Onde Todos Sabem o Seu Nome "
+
+- " Canção da Procura a Canja "
+
+## Curiosidades
+
+### Censuras
+
+- A parte em que a pequena Marcy diz que ela havia feito um "lanchinho" de tripas de veado e espinhos foi cortada no Brasil.
+
+
+### Produção
+
+- Infelizmente, este é o último episódio que Rebecca Sugar trabalhou antes de ela sair para criar Steven Universo .
+
+
+### Geral
+
+- Tem uma foto de uma explosão nuclear no correio.
+
+- Simon chama Marceline de "Gunter" enquanto estava com a coroa, e mais tarde, no final do flashback, ele faz isso de novo sem a coroa. Isso indica que Simon se afundou ainda mais na sua transformação no Rei Gelado .
+
+- Os céus nublados vistos durante todo o episódio é provavelmente resultante de um inverno nuclear ocasionado pela Guerra dos Cogumelos .
+
+- Simon tinha baquetas em sua mochila, insinuando que ele já sabia tocar bateria.
+
+- Rei Gelado e Marceline foram revelados terem se conhecido a partir de centenas de anos atrás, em " Me Lembro de Você ".
+
+- Os efeitos mutagênicos da Guerra dos Cogumelos pode ser visto na aparência das criaturas escorrendo um tipo de lodo verde de poros abertos por todo o seu corpo.
+
+- Marceline parece estar um pouco mais confortável com a presença do Rei Gelado depois do episódio " Me Lembro de Você ", como desta vez, ela o convidou para vir a sua casa e compartilhou sua história a Finn e Jake .
+
+- Marceline se esconde dentro de uma carcaça de um carro, o carro se assemelha-se a um Ford Shelby gt500 de 1965 ou um Pontiac Firebird de 1976.
+
+- As letras chinesas 水 ("água") e 人生 ("vida humana") aparecem em uma garrafa dentro do primeiro carro onde Marcy esconde dentro, isso também poderia ser interpretado como japonês kanji. Além disso, no canto superior direito do lado da televisão quebrada, há letras Japonesas, como テレビ ("televisão") pode ser encontrado.
+
+
+### Referências culturais
+
+Em uma das partes do episódio, quando Simon e Marceline se aproximam da Mariscambulância, se assemelha muito a uma das cenas do episódio Consumed (S05E6) da série The Walking Dead, que foi ao ar um ano depois.
+
+- Ambas as cenas se passam em uma cidade destruída em um mundo apocalíptico.
+
+- Os dois veículos caem da ponte.
+
+- Nas duas cenas existem um grande grupo de zumbis.

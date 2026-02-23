@@ -1,0 +1,32 @@
+{
+  "id": "AT_S10E004",
+  "tipo": "episodio",
+  "nome": "Presente do Ceifador",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/O_Presente_do_Ceifador",
+  "sections": {
+    "informacoes": "### Temporada\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+    "creditos": "### Diretor\n\n### Escritor",
+    "sinopse": "Morte tenta encontrar um presente ideal para sua namorada, Vida .",
+    "referencias_culturais": "- O design da vida parece inspirar-se no caduceu, o símbolo tradicional de Hermes que apresenta duas serpentes enroladas em torno de um cajado alado. As cobras duplas do caduceu representam a dualidade e a unificação dos opostos polares, muito parecido com o relacionamento da Vida com a Morte.",
+    "conexoes_de_episodios": "- A música de banjo ouvida no início do episódio é a mesma música ouvida em \" Historinhas \"."
+  },
+  "source_file": "T10_E004_Presente_do_Ceifador.md",
+  "season": 10,
+  "episode": 4,
+  "episode_id": "S10E004",
+  "diretor": "Andres Salaff",
+  "codigo_producao": "1025-204C",
+  "data_exibicao": "11/11/2016",
+  "characters_main": [
+    "Morte",
+    "Vida"
+  ],
+  "characters_secondary": [
+    "Finn",
+    "Jake",
+    "Gominha 1",
+    "Cuber (Card Título)",
+    "Caracol",
+    "Pai da Vida(Citado por Vida )"
+  ]
+}

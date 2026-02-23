@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_burlaula_bolaola",
+  "tipo": "objeto",
+  "nome": "Burla-ula Bola-ola",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_burlaula_bolaola_descricao",
+      "text": "[Objeto: Burla-ula Bola-ola]\nDescricao:\n# Burla-ula Bola-ola\n\nBurla-ula Bola-ola é uma arma criada pela Princesa Jujuba , que aparece somente em \" Lady & Jujuba \". Jujuba só a usou uma vez, contra as mãos do mal na Caverna de Gelo. As mãos acabaram roubando ela, no entanto. Ela atira bolas verdes que explodem ao contato. Ela parece ter uma munição de até seis bolas. Ela foi mencionada por Jake em \" Earth & Water \" pedindo a princesa para usá-la contra os monstros de neve.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_burlaula_bolaola",
+        "nome": "Burla-ula Bola-ola",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_burlaula_bolaola_aparicoes",
+      "text": "[Objeto: Burla-ula Bola-ola]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_burlaula_bolaola",
+        "nome": "Burla-ula Bola-ola",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

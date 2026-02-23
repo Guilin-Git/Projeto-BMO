@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 26130
 nome: "Só Magos, Tolos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/S%C3%B3_Magos,_Tolos"
 diretor: "Nate Cash (supervisando) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jesse Moynihan Adam Muto"
 codigo_producao: "1014-134"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/S%C3%B3_Magos,_Tolos"
 ---
 
 # Só Magos, Tolos
 
 **Temporada 5 — Episódio 26130**
+
+## Descrição
+Só Magos, Tolos é o 26º episódio da 5ª temporada de Hora de Aventura . É o 130 episódio no total .
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jesse Moynihan Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 ﻿ Starchy pede à Princesa Jujuba usar mágica para curá-lo, porém ela não acredita em mágica.
@@ -33,25 +56,91 @@ Em seu palácio, o Grande Mestre dos Magos fala ao grupo sobre uma bolha gigan
 De volta ao hospital, Abracadaniel finge usar magia de cura em Starchy. Quando ele se distrai com a magia, Finn agarra-o e a Princesa Jujuba injeta em  Starchy soro, o mesmo do início, terminando assim o episódio.
 
 ## Personagens
-### Principais
+
+### ﻿Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Abracadaniel
+
 - Polícia dos Magos
 
+
 ### Secundários
+
 - Bufo
+
 - Mago da Floresta
+
 - Mago Laser
+
 - Ron James
+
 - Grande Mestre dos Magos
+
 - Dama Maga 1 (cameo)
+
 - Dama Maga 2 (cameo)
+
 - Rei Gelado (com um feitiço de invisibilidade)
+
 - Mago Cérebro (cameo)
+
 - Estudantes Magos (cameo)
+
 - Caracol
+
 - Maga Caçadora (cameo)
+
 - Enfermeira Bolo Fofo
+
 - Starchy
+
+## Curiosidades
+- ﻿Bufo, Mago da Floresta e Mago Laser estavam planejando matar Abracadaniel.
+
+- ﻿É revelado neste episodio que a Princesa Jujuba considera a habilidade de Jake de esticar e mudar a forma de seu corpo uma mutação, ao invés de magia real.
+
+- Diferente de uma prisão típica, a prisão dos magos não tem seções separadas para homens e mulheres.
+
+- Quando a Princesa Jujuba e Abracadaniel lutam, é possível ver no fundo um personagem similar ao Furnius de " Ponto de Ignição ".
+
+- Várias referências a " Reino de Gunters " são feitas nesse episódio.
+
+- O título faz referência ao lema do grupo secretos de magos que o Rei Gelado descobriu por acaso.
+
+- Rei Gelado continua tentando se juntar ao grupo secreto dos magos, mas dessa vez usando invisibilidade.
+
+- Finn comenta como e difícil localizar-se com a falta de placas, o mesmo que o Rei Gelado comenta no episódio "Reino de Gunters".
+
+- E a segunda aparição de Abracadaniel (sem contar como brinquedo, em "All The Little People"), ele apareceu primeiramente em " Batalha dos Magos ".
+
+- Os únicos personagens conhecidos vistos no cartão de título são: Finn , jake , Princesa Jujuba , Abracadaniel , Maga Caçadora , Ron James , Xergiok ; Bufo , Mago Pelado , Mago Cérebro e um dos Estudantes Magos .
+
+- Possivelmente esse episódio faz uma crítica à doutrina de algumas vertentes cristãs Norte Americanas que proíbem incondicionalmente que seus fieis passem por consultas médicas ou mesmo tomem remédios, isto sob a crença de que "Deus vai curar tudo".
+
+- Neste episódio a Princesa Jujuba explica que magia é apenas uma ciência, porque os magos não sabem o que estão fazendo; por isto eles chamam de magia. Isto é uma referência ao escritor de ficção científica Isaac Asimov que dizia que para uma cultura atrasada, alta tecnologia não é diferente de magia. Isto também pode ser resumido na terceira lei de Clarke , que diz que "qualquer tecnologia suficientemente avançada é indistinguível de magia".
+
+## Erros
+- Quando Jake vira um iglu, seu uniforme de prisão desaparece.
+
+- Quando Abracadaniel é chutado após cortar um pedaço do cabelo da Princesa Jujuba com seu garfo, seu garfo desaparece antes dele cair no chão.
+
+- A voz de Abracadeniel e de Bufo estavam diferentes. Possivelmente porque Abracadaniel não aparece desde a terceira temporada e Bufo desde a primeira temporada.
+
+- Rei Gelado diz que a senha para entrar é "Os Magos Mandam", mas em " Reino de Gunters " ele diz "Magos Bolados" e entra na cidade.
+
+- Quando Finn, Jake e Princesa Jujuba vão procurar remédio eles pedem um remédio para gripe, porém quando Abracadaniel e Jujuba estão prestes a serem atacados pelos presidiários, Jake diz "Este é um remédio de resfriamento e não de resfriado" sendo que ele não falou a palavra "resfriado" na hora de pedir o remédio.
+
+- Rei Gelado e os outros magos faziam o símbolo da escola secreta de magos com cinco dedos, sendo que eles só tem quatro dedos (olhar a foto do Rei Gelado fazendo o sinal em Reino de Gunters).
+
+## Censura
+- O Rei Gelado dizendo que não era tocado a meses.
+
+- Finn perguntando se a Princesa Jujuba estava pelada.
+
+- A Princesa Jujuba , na prisão sussurando "magos estúpidos".

@@ -1,0 +1,93 @@
+{
+  "id": "AT_S10E1267",
+  "tipo": "episodio",
+  "nome": "A Caçada Selvagem",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E1267_meta",
+      "text": "[Episódio: A Caçada Selvagem (Temporada 10, Ep 1267)]\nDiretor: Cole Sanchez\nRoteiro: Polly Guo\nPersonagens Principais: Finn Mertens, Maga Caçadora",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E1267",
+        "temporada": 10,
+        "numero_ep": 1267,
+        "nome": "A Caçada Selvagem",
+        "characters_main": "Finn Mertens|Maga Caçadora",
+        "characters_secondary": "Gumbald|Princesa Jujuba|Guardas Banana|Jake",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E1267_sinopse",
+      "text": "[Episódio: A Caçada Selvagem (Temporada 10, Ep 1267)]\nSinopse: Uma criatura feroz está aterrorizando o Reino Doce, mas antes que Finn possa matar a besta, ele deve primeiro superar sua consciência culpada.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E1267",
+        "temporada": 10,
+        "numero_ep": 1267,
+        "nome": "A Caçada Selvagem",
+        "characters_main": "Finn Mertens|Maga Caçadora",
+        "characters_secondary": "Gumbald|Princesa Jujuba|Guardas Banana|Jake",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E1267_enredo_1",
+      "text": "[Episódio: A Caçada Selvagem (Temporada 10, Ep 1267)]\nEnredo Parte 1:\nApós a morte de Fern em Três Baldes, Jujuba tenta ajudar Finn a tirar consciência culpada, nisso, ela acaba por descobrir que seu reino foi atacado por um monstro e encarrega Finn e Jake de tentarem cuidar dessa criatura. Chegando a noite, os heróis conseguem capturar a besta, porém, Finn não consegue matá-lo por causa de seu bloqueio mental, deixando-o escapar. Perseguindo o monstro, Finn acaba por encontrar a Maga Caçadora, que ajuda ele, falando que Fern era uma versão que o herói teria que destruir para se tornar uma versão melhor dele. Entrando na caverna de Grumbo (nome que a Maga Caçadora deu ao monstro), rola um confronto deles e, apesar de tudo que a Maga disse ao Finn, ele continua com a consciência culpada, fazendo a Maga Caçadora fingir estar em perigo pra ele superar isso. Depois de Finn matar o Grumbo, ele beija a Maga Caçadora. Na cena final, vimos que quem criou aquela criatura foi Gumbald, o ''tio'' da Princesa Jujuba.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E1267",
+        "temporada": 10,
+        "numero_ep": 1267,
+        "nome": "A Caçada Selvagem",
+        "characters_main": "Finn Mertens|Maga Caçadora",
+        "characters_secondary": "Gumbald|Princesa Jujuba|Guardas Banana|Jake",
+        "secao": "enredo",
+        "parte": 1
+      }
+    },
+    {
+      "chunk_id": "AT_S10E1267_informacoes",
+      "text": "[Episódio: A Caçada Selvagem (Temporada 10, Ep 1267)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E1267",
+        "temporada": 10,
+        "numero_ep": 1267,
+        "nome": "A Caçada Selvagem",
+        "characters_main": "Finn Mertens|Maga Caçadora",
+        "characters_secondary": "Gumbald|Princesa Jujuba|Guardas Banana|Jake",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E1267_creditos",
+      "text": "[Episódio: A Caçada Selvagem (Temporada 10, Ep 1267)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E1267",
+        "temporada": 10,
+        "numero_ep": 1267,
+        "nome": "A Caçada Selvagem",
+        "characters_main": "Finn Mertens|Maga Caçadora",
+        "characters_secondary": "Gumbald|Princesa Jujuba|Guardas Banana|Jake",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E1267_curiosidades",
+      "text": "[Episódio: A Caçada Selvagem (Temporada 10, Ep 1267)]\nCuriosidades:\n- The Wild Hunt é o subtítulo do jogo The Witcher.\n\n- O episódio foi o último escrito por Polly Guo .\n\n- The Wild Hunt é um mito popular europeu que envolve um grupo fantasmagórico ou sobrenatural de caçadores passando em perseguição selvagem.\n\n- O estranho que havia recolhido os restos de Fern é revelado ser Gumbald , o \"tio\" da Princesa Jujuba .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E1267",
+        "temporada": 10,
+        "numero_ep": 1267,
+        "nome": "A Caçada Selvagem",
+        "characters_main": "Finn Mertens|Maga Caçadora",
+        "characters_secondary": "Gumbald|Princesa Jujuba|Guardas Banana|Jake",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

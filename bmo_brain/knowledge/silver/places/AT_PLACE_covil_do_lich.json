@@ -1,0 +1,11 @@
+{
+  "id": "AT_PLACE_covil_do_lich",
+  "tipo": "lugar",
+  "nome": "Covil do Lich",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Covil_do_Lich",
+  "sections": {
+    "descricao": "# Covil do Lich\n\nO Covil do Lich onde é, provávelmente, a casa do Lich . Lá é uma caverna bem grande que há muitos esqueletos.",
+    "curiosidades": "- O Covil do Lich se assemelha à um metrô desabilitado, provavelmente tenha sido desativado por circunstâncias da Guerra dos Cogumelos.\n\n- A Princesa Jujuba disse que esse lugar era uma torre, provávelmente foi destruída."
+  },
+  "source_file": "Covil_do_Lich.md"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_espada_tubarao",
+  "tipo": "objeto",
+  "nome": "Espada Tubarão",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_espada_tubarao_descricao",
+      "text": "[Objeto: Espada Tubarão]\nDescricao:\n# Espada Tubarão",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_tubarao",
+        "nome": "Espada Tubarão",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_tubarao_aparicoes",
+      "text": "[Objeto: Espada Tubarão]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_tubarao",
+        "nome": "Espada Tubarão",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_tubarao_aparencia",
+      "text": "[Objeto: Espada Tubarão]\nAparencia:\nÉ uma espada com a forma de um Tubarão Marrom.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_tubarao",
+        "nome": "Espada Tubarão",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_tubarao_curiosidades",
+      "text": "[Objeto: Espada Tubarão]\nCuriosidades:\n- É o primeiro ataque que se libera no jogo Quebre a Minhoca .\n\n- Seu cabo é semelhante á da espada que aparece entrelaçando-se na palavra \"Adventure Time\" na abertura da serie",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_tubarao",
+        "nome": "Espada Tubarão",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

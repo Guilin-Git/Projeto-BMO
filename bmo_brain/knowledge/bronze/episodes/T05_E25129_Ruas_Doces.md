@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 25129
 nome: "Ruas Doces"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Ruas_Doces"
 data_exibicao: "1 de dezembro de 2013"
 diretor: "Elizabeth Ito (supervisando) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Adam Muto"
 codigo_producao: "1014-133"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Ruas_Doces"
 ---
 
 # Ruas Doces
 
 **Temporada 5 — Episódio 25129**
+
+## Descrição
+" Ruas Doces " é o vigésimo quinto episódio da quinta temporada de Hora de Aventura . É o 129º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 ﻿A Princesa Caroço reporta ser roubada e desmaia sem revelar o que, e cabe a Finn e Jake investigarem o Reino Doce até achar o criminoso.
@@ -30,14 +57,56 @@ Lá fora, Finn está em Jake na forma de carro, e ele forma de um carro um saco 
 Apressando-se para o quarto da Princesa Caroço, eles ouvem a Princesa gemendo e gritando. Jake chuta a porta e vê a Princesa Caroço em cima de Petey . Petey pede ajuda e diz que ele estava apenas entregando as pizzas e ela o agarrou, e agora ela não vai deixar ele sair. Finn pede à Princesa o que está acontecendo e ela diz que Petey roubou seu coração e começa a soluçar. Finn e Jake tiram Petey sob a Princesa, mas Petey reclama depois porque ele não conseguiu uma gorjeta. O episódio termina com Jake transformando em um carro e diz a Finn que o único caso era mais um dos exageros da princesa, e esmaga a janela de seu quarto de hotel.
 
 ## Personagens
+
 ### Principais
+
 - ﻿ Finn
+
 - Jake
+
 - Princesa Caroço
+
 - Pete Sassafras
 
+
 ### Secundários
+
 - Povo Doce Petey Princesa Jujuba Policiais Blueberry Garota Pirulito Abacaxi Bastão de Caramelo Cubo de Açúcar Ann Banana Chocolate Coronel Milho Doce Biscoito de Gengibre Rebecca
+
 - BMO
+
 - Pessoas Pizza
+
 - Caracol
+
+- Petey
+
+- Princesa Jujuba
+
+- Policiais Blueberry
+
+- Garota Pirulito
+
+- Abacaxi
+
+- Bastão de Caramelo
+
+- Cubo de Açúcar
+
+- Ann
+
+- Banana Chocolate
+
+- Coronel Milho Doce
+
+- Biscoito de Gengibre Rebecca
+
+## Curiosidades
+- No mercado onde finn e jake vão tem uma escrita em japonês (ファーマシー/Fāmashī) que significa Farmácia
+
+- Biscoito de Gengibre Rebecca aparece mesmo Rebecca Sugar não fazendo mais parte da produção do desenho.
+
+- Jake se transforma em um advogado na cela de Pete. Esse advogado se assemelha muito aos mostrados em “ Hora de Negócios ”
+
+## Referência Cultural
+- A cena em que Jake se transforma em um cachimbo e vai parar na boca de Finn é uma alusão a Sherlock Holmes e sua clássica pose ao pensar em um mistério.

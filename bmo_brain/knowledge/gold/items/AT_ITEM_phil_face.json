@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_phil_face",
+  "tipo": "objeto",
+  "nome": "PHIL FACE",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_phil_face_descricao",
+      "text": "[Objeto: PHIL FACE]\nDescricao:\n# PHIL FACE\n\nPHIL FACE (também conhecida como Rynda Mandala [ 1 ] ) é uma piada interna da equipe de Hora de Aventura , frequentemente usada na série. O intuito da piada é mostrar um rosto semelhante ao de Phil Rynda (design de personagens de Hora de Aventura ) em alguma cena. Pendleton Ward disse que se você disser \"qualquer coisa\" a Phil ele ficara com uma cara extremamente animada, no qual o rosto é baseado. Pendleton Ward chegou a brincar dizendo que existe uma \"Princesa Phil Face\" dentro do desenho. [ 2 ]\n\nJuntamente com o Caracol , PHIL FACE é um easter egg.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_phil_face",
+        "nome": "PHIL FACE",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_phil_face_uso",
+      "text": "[Objeto: PHIL FACE]\nUso:\nPara abrir um portal para a Noitosfera , é preciso desenhar uma Phil Face, jogar leite de inseto no desenho e repetir o encantamento \"MALOSO VOBISCUM ET CUM SPIRITUM\". O rosto frequentemente também aparece como um personagem, Phil .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_phil_face",
+        "nome": "PHIL FACE",
+        "secao": "uso"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_espada_finn",
+  "tipo": "objeto",
+  "nome": "Espada Finn",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_espada_finn_descricao",
+      "text": "[Objeto: Espada Finn]\nDescricao:\n# Espada Finn\n\nA Espada Finn é uma espada que Finn obtém em \" É Você? \". Ela substitui a Espada de Grama . A espada é criada quando Finn previne a si mesmo de acordar Jake para salvar Prismo . No entanto, ela foi vista pela primeira vez em \" Breezinha \", quando Finn imagina a Princesa Jujuba segurando ela.\n\nFinn perde a Espada Finn quando a parte circular e atravessada pela espada de grama ( Re-Início ), a fusão das duas espadas deu origem ao personagem conhecido como Fern (ou Samanbaia), que e uma copia feita de grama do Finn, que com o tempo ganha sua própria personalidade.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_finn",
+        "nome": "Espada Finn",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_finn_informacoes",
+      "text": "[Objeto: Espada Finn]\nInformacoes:\n### Tipo\n\n### Dono\n\nPrincesa Ladra (Apenas em \" Eu Sou Uma Espada \")",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_finn",
+        "nome": "Espada Finn",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_finn_aparicoes",
+      "text": "[Objeto: Espada Finn]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_finn",
+        "nome": "Espada Finn",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_finn_aparencia",
+      "text": "[Objeto: Espada Finn]\nAparencia:\nA Espada Finn é branca e azul, provavelmente por ser feita do Finn alternativo. Seu cabo não é separado da lâmina, ambos sendo brancos. Entre o cabo e a lâmina há uma parte circular com um círculo azul no meio.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_finn",
+        "nome": "Espada Finn",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_finn_curiosidade",
+      "text": "[Objeto: Espada Finn]\nCuriosidade:\n- É revelado que a Espada Finn tem sua própria personalidade no episódio \" Dentista \"\n\n- Isso se confirma em \" Eu Sou Uma Espada \"\n\n- Ela foi vista antes do Finn ganha-la, na sua imaginação em \"Breezinha\".\n\n- Tiffany a acha \"maneira\", como falado no episódio Dentista .\n\n- Ela fala em alguns episódios.\n\n- Em \" Eu Sou Uma Espada \" ela é quebrada pela Espada de Grama .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_finn",
+        "nome": "Espada Finn",
+        "secao": "curiosidade"
+      }
+    }
+  ]
+}

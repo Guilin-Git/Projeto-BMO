@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 2072
 nome: "Segredos de Natal: Parte II"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Segredos_de_Natal,_Parte_2"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-069"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Segredos_de_Natal,_Parte_2"
 ---
 
 # Segredos de Natal: Parte II
 
 **Temporada 3 — Episódio 2072**
+
+## Descrição
+" Segredos de Natal, Parte 2 " é o vigésimo episódio da terceira temporada de Hora de Aventura . É o septuagésimo segundo (72º) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Patrick McHale Kent Osborne Pendleton Ward
+
+
+### Escritor
 
 ## Sinopse
 Na continuação de " Segredos de Natal, Parte 1 ", o Rei Gelado tenta de tudo para evitar Finn e Jake de descobrir seu segredos mais chocantes...
@@ -27,8 +50,108 @@ Quando o vídeo termina, é revelado que o Rei Gelado não tinha medo deles desc
 Finn e Jake se sente "um fugaz momento de empatia com o maior esquisito de Ooo", e daquele momento em diante eles se reúnem uma vez por ano para usar blusas de Natal, e assistir vídeos. Shelby fez as narrações sobre a cena final.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - BMO
+
 - Rei Gelado
+
+
+### Menores
+
+- Bonecos de Neve
+
+- Gunter
+
+- Princesa Frutinhas
+
+- Gambá
+
+- Betty (mencionada e mostrada numa foto)
+
+- Cryptid (monstrado numa foto no fundo)
+
+
+#### Participantes da Festa de Natal
+
+- Princesa Jujuba
+
+- Shelby
+
+- Mordomo Menta
+
+- Marceline
+
+- Golem de Neve
+
+- Aquele Cara de Suéter de Natal
+
+- Bastão de Caramelo
+
+- Princesa Caroço
+
+- Canelinha
+
+- Dona Tromba
+
+- Phil
+
+- Sr. Porco
+
+- Caracol
+
+## Músicas
+- " Alouette "
+
+- " Papai,porque comeu minhas fritas? ''
+
+## Curiosidade
+- O Caracol aparece no final ao lado da lareira enquanto Finn , Jake , Princesa Jujuba , Marceline , Rei Gelado e Aquele Cara de Suéter de Natal estão assistindo no BMO .
+
+- O conto do Rei Gelado é semelhante ao do personagem Gollum de J.R.R. Tolkien (autor de O Senhor dos Anéis): um humanóide que ganha poder por meio de um artefato precioso, mas também transforma sua mente e corpo em um estado imortal, o deixando estranho.
+
+- Embora o cartão de título mostre pinguins na casa, apenas os Homens de Neve estão lá dentro.
+
+- Na cena em que BMO tenta quebrar o código, há um cartão pop-up indicando que os espectadores estão assistindo. Não é a partir da sala de controle do Cartoon Network, mas é uma parte do episódio. Esta é provavelmente uma piada sobre o fato de que, durante esta cena, o Rei Gelado pode ser ouvido chorando e nada particularmente engraçado ou interessante está acontecendo (A partida para o que você costuma encontrar no Cartoon Network).
+
+- Parece que Finn entende e é um pouco compreensivo com o passado do Rei Gelado, quando ele voluntariamente dá o Rei Gelado suas fitas de volta, dizendo ao BMO para ejetar a fita que conta a história dele, e reconhecendo que as fitas pertencem a ele.
+
+- Simon disse que ele comprou a coroa, mas em " O Que Vocês Fizeram? " Rei Gelado disse que ele fez o coroa com a magia que ele roubou, provavelmente uma referência de que ele não consegue se lembrar de seu passado.
+
+- Phil é o único que não está vestindo um suéter, mas ele está vestindo roupas íntimas de decoração e um cachecol.
+
+- BMO afirma que a terceira fita foi a final, mas no episódio anterior existem seis fitas na caixa.
+
+- As blusas que Finn e Jake estão vestindo aparecem novamente no jogo do Cartoon Network " Beemo Blitz ".
+
+- Há uma faca e dois livros sob o colchão de Finn, um dos livros tem a imagem de um jato que diz: "comix ".
+
+- Algumas outras fitas pode ser vistas no chão próximo ao tesouro quando Rei Gelado abre a porta para os homens de neve entrar.
+
+- Afirma-se que Simon comprou a coroa de um pescador no norte da Escandinávia. Escandinávia é um lugar real na Terra, composto pelos países da Noruega, Suécia e Dinamarca, embora às vezes inclui a Finlândia, a Islândia e as Ilhas Åland.
+
+- O momento que o Entregador das Tortas Reais aparece há uma referencia cultural a uma cena de "O exorsista".
+
+- Um dos roteiristas de Hora de Aventura afirmou que a criatura que aparece no quadro atrás de Simon e Betty era um tipo de cryptid, um termo usado em criptozoologia para se referir a uma criatura cuja existência é sugerida mas não há provas científicas de que exista realmente (como por exemplo: Pé-Grande, Monstro do Lago Ness, etc...).
+
+- A narração final (feita por Shelby) é uma paródia do final do filme "A Fantástica Fábrica de Chocolate" (a 2ª versão).
+
+- Nesse episódio, é revelado que o Natal em Hora de Aventura, e nada mais do que vestir casacos, se reunir com suas pessoas mais queridas e assistir vídeos.
+
+- A música que Jake canta, "Alouette" é uma canção canadense francesa infantil bem famosa, que fala sobre arrancar as pernas de uma cotovia.
+
+## Erros
+- Quando Finn e Jake primeiro entram no seu quarto para continuar assistindo as fitas, a viola de Jake estava lá e apenas uma parte do seu travesseiro estava dentro da gaveta , mas quando eles estão lutando contra os bonecos de neve todo o travesseiro está dentro da gaveta e a viola de Jake desparece.
+
+- A maçã que o boneco de neve teve como nariz só tinha uma folha, mas quando o Rei Gelado o pega depois que ele caiu de rosto do boneco de neve que tinha duas folhas.
+
+- As camas de Finn e Jake parecem estar em uma sala diferente.
+
+- Rei Gelado tira o robe porque esta sujo, e sua barba também esta suja, mas na cena seguinte, a barba esta limpa.
+
+- Quando Rei Gelado está atirando a maçã na cabeça de Gunter , está nevando muito. Quando Rei Gelado vai para casa de Finn e Jake, não há nenhum sinal de neve.

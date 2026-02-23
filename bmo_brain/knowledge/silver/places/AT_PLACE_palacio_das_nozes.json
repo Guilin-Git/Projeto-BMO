@@ -1,0 +1,11 @@
+{
+  "id": "AT_PLACE_palacio_das_nozes",
+  "tipo": "lugar",
+  "nome": "Palácio das Nozes",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Pal%C3%A1cio_das_Nozes",
+  "sections": {
+    "descricao": "# Palácio das Nozes\n\nO Palácio das Nozes é a casa do Duque das Nozes , sua família e os outros Povo Nozes . Tudo aqui, incluindo aves e árvores, é porca-temático. É palácio, não é um reino, porque ele é governado por um duque e duquesa. Desconhece-se se o palácio é um território independente ou uma província subordinada dentro do Reino Amendoim governado pela Princesa Amendoim .",
+    "castelo": "O Castelo é uma pequena estrutura de propriedade do Duque e da Duquesa das Nozes. É menor do que um castelo média e mais como uma casa de verão. Há um grande salão de algum tipo, onde eles celebraram o primeiro aniversário do segundo filho do duque em \" Criado \". O Mordomo Lisby parece guardar a porta da frente, junto com vários outros Povo Nozes."
+  },
+  "source_file": "Palacio_das_Nozes.md"
+}

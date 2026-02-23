@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_piano_eletrico",
+  "tipo": "objeto",
+  "nome": "Piano Elétrico",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_piano_eletrico_descricao",
+      "text": "[Objeto: Piano Elétrico]\nDescricao:\n# Piano Elétrico\n\nPrincesa Jujuba tocou seu Piano Elétrico em seu concerto no episódio \" Sonho de Amor \". Em vez de toca-lo com os dedos, ela bate as teclas com uma régua e um martelo de reflexos.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_piano_eletrico",
+        "nome": "Piano Elétrico",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_piano_eletrico_aparicoes",
+      "text": "[Objeto: Piano Elétrico]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_piano_eletrico",
+        "nome": "Piano Elétrico",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_piano_eletrico_aparencia",
+      "text": "[Objeto: Piano Elétrico]\nAparencia:\nO Piano Elétrico tem duas fileiras de teclas. Suas teclas pretas não estão em um padrão como os de um piano regular. Ele tem muitos mostradores e botões. É preto com peças rosas e verdes. O stand é rosa com listras rosa claro e pode ser dobrado para facilitar o transporte.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_piano_eletrico",
+        "nome": "Piano Elétrico",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

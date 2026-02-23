@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 381
 nome: "Teia de Estranhos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Teia_de_Estranhos"
 diretor: "Larry Leichliter"
 roteiro: "Dick Grunert Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-081"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Teia_de_Estranhos"
 ---
 
 # Teia de Estranhos
 
 **Temporada 4 — Episódio 381**
+
+## Descrição
+" Teia de Estranhos " é o terceiro episódio da quarta temporada de Hora de Aventura . É o octagésimo primeiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Quando Finn fica preso em uma teia de aranha gigante, ele acaba sendo conselheiro matrimonial de um casal de aranhas mal-humorados.
@@ -27,8 +48,48 @@ Ed pede Finn para alguns conselhos e Jake sugere que ele se sua esposa um presen
 Finn escapa da teia com Jake, mas vai voltar para ajudar Ed apesar de Jake diz Finn deveria cuidar de seu próprio negócio. Finn distrai Barb de Ed e acaba lutando sozinha. Ela pinos Finn para uma parede e abre sua mandíbula larga, prestes a comê-lo. Jake chega e pergunta Finn o que está acontecendo. Barb começa a tentar tecer uma teia, mas cepas e começa a gemer de dor. Ed, confuso e preocupado, pergunta se ela está bem. Em vez de seda, ela ejeta um ovo saco gigante, sua incapacidade de teias foi devido a ela estar grávida. As rajadas de saco e milhões de aranhas bebê chover a partir do saco de ovos explodiu. Barb, muito feliz, diz que eles podem fazer um novo começo, e beija Ed, reconciliando. Apesar de o par ser um pouco revoltado com o espetáculo, Jake descarta-lo como apenas uma parte do ciclo da vida.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Ed
+
 - Barb
+
+
+### Menores
+
+- Aranhas Bebês
+
+- Mosca
+
+- Percevejo
+
+- Caracol
+
+## Curiosidades
+- No início do episódio, Finn não é tão ágil como ele é em outros episódios.
+
+- O caracol neste episódio mal pode ser visto, pois é coberto pelo logotipo HD Cartoon Network, mas aparece sob o logotipo normal nos canais SD.
+
+- O giro de som feito por Ed foi mudado para soar menos como "evacuações" após a primeira exibição do episódio.
+
+- Quando Finn é finge comer o inseto, ele está deitado em sua língua, apesar de ele estar de cabeça para baixo.
+
+## Referências Culturais
+- Barb comendo Ed é um exemplo dos muitos arachnida de aranhas , um deles em que a fêmea consome o macho quando o acasalamento.
+
+## Conexão Episódio
+- Quando Barb está batendo-se Ed , a música do cartão do título do episódio "O Susto" toca.
+
+- No episódio anterior "Cinco Historinhas" lista de Finn e Jake depois espionando BMO lê , "cortar as unhas" e se refere a este episódio.
+
+## Erros
+- Quando Ed volta com a espada, podemos ver um pássaro na mão do Finn. Mas o pássaro voou para longe antes.
+
+- Quando Finn e Jake saem depois de Ed libera-los , a espada é vista presa no chão , mas quando Finn volta , a espada está deitada no chão . Ele também a move entre cenas.
+
+- Quando Finn é finge comer o inseto, ele está deitado em sua língua, apesar de ele estar de cabeça para baixo.

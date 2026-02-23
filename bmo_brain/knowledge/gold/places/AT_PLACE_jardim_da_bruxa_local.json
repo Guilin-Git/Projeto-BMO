@@ -1,0 +1,38 @@
+{
+  "id": "AT_PLACE_jardim_da_bruxa_local",
+  "tipo": "lugar",
+  "nome": "Jardim da Bruxa (Local)",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_jardim_da_bruxa_local_descricao",
+      "text": "[Lugar: Jardim da Bruxa (Local)]\nDescricao:\n# Jardim da Bruxa (Local)\n\nO Jardim da Bruxa é um jardim que produz coisas doces, principalmente rosquinhas. Em sua primeira aparição, Jake come uma das rosquinhas fazendo a Bruxa tirar seus poderes .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_jardim_da_bruxa_local",
+        "nome": "Jardim da Bruxa (Local)",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_jardim_da_bruxa_local_aparencia",
+      "text": "[Lugar: Jardim da Bruxa (Local)]\nAparencia:\nÉ um jardim com várias rosquinhas em matos e flores de brigadeiro.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_jardim_da_bruxa_local",
+        "nome": "Jardim da Bruxa (Local)",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_jardim_da_bruxa_local_curiosidades",
+      "text": "[Lugar: Jardim da Bruxa (Local)]\nCuriosidades:\n- O jardim da bruxa, faz uma referência ao conto clássico, \"João e Maria\".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_jardim_da_bruxa_local",
+        "nome": "Jardim da Bruxa (Local)",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

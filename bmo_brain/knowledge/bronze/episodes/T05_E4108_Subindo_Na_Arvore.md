@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 4108
 nome: "Subindo Na Árvore"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Subindo_Na_%C3%81rvore"
 data_exibicao: "05/08/2013"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-108"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Subindo_Na_%C3%81rvore"
 ---
 
 # Subindo Na Árvore
 
 **Temporada 5 — Episódio 4108**
+
+## Descrição
+" Subindo Na Árvore " é o quarto episódio da quinta temporada de Hora de Aventura . É o centésimo oitavo (108º) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn tenta subir em uma grande árvore para pegar seu disco de volta. Ele sobe e vive uma grande aventura naquela árvore e conhece um novo amigo.
@@ -21,9 +48,37 @@ O episódio começa com Lady Íris andando na Terra da grama com  Finn e Jake. 
 
 Após subir bastante, Finn se cansa, e em seguida vai descansar em um galho. Um esquilo, então, oferece -lhe uma maçã para energizar Finn. Finn se recusa, mas o esquilo faz com que coma a força. A maçã era amaldiçoada, o que faz que Finn encolhe. Finn continua a subir na árvore com as agulhas porco-espinho, mas, eventualmente, elas quebram, então ele toma outra pausa. Jake se estende até ele e percebe que Finn encolheu. Ele diz-lhe que ele vai levar Lady Íris para casa. Depois disso, Finn encontra o esquilo novamente, que após ser ignorado e o segue até dentro da árvore. Em seguida, ele ouve os sussurros dos animais. Ele foge após ver que os animais estavam a discutir como se livrar dele e uma grande pilha de objetos com seu Frisbee no topo. Em estado de choque, Finn grita, revelando-se. Os animais depois em seguida o nocauteam e o colocam em uma cela na árvore.
 
-Finn acorda na cela com o esquilo que a guarda. O esquilo fala sobre o bom e o ruim de viver na árvore e viver com as regras. Ele então diz que ele quer voar, mas os outros animais dizem que ele não é um esquilo voador, e que ele iria fugir se ele tinha "um amigo para fugir com ele". Finn facilmente passa entre as grades, ele e o esquilo em seguida começam a fugir da árvore. Os animais da árvore começam a persegui-los,  equando chegou no limite da árvore, Finn lança o disco planejando montar nele, mas ele voa para cima de novo. Com os animais perto de pegá-los, ele empurra o esquilo fora do ramo e pula nas costas dele. Enquanto eles estavam caindo, é revelado que ele é um esquilo normal e não pode voar. Pouco antes de atingir o solo, o Frisbee voa por debaixo deles, pegando-os. No disco, eles montam através dos campos e passam pela casa de Lady Íris no pôr do sol, onde Jake diz que era "O lançamento perfeito", assim terminando o episódio.
+Finn acorda na cela com o esquilo que a guarda. O esquilo fala sobre o bom e o ruim de viver na árvore e viver com as regras. Ele então diz que ele quer voar, mas os outros animais dizem que ele não é um esquilo voador, e que ele iria fugir se ele tinha "um amigo para fugir com ele". Finn facilmente passa entre as grades, ele e o esquilo em seguida começam a fugir da árvore. Os animais da árvore começam a persegui-los, equando chegou no limite da árvore, Finn lança o disco planejando montar nele, mas ele voa para cima de novo. Com os animais perto de pegá-los, ele empurra o esquilo fora do ramo e pula nas costas dele. Enquanto eles estavam caindo, é revelado que ele é um esquilo normal e não pode voar. Pouco antes de atingir o solo, o Frisbee voa por debaixo deles, pegando-os. No disco, eles montam através dos campos e passam pela casa de Lady Íris no pôr do sol, onde Jake diz que era "O lançamento perfeito", assim terminando o episódio.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Esquilo
+
+
+### Menores
+
+- Jake
+
+- Lady Íris
+
+- Coruja
+
+- Porco-Espinho
+
+- Castor Lenny
+
+- Caracol
+
+## Curiosidades
+- Não se sabe como Finn voltou ao normal.
+
+- Finn se sente revigorado e mais forte depois de diminuir de tamanho, isto tem haver com seu metabolismo ter sido mudado e que se observou em criaturas menores que seus batimentos cardíacos e metabolismo eram mais acelerados em comparação com animais maiores EX. batimento do beija flor e de 300 vezes por minuto enquanto a de um humano em repouso e de 60 a 80 por minuto.
+
+## Referência Cultural
+- Finn come uma maçã que reduz seu tamanho, fazendo uma referência a Alice no País das Maravilhas quando ela come um alimento que a faz também reduzir de tamanho.
+
+- Quando os animais da árvore começam a falar em coro para Finn "Na árvore, parte da árvore" faz uma referência a cena de Piratas do Caribe 3: No Fim do Mundo , quando Will Turner acerta o coração de Davy Jones e se torna o próximo capitão do Holandês Voador, a tripulação entoa o coro de "No navio, parte da tripulação".

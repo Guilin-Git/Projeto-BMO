@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_florete",
+  "tipo": "objeto",
+  "nome": "Florete",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_florete_descricao",
+      "text": "[Objeto: Florete]\nDescricao:\n# Florete\n\nO Florete é a espada que Finn começa a usar após perder a Espada Finn. A espada é idêntica a espada do Chicletão , então provavelmente é um item do exército do Reino Doce . Essa é a espada usada por Finn na minissérie Elementos . Em \" A Caçada Selvagem \", Finn usa a espada para proteger a Maga Caçadora de Grumbo, enfiando a espada em sua cabeça e o matando-o. A espada acabou sendo derretida devido ao ácido secretado pelo monstro.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_florete",
+        "nome": "Florete",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_florete_aparicoes",
+      "text": "[Objeto: Florete]\nAparicoes:\n- \" Nunca Causar Dano ou Mal \"\n\n- \" O Convite \"\n\n- \" Ilha Misteriosa \"\n\n- \" Recursos Imaginários \"\n\n- \" Esconde-Esconde \"\n\n- \" Min & Marty \"\n\n- \" Ajudantes \"\n\n- \" Ganchos Celestes \"\n\n- \" Sob Medida \"\n\n- \" Luz do Inverno \"\n\n- \" Nublado \"\n\n- \" Sussurros \"\n\n- \" A Caçada Selvagem \"",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_florete",
+        "nome": "Florete",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

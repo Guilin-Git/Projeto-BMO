@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Pré Escola do Reino Doce"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Pr%C3%A9_Escola_do_Reino_Doce"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Pr%C3%A9_Escola_do_Reino_Doce"
 ---
+
+> Pré Escola do Reino Doce é um lugar de Hora de Aventura.
 
 # Pré Escola do Reino Doce
 
@@ -11,3 +13,6 @@ A Pré Escola do Reino Doce é uma escola do Reino Doce onde algumas crianças d
 
 ## Aparência
 É uma casa amarela bem clara, feita de doces, com o telhado laranja, um escorregador roxo (entre outros brinquedos) e tem uma pista de comando feita por Finn e Jake. Há muros amarelos com glacê rosa em volta, e árvores cor-de-rosa com troncos brancos.
+
+## Curiosidades
+- Jake já teve um sonho de que ele era o professor da pré escola.

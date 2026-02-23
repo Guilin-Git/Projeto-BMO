@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 10
 nome: "Lembranças da Montanha Boom Boom"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Lembran%C3%A7as_da_Montanha_Boom_Boom"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Lembran%C3%A7as_da_Montanha_Boom_Boom"
 ---
 
 # Lembranças da Montanha Boom Boom
 
 **Temporada 1 — Episódio 10**
+
+## Descrição
+" Lembranças da Montanha Boom Boom " é o 10º episódio da 1ª temporada de Hora de Aventura . É o décimo episódio no total.
 
 ## Sinopse
 Finn reflete sobre uma experiência desconcertante em seu passado e sobre a promessa que fez de ajudar a todos que precisam, mas isso se torna mais difícil do que ele imaginava ser.
@@ -18,26 +22,66 @@ O episódio começa com os Carrascos lutando uns contra os outros violentamente.
 Eles pedem os marotos para parar em sua primeira tentativa, mas eles dizem que não querem. Ele vê um pato e rato, e tem uma ideia para amaciá-los amarrando animais para eles, mas a montanha fica ainda mais triste porque os animais estão se machucando e é pior do que antes. Tudo piora quando Finn recebe vários pedidos para ele fazer. Ele no final consegue fazer todos os favores e ajudar a Montanha.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Carrascos
+
 - Homem Montanha
 
+
 ### Secundários
+
 - Joshua (flashback)
+
 - Margareth (flashback)
+
 - Mulher Montanha
+
 - Mago Pelado
+
 - Dragão
+
 - Barman Lula
+
 - Criaturas Cogumelos
+
 - Homem Carvão
+
 - Golfinho
+
 - Criaturas Cactos
+
 - Peixe
+
 - Sapo
+
 - Electroids
+
 - Cubo de Gelo
+
 - Animais
+
 - O Caracol
+
+## Caracol
+Perto de Jake quando os animais estavam fazendo massagem nele.
+
+## Curiosidades
+- Na cena em que aparece o dragão cuspindo fogo na poça, existem formas de gatos, golfinhos e outros animais escondidos na animação do vapor.
+
+- Se consegue ver a montanha deste episódio no mapa de Ooo.
+
+- É revelado que Finn foi encontrado num bosque por Joshua e Margareth
+
+- É revelado por Jake que Finn ainda chora quando faz cocô.
+
+- Esse episódio se chamava "Uma Mãozinha" originalmente.
+
+- É a primeira aparição do Mago Pelado.
+
+- Pode ser visto um alce com cabeça de um humano.

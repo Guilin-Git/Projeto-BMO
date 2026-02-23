@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_chapeu_de_finn",
+  "tipo": "objeto",
+  "nome": "Chapéu de Finn",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_chapeu_de_finn_descricao",
+      "text": "[Objeto: Chapéu de Finn]\nDescricao:\n# Chapéu de Finn\n\nO Chapéu de Finn é branco e imita as orelhas de urso polar. Dificilmente ele o tira.\n\nO chapéu tem aparição desde o primeiro episódio. O chapéu esconde e protege os cabelos longos e brilhantes de Finn.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_chapeu_de_finn",
+        "nome": "Chapéu de Finn",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_chapeu_de_finn_aparicoes",
+      "text": "[Objeto: Chapéu de Finn]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_chapeu_de_finn",
+        "nome": "Chapéu de Finn",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_chapeu_de_finn_curiosidades",
+      "text": "[Objeto: Chapéu de Finn]\nCuriosidades:\n- Em Amiguinho , ele ganha vida.\n\n- Finn deu seu chapéu que ganhou vida para o Antigo Bruxo Adormecido Da Vida e seu nome ficou como Amiguinho .\n\n- Até agora já sabemos que Finn já teve dois chapéus do mesmo formato.\n\n- O chapéu só pode ser feito por pelos de ursos polares do mal.\n\n- Andy Ristaino, disse que está desenvolvendo um episodio sobre sua origem.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_chapeu_de_finn",
+        "nome": "Chapéu de Finn",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_chapeu_de_finn_episodios_em_que_finn_aparece_sem_ele",
+      "text": "[Objeto: Chapéu de Finn]\nEpisodios_Em_Que_Finn_Aparece_Sem_Ele:\n- \" Para Cortar os Cabelos de uma Mulher \"\n\n- \" Ninguém Te Ouvindo \"\n\n- \" Bonitopia \"\n\n- \" Outro Jeito \"\n\n- \" Te Peguei! \"\n\n- \" O Lich\n\n- \" Davey \"\n\n- \" Amiguinho \"\n\n- \" Erro é Erro \"\n\n- \" Love Games \"\n\n- \" Billy's Bucket List \"\n\n- \" Escape from the Citadel \"",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_chapeu_de_finn",
+        "nome": "Chapéu de Finn",
+        "secao": "episodios_em_que_finn_aparece_sem_ele"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "AT_S07E22221",
+  "tipo": "episodio",
+  "nome": "Pilantras",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_S07E22221_meta",
+      "text": "[Episódio: Pilantras (Temporada 7, Ep 22221)]\nDiretor: -\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E22221",
+        "temporada": 7,
+        "numero_ep": 22221,
+        "nome": "Pilantras",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Guardas Banana|Tommy|Garotos Marshmallow|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E22221_sinopse",
+      "text": "[Episódio: Pilantras (Temporada 7, Ep 22221)]\nSinopse: Finn leva um grupo de crianças encrenqueiras à um acampamento.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E22221",
+        "temporada": 7,
+        "numero_ep": 22221,
+        "nome": "Pilantras",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Guardas Banana|Tommy|Garotos Marshmallow|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E22221_enredo_1",
+      "text": "[Episódio: Pilantras (Temporada 7, Ep 22221)]\nEnredo Parte 1:\nOs garotos marshmallow expulsam três indivíduos de um pequeno bairro do reino doce. O dono de uma taverna próxima, Tommy, agradece por sempre manterem o local longe de maus elementos. O líder do grupo pergunta a Tommy se poderia pegar emprestado uma das mesas para jogar, o que é permitido. Enquanto isso, Finn, Jake, e a Princesa Jujuba os vigiam.\n\nEles estendem uma mesa na calçada e preparam o jogo trapaceiro. Starchy é atraído, paga caro e é enganado. Diante a isso, imediatamente Finn e Jake alertam os guardas bananas e discretamente iniciam uma perseguição. Assim que os guardas bananas se aproximam, um dos membros dá um sinal, e então o jogo é desfeito e eles fogem pelo túnel do setor 4 do reino, mas Jake os detém com uma barreira feita com o próprio corpo. Os garotos iriam para o reformatório, porém uma das crianças garantiu a Finn que aprenderia muito mais com ele.\n\nCom a permissão e confiança da Princesa Jujuba, Finn decide levá-los a um acampamento na natureza. Ele atravessa uma árvore derrubada (servindo de ponte para um rio) e os meninos decidem segui-lo, mas um deles, o Gary, desequilibra e cai. Finn salta para salvá-lo e abandona os demais. Quando ele volta, vê que os garotos marshmallow continuam a realizar o mesmo jogo trapaceiro, agora com animais selvagens. É recebido uma transmissão da Princesa Jujuba, e como nada de errado é dito, ela assume como certo. As crianças, que antes tinham se dispersado, reúnem-se e admiram a capacidade de omissão de Finn e se interessam em aprender truques com ele.\n\nFinn começa a ensinar várias lições de acampamentos \"violentamente\", até porque não conseguiria sua atenção se fosse do jeito tradicional. Mais tarde, a Princesa Jujuba vai visitá-los em uma escola, e os garotos aparecem estudando enganosamente. O episódio termina com Jake se justificando ao ser flagrado por Finn e Jujuba praticando o mesmo ato trapaceiro dos garotos marshmallow.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E22221",
+        "temporada": 7,
+        "numero_ep": 22221,
+        "nome": "Pilantras",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Guardas Banana|Tommy|Garotos Marshmallow|Caracol",
+        "secao": "enredo",
+        "parte": 1
+      }
+    },
+    {
+      "chunk_id": "AT_S07E22221_informacoes",
+      "text": "[Episódio: Pilantras (Temporada 7, Ep 22221)]\nInformacoes:\n### Temporada\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E22221",
+        "temporada": 7,
+        "numero_ep": 22221,
+        "nome": "Pilantras",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Guardas Banana|Tommy|Garotos Marshmallow|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E22221_curiosidades",
+      "text": "[Episódio: Pilantras (Temporada 7, Ep 22221)]\nCuriosidades:\n- No title card desse episódio, é possível ver Finn e Jake vestidos como guardas londrinos perseguindo as crianças marshmallows.\n\n- Candy Tavern, o nome dado a taverna do Tommy, possivelmente é uma referência a Flapjack, em que havia uma taverna de mesmo nome.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E22221",
+        "temporada": 7,
+        "numero_ep": 22221,
+        "nome": "Pilantras",
+        "characters_secondary": "Finn|Jake|Princesa Jujuba|Guardas Banana|Tommy|Garotos Marshmallow|Caracol",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

@@ -1,16 +1,51 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 834
 nome: "Cristais Têm Poder"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cristais_T%C3%AAm_Poder"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-036"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cristais_T%C3%AAm_Poder"
 ---
 
 # Cristais Têm Poder
 
 **Temporada 2 — Episódio 834**
+
+## Descrição
+" Cristais Têm Poder " é o 8º episódio da 2ª temporada de Hora de Aventura . É o trigésimo quarto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Cole Sanchez
+
+- Jesse Moynihan
 
 ## Sinopse
 ﻿ Finn é capturado por pessoas de cristal e é transformado em cristal enquanto Jake decide fazer um pacto de não violência...
@@ -25,13 +60,45 @@ Após Finn torna-se totalmente cristalizado, os guardiões permitem que Jake pas
 Finn diz a Jake que ele tem que detê-la (porque Finn não pode se mover.) Jake ainda resiste a ser violento, e ela pega-lo com a tromba e joga-o com força sobre um pedaço de cristal. É então que ele tem uma visão. Seu pai e Jermaine aparecem, e Jake pensa que seu irmão morreu (por aparecer na mente dele). Jermaine disse ainda que ele não está morto, ele está tendo a mesma visão que Jake. Seu pai então diz que Jake não ouviu seu discurso completo: Joshua disse que ele ia machucar tudo que é mal. Tendo ouvido isso, Jake começa chuta no estômago de Dona Tromba, fazendo-a cuspir o Maçã Gema Cristal, que era a fonte de seu poder. A forma de Finn em cristal se quebra e ele volta ao normal, e Dona Tromba, em seguida, retorna ao normal, então ela pede desculpas para Finn, dizendo que ela achava que ele é bonito e agradável. Finn, corando, aceita seu pedido de desculpas, e Dona Tromba diz que quando chegar em casa, ela vai fazer uma torta de maçã. A maçã de cristal que transforma em um portal de volta para casa e todos vão. Em seguida, são vistos os três flutuando e de mãos dadas através do portal, enquanto um canto é ouvido.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Dona Tromba
+
 - Homens Cristais
 
+
 ### Secundários
+
 - Jermaine (na imaginação de Jake)
+
 - Caracol
+
 - Joshua (na imaginação de Jake)
+
+## Caracol
+Ao lado do sofá enquanto o cristal brilha.
+
+## Curiosidades
+- É revelado neste episódio que Jake tem um irmão chamado Jermaine .
+
+- É confirmado que Joshua está morto.
+
+- É revelado que Dona Tromba ainda está viva desde o episódio Dona Tromba e que tem uma queda por Finn .
+
+## Erros
+- Em " Dona Tromba ", a Dona Tromba dá apenas uma mordida na Maçã Gema de Cristal , mas quando Jake a chuta na barriga ela cospe a maçã inteira.
+
+- Em "Dona Tromba", a Dona Tromba dá apenas uma mordida na Maçã Gema de Cristal, mas no começo do episódio Cristais Têm Poder, na imaginação de Jake ela come a maçã inteira.
+
+- Quando Quartzion esta contando a história de como virou rainha dos homens de cristal, ela come a maça inteira.
+
+- Quando o cristal começa a brilhar os olhos da mulher na pintura por trás dele estão fechados, mas quando ela aparece ao lado eles estão abertos.
+
+- Quando Jake pega um copo de suco tem duas mesas na sala, mas depois do flashback só tem uma mesa.
+
+- A boca da caneca de Jake fica mudando a cada aparição.

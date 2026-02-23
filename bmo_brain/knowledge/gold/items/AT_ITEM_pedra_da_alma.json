@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_pedra_da_alma",
+  "tipo": "objeto",
+  "nome": "Pedra da Alma",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_pedra_da_alma_descricao",
+      "text": "[Objeto: Pedra da Alma]\nDescricao:\n# Pedra da Alma\n\nA Pedra da Alma é uma pedra extremamente poderosa que a Princesa Jujuba mandou Finn e Jake buscarem, mas para impressioná-la, Braco vai buscá-la.\n\nEla estava dentro de um cofre que só é aberto com uma chave que está num poço de lava, a Princesa ia usá-la para criar a Jujubô . No entanto Princesa Jujuba fez sua própria pedra da alma artificialmente. Braco ficou com a verdadeira mas em seguida ele a quebrou com um martelo, libertando as almas que estavam dentro dela.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pedra_da_alma",
+        "nome": "Pedra da Alma",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_pedra_da_alma_aparicoes",
+      "text": "[Objeto: Pedra da Alma]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pedra_da_alma",
+        "nome": "Pedra da Alma",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

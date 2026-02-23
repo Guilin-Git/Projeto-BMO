@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_predefinicaoartefatosobjetos",
+  "tipo": "objeto",
+  "nome": "Predefinição:Artefatos/Objetos",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Predefini%C3%A7%C3%A3o:Artefatos/Objetos",
+  "sections": {
+    "descricao": "# Predefinição:Artefatos/Objetos\n\n== Uso & pré-visualização\nDigite o seguinte:\n\nClique aqui para atualizar a pré-visualização acima",
+    "informacoes": "### Sobre This is a test\n\n### Tipo\n\n### Criador\n\n### Dono",
+    "aparicoes": "### Primeira Aparição\n\n### Última Aparição"
+  },
+  "source_file": "PredefinicaoArtefatosObjetos.md"
+}

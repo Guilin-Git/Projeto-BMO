@@ -1,15 +1,36 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 3228
 nome: "Além da Gruta"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Al%C3%A9m_da_Gruta"
 data_exibicao: "15/08/2016"
 diretor: "Alex Butera e Lindsay Small"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Al%C3%A9m_da_Gruta"
 ---
 
 # Além da Gruta
 
 **Temporada 8 — Episódio 3228**
+
+## Descrição
+"Além da Gruta" é o terceiro episódio da oitava temporada de Hora de Aventura. É o ducentésimo vigésimo oitavo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake vão atrás do Toucinho do Mar e são levados a um estranho mundo novo.
@@ -30,7 +51,53 @@ Os dois então encontram uma abelha chamada Bee-Mo, que soa como BMO, que recita
 A cena volta para o mundo de Finn e Jake, onde Jake está contando a BMO sobre sua jornada além da gruta, descrevendo os personagens que eles conheceram e comparando-os com os personagens em seu mundo, e o Rei Gelado ouve e pula na casa da árvore. Jake diz a BMO que o verdadeiro herói era o Sea Banha, e que havia uma senhora roxa com muitas semelhanças com o Rei Gelado. O Rei Gelado é então negado o conhecimento de como chegar lá e solicitado a vencê-lo. O episódio termina com Finn colocando a banha do mar na cama e se desculpando pelo tratamento que lhe deram, e desejando-lhe uma boa noite de descanso.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Toucinho do Mar
+
+
+### Menores
+
+- Ninfas
+
+- Shelby
+
+- Gansinho Vizinho (versão de Gruta)
+
+- Rei Gelado (/Purple Princess)
+
+- BMO (Abelha)
+
+- Singing Flower (Marceline)
+
+- Pink Pond (Princesa Jujuba)
+
+- Coelho (Finn)
+
+- Girino (Jake)
+
+- Sr. Porco (versão de Gruta)
+
+- Bush Boots (Dona Tromba)
+
+- Sr. Raposo (versão de Gruta)
+
+- Borbeleta (Lady Íris)
+
+- Caracol
+
+## Curiosidades
+- Esse é o 5° episódio com animação de um visitante; os outros foram: " Erro é Erro ", " Cadeia Alimentar ", " Zoando no Parque Aquático " e " Ondas Ruins ".
+
+- Gansinho Vizinho não aparece desde " Espada de Grama ", mas ele aparece nesse episódio na versão do mundo alternativo.
+
+- Antes de Finn e Jake irem atrás do Toucinho do Mar que estava sendo sugado pelo rodamoinho; uma das Ninfas diz: "Não toquem na coisa roxa!". Isso mostra que elas já visitaram aquele mundo com outra pessoa provavelmente; ou que uma delas foi afetada pela Princesa Roxa.
+
+- É mostrado que todos os habitantes desse mundo são uma versão mais "natural" dos personagens. Finn e Jake são um coelho e um girino que vivem dentro do carvalho; a Princesa Jujuba é um lago rosa falante que vive também próximo ao carvalho; Marceline é uma espécie de flor cantora; Rei Gelado é a Princesa Roxa, que parece liberar substancias roxas que afetam a mente de quem toca. BMO é uma abelha que parece falar através de metáforas. Lady Iris é uma borboleta que beija Jake no rosto.
+
+- A realidade que Finn e Jake visitam parece afetar a mente de seres vivos que são terrestres, fazendo com que eles se esqueçam de onde vieram ou quem são. Diferente das Ninfas e do Toucinho do Mar que, provavelmente; por serem seres aquáticos não parecem ser afetados nesse mundo.

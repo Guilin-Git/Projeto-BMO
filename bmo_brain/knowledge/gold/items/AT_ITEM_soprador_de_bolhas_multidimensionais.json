@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_soprador_de_bolhas_multidimensionais",
+  "tipo": "objeto",
+  "nome": "Soprador de Bolhas Multidimensionais",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_soprador_de_bolhas_multidimensionais_descricao",
+      "text": "[Objeto: Soprador de Bolhas Multidimensionais]\nDescricao:\n# Soprador de Bolhas Multidimensionais",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_soprador_de_bolhas_multidimensionais",
+        "nome": "Soprador de Bolhas Multidimensionais",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_soprador_de_bolhas_multidimensionais_aparicoes",
+      "text": "[Objeto: Soprador de Bolhas Multidimensionais]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_soprador_de_bolhas_multidimensionais",
+        "nome": "Soprador de Bolhas Multidimensionais",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_soprador_de_bolhas_multidimensionais_curiosidades",
+      "text": "[Objeto: Soprador de Bolhas Multidimensionais]\nCuriosidades:\n- A bolha da 4D é um número conhecido como um tesseracto ou Hipercubo. O tesseracto é o equivalente de 4D de um cubo e pode ser pensado como um cubo menor enterrado dentro de um maior. Na verdade, a \"bolha\" 4D deve ter sido realmente um \" glome \" , dado que é o equivalente 4D de uma esfera (hypersphere).\n\n- A configuração 1D não é utilizada, em que a bolha teria sido uma linha reta que é, provavelmente, invisível, uma vez que não teria largura ou comprimento e seria apenas a altura.\n\n- Na verdade, a \"bolha\" 4D deve ter sido realmente um \" glome \" , dado que é o equivalente 4D de uma esfera (hypersphere).",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_soprador_de_bolhas_multidimensionais",
+        "nome": "Soprador de Bolhas Multidimensionais",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

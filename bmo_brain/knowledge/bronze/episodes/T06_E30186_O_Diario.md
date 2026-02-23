@@ -1,15 +1,29 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 30186
 nome: "O Diário"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Di%C3%A1rio"
 diretor: "Cole Sanchez (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Di%C3%A1rio"
 ---
 
 # O Diário
 
 **Temporada 6 — Episódio 30186**
+
+## Descrição
+" O Diário " é o 30º episódio da 6ª temporada de Hora de Aventura . É o centésimo octogésimo sexto episódio no total.
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 TV , o filho de Jake , encontra um diário perdido e tenta desvendar um mistério de décadas.
@@ -48,12 +62,35 @@ Jake e T.V. são então vistos vendo a Enfermeira Bolo Fofo e estão felizes que
 Jake então pergunta se eles devem encontrar Justin, mas T.V. diz que não.
 
 ## Personagens
+
 ### Principais
+
 - Jake
+
 - TV
+
 - Enfermeira Bolo Fofo (como Betsy)
+
 - Lady Íris
 
+
 ### Secundários
+
 - Povo Doce Dr. Sorvete Justin Rockcandy Taffy Mochi
+
 - Caracol
+
+- Dr. Sorvete
+
+- Justin Rockcandy
+
+- Taffy
+
+- Mochi
+
+## Curiosidades
+- A ponte do Reino Doce é feita de chocolate.
+
+- É a segunda vez que o rio de caramelo está vazio.
+
+- É revelado que o primeiro nome da Enfermeira Bolo Fofo é Betsy.

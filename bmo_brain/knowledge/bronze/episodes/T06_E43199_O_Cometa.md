@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 43199
 nome: "O Cometa"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Cometa"
 data_exibicao: "07/09/2015"
 diretor: "Elizabeth Ito (supervising) Nick Jennings (art) Sandra Lee (art)"
 roteiro: "Pendleton Ward Kent Osborne Jack Pendarvis Adam Muto"
 codigo_producao: "1025-200"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Cometa"
 ---
 
 # O Cometa
 
 **Temporada 6 — Episódio 43199**
+
+## Descrição
+" O Cometa " é o 43º episódio da 6ª temporada de Hora de Aventura . É o centésimo nonagésimo nono episódio no total. Esse episódio é a continuação de " Grande Destruição ".
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake vão para o espaço para impedir Orgalorg de absorver o cometa.
@@ -42,9 +69,109 @@ Martin, como esperado dá uma de "oportunista" e diz quando vai receber seu novo
 Quando Finn se depara com o traje que o Jake estava usando, fala: Jake! mas não vê ninguém lá dentro, quando ele aparece atrás dele na nave do homem banana, que faz a ligação com o "essa mariposa é viajada na banana, mano" e Jake fala que estava flutuando por aí e acabou passando na rota de voo do homem Banana. E então eles começam a voar de volta para a terra, Orgalorg segura-os com a sua língua e volta juntamente com eles. E quando entra na Fronteira do Espaço e vai entrando mais perto da terra Orgalorg se torna Gunter novamente. Enquanto a Princesa Jujuba e o Mordomo Menta vão observando a queda deles. Eles caíram bem na frente deles. Quando Princesa diz "Bom trabalho, pessoal". E assim encerra-se o episódio com um peixe caindo nas mãos do Mordomo Menta.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Orgalorg (Gunter)
+
 - Martin
+
 - Cometa Catalisador (Cometa Roxo)
+
+
+### Menores:
+
+- Princesa Jujuba
+
+- Mordomo Menta
+
+- Grob Gob Glob Grod (flashback)
+
+- Marceline
+
+- Princesa de Fogo
+
+- BMO
+
+- Joshua
+
+- Margaret
+
+- Betty
+
+- Princesa Caroço
+
+- Lich
+
+- Homem Banana
+
+- Dona Tromba
+
+- Sr. Porco
+
+- Tiffany
+
+- Chicletão
+
+- Fazenda
+
+- Sr. Raposo
+
+- Esquilo Raivoso
+
+- Homem Montanha
+
+- Bufo
+
+- Mago da Floresta
+
+- Rei de Ooo
+
+- Mariposa Espacial
+
+- Caracol
+
+## Curiosidades
+- É confirmado neste episódio que Finn tem 16 anos de idade.
+
+- É o segundo episódio em que Gunter aparece sem o Rei Gelado.
+
+- Quando Finn se lembra das suas vidas passadas, ouve-se o barulho de uma porta de metal abrindo, que é o "cofre mental" de Finn .
+
+- O Rei de Ooo ainda é "princesa" do Reino Doce até o final do episódio, mas não se sabe se essa mudança ficará permanente.
+
+- O braço de Finn se tornou um chicote de grama nesse episodio, por causa da Espada de Grama que havia antes no braço dele.
+
+- É o ultimo episódio da 6ª Temporada.
+
+- Este episódio revelou que Finn não é inteiramente humano, mas uma entidade cósmica que tornou-se um ser humano, tornando-o uma das coisas mais antigas do universo; mas o cometa de aura azul do Finn não é o mesmo que apareceu no episódio Evergreen . O Cometa disse que está há bastante tempo no universo, e que já encarnou tudo de bom e tudo de ruim; e quando ele diz isso podemos ver a imagem do Lich aparecendo rapidamente. Isso mostra que o cometa que apareceu no episódio Evergreen, provavelmente era o "espirito" do Lich. Mas não se sabe se todos os outros cometas catalisadores subsequentes foram criações de Finn, ou se eles são alter-egos de Finn. Provavelmente eles devem ser entidades independentes de Finn ; ou são apenas membros da mesma raça de cometas.
+
+- É revelado que o espinho na mão de Finn que surgiu em " Breezinha " tinha ligação com a Espada de Grama .
+
+- Finn ainda pode gostar da Princesa de Fogo , pelo momento em que o Cometa Catalizador categoriza a Princesa de Fogo como "Amor"
+
+- Quando Orgalorg entra na atmosfera da Terra, ele volta a sua forma de pinguim; mas não se sabe se ele tem lembranças dos eventos que aconteceram nesse episódio.
+
+## Censuras
+- Quando Finn e Martin estão no espaço, Martin da algum objeto, para Finn. parecido com uma "calcinha" ou "cueca".
+
+- É censurada a parte onde Dona Tromba e o Porco se beijam.
+
+## Conexões de Episódios
+- Martin aparece voando na sua "mariposa" desde o episodio " Em Fuga ".
+
+- As vidas passadas de Finn como um cometa e uma borboleta foi revelado previamente em " O Cofre ".
+
+- O Sonho de Jake do episódio " A Nova Fronteira " pode ter cumprido com sucesso, e foi revelado para não ser prenúncio de sua morte como Finn e Jake assumida, mas prenunciando o Homem Banana salvar sua vida.
+
+- O espinho na mão de Finn junto com a Espada de Grama retorna desde " Fuga da Cidadela ".
+
+- O Foguete do Homem Banana reaparece do episódio " A Nova Fronteira ". O Homem Banana provavelmente deve ter consertado ele.
+
+- É a continuação de Grande Destruição .
+
+- Os eventos do episódio " Plano Astral " é mencionado por Finn sobre o Grob Gob Glob Grod .

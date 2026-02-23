@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_bateria_do_rei_gelado",
+  "tipo": "objeto",
+  "nome": "Bateria do Rei Gelado",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_bateria_do_rei_gelado_descricao",
+      "text": "[Objeto: Bateria do Rei Gelado]\nDescricao:\n# Bateria do Rei Gelado",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bateria_do_rei_gelado",
+        "nome": "Bateria do Rei Gelado",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bateria_do_rei_gelado_informacoes",
+      "text": "[Objeto: Bateria do Rei Gelado]\nInformacoes:\n### Sobre Bateria do Rei Gelado\n\n### Tipo\n\n### Dono",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bateria_do_rei_gelado",
+        "nome": "Bateria do Rei Gelado",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bateria_do_rei_gelado_aparicoes",
+      "text": "[Objeto: Bateria do Rei Gelado]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bateria_do_rei_gelado",
+        "nome": "Bateria do Rei Gelado",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bateria_do_rei_gelado_sobre",
+      "text": "[Objeto: Bateria do Rei Gelado]\nSobre:\nEla aparece em Prisioneiras do Amor . Rei Gelado a usa em Me Lembro de Você , onde Rei Gelado usa para compor uma música para conquistar as princesas e também para tocar a música Lembrar de Você .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bateria_do_rei_gelado",
+        "nome": "Bateria do Rei Gelado",
+        "secao": "sobre"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bateria_do_rei_gelado_curiosidades",
+      "text": "[Objeto: Bateria do Rei Gelado]\nCuriosidades:\n- Simon provavelmente sabia tocar bateria, porque em \" Simon & Marceline \" é visto que ele tinha baquetas na mochila.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bateria_do_rei_gelado",
+        "nome": "Bateria do Rei Gelado",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_caneca_do_jake",
+  "tipo": "objeto",
+  "nome": "Caneca do Jake",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_caneca_do_jake_descricao",
+      "text": "[Objeto: Caneca do Jake]\nDescricao:\n# Caneca do Jake",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_caneca_do_jake",
+        "nome": "Caneca do Jake",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_caneca_do_jake_informacoes",
+      "text": "[Objeto: Caneca do Jake]\nInformacoes:\n### Sobre Caneca de Jake\n\n### Tipo\n\n### Dono",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_caneca_do_jake",
+        "nome": "Caneca do Jake",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_caneca_do_jake_aparicoes",
+      "text": "[Objeto: Caneca do Jake]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_caneca_do_jake",
+        "nome": "Caneca do Jake",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

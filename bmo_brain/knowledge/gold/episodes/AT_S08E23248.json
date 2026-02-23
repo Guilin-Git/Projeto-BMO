@@ -1,0 +1,56 @@
+{
+  "id": "AT_S08E23248",
+  "tipo": "episodio",
+  "nome": "Ilhas",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_S08E23248_meta",
+      "text": "[Episódio: Ilhas (Temporada 8, Ep 23248)]\nDiretor: -\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E23248",
+        "temporada": 8,
+        "numero_ep": 23248,
+        "nome": "Ilhas",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E23248_producao",
+      "text": "[Episódio: Ilhas (Temporada 8, Ep 23248)]\nProducao:\n",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E23248",
+        "temporada": 8,
+        "numero_ep": 23248,
+        "nome": "Ilhas",
+        "secao": "producao"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E23248_vozes",
+      "text": "[Episódio: Ilhas (Temporada 8, Ep 23248)]\nVozes:\n### Original\n\n### Brasil",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E23248",
+        "temporada": 8,
+        "numero_ep": 23248,
+        "nome": "Ilhas",
+        "secao": "vozes"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E23248_curiosidades",
+      "text": "[Episódio: Ilhas (Temporada 8, Ep 23248)]\nCuriosidades:\n",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E23248",
+        "temporada": 8,
+        "numero_ep": 23248,
+        "nome": "Ilhas",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

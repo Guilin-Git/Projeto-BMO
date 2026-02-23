@@ -1,0 +1,73 @@
+{
+  "id": "AT_S08E19244",
+  "tipo": "episodio",
+  "nome": "O Poder das Jujubas",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_S08E19244_meta",
+      "text": "[Episódio: O Poder das Jujubas (Temporada 8, Ep 19244)]\nDiretor: -\nRoteiro: Aleks Sennwald",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E19244",
+        "temporada": 8,
+        "numero_ep": 19244,
+        "nome": "O Poder das Jujubas",
+        "characters_secondary": "Principais:|Princesa Jujuba|Paciência St. Pim|Chett Speery|Secundários:|Finn|Jake|Princesa Geleca|Mordomo Menta|Povo Doce",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E19244_sinopse",
+      "text": "[Episódio: O Poder das Jujubas (Temporada 8, Ep 19244)]\nSinopse: A mente científica da Princesa Jujuba deve liberar o seu potencial elemental mágico quando ela enfrenta uma entidade de cristal.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E19244",
+        "temporada": 8,
+        "numero_ep": 19244,
+        "nome": "O Poder das Jujubas",
+        "characters_secondary": "Principais:|Princesa Jujuba|Paciência St. Pim|Chett Speery|Secundários:|Finn|Jake|Princesa Geleca|Mordomo Menta|Povo Doce",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E19244_informacoes",
+      "text": "[Episódio: O Poder das Jujubas (Temporada 8, Ep 19244)]\nInformacoes:\n### Temporada\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E19244",
+        "temporada": 8,
+        "numero_ep": 19244,
+        "nome": "O Poder das Jujubas",
+        "characters_secondary": "Principais:|Princesa Jujuba|Paciência St. Pim|Chett Speery|Secundários:|Finn|Jake|Princesa Geleca|Mordomo Menta|Povo Doce",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E19244_creditos",
+      "text": "[Episódio: O Poder das Jujubas (Temporada 8, Ep 19244)]\nCreditos:\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E19244",
+        "temporada": 8,
+        "numero_ep": 19244,
+        "nome": "O Poder das Jujubas",
+        "characters_secondary": "Principais:|Princesa Jujuba|Paciência St. Pim|Chett Speery|Secundários:|Finn|Jake|Princesa Geleca|Mordomo Menta|Povo Doce",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E19244_conexoes_de_episodios",
+      "text": "[Episódio: O Poder das Jujubas (Temporada 8, Ep 19244)]\nConexoes_De_Episodios:\n- O tema dos quatro elementos, que estão bastante presentes nesta temporada, são vistos novamente neste episódio, e mais tarde reaparecem em Elementos .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E19244",
+        "temporada": 8,
+        "numero_ep": 19244,
+        "nome": "O Poder das Jujubas",
+        "characters_secondary": "Principais:|Princesa Jujuba|Paciência St. Pim|Chett Speery|Secundários:|Finn|Jake|Princesa Geleca|Mordomo Menta|Povo Doce",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

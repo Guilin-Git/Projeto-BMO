@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 18
 nome: "Masmorra"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Masmorra"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Masmorra"
 ---
 
 # Masmorra
 
 **Temporada 1 — Episódio 18**
+
+## Descrição
+" Masmorra " é o 18º episódio da 1ª temporada de Hora de Aventura . É o décimo oitavo episódio no total.
 
 ## Sinopse
 Finn faz uma aposta com Jake que pode se virar sozinho e desce em um calabouço na esperança de encontrar aventura, mas, ele encontra vários obstáculos quase impossíveis de se passar.
@@ -22,9 +26,46 @@ Na próxima área, Finn encontra o Gato Demoníaco de novo, que ouviu Finn afirm
 Pensando em completar a aposta de Finn, os heróis seguem para a câmara do olho de cristal, que revela ser um grande diamante como joia. Ao levantá-la, eles desencadeiam inadvertidamente Olhos Demoníacos que os atacam. Ambos não são capazes de derrotá-los, e parece que eles serão mortos. Princesa Jujuba em seguida, aparece, destruindo demônios com um laser em seu Cisne. Com os três com segurança no cisne, os demônios são perseguidos de volta sob o olho de cristal, que é colocado de volta sobre eles. No entanto, a Princesa Jujuba repreende a Finn, enquanto os dois aceitam que eles aprenderam a lição: eles são melhores como uma equipe. Princesa Jujuba não está feliz com a sua resposta, mas aceita a resposta apressada de Finn que ela é uma princesa inteligente. O episódio termina com os três fazendo um buraco para fora do calabouço e voando sobre o cisne .
 
 ## Personagens
-### Principais
+
+### Personagens Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Gato Demoníaco
+
 - Anja da Guarda
+
+
+### Personagens Menores
+
+- Olhos Demoníacos
+
+- Cavaleiro Balde
+
+- Ceifeiro
+
+- Cubo Gelatinoso
+
+- Rei Goblin
+
+- Cisne
+
+- O Caracol
+
+## Músicas
+- Oh Chave
+
+- Ligadão
+
+## Curiosidades
+- Finn aposta que ele vai chegar ao Olho de Cristal em menos de 11 minutos. Isso é equivalente á duração de um único episódio.
+
+- Em vez de usar um logotipo normal, "Adventure Time", este episódio usa dois logotipos diferentes. Eles são "Lanch Time" (Hora do Almoço) com um garfo em vez de uma espada, "Newfound Respect" (Respeito Descoberto), que tem um fundo laranja; e o normal "Adventure Time".
+
+- A masmorra aonde Finn e Jake estão é parecida com a do filme "Prince of Persia: The Sands of Time".
+
+- O nome original desse episódio era "Mestres da Masmorra".

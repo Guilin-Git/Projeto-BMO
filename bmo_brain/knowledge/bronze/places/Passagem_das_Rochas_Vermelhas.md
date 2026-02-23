@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Passagem das Rochas Vermelhas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Passagem_das_Rochas_Vermelhas"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Passagem_das_Rochas_Vermelhas"
 ---
+
+> Passagem das Rochas Vermelhas é um lugar de Hora de Aventura.
 
 # Passagem das Rochas Vermelhas
 

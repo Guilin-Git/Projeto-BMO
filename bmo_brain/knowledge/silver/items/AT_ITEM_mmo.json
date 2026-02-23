@@ -1,0 +1,14 @@
+{
+  "id": "AT_ITEM_mmo",
+  "tipo": "objeto",
+  "nome": "MMO",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/MMO",
+  "sections": {
+    "descricao": "# MMO",
+    "informacoes": "### Nome\n\n### Espécie\n\n### Ocupação\n\n### Parentes",
+    "detalhes": "### Primeira Aparição",
+    "aparencia": "Ele é idêntico a BMO , exceto o tamanho, as letras em sua lateral e que ele não tem botões.",
+    "sobre": "Ele é o ajudante de Moe, ele carrega Moe para onde ele quiser. Ele é um dos maiores MO'S, ele fica muito feliz ao ver BMO."
+  },
+  "source_file": "MMO.md"
+}

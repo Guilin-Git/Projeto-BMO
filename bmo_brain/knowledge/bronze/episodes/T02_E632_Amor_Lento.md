@@ -1,16 +1,51 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 632
 nome: "Amor Lento"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Amor_Lento"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-032"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Amor_Lento"
 ---
 
 # Amor Lento
 
 **Temporada 2 — Episódio 632**
+
+## Descrição
+" Amor Lento " é o 6º episódio da 2ª temporada de Hora de Aventura . É o trigésimo segundo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Cole Sanchez
+
+- Benton Connor
 
 ## Sinopse
 Um caracol chamado Snorlock vai destruir a casa na árvore se Finn e Jake não o ajudarem a achar uma namorada.
@@ -27,13 +62,36 @@ Jake lembra a reação de Snorlock ao sal, então ele pula em cima da casa da á
 Ele diz que não sabia que ele era uma lesma e fica chateado, já que provavelmente não havia nenhum lesmas fêmeas em torno. No entanto, um caracol senhora confessa. "Na verdade ... Eu não sou um caracol Eu sou uma lesma. Minha concha feito de uma pimenta." Snorlock risos, e a beija na frente de Finn e Jake. BMO ri e canta, "Vai! Vai! Vai! Vai!" Como Snorlock continua a roubar beijos, BMO aumenta seu volume, o que enfurece Jake. Jake é executado no BMO, que agora está se afogando em "suco feliz".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Snorlock
 
+
 ### Secundários
+
 - BMO
+
 - Garotas Caracol
+
 - Garota Lesma
+
 - O Caracol
+
+## Caracol
+Aparece ao lado da garrafa encima da mesa enquanto Finn está falando com Jake em forma de caracol.
+
+## Curiosidades
+- Este episódio revela que Finn tem mais que uma espada.
+
+- A Terra de Ooo tem um jornal intitulado " The Ooo Review " visto quando Finn lê-lo no início do episódio. Há um Phil Face na primeira página daquela edição.
+
+- A música do título no cartão é a mesma música que acompanha beat-boxing do Snorlock.
+
+- No canto do cartão de título dá pra se ver o reino gelado.
+
+- Aparece outro logo Lady Time (Hora de Namorada).

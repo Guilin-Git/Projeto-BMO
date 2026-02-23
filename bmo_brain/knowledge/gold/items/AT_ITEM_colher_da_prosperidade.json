@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_colher_da_prosperidade",
+  "tipo": "objeto",
+  "nome": "Colher da Prosperidade",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_colher_da_prosperidade_descricao",
+      "text": "[Objeto: Colher da Prosperidade]\nDescricao:\n# Colher da Prosperidade\n\nA Colher da Prosperidade é uma colher mágica que alimenta quem equilibrá-la em seu nariz. Princesa Jujuba enviou Finn , Jake , e Marceline à cidade subterrânea de areia para recuperá-la. Depois que Marceline suga o sangue da Princesa Jujuba , Princesa Jujuba coloca a colher no nariz e volta ao normal.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_colher_da_prosperidade",
+        "nome": "Colher da Prosperidade",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_colher_da_prosperidade_informacoes",
+      "text": "[Objeto: Colher da Prosperidade]\nInformacoes:\n### Nome\n\n### Idade\n\n### Espécie\n\n### Moradia\n\n### Parentes",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_colher_da_prosperidade",
+        "nome": "Colher da Prosperidade",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_colher_da_prosperidade_detalhes",
+      "text": "[Objeto: Colher da Prosperidade]\nDetalhes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_colher_da_prosperidade",
+        "nome": "Colher da Prosperidade",
+        "secao": "detalhes"
+      }
+    }
+  ]
+}

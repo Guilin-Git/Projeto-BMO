@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Vila dos Magos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Vila_dos_Magos"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Vila_dos_Magos"
 ---
+
+> Vila dos Magos é um lugar de Hora de Aventura.
 
 # Vila dos Magos
 

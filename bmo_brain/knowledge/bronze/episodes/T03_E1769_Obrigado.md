@@ -1,22 +1,109 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 1769
 nome: "Obrigado"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Obrigado"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-063"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Obrigado"
 ---
 
 # Obrigado
 
 **Temporada 3 — Episódio 1769**
 
+## Descrição
+" Obrigado " é o 17º episódio da 3ª temporada de Hora de Aventura . É o sexagésimo nono episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Patrick McHale Kent Osborne Pendleton Ward
+
+
+### Escritor
+
 ## Sinopse
 Um Golem de Neve abriga um Filhote Lobo de Fogo perdido e tenta tomar conta dele, enquanto Finn e Jake tentam quebrar a armadura de gelo do Rei Gelado , por ter roubado seus sanduiches .
 
+## História
+O dia começa com um pássaro despertador entrando na casa de um Golem de Neve e acordando-o. O Golem de Neve esmaga o pássaro, mas não adiantou, ele passa através de sua mão como ele é feito de neve. Ele acorda, fica-se pronto para o dia e, em seguida, vai para o café da manhã. Ele pega uma caixa de cereal e uma caixa de leite e despeja-lo em sua tigela. Em vez de cereais e leite, vem para fora uma pêra e pinhas. Depois que ele come, ele vai para o seu gabinete achando que ele não tem mais comida. Em um pedaço de papel que funciona como uma lista de compras, ele desenha uma pêra. Ele então coloca uma coroa de varas e dirige-se para obter a sua pêra e pinhas.
+
+Enquanto isso, não muito longe da casa do Golem, Finn e Jake estão se preparando para lutar contra o Rei Gelado por roubar seus sanduíches. O Rei Gelado confiantemente afirma que eles não vão passar por sua armadura de gelo invencível, que está cercando todo o seu corpo, exceto em seu rosto. Finn chuta, Jake soca, mas nada acontece. Rei Gelado ri na vitória e exclama que é sua hora de brilhar.
+
+O Golem evita-os e continua em direção à floresta, que fica na fronteira entre o Reino de Fogo e o Reino de Gelo . Ele vai arrancar algumas pêras das árvores, quando ele se vira e encontra uma matilha de Lobos de Fogo . Os Lobos de Fogo rosnam para ele, e o Golem de Neve atinge um deles lentamente com uma pêra no chão e joga-a em um lobo de fogo e toda a matilha ataca. Vapor envolve a luta e, eventualmente, após a luta terminar, vemos o Golem de neve puxando um galho de árvore que atravessou seu olho. Seu carrinho (cheio de peras) é derrubado e uma de suas rodas caiu. Ele vai e pega-la e quando ele pega, um pequeno Filhote Lobo de Fogo está mordendo ela. Ele tira-o e coloca a roda do carrinho de volta. Quando ele está se preparando para ir embora, o filhote vem e começa a correr em volta dele, brincando. O Golem de Neve pega-o usando a vara e coloca o filhote em uma árvore, em seguida, sai. Enquanto ele está saindo, o filhote começa a latir para ele.
+
+Como ele vai voltar, vemos Finn e Jake ainda está tentando obter a armadura do Rei Gelado passado gelo por atacá-lo com paus, sem fazer nenhum progresso. O Golem da Neve entra em sua casa, tira a coroa de varas, e senta-se na cadeira, relaxando. Seu carrinho começa explode e queima em uma explosão de fogo. Ele começa a gritar e apaga o fogo. Quando o vapor se dissipa, ele vê o Filhote Lobo de Fogo escondido em seu carrinho. Ele, então, toma um pau e pega o filhote e joga-lo fora da casa. O filhote começa a choramingar fazendo com que o Golem de neve a olhar para fora, em seguida, fechar a porta. Ele mantém choramingando e ele olha para fora de novo, só para encontrar abutres mordendo ela. Em seguida, ele afugenta os abutres, e vendo que está ficando escuro, ele permite que o filhote para sua casa.
+
+Quando ele volta para sua casa, ele encontra o filhote está definindo o seu material em chamas. Depois de colocar os fogos fora (de novo), ele leva o filhote para fora da cozinha, usando um pedaço de pau e em um quarto onde ele não pode queimar qualquer coisa. O filhote torna-se confortável e se senta. Em seguida, o Golem de Neve coloca uma pedra em sua cauda, ​​mantendo o filhote no lugar. O Golem de Neve tenta obter o filhote a comer um de seus peras. O filhote dá uma mordida e engole. O Golem de Neve parece feliz sabendo que ele não vai ter um problema de alimentá-lo, mas o filhote joga-lo e arrepios de desgosto. O filhote começa a fazer sons de sucção, o que significa que quer leite. O Golem de Neve leva o filhote até uma vaca para beber o seu leite, e, no processo, queima a vacas úbere. Mesmo que a vaca é moo-gritando de dor, o Golem de neve está feliz.
+
+O Golem de Neve tenta entreter o filhote cantando, com seus dois dedos indicadores também cantando. O filhote está feliz, mas lambe o dedo do Golem fazendo-a derreter. O Golem puxa para trás na dor, e o filhote começa a fazer ruídos choramingando e parece triste. O Golem, em seguida, corrige o dedo, o que torna ainda maior. E, em uma espécie estranha de evento, o dedo torna-se sua cabeça. Ele assusta um pouco, mas o filhote parece feliz, fazendo-o rir.
+
+Na cena seguinte, ele canta o filhote para dormir em uma cadeira. Ele ouve os uivos do bando de Lobos de fogo do lado de fora. O filhote começa a uivar com eles. Isso faz com que o Golem de neve que admitir para si mesmo que ele tem para dar ao filhote de volta amanhã. Enquanto isso, Finn, Jake, e o Rei Gelado estão todos dormindo. O Rei Ice é o sono falando sobre como eles nunca vão quebrar sua armadura, e Finn, sono atinge a armadura com uma vara. Na manhã seguinte, o pássaro volta, mas pega uma bola de fogo jogado nele pelo filhote. O Golem de Neve acorda, e começa a tirar o filhote de volta para o Reino de Fogo . No caminho, vemos Finn e Jake destruir a armadura do Rei Gelado com machados.
+
+O Golem de neve derretendo, carregando o filhote com uma cadeira, sobe a montanha que os Lobo sde Fogo estão vivendo, quando as queimaduras o filhote cai através da cadeira em uma parte mais baixa da montanha, que contém uma grande quantidade de fogo. Mesmo que o Golem de neve tenta resgatar o filhote, apesar da possibilidade de fusão. Independentemente disso, ele está determinado a tirar o filhote de volta. Sendo extremamente derretido, ele finalmente chega aos Lobos de fogo. Os lobos responder com raiva para o Golem de neve por estar em seu território, mas ele retorna o filhote de volta para seus pais, que começa a lamber o filhote. O Golem parece feliz, mas os lobos fogo rosna para ele ainda mais, e ele sai em decepção. Ele volta para o Reino de gelo, como nada mais que um pequeno corpo, braços, pernas e está à procura deprimido. Finn e Jake, que quebraram o gelo armadura e pegam a Coroa do Rei Gelado , estão desfrutando de seus sanduíches em cima do Rei Gelado capturado.
+
+O Golem de Neve solta um suspiro solitário até que o Lobo de Fogo sair dos arbustos de neve. O Golem de Neve tem medo, mas o filhote vem correndo para cima e começa a lamber-lhe enquanto derretendo o Golem de Neve em quase uma poça sentimental. O Golem de Neve tem o prazer de vê-lo, e diz: "A Casa de vocês é muito bonita.", e começa a rir. Finn acha que o filhote está atacando o "poça" e pergunta a Jake se eles devem ou não ajudar, mas Jake diz a ele que a poça é um Golem de Neve e que ele está rindo. Finn diz a Jake que ele pensou que Golems de Neve e Lobos de Fogo deveriam odiar uns aos outros, mas as respostas que eles ainda podem se dar bem. Rei Gelado observa que eles deveriam aprender um pouco com os "sanduíches". Depois de pensar sobre isso, Finn, em seguida, se inclina e beija o Rei Gelado no rosto e os sussurros Rei do Gelo, "Obrigado."
+
 ## Personagens
+
 ### Principais
+
 - Golem de Neve
+
 - Lobos de Fogo
+
 - Filhote Lobo de Fogo
+
+
+### Menores
+
+- Finn
+
+- Jake
+
+- Rei Gelado
+
+- Caracol
+
+- Vaca
+
+- Urubus
+
+- Pássaro Despertador
+
+## Curiosidades
+- Jake usa a coroa do Rei Gelado , mas não aparece nenhum efeito como aconteceu com o Rei Gelado e o Finn (Farmworld) . De acordo com Adam Muto é porque o Jake já possui poderes mágicos. Isso parece ser um pouco contraditório, pois em Joshua e Margaret é revelado que seus poderes pertencem à sua biologia, e não a magia.
+
+- Um trator velho é visto enterrado na neve fora da casa do Golem de Neve.
+
+- Este episódio é uma homenagem ao dia de Ação de Graças.
+
+- Este episódio foi nomeado a um prêmio.
+
+- Este episódio é o que tem menos diálogo na série.
+
+- A mensagem deste episódio é mostrar que pode haver amizade entre duas espécies inimigas. (no caso os Golens de Neve e os Lobos de Fogo)
+
+- O Filhote de Lobo de Fogo atualmente pode ser o mascote de Canelinha que aparece no episódio " O Trono Vermelho ".
+
+- É a primeira vez que Finn e Jake são Personagens Secundários.
+
+- Isso parece ser um pouco contraditório, pois em Joshua e Margaret é revelado que seus poderes pertencem à sua biologia, e não a magia.
+
+## Erros
+- Antes do Golem da Neve lutar contra os Lobos de Fogo , ele não tem peras em seu carrinho de mão, mas depois, ela é cheia de peras, mas é possível que as peras tenham caído da árvore.
+
+- Quando o Golem da Neve deixa sua casa pela primeira vez, ele deixa a porta aberta. Quando ele retorna, a porta está fechada.

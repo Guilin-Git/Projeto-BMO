@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Castelo da Morte"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Castelo_da_Morte"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Castelo_da_Morte"
 ---
+
+> Castelo da Morte é um lugar de Hora de Aventura.
 
 # Castelo da Morte
 
@@ -11,3 +13,6 @@ Aparecendo pela primeira vez em " Morte em Botão ", o Castelo da Morte é uma l
 
 O castelo é totalmente diferente do resto da Terra dos Mortos , que é feito puramente de luz. O seu interior é constituído por um jardim de pedras japonês , onde reside a Morte . Ao invés de pedras (que é o normal em jardins assim) há crânios de diversos tipos. Alguns dos crânios são enormes, enquanto outros são menores. Um desses crânios, o principal de todos, tem vários crânios menores e uma árvore morta nos olhos.
 O Rio do Esquecimento tem um caminho estreito através do jardim, rodeado por aquilo que parece ser concreto. Em um ponto ele tem uma ponte conectando os lados do jardim. O Castelo da Morte também possui um palco gigante utilizado para batalhas musicais, com uma variedade de instrumentos em uma parede.
+
+## Curiosidade
+- O castelo é provavelmente uma referência mitológica ao Jardim de Perséfone, que é a única parte brilhante do submundo.

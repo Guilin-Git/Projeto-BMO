@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 8
 nome: "Hora de Negócios"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Hora_de_Neg%C3%B3cios"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Hora_de_Neg%C3%B3cios"
 ---
 
 # Hora de Negócios
 
 **Temporada 1 — Episódio 8**
+
+## Descrição
+" Hora de Negócios " é o 8º episódio da 1ª temporada de Hora de Aventura . É o oitavo episódio no total.
 
 ## Sinopse
 Finn e Jake encontram executivos congelados em Icebergs. Como estavam desempregados, começam a trabalhar para a dupla.
@@ -22,19 +26,50 @@ Os Executivos em breve começam a fazer todo o trabalho para Finn e Jake que com
 Eventualmente, os Executivos se transformam em vilões (que estão estritamente pensando que estão fazendo a coisa certa) e começam a aspirar alguns Habitantes Felpudos e colocam num saco em seu gigante robô para protegê-los. Finn os demite, e eles ficam numa raiva incontrolável, sugando tudo, incluindo Finn. Jake, usando sua gordura a seu favor, fica preso no tubo de vácuo e fica crescendo até explodir o robô. Quando Finn cai, ele recontrata os Executivos e diz-lhes para voltarem ao iceberg e flutuar de volta para o lago. Jake imediatamente encolhe de volta em seu tamanho normal, reduzindo a sua gordura. Finn tenta emagrecer como Jake, mas continua gordo pois não possui poderes mágicos como Jake. O episódio termina com uma grande close-up no rosto de Finn, escrito "Fim?".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Executivos
 
+
 ### Secundários
+
 - Flambo
+
 - Princesa Cachorro Quente
+
 - Princesa Caroço
+
 - Gigante do Pântano
+
 - Cubos
+
 - BMO
+
 - Habitantes Felpudos
+
 - Rei Gelado (citado)
+
 - Princesa Jujuba (citada)
+
 - O Caracol
+
+## Curiosidades
+- Neste episódio Finn comeu exatos 18 potes de sorvete e Jake 30.
+
+- Pendleton Ward afirmou que foi a partir desse episódio que a equipe de Hora de Aventura decidiu que a Terra de Ooo seria um mundo pós-apocalíptico.
+
+- Este é o último episódio que o tittlecard apresenta a frase "Adventure Time with Finn & Jake presents".
+
+- Na versão em espanhol, Finn diz " Quiero evitar la fatiga ", uma referência a frase " é que eu quero evitar a fadiga " do personagem Jaiminho, o Carteiro de Chaves.
+
+
+### Análise do Enredo
+
+- É mostrado que alguns satélites que orbitam a Terra ainda funcionam.
+
+- É possível que os homens de negócios tenham sido congelados antes, durante ou após a Guerra dos Cogumelo . Isso pode significar que os homens de negócios já foram humanos, mas foram zumbificados por estarem congelados por tanto tempo.

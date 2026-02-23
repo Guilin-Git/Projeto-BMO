@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_coracao_de_demonio",
+  "tipo": "objeto",
+  "nome": "Coração de Demônio",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_coracao_de_demonio_descricao",
+      "text": "[Objeto: Coração de Demônio]\nDescricao:\n# Coração de Demônio",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_coracao_de_demonio",
+        "nome": "Coração de Demônio",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_coracao_de_demonio_aparicoes",
+      "text": "[Objeto: Coração de Demônio]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_coracao_de_demonio",
+        "nome": "Coração de Demônio",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_coracao_de_demonio_aparencia",
+      "text": "[Objeto: Coração de Demônio]\nAparencia:\nO Coração de Demônio tem a aparência de um coração humano comum com as colorações normais, mas tem várias bocas e espinhos nele.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_coracao_de_demonio",
+        "nome": "Coração de Demônio",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_coracao_de_demonio_curiosidade",
+      "text": "[Objeto: Coração de Demônio]\nCuriosidade:\n- É o itens que aumenta a força temporariamente no jogo Adventure Time: Explore the Dungeon Because I DON'T KNOW!",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_coracao_de_demonio",
+        "nome": "Coração de Demônio",
+        "secao": "curiosidade"
+      }
+    }
+  ]
+}

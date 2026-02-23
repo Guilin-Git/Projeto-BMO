@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_maquina_de_pegadinha",
+  "tipo": "objeto",
+  "nome": "Máquina de Pegadinha",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/M%C3%A1quina_de_Pegadinha",
+  "sections": {
+    "descricao": "# Máquina de Pegadinha\n\nConstruída pela Princesa Jujuba , a Máquina de Pegadinha aparece em \" Jovem Demais \".\n\nQuando ativada, ela mostra a mensagem \"Você fede a bumbum de cachorro\", acordando quem estivar na cama.",
+    "aparicoes": "### Primeira Aparição",
+    "curiosidades": "- A máquina contém um Phil Face ."
+  },
+  "source_file": "Maquina_de_Pegadinha.md"
+}

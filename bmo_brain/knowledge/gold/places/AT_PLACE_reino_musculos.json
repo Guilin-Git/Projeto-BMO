@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_reino_musculos",
+  "tipo": "lugar",
+  "nome": "Reino Músculos",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_reino_musculos_descricao",
+      "text": "[Lugar: Reino Músculos]\nDescricao:\n# Reino Músculos\n\nO Reino Músculos é o reino onde a Princesa Músculos mora, ele só teve uma aparição no episódio Para Cortar os Cabelos de uma Mulher . Ele é como um castelo comum e só foi visto por fora (com exceção do quarto da Princesa Músculos).",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_musculos",
+        "nome": "Reino Músculos",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

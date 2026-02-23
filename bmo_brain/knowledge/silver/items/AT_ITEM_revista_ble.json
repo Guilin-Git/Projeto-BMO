@@ -1,0 +1,11 @@
+{
+  "id": "AT_ITEM_revista_ble",
+  "tipo": "objeto",
+  "nome": "Revista Ble",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Revista_Ble",
+  "sections": {
+    "descricao": "# Revista Ble\n\nBLE é uma revista se histórias em quadrinhos. \" Blenanas \" tem como foco a revista em si.",
+    "aparicoes": "- \" O Armário da Marceline \"\n\n- \" Incêndio \"\n\n- \" Seguindo Seus Passos \"\n\n- \" Nêmesis \"\n\n- \" Historinhas \"\n\n- \" Blenanas \"\n\n- \" Venha Comigo \""
+  },
+  "source_file": "Revista_Ble.md"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_dirigivel_do_rei_de_ooo",
+  "tipo": "objeto",
+  "nome": "Dirigível do Rei de Ooo",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Dirig%C3%ADvel_do_Rei_de_Ooo",
+  "sections": {
+    "descricao": "# Dirigível do Rei de Terra de Ooo",
+    "aparicoes": "### Primeira Aparição",
+    "sobre": "Ele é um dirigível comum. A Princesa Jujuba tenta achar papéis para incriminar o Rei de Terra de Ooo e depois, atira o dirigível no chão."
+  },
+  "source_file": "Dirigivel_do_Rei_de_Ooo.md"
+}

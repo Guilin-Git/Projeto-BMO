@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_olho_de_cristal",
+  "tipo": "objeto",
+  "nome": "Olho de Cristal",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_olho_de_cristal_descricao",
+      "text": "[Objeto: Olho de Cristal]\nDescricao:\n# Olho de Cristal\n\nO Olho de Cristal é um cristal gigante escondido nas profundezas da Masmorra do Olho de Cristal, e sua única aparição é em \" Masmorra \". O Olho de Cristal serve para cobrir um buraco contendo Olhos Demoníacos . Desconhece-se se o Olho de Cristal tem qualquer valor real.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_olho_de_cristal",
+        "nome": "Olho de Cristal",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_olho_de_cristal_aparicoes",
+      "text": "[Objeto: Olho de Cristal]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_olho_de_cristal",
+        "nome": "Olho de Cristal",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_olho_de_cristal_aparencia",
+      "text": "[Objeto: Olho de Cristal]\nAparencia:\nEle não se parece nada com um olho, e sim se assemelha a um enorme, cristal azul facetado. O Olho de Cristal é de grande peso, de acordo com seu tamanho, exigindo tanto Finn e Jake ao mesmo tempo para levantá-lo.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_olho_de_cristal",
+        "nome": "Olho de Cristal",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_olho_de_cristal_curiosidades",
+      "text": "[Objeto: Olho de Cristal]\nCuriosidades:\n- Ele aparece em Adventure Time: Hey Rei Gelado! Why'd you steal our garbage?!! como um item usável. Ele garante invencibilidade temporária.\n\n- É possível que seu nome seja apenas por trancar os Olhos Demoníacos , já que não se parece nada com um olho.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_olho_de_cristal",
+        "nome": "Olho de Cristal",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

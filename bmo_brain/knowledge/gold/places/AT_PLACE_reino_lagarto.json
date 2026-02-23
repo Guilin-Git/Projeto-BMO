@@ -1,0 +1,38 @@
+{
+  "id": "AT_PLACE_reino_lagarto",
+  "tipo": "lugar",
+  "nome": "Reino Lagarto",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_reino_lagarto_descricao",
+      "text": "[Lugar: Reino Lagarto]\nDescricao:\n# Reino Lagarto\n\nO Reino Lagarto é um reino brevemente visitado em \" Breezy \" visitado por Finn e Breezy . A Princesa Lagarto é a governante lá, e o reino é o lar da dela e do Povo Lagarto e seus guardas.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_lagarto",
+        "nome": "Reino Lagarto",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_reino_lagarto_aparencia",
+      "text": "[Lugar: Reino Lagarto]\nAparencia:\nO Reino Lagarto é um grande prédio abandonado provavelmente em seu estado, devida à Grande Guerra dos Cogumelos. As pessoas lagarto provavelmente o encontrou e o chamou de reino. O reino e seus arredores são cobertos no que parece ser ou algum tipo de vida vegetal ou substância gosmenta.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_lagarto",
+        "nome": "Reino Lagarto",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_reino_lagarto_curiosidades",
+      "text": "[Lugar: Reino Lagarto]\nCuriosidades:\n- Todos os habitantes são espécies de repteis.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_lagarto",
+        "nome": "Reino Lagarto",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

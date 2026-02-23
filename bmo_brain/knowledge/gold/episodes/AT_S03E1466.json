@@ -1,0 +1,134 @@
+{
+  "id": "AT_S03E1466",
+  "tipo": "episodio",
+  "nome": "Bonitopia",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "AT_S03E1466_meta",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nDiretor: Larry Leichliter\nRoteiro: Mark Banker Patrick McHale Kent Osborne Pendleton Ward\nPersonagens Principais: Finn, Jake, Susana Forte, Ameboides",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S03E1466_sinopse",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nSinopse: Susana Forte pede a Finn e Jake para ajudar a combater os Ameboides e recuperar a casa de seu povo em Bonitopia .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S03E1466_informacoes",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nInformacoes:\n### Temporada\n\n### Código de Produção",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S03E1466_creditos",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S03E1466_historia",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nHistoria:\nFinn e Jake estão dentro de casa, discutindo coisas sobre o café, quando ouvem uma batida. Susana pede a Finn para ir com ela, ela diz que precisa da ajuda dele por causa de seu \"coração do herói.\" Ela também acrescenta que ela precisa da magia de Finn, a \"Flor Vermelha\", ou Fogo.\n\nJake tenta convencer Finn que Susana é completamente louca, Apesar disso, Finn ainda quer ajudar e pergunta a Jake que se ele vem com eles ou não. Jake diz que ele só vai para ser \"perturbador e desagradável\".\n\nA dupla é levada para a caverna subterrânea em que vive o tribo Hiumanos. Susana acha que eles devem nadar, e mergulha a cabeça de Finn na água. Jake pára Susana logo, salvando Finn do afogamento. Finn tira o chapéu enquanto recupera o fôlego, Susana vê que Finn não tem guelras. Ela decide então, ir de barco pelo rio e Jake canta \" Estou Navegando \". Uma boia de piscina passa ao lado deles, e Susana entra em pânico, dizendo tanto Finn e Jake para manter a calma, porque era um Ameboide. Eles passam por um redemoinho na água e portões que se batem para esmagar, e eventualmente, eles chegam a cidade e varios Ameboides aparecem. Jake está convencido de que eles são apenas bóias de piscina normais e bate uma com sua mão machado. Os Amabóides revelam sua forma verdadeira e atacam o grupo, para o terror de Susana. Susana entra em pânico enquanto Finn e Jake lutam. Porém ela vai ajudar Finn a lutar e Jake acende o fogo no coração da cidade. Quando ele o faz, todos os Ameboides, desaparecem. Todos os Hiumanos voltam para a cidade. Susana diz a Finn que ele deveria ficar, mas Finn afirma que ele não é como ela. Susana toma sua mão e coloca-a debaixo de seu chapéu em seu pescoço. Finn é surpreendido por o que ele sentia e diz: \"Susana ....\" mas é interrompido por Jake, que pegou um monte de pretzels macios. Finn dá adeus a Susana e eles saem.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "historia"
+      }
+    },
+    {
+      "chunk_id": "AT_S03E1466_musica",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nMusica:\n- \" Estou Navegando \"",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "musica"
+      }
+    },
+    {
+      "chunk_id": "AT_S03E1466_curiosidades",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nCuriosidades:\n- O título deste episódio é uma junção das palavras \"bonita\" e \"utopia\".\n\n- Os portões são esculpidos para se parecer com duas mãos batendo o punho.\n\n- Na carta de título é possível ver uma mulher usando um gorro idêntico ao do Finn .\n\n- Quando os Ameboides saem das bóias, um Ameboide morde um crânio parecido com o de Fionna , que estava ao lado de um crânio com pelo de gato parecido com o da Cake .\n\n- Quando Finn tira seu chapéu, seu cabelo está um pouco mais longo do que era em \" Folia Mortal \".\n\n- Durante suas viagens, os comentários de Susana implicam que ela tentou voltar à Bonitopia no passado.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S03E1466_referencias_culturais",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nReferencias_Culturais:\n- Susana se refere ao fogo como “flor vermelha”. Em \"O Livro da Selva\" de Rudyard Kipling, o fogo também é chamado de “flor vermelha”. (Assim como na adaptação da Disney, Mogli).\n\n- Os Ameboides são uma referência aos monstros de fumaça da série Lost.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "referencias_culturais"
+      }
+    },
+    {
+      "chunk_id": "AT_S03E1466_conexoes_de_episodios",
+      "text": "[Episódio: Bonitopia (Temporada 3, Ep 1466)]\nConexoes_De_Episodios:\n- Jake menciona quando Susana tentou comer o Mordomo Menta em \" Susana Forte \".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S03E1466",
+        "temporada": 3,
+        "numero_ep": 1466,
+        "nome": "Bonitopia",
+        "characters_main": "Finn|Jake|Susana Forte|Ameboides",
+        "characters_secondary": "Hyoomanos Celina|Mordomo Menta (mencionado)|Joshua (mencionado)|Margaret (mencionada)|Celina",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

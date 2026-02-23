@@ -1,0 +1,28 @@
+{
+  "id": "AT_S10E003",
+  "tipo": "episodio",
+  "nome": "Porquinha, Você Gosta de Maçãs?",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Porquinha,_Voc%C3%AA_Gosta_de_Ma%C3%A7%C3%A3s%3F",
+  "sections": {
+    "informacoes": "### Temporada\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+    "creditos": "### Diretor\n\n### Escritor",
+    "sinopse": "Rei Gelado está com fome de bacon, então ele tenta comer um porco solitário em uma fazenda.",
+    "curiosidades": "- Enquanto Rei Gelado espia através de seu telescópio, Mordomo Menta pode ser visto brevemente arrastando o que parece ser uma bolsa de corpo para fora de um lago.\n\n- Este é a única historinha curta que não apresenta Finn e Jake."
+  },
+  "source_file": "T10_E003_Porquinha_Voce_Gosta_de_Macas.md",
+  "season": 10,
+  "episode": 3,
+  "episode_id": "S10E003",
+  "diretor": "Andres Salaff",
+  "codigo_producao": "1025-204D",
+  "data_exibicao": "02/12/16",
+  "characters_secondary": [
+    "Rei Gelado",
+    "Marceline",
+    "Porco",
+    "Mordomo Menta",
+    "Gunter",
+    "Caracol",
+    "Cuber (apenas no cartão de título)"
+  ]
+}

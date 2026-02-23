@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_vila_dos_cogumelos",
+  "tipo": "lugar",
+  "nome": "Vila dos Cogumelos",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_vila_dos_cogumelos_descricao",
+      "text": "[Lugar: Vila dos Cogumelos]\nDescricao:\n# Vila dos Cogumelos\n\nA Vila dos Cogumelos é uma vila habitada pelo Povo Cogumelo , como visto no episódio \" Os Feijões \". Os porquinhos estavam destruindo esta vila e aterrorizando as pessoas com varinhas mágicas, mas Finn e Jake salvaram a vila, destruindo os porcos com sorvete. Depois do Povo Cogumelo agradecê-los, Jake toma o excesso de sorvete da aldeia, limpando-na.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vila_dos_cogumelos",
+        "nome": "Vila dos Cogumelos",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_vila_dos_cogumelos_curiosidades",
+      "text": "[Lugar: Vila dos Cogumelos]\nCuriosidades:\n- O Povo Cogumelo teve que reconstruir um pouco o Reino.\n\n### Referências culturais\n\n- A Vila dos Cogumelos tem uma semelhança com a vila dos Smurfs .\n\n- Os Porquinhos tentaram destruir a vila.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vila_dos_cogumelos",
+        "nome": "Vila dos Cogumelos",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 2106
 nome: "Jake, o Cão"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Jake,_o_C%C3%A3o"
 data_exibicao: "15 de Julho de 2013"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-106"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Jake,_o_C%C3%A3o"
 ---
 
 # Jake, o Cão
 
 **Temporada 5 — Episódio 2106**
+
+## Descrição
+" Jake, o Cão " é o 2º episódio da 5ª temporada de Hora de Aventura . É o centésimo sexto (106º) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Jake continua a assistir os eventos do desejo de Finn na sala do tempo; enquanto o desejo piora, Prismo tenta convencer Jake a fazer o desejo lógico.
@@ -28,15 +55,89 @@ Enquanto isso, Jake , Prismo e a Coruja Cósmica estão fazendo um rap na jacuzz
 Prismo entrega um ovo para Jake comer, Prismo então dá pistas de como Jake pode ajudar Finn , então fala para Jake mudar o desejo de Lich, Jake então faz o desejo de Lich ser que Finn e Jake sejão mandados de volta para casa em Ooo, Prismo então faz o desejo se realizar e a cena mostra Jake se jogando no cubo de Prismo com Finn como em Finn o Humano . É mostrado então Lich pedindo que queria a extinção de todo o mundo, mas durante o pedido, Lich para de falar e diz para Finn e Jake irem para casa. Lich então diz que aquele não era o pedido dele, mas Prismo diz que Lich só tem um desejo e Finn e Jake são mandados para Ooo. Finn pergunta porque o Lich faria um desejo como aquele, Jake então abraça Finn e diz que deu certo, a Princesa Jujuba aparece ali e pergunta o que houve. Jake diz que salvou o mundo, e acha um pote de picles com uma carta, e ele lê que ele podia dar uma saída lá, só chamar. Jake então diz que precisa arranjar uma namorada para Prismo .
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Lich
+
 - Prismo
+
 - Finn (Farmworld)
+
 - Jake (Farmworld)
+
 - Pai de Finn
+
 - Mãe de Finn
+
 - Irmão de Finn
+
 - Coruja Cósmica
+
 - Bartram
+
+
+### Menores
+
+- Bruce
+
+- Marceline (Farmworld)
+
+- Simon Petrikov (Farmworld)
+
+- Princesa Jujuba
+
+- Princesa Embrião
+
+- Princesa Cachorro Quente
+
+- Rei Gelado
+
+- Gunter
+
+- Destinão
+
+- Trami
+
+- Tromo
+
+- O Caracol
+
+
+### Mencionados
+
+- Joshua
+
+## Músicas
+- " Somos Caras Legais "
+
+## Curiosidades
+- Essa é a primeira vez que a Coruja Cósmica é mostrada como personagem e não visão.
+
+- Finn ganha seus poderes na hora em que coloca a Coroa, enquanto Simon recebeu os poderes com o passar do tempo. Se nota essa diferença porque Finn queria os poderes, enquanto que Simon não esperava por eles.
+
+- Na hora que as gemas de poder voltam pra as coroas das princesas a gema da Princesa Jujuba vai para a coroa da Princesa Embrião .
+
+- Finn não se lembra do que aconteceu, só Jake .
+
+- Como visto, Finn ficou louco após o poder da Coroa tocar sua cabeça.
+
+- Jake confunde Bartram como uma versão dele do Farmworld.
+
+- A capa do episódio é parecida com a capa do episódio Finn, o Humano
+
+- Quando Jake deseja um saduíche Prismo não concede e fala que ele devia pedir algo mais importante, enquanto Lich deseja que Finn e Jake voltem para casa ele fala "Ei, espera aí!", e Prismo diz que ele só tem um pedido.
+
+## Referências Culturais
+- Prismo faz uma menção a “Pata do Macaco”, um conto escrito por W.W. Jacobs, onde um casal encontra uma mão de macaco mágica que concede três desejos, mas nunca como o esperado ou desejado, com resultados ruins e irônicos.
+
+## Erros
+- Quando Marceline (Farmworld) vê que a bomba vai explodir, Simon Petrikov (Farmworld) está com a coroa que está com Finn (Farmworld) .
+
+- Em " O Lich " e todas suas outras aparições a Princesa Embrião usava uma jóia vermelha, mas nesse episódio sua gema está azul.
+
+- Quando Finn coloca a coroa a espada que ele estava usando como braço some e volta a ser um braço.

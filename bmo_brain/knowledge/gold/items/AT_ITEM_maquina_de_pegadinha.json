@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_maquina_de_pegadinha",
+  "tipo": "objeto",
+  "nome": "Máquina de Pegadinha",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_maquina_de_pegadinha_descricao",
+      "text": "[Objeto: Máquina de Pegadinha]\nDescricao:\n# Máquina de Pegadinha\n\nConstruída pela Princesa Jujuba , a Máquina de Pegadinha aparece em \" Jovem Demais \".\n\nQuando ativada, ela mostra a mensagem \"Você fede a bumbum de cachorro\", acordando quem estivar na cama.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_de_pegadinha",
+        "nome": "Máquina de Pegadinha",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maquina_de_pegadinha_aparicoes",
+      "text": "[Objeto: Máquina de Pegadinha]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_de_pegadinha",
+        "nome": "Máquina de Pegadinha",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maquina_de_pegadinha_curiosidades",
+      "text": "[Objeto: Máquina de Pegadinha]\nCuriosidades:\n- A máquina contém um Phil Face .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_de_pegadinha",
+        "nome": "Máquina de Pegadinha",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

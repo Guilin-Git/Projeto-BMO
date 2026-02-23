@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Espada Dourada"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Dourada"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Dourada"
 ---
+
+> Espada Dourada é um objeto/item de Hora de Aventura.
 
 # Espada Dourada
 

@@ -1,0 +1,48 @@
+{
+  "id": "AT_PLACE_tartaruga_gigante",
+  "tipo": "lugar",
+  "nome": "Tartaruga Gigante",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_tartaruga_gigante_descricao",
+      "text": "[Lugar: Tartaruga Gigante]\nDescricao:\n# Tartaruga Gigante\n\nA Tartaruga Gigante é uma enorme tartaruga que se localiza em baixo da Cidade dos Ladrões . Não se sabe se a Cidade dos Ladrões estava lá antes da Tartaruga Gigante morrer.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_tartaruga_gigante",
+        "nome": "Tartaruga Gigante",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_tartaruga_gigante_informacoes",
+      "text": "[Lugar: Tartaruga Gigante]\nInformacoes:\n### Nome\n\n### Sexo\n\n### Idade\n\n### Espécie",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_tartaruga_gigante",
+        "nome": "Tartaruga Gigante",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_tartaruga_gigante_detalhes",
+      "text": "[Lugar: Tartaruga Gigante]\nDetalhes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_tartaruga_gigante",
+        "nome": "Tartaruga Gigante",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_tartaruga_gigante_aparencia",
+      "text": "[Lugar: Tartaruga Gigante]\nAparencia:\nA Tartaruga gigante costumava ser um animal colossal que acabou morrendo. Apenas uma parte de seu crânio e uma perna pode ser vista. Ele tem uma casca verde-escuro. Ela também tem degraus sobre um lado da sua casca.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_tartaruga_gigante",
+        "nome": "Tartaruga Gigante",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

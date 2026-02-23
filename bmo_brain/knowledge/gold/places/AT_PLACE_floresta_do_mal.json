@@ -1,0 +1,48 @@
+{
+  "id": "AT_PLACE_floresta_do_mal",
+  "tipo": "lugar",
+  "nome": "Floresta do Mal",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_floresta_do_mal_descricao",
+      "text": "[Lugar: Floresta do Mal]\nDescricao:\n# Floresta do Mal\n\nA Floresta do Mal é uma das localizações da Terra de Terra de Ooo . A floresta foi vista e mencionada pela primeira vez no episódio \" Dona Tromba \". É o lar de uma variedade de criaturas (a maioria do mal) e diversos mistérios.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_floresta_do_mal",
+        "nome": "Floresta do Mal",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_floresta_do_mal_aparencia",
+      "text": "[Lugar: Floresta do Mal]\nAparencia:\nSendo fiel ao seu nome, a Floresta do Mal tem pouca iluminação, tornando-a bastante sombria. É totalmente coberta por árvores tortuosas, a maioria com expressões assustadoras, dando a impressão que estão vivas.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_floresta_do_mal",
+        "nome": "Floresta do Mal",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_floresta_do_mal_habitantes",
+      "text": "[Lugar: Floresta do Mal]\nHabitantes:\n- Parede de Pele\n\n- Placas Zumbis\n\n- Borboletas Esqueleto\n\n- Besta Cerebral\n\n- Guardião de Cristal",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_floresta_do_mal",
+        "nome": "Floresta do Mal",
+        "secao": "habitantes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_floresta_do_mal_curiosidades",
+      "text": "[Lugar: Floresta do Mal]\nCuriosidades:\n- A Maçã da Gema Cristal (ou Maça de Cristal ) se encontra nas profundezas da floresta.\n\n- Não se sabe ao certo se existem outros objetos de valor dentro da floresta.\n\n- É visto que tem variedade infinita de vilões",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_floresta_do_mal",
+        "nome": "Floresta do Mal",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 12116
 nome: "Caverna dos Ossos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_de_Ossos"
 data_exibicao: "02/09/2013"
 diretor: "Adam Muto Nick Jennings"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-116"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_de_Ossos"
 ---
 
 # Caverna dos Ossos
 
 **Temporada 5 — Episódio 12116**
+
+## Descrição
+" Caverna de Ossos " é o 12º episódio da 5ª temporada de Hora de Aventura . É o centésimo décimo sexto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn leva Princesa de Fogo em uma Masmorra , a fim de aliviar seus temores de que ela é do mal.
@@ -34,12 +61,64 @@ Antes que eles possam voltar, Princesa de Fogo diz Finn que ela não está se di
 Depois de encontrar o caminho para sair do calabouço, eles saem com várias chaves e no topo de uma colina, Finn e Princesa de Fogo tentam usar todas as chaves individuais no baú para ver qual delas vai abrir. Princesa de Fogo agradece ao Finn por levá-la para o calabouço e como ela esqueceu como é divertido destruir coisas más, e que deveriam sair de novo. Finn sugere que na próxima vez que eles vão para um mercadinho, o que Princesa sugerem em queimá-lo. Finn muda de assunto dando a ela uma chave, após a conseguir abrir o baú, eles encontram um criatura verde, com uma cara peculiar de bumbum, que pisca para a Princesa de Fogo. Assim termina o episódio.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Princesa de Fogo
+
 - Esqueletos Ossudo Esqueleto do Caixão Caveiras Gosma Caveira Gosma Gigante
 
+- Ossudo
+
+- Esqueleto do Caixão
+
+- Caveiras Gosma
+
+- Caveira Gosma Gigante
+
+
 ### Secundários
+
 - Jake
+
 - Rei de Fogo
+
 - Caracol
+
+## Música
+- " Rastejar Na Caverna "
+
+## Curiosidades
+- Em inglês, quando Finn se aproxima do rosto Princesa de Fogo enquanto estão jogando cartas, pode-se ouvir Finn respirando pesadamente. Em português, não há som da respiração.
+
+- Esta é a primeira vez que o cabelo da Princesa de Fogo não está para cima, e parece ser mais curto do que normalmente é visto. No entanto, quando ela diz, "Serpente de Fogo!" seu cabelo está para cima.
+
+- Esta é a primeira vez que Princesa de Fogo refere-se a Finn como seu namorado.
+
+- Em inglês, Finn refere-se a Princesa de Fogo como "PF" (Flame Princess). Da mesma forma, ela se refere a ele como "FTH", uma abreviação para "Finn the Human" (Finn o Humano).
+
+- O baralho de cartas que Princesa de Fogo e Finn estavam jogando que tinham rostos desenhados na parte de trás dele é a mesma plataforma usada em " All the Little People " por Princesa de Fogo e Princesa Caroço .
+
+- Princesa de Fogo mostra novas habilidades neste episódio. Como "Senso de calor" e também pode criar chamas azuis semelhante a uma tocha de oxi-combustível.
+
+- Este é o primeiro episódio que não foi dirigido por Larry Leichliter .
+
+- Finn estava movendo as sobrancelhas da mesma forma Rei Gelado e Marceline fizeram em " Menininho Mal ".
+
+- Até este episódio, como foi afirmado pela Princesa de Fogo, ela nunca tinha-se avaliado antes. Ela pensou que não iria queimar a corda, pois ela deu-lhe um quarenta e dois, porém ela foi capaz de completar a tarefa muito bem.
+
+- A questão se Princesa de Fogo é boa ou má retorna mais uma vez, o assunto foi trazido pela primeira vez em “Incêndio” e reaparece mais uma vez em “Ponto de Ignição”.
+
+## Erros
+- Jake chama o Rei de Fogo de Rei Fogo.
+
+- Uma piada que talvez tenha passado despercebido por muito fãs foi o trocadilho final. A palavra “Booty” também tem significado de tesouro pirata, pilhagem ou outros ganhos ilícitos no caso a retirada do baú da caverna. Mas a palavra Booty também significa bunda, “A chest full of booty” (um baú cheio de tesouros ou bunda).
+
+## Referências Culturais
+- Quando Finn pergunta em uma escala de um a cem o quão boa Princesa de Fogo é em jogar fogo e ela responde 42. Esta pode ser uma referência ao “O Guia do Mochileiro das Galáxias” já que 42 é a resposta à Questão Fundamental da Vida, do Universo e tudo mais.
+
+- O interior do calabouço e as armadilhas são semelhantes aos do Templo maia no Filme “Indiana Jones -Os Caçadores da Arca Perdida”.
+
+- Finn e Princesa de Fogo tem suas ações semelhantes ao jogo de RPG Dungeons e Dragons. Quando Finn deixa com que Princesa de Fogo resolva os problemas encontrados na masmorra, ele atua como um Dungeon Master (ou Mestre de jogo). Quando Finn decide deixar a Princesa fazer as coisas à sua maneira, ele então atua como um mestre do jogo, dizer coisas como “Há uma porta lá, o que você quer fazer?”. Quando ele pergunta a Princesa de Fogo como ela irá se defender do ataque de uma legião de caveiras babonas e Princesa de Fogo responde: “Cobra de fogo!” Finn confirma o ataque dizendo: “Fogo queima baba”. Este formato de “problema, solução, resultado” é a dinâmica de Dungeons and Dragons.

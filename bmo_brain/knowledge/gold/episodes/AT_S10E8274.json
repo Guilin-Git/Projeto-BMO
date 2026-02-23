@@ -1,0 +1,86 @@
+{
+  "id": "AT_S10E8274",
+  "tipo": "episodio",
+  "nome": "A Primeira Investigação",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E8274_meta",
+      "text": "[Episódio: A Primeira Investigação (Temporada 10, Ep 8274)]\nDiretor: Cole Sanchez\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E8274",
+        "temporada": 10,
+        "numero_ep": 8274,
+        "nome": "A Primeira Investigação",
+        "characters_secondary": "Finn|Jake|Warren Ampersand|Urso Relógio|Kim Kil Whan|Renny Hamlond|Joshua|Margaret|Jermaine|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E8274_sinopse",
+      "text": "[Episódio: A Primeira Investigação (Temporada 10, Ep 8274)]\nSinopse: Finn e Jake são encarregados de investigar relatórios de uma assombração no antigo escritório de Joshua e Margaret .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E8274",
+        "temporada": 10,
+        "numero_ep": 8274,
+        "nome": "A Primeira Investigação",
+        "characters_secondary": "Finn|Jake|Warren Ampersand|Urso Relógio|Kim Kil Whan|Renny Hamlond|Joshua|Margaret|Jermaine|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E8274_informacoes",
+      "text": "[Episódio: A Primeira Investigação (Temporada 10, Ep 8274)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E8274",
+        "temporada": 10,
+        "numero_ep": 8274,
+        "nome": "A Primeira Investigação",
+        "characters_secondary": "Finn|Jake|Warren Ampersand|Urso Relógio|Kim Kil Whan|Renny Hamlond|Joshua|Margaret|Jermaine|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E8274_creditos",
+      "text": "[Episódio: A Primeira Investigação (Temporada 10, Ep 8274)]\nCreditos:\n### Diretor\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E8274",
+        "temporada": 10,
+        "numero_ep": 8274,
+        "nome": "A Primeira Investigação",
+        "characters_secondary": "Finn|Jake|Warren Ampersand|Urso Relógio|Kim Kil Whan|Renny Hamlond|Joshua|Margaret|Jermaine|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E8274_curiosidades",
+      "text": "[Episódio: A Primeira Investigação (Temporada 10, Ep 8274)]\nCuriosidades:\n- Jake descobre a fonte de seus poderes de mudança de forma.\n\n- Jake encontra seu segundo pai biológico (primeiro sendo Joshua) que é o metamorfo.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E8274",
+        "temporada": 10,
+        "numero_ep": 8274,
+        "nome": "A Primeira Investigação",
+        "characters_secondary": "Finn|Jake|Warren Ampersand|Urso Relógio|Kim Kil Whan|Renny Hamlond|Joshua|Margaret|Jermaine|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E8274_conexoes_de_episodios",
+      "text": "[Episódio: A Primeira Investigação (Temporada 10, Ep 8274)]\nConexoes_De_Episodios:\n- Imagens de \" Joshua e Margaret \" são reutilizadas várias vezes no episódio.\n\n- Urso Relógio é visto neste episódio, Jake menciona que ele escapou do laboratório de Doutora Gross em \" Preboot \".\n\n- É revelado que o metamorfo que aparece em \" Orb \" não era apenas uma manifestação inconsciente, mas também uma lembrança real de Jake, que o via como um bebê olhando para ele pela janela.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E8274",
+        "temporada": 10,
+        "numero_ep": 8274,
+        "nome": "A Primeira Investigação",
+        "characters_secondary": "Finn|Jake|Warren Ampersand|Urso Relógio|Kim Kil Whan|Renny Hamlond|Joshua|Margaret|Jermaine|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

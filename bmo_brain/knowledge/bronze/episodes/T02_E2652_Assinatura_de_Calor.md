@@ -1,16 +1,49 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 2652
 nome: "Assinatura de Calor"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Assinatura_de_Calor"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1002-050"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Assinatura_de_Calor"
 ---
 
 # Assinatura de Calor
 
 **Temporada 2 — Episódio 2652**
+
+## Descrição
+" Assinatura de Calor " é o 26º episódio da 2ª temporada de Hora de Aventura . É o quinquagésimo segundo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Patrick McHale
+
+- Kent Osborne
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Ako Castuera
+
+- Tom Herpich
 
 ## Sinopse
 Finn e Jake pedem a Marceline que transforme eles em vampiros. Então Marceline decide pregar uma peça neles, fingindo que transformou eles em vampiros. Mas as coisas saem de controle quando os amigos fantasmas de Marceline querem sugar o cérebro de Finn e Jake .
@@ -23,15 +56,62 @@ Marceline e os fantasmas, em seguida, continuam a sua brincadeira, fazendo Finn 
 Marceline adverte Finn e Jake do perigo iminente, mas eles ignoram o aviso e vão para a festa de qualquer maneira, onde são quase devorado. Marceline chega bem na hora, aparentemente para salvá-los, mas ela diz que não pode derrotar os fantasmas e estava lá apenas para se desculpar. Finn lamenta que eles estão prestes a morrer só porque eles queriam assistir assinatura de calor. Isto lembra os fantasmas que eles quiseram assistir ao filme, então eles voltam para a Casa de Marceline para vê-lo. Finn e Jake, no entanto, prefere ser comido do que ter de suportar o sofá desconfortável, mas Marceline e os fantasmas são tão cativado pelo filme que não se importam.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Marceline
+
 - Wendy
+
 - Booboo
+
 - Georgy
 
+
 ### Secundários
+
 - Princesa Caroço
+
 - Melissa (mencionada)
+
 - Caracol
+
+## Caracol
+Aparece enquanto Finn e Jake acham que estão invisíveis e levantam as coisas da Princesa Caroço
+
+## Curiosidades
+- Quando os fantasmas levam Finn e Jake para sua "lição de voo", eles levam-los para o que parece ser uma torre abandonada, com um helicóptero caído sobre ele.
+
+- Quando os fantasmas estão prestes a atacar Finn e Jake, eles cantam uma mensagem de retrocesso ao diretor criativo Pat McHale. Se jogado para trás, os fantasmas dizem: "Farewell Pat. Good luck in New York. Come back soon." (Tchau Pat. Boa sorte em Nova York. Volte em breve).
+
+- Quando Finn e Jake estão sendo atacados pelos fantasmas, a música do cartão de título começa a tocar.
+
+- Georgy, Wendy, e Booboo fazem uma aparição como inimigos em " Finn e Jake Aventura Épica ". Eles atacam com golpes de cabeça nos heróis e podem ficar invisíveis, reaparecendo perto deles.
+
+- Finn tentar chutar um dos fantasmas e diz "chute vampiro" mas o golpe acaba sendo malsucedido, logo depois Marceline entra dizendo também "chute vampiro" que acerta o fantasma.
+
+- Neste episódio, Marceline diz que morou na Terra dos Mortos .
+
+- Marceline chamou a Terra dos Mortos de "Submundo" .
+
+- Os fantasmas decidiram não matar Finn e Jake porque eles tinham Assinatura de Calor.
+
+- Finn não se importou como o aviso do filme como em " Os Cineastas ".
+
+- Pode ser que Finn e Jake acham Marceline gata.
+
+## Conexões de Episódios
+- O enredo e o título deste episódio refere-se ao primeiro sinal de calor filme , em anteriores episódio " Os Cineastas ", o fime destina-se ao clube do filme foi o terceiro da série, Assinatura de Calor 3". Há também a Assinatura de Calor 4,que aparece em O Poço ,interpretado por BMO e Shelby .
+
+- No episódio " Os Cineastas ", Finn e Jake disse que não iria mostrar mais nenhum filmes que têm os avisos de direitos autoriais sobre ele , mas nesse episódio eles queriam mostrar um outro filme que teria o aviso sobre ele.
+
+- O sofá na casa da Marceline , que é aparentemente desconfortável e duro , parece confortável em " Vem Comigo ", e nem Finn ou Marceline expressa qualquer desconforto ao sentar-se nele.
+
+## Referências Culturais
+- O slogan para Assinatura de Calor é Sob o oceano, ninguém pode ouvir você morre. Este é semelhante ao slogan do filme de 1979 horror estrangeiros. No espaço , ninguém pode ouvir você.
+
+- Este episódio também faz duas referências para o Iron Maiden álbum "Peice of Mind". Finn e Jake são resgatados de cair ao seus determinados mortes por invisível e acho que eles estão voando (Flight of Icarus) e quase conseguir seus cerébros roubado (morrer com suas botas em).

@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_ocarina_objeto",
+  "tipo": "objeto",
+  "nome": "Ocarina (Objeto)",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_ocarina_objeto_descricao",
+      "text": "[Objeto: Ocarina (Objeto)]\nDescricao:\n# Ocarina (Objeto)\n\nA Ocarina é um instrumento musical dado a Kim Kil Whan por Jake em troca da Casa na Árvore no episódio \" Ocarina \".",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_ocarina_objeto",
+        "nome": "Ocarina (Objeto)",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_ocarina_objeto_aparicoes",
+      "text": "[Objeto: Ocarina (Objeto)]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_ocarina_objeto",
+        "nome": "Ocarina (Objeto)",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_ocarina_objeto_aparencia",
+      "text": "[Objeto: Ocarina (Objeto)]\nAparencia:\nA Ocarina tem um tubinho para ser tocado e tem alguns buracos pequenos, ela é cinza e parece ter um rosto com dois olhos e uma boca.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_ocarina_objeto",
+        "nome": "Ocarina (Objeto)",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_ocarina_objeto_curiosidades",
+      "text": "[Objeto: Ocarina (Objeto)]\nCuriosidades:\n- Ela não pode ser tocada porque não é oca.\n\n- Jake mencionou que ele fez os buracos com a ponta de um lápis.\n\n- Jake disse para Kim Kil Whan que toda vez que ele tocasse ela ele se lembraria do amor que Jake tem por ele, mas o que é irônico é que ela não pode ser tocada.\n\n- Há outra Ocarina que pertence a Princesa Jujuba chamada \"Ocarina Temporal\" que permite controlar e viajar no tempo e também para ser tocada.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_ocarina_objeto",
+        "nome": "Ocarina (Objeto)",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

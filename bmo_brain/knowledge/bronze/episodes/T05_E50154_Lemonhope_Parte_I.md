@@ -1,17 +1,41 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 50154
 nome: "Lemonhope: Parte I"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Lemonhope_Primeira_Parte"
 data_exibicao: "10/03/2014"
 diretor: "Nate Cash (supervisora) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Tom Herpich Adam Muto"
 codigo_producao: "TBA"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Lemonhope_Primeira_Parte"
 ---
 
 # Lemonhope: Parte I
 
 **Temporada 5 — Episódio 50154**
+
+## Descrição
+" Lemonhope Primeira Parte " é o 50º episódio da 5ª temporada de Hora de Aventura . É o centésimo quinquagésimo quarto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Cansado de toda a conversa da Princesa Jujuba sobre "responsabilidade", Lemonhope anseia pela verdadeira liberdade. Então, ele sai na maior aventura de sua vida limão.
@@ -26,13 +50,59 @@ Lemonhope, depois de viajar pela floresta por um tempo, visita uma aldeia em cha
 Por esta altura, ele está com muita sede, alegando que ele tem ficar sem suco. Ele deixa o navio, fazendo observações sobre a liberdade das coisas ao seu redor, como que a nuvem acima dele tem a liberdade de não chover sobre ele, e ele não se incomodou com isso. Depois de perambular por muitas horas, ele finalmente pega fogo e cai inconsciente, enquanto a voz rouca sussurrando liberdade.
 
 ## Personagens
+
 ### Principais
+
 - Lemonhope
+
 - Princesa Jujuba
+
 - Limãograb
+
 - Limãograb 2
 
+
 ### Secundários
+
 - Finn
+
 - Povo Limão
+
 - Caracol
+
+## Músicas
+- " Lemonhope Tem Pés "
+
+## Curiosidades
+- Anteriormente, esse episódio se chamava "Lemonhope's Story" (A História de Lemonhope).
+
+- Na gaveta da Princesa Jujuba é possível ver um Cupcake que é uma miniatura do Sr. Bolinho .
+
+- O navio pirata é o primeiro navio operacional que aparece na série.
+
+- Castelo Limãograb é governado agora por uma ditadura totalitária.
+
+- Princesa Jujuba menciona que Finn estuda geometria.
+
+- Esta é a primeira vez que alguém mais, além de Limãograb; grita "INACEITÁVEL!"
+
+- Na sala de aula tem um cartaz com um cão escrito "読み", que significa "leitura" em japonês.
+
+- Na prévia, Finn não está usando sua Espada da Grama . Isso foi corrigido para o produto final.
+
+- Aparentemente quando levou Lemonhope para o Reino Doce, a Princesa Jujuba criou uma escola e Finn e Lemonhope são os únicos alunos. Provavelmente para ensinar Lemonhope o que é certo, para ele poder salvar o condado e para o Finn deixar de ser tão "simplório".
+
+- Depois que o Povo Limão ajudou o Lemonhope, Limãograb ficou mais severo, sendo que quando uma das Pessoas Limão tentou fugir ele devorou ela.
+
+- Lemonhope derrama um copo com água da coruja que lia antes dele cantar sobre liberdade. Depois no deserto quando os limões acabam, ele diz que é livre para buscar água.
+
+## Censura
+- Censurado Limãograb 2 saindo da boca de Limãograb.
+
+- É censurado quando Limãograb pega um dos prisioneiros que está de cara triste e o bota de cabeça pra baixo.
+
+- Houve Censura quando um dos limões tenta fugir, só que é capturado e devorado brutalmente por Limãograb.
+
+- Na parte da Música Limãohope Tem Pés á Censurado o Verso ' Lemonhope's got things that'llpump bot butts.
+
+- É Censurado os 4 Últimos segundos do episódio, onde Limãohope pega fogo.

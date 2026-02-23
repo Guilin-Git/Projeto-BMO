@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_skate_do_bmo",
+  "tipo": "objeto",
+  "nome": "Skate do BMO",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_skate_do_bmo_descricao",
+      "text": "[Objeto: Skate do BMO]\nDescricao:\n# Skate do BMO\n\nO Skate do BMO é um skate que pertence ao BMO . Ele usa ele na primeira vez em \" Guerra de Cartas \". Aparentemente, BMO sabe fazer manobras com seu skate.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_skate_do_bmo",
+        "nome": "Skate do BMO",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_skate_do_bmo_aparicoes",
+      "text": "[Objeto: Skate do BMO]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_skate_do_bmo",
+        "nome": "Skate do BMO",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

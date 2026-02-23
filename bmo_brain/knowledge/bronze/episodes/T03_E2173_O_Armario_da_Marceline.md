@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 2173
 nome: "O Armário da Marceline"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Arm%C3%A1rio_da_Marceline"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-073"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Arm%C3%A1rio_da_Marceline"
 ---
 
 # O Armário da Marceline
 
 **Temporada 3 — Episódio 2173**
+
+## Descrição
+" O Armário da Marceline " é o 21º episódio da 3ª temporada de Hora de Aventura . É o 73º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake ficam presos no armário da Casa de Marceline e têm de sair antes que ela se aperceba da presença deles e chupe o sangue deles.
@@ -21,12 +42,82 @@ Finn e Jake vão a casa de Marceline e, no caminho, Finn pergunta se tudo fica b
 Enquanto Finn escuta a canção, Jake, com uma colher, tenta construir uma saída, cavando um buraco na parede. Mas assusta-se com uma aranha . Logo fazem com que a aranha saia do armário. A mesma, em seguida, derruba o abajur de Marceline, que vai ao armário o qual contém uma vassoura. Por um fio, ela não descobre que se encontra na presença de Finn e Jake pois, antes que entrasse, eles esconderam-se num casaco denso e suficientemente largo para que coubessem. Marcelline, depois de varrer o abajur quebrado, introduz a vassoura dentro do armário e acaba por se sujar por conta da poeira na vassoura. Assim decide lavar-se. Jake solicita a Finn que vá inspecionar o local e verificar se está seguro o suficiente para eles escaparem. Finn, sem intenção, acaba por entrar na casa de banho onde Marceline toma banho, e observa que a mesma está nua. Finn, muito chocado, resolve retornar imediatamente para o armário, argumentando que não voltará lá porque acaba de ver "coisas" (fazendo referência indireta às partes íntimas da vampira). Marceline, após secar o cabelo, apaga as luzes e vai dormir. Finn e Jake aproveitam o facto de a costa estar vazia para sair. Contudo, antes de sair, Finn questiona-se sobre se Marcelline estará realmente a dormir, encetando uma pequena discussão. Em seguida, Marceline surge e confessa que pode escutar os dois. Assim Finn e Jake tentam encontrar um lugar seguro para se esconderem. Marcelline acende a luz, e pergunta-lhes o que eles fazem lá. Finn explica-lhe o que aconteceu e que viram tudo. Marcelline perdoa-lhes o sucedido, admitindo que ela mesma se esconde na casa deles o tempo todo. Já na casa da árvore, Finn está a ler algo, coça o traseiro e, em seguida, cheira-o. Ao ouvir um som esquisito, interroga-se sobre quem será e pronuncia "Marcelline?", cobrindo-se com o cobertor imediatamente. Enquanto isso, Jake toma banho, coberto com uma toalha (temendo que Marcelline veja as suas vergonhas) e, ao sair, coloca outra toalha. Ambos estão paranóicos, acreditando que Marcelline os observa, o que os assusta. Ao final, podemos ver Marcelline em cima do telhado, assim terminando o episódio.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Marceline
 
+
 ### Secundários
+
 - Princesa Jujuba (Mencionado)
+
 - BMO (Mencionado)
+
 - Aranha
+
+## Músicas
+- " Música de Balão "
+
+- " Caça da Nuvem "
+
+- " Sentimentos Profundos "
+
+## Curiosidades
+- A descrição de Caça da Nuvem pode lembrar a Guerra dos Cogumelos: "acima da montanha, uma nuvem assombrosa cobre a Terra com a sua sombra poderosa. Tu podes esconder-te na moita, na caverna ou no porão, mas quando a nuvem caça, não tem jeito não! Não, não tem! Caça da Nuvem...".
+
+- Provavelmente é a primeira vez que Finn vê uma garota nua, neste caso Marceline .
+
+- Podemos deduzir que Jake toma banho com uma toalha e depois põe outra toalha por cima. É possível que seja porque já sabe que Marceline se esconde em sua casa, e para que não o veja nu coloca duas toalhas, mas isso é algo meio idiota pois segundo ele mesmo, ele usa "calças de teia de aranha, tecido pelas fadas", e elas são transparente, é como se tivesse nu.
+
+- Nesse episódio vê-se que Finn não sabe contar bem, possivelmente porque depois da Guerra dos Cogumelos ficaram inabilitadas as escolas.
+
+- Apesar de ser famosa a cena de Finn espiando Marceline, pode ser que tenha um erro, Marcy usava botas vermelhas de cano curto, mas na medida que as tirava as meias no banho eram largas demais em comparação as botas.
+
+- A carta na porta da Marceline dizia: "Ei pessoal. Tive que sair correndo, mas vou voltar em poucos minutos, tive que correr e comprar um pouco de molho de tomate, é possível ser alérgico a tomates? Meus padrões de sono são sempre super estranhos quando como tomates. Vocês ja tiveram esses sonhos lúcidos? De qualquer maneira: NÃO ENTREM NA CASA"(e segundo a Jake estava escrito bem grande com sangue).
+
+- Neste episódio se dá a entender que Finn e Jake têm medo de aranhas. Mesmo sendo aventureiros.
+
+- Na parede do quarto de Marceline, perto da porta da casa de banho, podemos observar um quadro que representa uma mulher um uma áurea sobre a cabeça e a segurar um bebé ao colo, o que pode corresponder a um menção a Nossa Senhora e o Menino Jesus.
+
+- Finn parece contar incorretamente quando contar até 10 em Caça da Nuvem. Ele contou: 1, 2, 3, 4, 5, 4.
+
+- Parece haver um verme verde no teto de Marceline.
+
+- O tapete de pele de urso debaixo da cama de Marceline tem três cabeças e vários braços.
+
+- Tudo no frigorífico de Marceline é vermelho (como ela gosta de comer tons de vermelho), exceto para os ovos.
+
+- Há um sapo com olhos de rubi no topo de um dos alto-falantes do Marceline.
+
+- No topo de uma caixa na geladeira de Marceline está escrito "EXP 8/18/12", ou seja, o produto expirar 18 de agosto de 2012. Esta é a data do casamento do artista de fundo Santino Lascano.
+
+## Referências Culturais
+- Na parede, próximo a cama de Marceline, há álbuns musicais semelhantes a “Abbey Road” dos Beatles e “Boys don’t cry” do The Cure com a foto de Robert Smith na capa.
+
+- No momento em que Marceline vai compor uma nova música sobre os seus sentimentos mais profundos, no seu diário está escrito GUNTER, em letras garrafais. Talvez porque Simon Petrikov a chamava de Gunter quando ele colocava a coroa em Simon e Marcy .
+
+## Conexões de episódio
+- O que Marceline disse sobre ela se esconder na casa de Finn e Jake o tempo todo e verdade já que em "Vem Comigo" estava dormindo em uma pilha de roupa na casa de ambos.
+
+- Finn pergunta a Jake "você acha que está certo a Marceline chamar-nos para improvisar sem a Princesa e o BMO?", que é uma referência ao episódio " O Que Faltava ", em que eles formam uma banda improvisada.
+
+## Censura
+- No EUA e no BR se censura a parte que Finn coça o traseiro e cheira.
+
+## Erros
+- Quando Finn vê Jake na janela, o balão flutua para longe, mesmo que foi preenchido pelo ar de Finn, e não com hélio.
+
+- A fita que estava no chão, perto TV da Marceline desaparece e depois reaparece.
+
+- Quando Marceline diz que ninguém jamais poderá ouvir o que ela vai gravar, seus caninos parecem dentes normais.
+
+- Não havia caixas no canto direito do armário da Marceline, quando Jake começa a cavar um buraco na parede com uma colher uma caixa aparece, quando Jake pega uma tampa e usa-o para se livrar da aranha há três caixas, depois de um tempo, não há caixas à vista. Além disso, o que parece ser uma moeda no chão também desaparece.
+
+- A cor da lâmpada muda, de verde para vermelho, e depois voltar para verde ao longo do episódio.
+
+- Quando Marceline encontra Finn e Jake na casa dela e aceita seu pedido de desculpas, a sua marca de mordida não é visível.

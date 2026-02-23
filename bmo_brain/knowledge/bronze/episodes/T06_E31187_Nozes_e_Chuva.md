@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 31187
 nome: "Nozes e Chuva"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Nozes_%26_Chuva"
 data_exibicao: "30/03/15"
 diretor: "Andres Salaff (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Tom Herpich Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Nozes_%26_Chuva"
 ---
 
 # Nozes e Chuva
 
 **Temporada 6 — Episódio 31187**
+
+## Descrição
+" Nozes & Chuva " é o 31º episódio da 6ª temporada de Hora de Aventura . É o centésimo octogésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Quando Finn e Jake seguem por caminhos diferentes , duas histórias diferentes são feitas.
@@ -31,9 +55,43 @@ Finn, por outro lado, é forçado a ouvir a história do Rei, mas tenta se conce
 O trio fogem para os campos depois da briga com o Rei Enorme. Finn e Sete estão montando nas costas de Jake e Finn pergunta ao Sete o que ele quer fazer primeiro depois de tanto tempo preso no buraco. Sete diz que quer um cachorro-quente. Finn diz que isso é nojento, mas Sete simplesmente responde: "Eu não tô nem aí".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Sete
+
 - Rei Enorme
+
 - Homens Comida
+
+
+### Menores
+
+- Morcego Candelabro
+
+- Cavalo do Sete
+
+- Ken Mangosteen
+
+- Caracol
+
+
+### Mencionados
+
+- Neptr
+
+- BMO
+
+- Princesa Jujuba
+
+## Curiosidades
+- Uma garrafa do que parece ser da Sriracha pode ser visto nas prateleiras do Reino Enorme .
+
+- É mostrado que Finn não gosta de cachorros-quentes neste episódio, mas é ele visto comendo cachorros-quentes em " Ninguém Te Ouvindo " e " Princesa Fantasma ". Ele também disse que estava com fome para eles em " A Masmorra do Papai ". E Jake sugeriu a ele em " Trem Misterioso ". É possível que ele não gosta deles depois de descobrir o que eles são feitos de, como ele afirma que eles são feitos de "o material mais nojento".
+
+## Censura
+- A parte final, quando Sete responde "Man, I don't give a toot" (Mano, eu tô nem aí) foi cortada.

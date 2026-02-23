@@ -1,17 +1,55 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 127
 nome: "Veio da Noitosfera"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Veio_da_Noitosfera"
 data_exibicao: "11/10/2010 (EUA)"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-029"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Veio_da_Noitosfera"
 ---
 
 # Veio da Noitosfera
 
 **Temporada 2 — Episódio 127**
+
+## Descrição
+" Veio da Noitosfera " é o 1º episódio da 2ª temporada de Hora de Aventura . É o vigésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Adam Muto
+
+- Rebecca Sugar
 
 ## Sinopse
 O Senhor do Mal , que é o pai de Marceline , passa a sugar almas e espalhar o caos em Ooo após Finn libera-lo da Noitosfera , causando um grande desconforto para Marceline.
@@ -30,20 +68,82 @@ Desesperado por um desvio, Finn usa a gravação de Marceline cantando sobre seu
 Marceline primeiro fica com raiva de Finn por envergonhá-la e esfaquear o pai dela, mas logo se acalma. Os dois, exaustos, assistem as almas colidir uns com os outros como eles flutuar no céu à noite. Marceline pede que, de repente, pergunta o que o Finn tem no bolso e Finn revela que Jake estava dentro de seu bolso o tempo todo. Jake rola para o outro lado e solta um pum, onde o episódio termina.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Marceline
+
 - Hunson Abadeer (pai da Marceline)
 
+
 ### Secundários
+
 - Schwabl
+
 - Jake
+
 - Amigos Felpudos
+
 - Carrascos
+
 - Pinguins
+
 - Gunter
+
 - Rei Gelado
+
 - Princesa Caroço
+
 - Povo Árvore
+
 - Princesa Cachorro Quente (mencionada)
+
 - O Caracol
+
+## Caracol
+Quando dá um zoom na Princesa Caroço, no canto esquerdo da tela é possível notar uma alma pequena com forma de caracol.
+
+## Canções
+- Cadê Minhas Batatinhas
+
+- Super do Mal
+
+## Curiosidades
+- Este episódio já foi entitulado "Retorno a Noitosfera", depois "O Pai da Marceline," e depois era só "Noitosfera". Mais tarde um episódio da quarta temporada foi nomeado " Retorno a Noitosfera ".
+
+- Marceline tem em sua sala uma pintura que lembra a Virgem Maria e o Menino Jesus.
+
+- Este é o episódio favorito de Pen da segunda temporada.
+
+- De acordo com o Blog Frederator, este episódio não foi completamente terminado uma semana antes de ir ao ar.
+
+- Este é o primeiro episódio que tem a história abordado por Rebecca Sugar , e para comemorar esse fato, ela fez um desenho especial.
+
+- Este é o primeiro episódio em que Jake só recebe um papel menor e sem falas.
+
+- O rosto sorridente usado para abrir o portal é conhecido como Phil Face, um recorrente Easter Egg na série.
+
+- O encantamento para abrir o portal é "MALOSO VOBISCUM ET CUM SPIRITUM", que é Dog Latim, e, presumivelmente, isso quer dizer "O mal está com você e com o seu espírito." Uma aproximação em latim correta seria "MALUM SIT UOBISCUM ET CUM SPIRITU".
+
+- Quando se mostra a cara Phil absorvendo o leite, um "M" é esculpido em cada uma das duas velas.
+
+- O Caracol aparece como alma nesse episódio.
+
+- No início do episódio, é possível ver um cão da raça poodle na casa da Marceline, depois deste episódio ele nunca mais foi visto fisicamente, apenas nas lembranças de Marceline em Tudo Permanece .
+
+- Este é o primeiro episódio da segunda temporada.
+
+## Erros
+- Quando Hunson vem para sugar a alma de Finn, a entrada era maior do que quando Finn abriu pela primeira vez.
+
+- No cartão de título, o cabelo de Marceline não está amarrado em um rabo de cavalo.
+
+- Quando Marceline diz ao Finn o que ele tem que fazer para chamar seu pai, suas presas se transformam em dentes normais por um momento.
+
+- A pele de Marceline aparece em branco em vez do seu habitual pálido azul-acinzentado.
+
+- Quando Finn usa o gravador para distrair Hunson, a musica começar tocar um pouco antes de Finn apertar o botão.
+
+- A Princesa Caroço entrou de penetra no Hunson, mas não foi mostrado ela escapando junto com as almas.

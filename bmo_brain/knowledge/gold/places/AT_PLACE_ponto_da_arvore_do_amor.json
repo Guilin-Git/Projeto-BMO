@@ -1,0 +1,38 @@
+{
+  "id": "AT_PLACE_ponto_da_arvore_do_amor",
+  "tipo": "lugar",
+  "nome": "Ponto da Árvore do Amor",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_ponto_da_arvore_do_amor_descricao",
+      "text": "[Lugar: Ponto da Árvore do Amor]\nDescricao:\n# Ponto da Árvore do Amor\n\nO Ponto da Árvore do Amor é uma colina que aparece no episódio \" O Diário \". A colina era um ponto famoso para os jovens no passado para um encontro romântico. No presente, o morro está deserto com galhos de árvores quebrados.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_ponto_da_arvore_do_amor",
+        "nome": "Ponto da Árvore do Amor",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_ponto_da_arvore_do_amor_aparencia",
+      "text": "[Lugar: Ponto da Árvore do Amor]\nAparencia:\nNo passado, a colina era verde exuberante, com árvores crescendo. Agora é uma falésia de areia, com galhos de árvores quebrados e pedras. O morro também tem uma árvore com uma escultura de coração oco.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_ponto_da_arvore_do_amor",
+        "nome": "Ponto da Árvore do Amor",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_ponto_da_arvore_do_amor_curiosidade",
+      "text": "[Lugar: Ponto da Árvore do Amor]\nCuriosidade:\n- O Ponto da Árvore do Amor e semelhante ao \"Ponto das Beijocas\" do episódio \" Problemas na Terra do Caroço \", como era também um lugar famoso para os jovens marcarem um encontro.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_ponto_da_arvore_do_amor",
+        "nome": "Ponto da Árvore do Amor",
+        "secao": "curiosidade"
+      }
+    }
+  ]
+}

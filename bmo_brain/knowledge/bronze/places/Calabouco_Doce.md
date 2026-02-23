@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Calabouço Doce"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Calabou%C3%A7o_Doce"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Calabou%C3%A7o_Doce"
 ---
+
+> Calabouço Doce é um lugar de Hora de Aventura.
 
 # Calabouço Doce
 

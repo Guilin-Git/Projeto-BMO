@@ -1,15 +1,29 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 9165
 nome: "O Príncipe Que Queria Tudo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Pr%C3%ADncipe_Que_Queria_Tudo"
 diretor: "Adam Muto (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Pr%C3%ADncipe_Que_Queria_Tudo"
 ---
 
 # O Príncipe Que Queria Tudo
 
 **Temporada 6 — Episódio 9165**
+
+## Descrição
+" O Príncipe Que Queria Tudo " é o 9º episódio da 6ª temporada de Hora de Aventura . É o 165 episódio no total.
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 O belo e sensível Príncipe Caroço foge de seus pais cruéis para começar uma vida nova.
@@ -26,9 +40,107 @@ De repente, um portal se abre no céu e seus pais aparecem. Furioso, Fionna mont
 De volta à realidade, a história continua com Rei Gelado lendo que a história da Princesa Caroço torna-se real e é capaz de criar um portal de Ooo em dez segundos. Em seguida, um arbusto próximo treme. Princesa e o Rei, em seguida, olham para o outro e ele começa a contagem regressiva de 10 como a Princesa flutua sobre para o mato, na esperança de ser o Príncipe Caroço iria sair e beijá-la. Em vez disso, um gambá sai, afugenta a Princesa Caroço e corre-se o manto do Rei Gelado.
 
 ## Personagens
+
 ### Principais
+
 - Fionna
+
 - Cake
+
 - Príncipe Caroço
+
 - Rainha Caroço (Alternativa)
+
 - Rei Caroço (Alternativo)
+
+
+### Menores
+
+- Encaroçados
+
+- Rei Gelado
+
+- Princesa Caroço
+
+- Caracol
+
+- Príncipe de Fogo
+
+- Marshall Lee
+
+- Príncipe Chiclete
+
+- Príncipe Tartaruga
+
+- Senhor Tromba
+
+- Mágica
+
+- Gunter (mencionado)
+
+- Príncipe Músculos
+
+- Povo Doce Senhorita Canelinha Gominho 2 Sra. Bolinho Garoto Pirulito Jam Jam
+
+- Senhorita Canelinha
+
+- Gominho 2
+
+- Sra. Bolinho
+
+- Garoto Pirulito
+
+- Jam Jam
+
+## Curiosidades
+- Príncipe Caroço sai da Terra do Caroço pelo mesmo portal que a Princesa Caroço saiu em Problemas na Terra do Caroço . O portal é um cogumelo e um sapo.
+
+- O portal é um cogumelo e um sapo.
+
+- Este episódio tem referências aos quadrinhos de Fionna & Cake : O Príncipe de Fogo , que era dos quadrinhos, faz sua primeira aparição sem falas. Ao contrário das histórias em quadrinhos, suas botas são castanhas em vez de laranjas. A espada que Fionna usou é ou fortemente parecida com a Espada Especial que ela recebeu do Príncipe Chiclete .
+
+- Este episódio mostra que as histórias de Fionna e Cake podem não ser canônica. No entanto a história foi contada pela Princesa Caroço e não pelo Rei Gelado ( Fionna e Cake ) e Marceline ( Menininho Mal ).
+
+- É o terceiro episódio de Fionna & Cake.
+
+- Este é o segundo episódio da série no qual não há aparições de Finn e Jake . O primeiro foi o episódio da 5° temporada Menininho Mau .
+
+- Pendleton Ward não dublou o Príncipe Caroço , quem dublou foi Peter Serafinowicz .
+
+- De alguma forma, o Príncipe Caroço ganhou um nariz.
+
+- Um personagem semelhante a Faísca aparece.
+
+- É revelado que a Princesa Caroço tem medo de ratos.
+
+- Fionna aparece um pouco mais gorda.
+
+- No final da história da Princesa Caroço, ela disse que o Príncipe Caroço deixou Fionna e criou um portal para Ooo para ficar com a própia Princesa Caroço.
+
+- Ao longo do episódio o estilo de arte dos olhos do Príncipe Caroço se alternam para um estilo inspirado nas animações Japonesas.
+
+- O Príncipe de Fogo , que era dos quadrinhos, faz sua primeira aparição sem falas. Ao contrário das histórias em quadrinhos, suas botas são castanhas em vez de laranjas.
+
+- A espada que Fionna usou é ou fortemente parecida com a Espada Especial que ela recebeu do Príncipe Chiclete .
+
+- No entanto a história foi contada pela Princesa Caroço e não pelo Rei Gelado ( Fionna e Cake ) e Marceline ( Menininho Mal ).
+
+## Referências Culturais
+- O capacete do Príncipe Caroço lembra o capacete usado por Char Aznable .
+
+- O livro "alucinante" que o Príncipe Caroço recebeu, entitulado Massenpsychologie und Ich (Grupo de Psícologia e Análise do Ego), é um livro de Sigmund Freud .
+
+- Fionna e Cake montando no Príncipe Caroço é semelhante a maneira que Goku na Jornada para o Leste ​ para voar em uma nuvem mágica como Goku em Dragon Ball.
+
+## Conexões de Episódios
+- O Príncipe Caroço deixou os seus pais para iniciar uma nova vida é semelhante o que a Princesa Caroço faz em " O Monstro ".
+
+- Mágica estava fantasiada de mendiga como Mágico em " Cidade das Aberrações ".
+
+## Censura
+- No Brasil, é censurado a parte em que o rato entra no manto do Rei Gelado.
+
+## Erros
+- Marshall Lee estava no sol e não se feriu.
+
+- Príncipe Caroço flutuou sem cair durante a musica e pelo que se sabe os encaroçados só podem flutuar perto do chão e não podem voar.Ele também fez o mesmo na batalha contra seus pais, não se sabe se isso é um erro ou se a Príncipe Caroço fez isso para parecer mais legal

@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 21177
 nome: "Dentista"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Dentista"
 data_exibicao: "02/02/2015"
 diretor: "Andres Salaff (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Tom Herpich Steve Wolfhard Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Dentista"
 ---
 
 # Dentista
 
 **Temporada 6 — Episódio 21177**
+
+## Descrição
+" Dentista " é o 21º episódio da 6ª temporada de Hora de Aventura . É o centésimo septuagésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Quando a dor de dente de Finn fica muito forte, ele não tem escolha a não ser ir ao dentista.
@@ -35,7 +59,73 @@ Finn acorda em uma cama, onde ele é tratado por muitas formigas. Seus dentes fo
 Finn é, então, transportado de volta para as pastagens com cobras e manteiga de onde ele é bem-vindo de volta pelos moradores. No entanto, quando ele tenta contar sobre o que o dentista realmente era e o que aconteceu com Tiffany todos lhe falam para manter o assunto em segredo.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Tiffany
+
 - Formigas
+
+
+### Menores:
+
+- Jake
+
+- Princesa Jujuba
+
+- Mosca
+
+- Dona Tromba
+
+- Povo Doce Chocofruta Cubo de Açúcar Starchy Chet Jam Jam Sr. Cremoso Jovens Marshmallows
+
+- Caracol
+
+- Chocofruta
+
+- Cubo de Açúcar
+
+- Starchy
+
+- Chet
+
+- Jam Jam
+
+- Sr. Cremoso
+
+- Jovens Marshmallows
+
+## Curiosidades
+- Finn já matou demónios, lutou contra monstros e seres cósmicos, mas tem medo de ir ao dentista.
+
+- É revelado que Finn tem medo de ir ao dentista.
+
+- É revelado que são as formigas que fazem o papel de dentista na Terra de Ooo , e que para ser atendido é necessário fazer um favor.
+
+- É mostrado que a identidade das formigas como dentista é secreta, porque alguma mosca espiã pode estar por perto. É revelado também que Jujuba, Jake e Starchy sabem disso.
+
+- É revelado que a Princesa Jujuba tem breves conhecimentos de odontologia.
+
+- O Reino Formiga faz a sua primeira aparição oficial.
+
+- É a primeira vez que Finn fala seu nome completo, que é "Finn Mertens".
+
+- Tiffany não morreu nesse episódio, pois ele reaparece no episódio " Preboot "
+
+- Tiffany diz que um dos motivos de querer matar Finn é porque ele é ignorante.
+
+- Para chegar a ao Reino Formiga é necessário entrar no poço perto da Casa da Árvore e jogar manteiga e cobras.
+
+- É revelado que algumas formigas vivem como militares, como a Rainha Formiga.
+
+- Neste episódio é revelado que os inimigos das formigas são as moscas, e as minhocas que trabalham para as moscas.
+
+## Erros
+Quando Finn se nega a ir ao dentista, o inchaço de seu dente desaparece e depois reaparece.
+
+## Conexões de Episódios
+- Tiffany fala sobre o passado criminoso de Jake mais uma vez, e também fala que se Finn não tivesse entrado em sua vida, ele seria um Chefe da Máfia. Ele também diz que precisava ir no dentista, pois mordeu o Cristal do Padeiro , roubado em Um Último Serviço .
+
+- Finn revela que seu nome completo "Finn Mertens" pela primeira vez, sem contar quando sua versão Farmworld falou em " Finn, o Humano ".

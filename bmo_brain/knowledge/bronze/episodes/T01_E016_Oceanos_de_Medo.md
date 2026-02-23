@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 16
 nome: "Oceanos de Medo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Oceanos_de_Medo"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Oceanos_de_Medo"
 ---
 
 # Oceanos de Medo
 
 **Temporada 1 — Episódio 16**
+
+## Descrição
+" Oceanos de Medo " é o 16º episódio da 1ª temporada de Hora de Aventura . É o décimo sexto episódio no total.
 
 ## Sinopse
 Finn descobre que tem medo do oceano, por isso ele pede a ajuda de Jake para superar o seu medo ou estará em risco ao fracasso.
@@ -26,7 +30,47 @@ O episódio termina com outra citação de "Pat McHale":
 "E assim o medo é forçado a voltar nas profundezas da alma do herói. Conquistado... pelo menos, por enquanto ..."
 
 ## Personagens
-### Principais
+
+### Personagens Principais
+
 - Finn
+
 - Jake
+
 - Amedrontador
+
+
+### Personagens Menores
+
+- Salamandra de Fogo
+
+- Os Três Reis Magos
+
+- Caracol
+
+## Curiosidades
+- O ruído que acompanha a aparição do Amedrontador soa semelhante ao tema de abertura de Apenas um Show por J.G. Quintel. Isto é porque o episódio tem a ajuda de J.G Quintel.
+
+- No fundo do mar está cheio de prédios e carros, sugerindo que depois da Guerra dos Cogumelos o mar subiu e inundou várias cidades. Além disso, também mostra que a Terra de Ooo é a mesma Terra de hoje só que depois da Guerra dos Cogumelos .
+
+- Este episódio revela que Finn tem medo do oceano.
+
+- A cara de Finn virou meme na internet.
+
+- Percebe-se que a coroa de um dos Três Reis Magos é semelhante a do Rei Gelado
+
+- Finn fala, neste episódio, que seu cabelo é escuro, só pra rimar (a cor verdadeira do cabelo dele é loiro e é claro). Em inglês, ele fala que os porcos tem cabelo.
+
+- O nome original desse episódio era "Finn debaixo d'água.
+
+- Quando Finn usa Jake para submergir até terra firme e fugir do mar, ele chega em uma casa destruída e nela à um tanque de guerra encalhado.
+
+- Nessa mesma casa O Caracol aparece algumas cenas depois.
+
+- Quando Finn e Jake estão dentro do submarino em um prédio no topo dele, à 2 pessoas mortas no sofá (quando Jake diz que é bem mais matemático quando você abre os olhos, então Finn diz "Uaaau", e na cena seguinte aparece o tal prédio do lado direito)
+
+- No Episódio " Hora de Negócios ", Finn cai no oceano sem medo algum (Se passa 8 episódios antes desse).
+
+- Finn se bate com uma chave inglesa para cair no Oceano, e em " Lista do Que Fazer Antes de Morrer do Billy ", ele se bate com uma tábua para o mesmo método.
+
+- Isto é porque o episódio tem a ajuda de J.G Quintel.

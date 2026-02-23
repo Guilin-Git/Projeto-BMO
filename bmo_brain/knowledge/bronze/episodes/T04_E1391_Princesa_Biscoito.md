@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 1391
 nome: "Princesa Biscoito"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Princesa_Biscoito_(Epis%C3%B3dio)"
 data_exibicao: "1 de abril de 2013"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-091"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Princesa_Biscoito_(Epis%C3%B3dio)"
 ---
 
 # Princesa Biscoito
 
 **Temporada 4 — Episódio 1391**
+
+## Descrição
+" Princesa Biscoito " é o 13º episódio da 4ª temporada de Hora de Aventura . É o nonagésimo primeiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn , Jake e Princesa Jujuba tentam bolar um plano para salvar um grupo de pessoas doces que estavam como reféns de um biscoito homem que queria ser princesa.
@@ -26,8 +53,58 @@ Em seguida a Princesa Biscoito, conversando com Jake lhe diz, que quando era cri
 Enquanto corriam Finn sai das sombras de Jake perguntando o que ele estava fazendo, Jake explica a Finn o que estava acontecendo,e Finn decide ficar contra eles, Jake em seguida derruba Finn do cavalo, quando Jake esta prestes a saltar de um barranco, a Princesa Biscoito pede que ele pare, e agradece por faze-lo acreditar que foi uma princesa, e se atira do barranco, logo após se atirar os Guardas Banana tiram fotos dele, como investigação. Em seguida no Hospital psiquiátrico do Reino Doce, aparece Jake vestido de carteiro, perguntando onde está a Princesa Biscoito, ele estava jogando xadrez, Jake e a Princesa Biscoito se abraçam, e Jake lhe dá uma coroa de planta ao qual se refere como entrega especial do reino da grama, então os pacientes do hospital se curvaram diante da Princesa Biscoito, e assim termina o episodio.
 
 ## Personagens
+
 ### Principais
+
 - Jake
+
 - Princesa Biscoito
+
 - Finn
+
 - Princesa Jujuba
+
+
+### Menores
+
+- Povo Doce Guardas Banana Goliad Stormo Lascas de Chocolate Mordomo Menta Jam Jam Entregador das Tortas Reais
+
+- Doutora Princesa
+
+- Caracol
+
+- Guardas Banana
+
+- Goliad
+
+- Stormo
+
+- Lascas de Chocolate
+
+- Mordomo Menta
+
+- Jam Jam
+
+- Entregador das Tortas Reais
+
+## Caracol
+Aparece no sofá no orfanato que a Princesa Biscoito morava.
+
+## Curiosidades
+- É revelado neste episódio que Jake sempre quis ser carteiro. Stormo e Goliad.
+
+- Goliad e Stormo fazem uma pequena aparição nesse episódio, ainda em conflito mental entre si.
+
+- O Entregador das Tortas Reais reaparece nesse episódio, no hospital mental do Reino Doce.
+
+- Quando a Princesa Jujuba traz o cavalo a Princesa Biscoito , Jake faz uma referência ao episodio Os Olhos , quando diz que aquele cavalo não presta, que era uma armadilha.
+
+- O Caracol tinha sido possuído "atualmente", em 2011, mas, quando Princesa Biscoito conta sua história o Caracol está no sofá.
+
+- Neste episódio Princesa Jujuba está com um relógio.
+
+## Erros
+- Quando a Princesa Jujuba "ri" do sonho de Bebelício ela coloca a mão na boca, mas na cena seguinte ela está com os dois braços segurando ele e na cena seguinte ela o estava segurando apenas com um braço e acariciando ele com o outro.
+
+## Conexões de episódios
+- É possível ver Stormo e Goliad no canto da tela na sua batalha psiquica sem fim.

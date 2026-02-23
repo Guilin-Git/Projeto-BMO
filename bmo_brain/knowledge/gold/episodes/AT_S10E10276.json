@@ -1,0 +1,99 @@
+{
+  "id": "AT_S10E10276",
+  "tipo": "episodio",
+  "nome": "Jake, Filho das Estrelas",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E10276_meta",
+      "text": "[Episódio: Jake, Filho das Estrelas (Temporada 10, Ep 10276)]\nDiretor: Cole Sanchez\nRoteiro: Kent Osborne , Jack Pendarvis , Julia Pott e Adam Muto",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E10276",
+        "temporada": 10,
+        "numero_ep": 10276,
+        "nome": "Jake, Filho das Estrelas",
+        "characters_secondary": "Jake|Warren Ampersand|Finn|Urso Relógio|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E10276_sinopse",
+      "text": "[Episódio: Jake, Filho das Estrelas (Temporada 10, Ep 10276)]\nSinopse: Jake é levado por um alienígena estranho e deslocador de forma a poder cumprir seu destino.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E10276",
+        "temporada": 10,
+        "numero_ep": 10276,
+        "nome": "Jake, Filho das Estrelas",
+        "characters_secondary": "Jake|Warren Ampersand|Finn|Urso Relógio|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E10276_informacoes",
+      "text": "[Episódio: Jake, Filho das Estrelas (Temporada 10, Ep 10276)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E10276",
+        "temporada": 10,
+        "numero_ep": 10276,
+        "nome": "Jake, Filho das Estrelas",
+        "characters_secondary": "Jake|Warren Ampersand|Finn|Urso Relógio|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E10276_creditos",
+      "text": "[Episódio: Jake, Filho das Estrelas (Temporada 10, Ep 10276)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E10276",
+        "temporada": 10,
+        "numero_ep": 10276,
+        "nome": "Jake, Filho das Estrelas",
+        "characters_secondary": "Jake|Warren Ampersand|Finn|Urso Relógio|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E10276_curiosidades",
+      "text": "[Episódio: Jake, Filho das Estrelas (Temporada 10, Ep 10276)]\nCuriosidades:\n- O caracol é retratado neste episódio e é mencionado por Jake.\n\n- Apesar de observar Jake de longe durante a maior parte de sua vida, Warren aparentemente não tinha ideia de que ele era o avô de cinco cães.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E10276",
+        "temporada": 10,
+        "numero_ep": 10276,
+        "nome": "Jake, Filho das Estrelas",
+        "characters_secondary": "Jake|Warren Ampersand|Finn|Urso Relógio|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E10276_referencias_culturais",
+      "text": "[Episódio: Jake, Filho das Estrelas (Temporada 10, Ep 10276)]\nReferencias_Culturais:\n- A música no cartão de título soa um pouco semelhante ao som de inicialização do Windows 98.\n\n- Este episódio tem uma história semelhante ao Guardiões da Galáxia Vol. 2. Tanto o filme quanto este episódio, o pai alienígena dos personagens principais chega para levá-los a um planeta criado a partir de seu próprio corpo. É então revelado que o personagem é parte de uma longa fila de crianças a serem mortas como parte do plano egoísta do pai alienígena até ser morto pelo filho atual.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E10276",
+        "temporada": 10,
+        "numero_ep": 10276,
+        "nome": "Jake, Filho das Estrelas",
+        "characters_secondary": "Jake|Warren Ampersand|Finn|Urso Relógio|Caracol",
+        "secao": "referencias_culturais"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E10276_conexoes_de_episodios",
+      "text": "[Episódio: Jake, Filho das Estrelas (Temporada 10, Ep 10276)]\nConexoes_De_Episodios:\n- Uma foto de Jake como um tijolo de \" Jake, o Tijolo \" é vista no Jakeseum.\n\n- Jake constantemente se estica até a morte durante todo o episódio. Apesar disso, ele continuará a se alongar enquanto seu nome é cantado três vezes, referindo-se \" O Limite \".\n\n- Uma estátua de Jake em pé em cima das panquecas de bacon com a inscrição \"Originador de 'Panqueca de Toucinho',\" referenciando a música de \" Pegando um Foguinho \".\n\n- Jake mais uma vez faz referência a \"mão-chave\", como fez em \" Prisioneiras do Amor \" e \" Masmorra \".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E10276",
+        "temporada": 10,
+        "numero_ep": 10276,
+        "nome": "Jake, Filho das Estrelas",
+        "characters_secondary": "Jake|Warren Ampersand|Finn|Urso Relógio|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Casa do Mágico"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Casa_do_M%C3%A1gico"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Casa_do_M%C3%A1gico"
 ---
+
+> Casa do Mágico é um lugar de Hora de Aventura.
 
 # Casa do Mágico
 

@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_antidoto_dos_carocos",
+  "tipo": "objeto",
+  "nome": "Antídoto dos Caroços",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_antidoto_dos_carocos_descricao",
+      "text": "[Objeto: Antídoto dos Caroços]\nDescricao:\n# Antídoto dos Caroços\n\nO antídoto dos Caroços parece uma bola de cristal ou pérola, e retira a aparência encaroçada do indivíduo que senta sobre ela. Quem costuma usá-la são os \"metidos a lisos\", como diz a Princesa Caroço em \" Problemas na Terra do Caroço \", mas é utilizada por Jake e Finn quando ambos ficam encaroçados. Sua única aparição foi em \"Problemas na Terra do Caroço\".\n\nPara o antídoto funcionar permanentemente é preciso sentar em cima da bola antes do pôr do sol, caso contrario, o indivíduo mordido ficará encaroçado para sempre e somente enquanto estiver em cima da bola terá a sua aparência normal de volta.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_antidoto_dos_carocos",
+        "nome": "Antídoto dos Caroços",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_antidoto_dos_carocos_aparicoes",
+      "text": "[Objeto: Antídoto dos Caroços]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_antidoto_dos_carocos",
+        "nome": "Antídoto dos Caroços",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

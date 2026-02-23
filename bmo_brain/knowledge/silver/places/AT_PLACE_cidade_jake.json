@@ -1,0 +1,11 @@
+{
+  "id": "AT_PLACE_cidade_jake",
+  "tipo": "lugar",
+  "nome": "Cidade Jake",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Cidade_Jake",
+  "sections": {
+    "descricao": "# Cidade Jake\n\nA Cidade Jake é uma cidade que apareceu em \" Tudo é Jake \". É nela que moram as Pessoas Jake, aparentemente foi criada quando Jake falou sobre uma cidade e a chamou de Cidade Jake.",
+    "aparencia": "A Cidade Jake é bem grande, lembra um pouco o Reino Doce . Ela é toda laranja e amarela e lá tem vários prédios."
+  },
+  "source_file": "Cidade_Jake.md"
+}

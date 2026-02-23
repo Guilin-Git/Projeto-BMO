@@ -1,0 +1,99 @@
+{
+  "id": "AT_S10E3269",
+  "tipo": "episodio",
+  "nome": "Filho do Urso Rapper",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E3269_meta",
+      "text": "[Episódio: Filho do Urso Rapper (Temporada 10, Ep 3269)]\nDiretor: Diana Lafyatis\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E3269",
+        "temporada": 10,
+        "numero_ep": 3269,
+        "nome": "Filho do Urso Rapper",
+        "characters_secondary": "Finn|Jake (não falou)|Princesa de Fogo|Filho do Urso Rapper|Canelinha|Canelita|Toronto|Rei de Fogo|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E3269_sinopse",
+      "text": "[Episódio: Filho do Urso Rapper (Temporada 10, Ep 3269)]\nSinopse: Quando a Princesa de Fogo está envolvida em uma batalha de alto risco contra o indomável Filho do Urso Rapper, Finn deve ajudá-la a procurar uma nova estratégia.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E3269",
+        "temporada": 10,
+        "numero_ep": 3269,
+        "nome": "Filho do Urso Rapper",
+        "characters_secondary": "Finn|Jake (não falou)|Princesa de Fogo|Filho do Urso Rapper|Canelinha|Canelita|Toronto|Rei de Fogo|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E3269_informacoes",
+      "text": "[Episódio: Filho do Urso Rapper (Temporada 10, Ep 3269)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E3269",
+        "temporada": 10,
+        "numero_ep": 3269,
+        "nome": "Filho do Urso Rapper",
+        "characters_secondary": "Finn|Jake (não falou)|Princesa de Fogo|Filho do Urso Rapper|Canelinha|Canelita|Toronto|Rei de Fogo|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E3269_creditos",
+      "text": "[Episódio: Filho do Urso Rapper (Temporada 10, Ep 3269)]\nCreditos:\n### Diretor\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E3269",
+        "temporada": 10,
+        "numero_ep": 3269,
+        "nome": "Filho do Urso Rapper",
+        "characters_secondary": "Finn|Jake (não falou)|Princesa de Fogo|Filho do Urso Rapper|Canelinha|Canelita|Toronto|Rei de Fogo|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E3269_curiosidades",
+      "text": "[Episódio: Filho do Urso Rapper (Temporada 10, Ep 3269)]\nCuriosidades:\n- Canelinha não tem seu escudo de chama no início do episódio, como no episódio \" A Montanha \"",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E3269",
+        "temporada": 10,
+        "numero_ep": 3269,
+        "nome": "Filho do Urso Rapper",
+        "characters_secondary": "Finn|Jake (não falou)|Princesa de Fogo|Filho do Urso Rapper|Canelinha|Canelita|Toronto|Rei de Fogo|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E3269_conexoes_de_episodios",
+      "text": "[Episódio: Filho do Urso Rapper (Temporada 10, Ep 3269)]\nConexoes_De_Episodios:\n- Urso Rapper continua vivendo dentro do monstro de \" Barriga da Besta \".\n\n- Rei de Fogo e Canelita ainda vivem em sua caverna desde \" Canelita \".\n\n- Uma garota de olhos vazios do episódio do mesmo nome faz uma aparição.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E3269",
+        "temporada": 10,
+        "numero_ep": 3269,
+        "nome": "Filho do Urso Rapper",
+        "characters_secondary": "Finn|Jake (não falou)|Princesa de Fogo|Filho do Urso Rapper|Canelinha|Canelita|Toronto|Rei de Fogo|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E3269_erros",
+      "text": "[Episódio: Filho do Urso Rapper (Temporada 10, Ep 3269)]\nErros:\n- No início da montagem com o rap da Princesa de Fogo, Finn aparece com os dois braços.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E3269",
+        "temporada": 10,
+        "numero_ep": 3269,
+        "nome": "Filho do Urso Rapper",
+        "characters_secondary": "Finn|Jake (não falou)|Princesa de Fogo|Filho do Urso Rapper|Canelinha|Canelita|Toronto|Rei de Fogo|Caracol",
+        "secao": "erros"
+      }
+    }
+  ]
+}

@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 27131
 nome: "Traje de Jake"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Traje_de_Jake"
 data_exibicao: "03/02/2014"
 diretor: "Elizabeth Ito (supervisando) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Adam Muto"
 codigo_producao: "1014-135"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Traje_de_Jake"
 ---
 
 # Traje de Jake
 
 **Temporada 5 — Episódio 27131**
+
+## Descrição
+" Traje de Jake " é o 27º episódio da 5ª temporada de Hora de Aventura . É o 131 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Jake se cansa de Finn usando seu corpo como armadura, então o convence a trocar de lugar para mostrar como é ruim.
@@ -26,17 +53,62 @@ Eles vão para a casa de Lady Íris , onde Lady é visto lavando a louça quando
 No hospital do Reino Doce , Finn e Jake estão se recuperando quando as Enfermeiras Palhaças aparecem, para grande horror de Finn e prazer de Jake.
 
 ## Personagens
-### Principais
+
+### ﻿Principais
+
 - Finn
+
 - Jake
 
+
 ### Secundários
+
 - Povo de Fogo Princesa de Fogo Irmão mais velho da Princesa de Fogo Irmãos mais novos da Princesa de Fogo Tio e tia da Princesa de Fogo
+
 - BMO
+
 - Lady Íris
+
 - TV
+
 - Lobos de Fogo
+
 - Rei Gelado (cameo)
+
 - Esquilo (cameo)
+
 - Pato de Duas Cabeças (cameo)
+
 - Enfermeiras Palhaças
+
+- Princesa de Fogo
+
+- Irmão mais velho da Princesa de Fogo
+
+- Irmãos mais novos da Princesa de Fogo
+
+- Tio e tia da Princesa de Fogo
+
+## Músicas
+- Canção do Bebê Finn (Versão do Jake)
+
+## Curiosidades
+- Rei Gelado faz uma breve aparição quando Finn quebra uma parte da casa da arvore.
+
+- Finn usa a expressão "Mamãe passou açúcar em mim".
+
+- O significado do título é "Armadura Jake", apesar de ser Finn que serve de armadura na maior parte do episódio.
+
+- A Princesa de Fogo tem uma voz infantil nesse episódio porque esta sendo dublada pela Luisa Palomanes.
+
+- Neste episódio, Lady Íris fala em português pela terceira vez.
+
+- Segundo Lady, TV virou um tipo de Nerd.
+
+- É revelado que os filhos do Jake se mudaram menos T.V.
+
+## Referência Cultural
+- O trecho em que Finn usando Jake como armadura estica o seu braço para chegar ao topo da casa da árvore é extremamente semelhante a Venom. A referência total de um ser maior que cobre o seu corpo e que o dá força e agilidade é com certeza o reforço a essa referência, pois remente ao simbionte.
+
+## Censura
+- Quando Finn pula no corpo de Jake em cima da cerca, é censurado Finn dizendo: " Eu sou um cowboi !" E depois Jake o cuspindo de fora dele.

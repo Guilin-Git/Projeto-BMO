@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 1795
 nome: "BMO Noire"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/BMO_Noire"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-095"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/BMO_Noire"
 ---
 
 # BMO Noire
 
 **Temporada 4 — Episódio 1795**
+
+## Descrição
+" BMO Noire " é o décimo sétimo episódio da quarta temporada de Hora de Aventura . É o episódio nonagésimo quinto em geral.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 BMO tenta resolver o mistério da meia perdida de Finn. Mas seu antigo romance com uma galinha, um homem morto injustamente e um assassino ladrão nas mãos da polícia o ajudarão a resolver esse caso?
@@ -25,18 +46,48 @@ Ela fala que Bébé não roubou a meia do Finn, mais o Beemo não teria acrescen
 "Ronnie, o rato, roubou ela, mais a galinha Lorraine armou pra ele pra ele matar Bébé , mais os tiras mataram Ronnie, e Lorraine escapou com o saque! Mas Beemo resolveu o caso!" Jake pergunta se o nome da galinha deles era Lorraine, e Beemo fala que ela era quente igual á uma pizza!
 
 ## Personagens
+
 ### Principais
+
 - Beemo
+
 - Ronnie
+
 - Lorraine
+
 - Oficial Davis
+
 - Bebê
 
+
 ### Secundários
+
 - Finn
+
 - Jake
+
 - Oficial Meow
+
 - Tenente Whiskers
+
 - Rojotor
+
 - Toicinho do Mar
+
 - Caracol
+
+## Curiosidades
+- BMO já namorou a galinha Lorraine.
+
+- No title card do episódio, supostamente é BMO e Lorraine em primeiro plano e Ronnie em segundo (na forma humana).
+
+- Também no title card, há alguma coisa atrás de Ronnie que se parece com Jake com um batom ao lado de Finn.
+
+- BMO chamou Rojotor de "Neptr", assim como em Finn em " Quente Demais ", seu nome original em inglês.
+
+- Em bora sejam de temporadas distintas, o episódio 18 da 5° temporada (122º episódio), Festinha de Princesas , é uma continuação paralela e mostra onde que Finn e Jake estavam
+
+## Erros
+- No final quando Finn e Jake voltam, Finn é mostrado com 2 meias não só com uma.
+
+- Também no final não tem um calo no pé de Finn como visto em Festinha de Princesas .

@@ -1,0 +1,11 @@
+{
+  "id": "AT_ITEM_pedra_da_alma",
+  "tipo": "objeto",
+  "nome": "Pedra da Alma",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Pedra_da_Alma",
+  "sections": {
+    "descricao": "# Pedra da Alma\n\nA Pedra da Alma é uma pedra extremamente poderosa que a Princesa Jujuba mandou Finn e Jake buscarem, mas para impressioná-la, Braco vai buscá-la.\n\nEla estava dentro de um cofre que só é aberto com uma chave que está num poço de lava, a Princesa ia usá-la para criar a Jujubô . No entanto Princesa Jujuba fez sua própria pedra da alma artificialmente. Braco ficou com a verdadeira mas em seguida ele a quebrou com um martelo, libertando as almas que estavam dentro dela.",
+    "aparicoes": "### Primeira Aparição"
+  },
+  "source_file": "Pedra_da_Alma.md"
+}

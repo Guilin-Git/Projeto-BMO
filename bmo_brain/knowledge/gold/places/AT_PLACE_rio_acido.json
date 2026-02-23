@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_rio_acido",
+  "tipo": "lugar",
+  "nome": "Rio Ácido",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_rio_acido_descricao",
+      "text": "[Lugar: Rio Ácido]\nDescricao:\n# Rio Ácido\n\nO Rio Ácido é um rio que Finn cruzou no episódio \" Outro Jeito \". É um rio que vai queimar alguém, descrito pelo Arbusto Falante como sendo \"como suco de laranja\", e também que \"é nojento\". O rio é tão ácido que afundou um barco dissolvendo seu casco, conforme explicado no episódio. Também é perigoso por causa da sua rápida corrente, bem como a ser infestado com enguias elétricas . A única maneira de passar é atravessar a ponte sobre ele, mas é uma Ponte Armadilha e considerada letal para usar. O arbusto parece completamente convencido de que é impossível atravessar o rio, explicitando assim uma série de vezes e chamando Finn um \"bobo\" por pensar que ele conseguiria atravessar.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_rio_acido",
+        "nome": "Rio Ácido",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

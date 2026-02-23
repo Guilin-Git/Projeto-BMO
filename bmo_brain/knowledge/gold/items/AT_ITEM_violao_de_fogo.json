@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_violao_de_fogo",
+  "tipo": "objeto",
+  "nome": "Violão de Fogo",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_violao_de_fogo_descricao",
+      "text": "[Objeto: Violão de Fogo]\nDescricao:\n# Violão de Fogo\n\nO Violão de Fogo foi usado por Jake no episódio \" Incêndio\" para tocar a musica \" Calor Dentro de Mim \". Jake pega emprestado do Tocador de Fogo .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_violao_de_fogo",
+        "nome": "Violão de Fogo",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_violao_de_fogo_aparicoes",
+      "text": "[Objeto: Violão de Fogo]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_violao_de_fogo",
+        "nome": "Violão de Fogo",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_violao_de_fogo_aparencia",
+      "text": "[Objeto: Violão de Fogo]\nAparencia:\nO violão de fogo é um violão marrom, com fogos em diversas partes. É semelhante à um vulcão.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_violao_de_fogo",
+        "nome": "Violão de Fogo",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

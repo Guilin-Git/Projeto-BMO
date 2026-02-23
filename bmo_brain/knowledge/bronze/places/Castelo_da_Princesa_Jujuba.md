@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Castelo da Princesa Jujuba"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Castelo_da_Princesa_Jujuba"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Castelo_da_Princesa_Jujuba"
 ---
+
+> Castelo da Princesa Jujuba é um lugar de Hora de Aventura.
 
 # Castelo da Princesa Jujuba
 

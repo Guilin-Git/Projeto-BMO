@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_reino_cachorro_quente",
+  "tipo": "lugar",
+  "nome": "Reino Cachorro Quente",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_reino_cachorro_quente_descricao",
+      "text": "[Lugar: Reino Cachorro Quente]\nDescricao:\n# Reino Cachorro Quente\n\nO Reino Cachorro Quente é o reino habitado pela Princesa Cachorro Quente e seus Cavaleiros Cachorro Quente . Ele é um reino pequeno, que compreende uma trama circular de descoloridos (que lembra um cercadinho de cachorro) gramado rodeado por uma cerca de madeira simples, com uma pequena casa de cachorro em anexo.\n\nEmbora bem guardado devido ao seu tamanho e estrutura, o reino ainda está propenso a ataques aéreos. Isso foi mostrado em \" Hora de Negócios \" quando vários Cubos de Batalha atacado a Princesa Cachorro Quente por ​​cima.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_cachorro_quente",
+        "nome": "Reino Cachorro Quente",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_reino_cachorro_quente_curiosidades",
+      "text": "[Lugar: Reino Cachorro Quente]\nCuriosidades:\n- A casa que a Princesa Cachorro Quente vive em não foi identificado como o Reino Cachorro Quente em \" O Limite \". Ele foi visto em \" Hora de Negócios \", mas não é chamado pelo nome.\n\n- Apesar de ser chamado de \"Reino Cachorro Quente,\" é mais de uma micronação de um reino real. É do tamanho de um pequeno quintal.\n\n- Não é falado que é um reino mesmo mas se for é o menor reino de Terra de Ooo conhecido.\n\n- Os únicos habitantes são a Princesa Cachorro Quente e os Cavaleiros Cachorro Quente .\n\n### Erro\n\n- Mesmo que a Princesa Cachorro Quente é mostrada a viver no Reino nos episódios mais recentes, Finn define como uma prisão em \" Hora de Negócios \", abrindo o portão, como se os Cubos De Batalha à aprisionaram no recinto.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_cachorro_quente",
+        "nome": "Reino Cachorro Quente",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

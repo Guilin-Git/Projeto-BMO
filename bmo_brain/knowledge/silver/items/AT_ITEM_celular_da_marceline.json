@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_celular_da_marceline",
+  "tipo": "objeto",
+  "nome": "Celular da Marceline",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Celular_da_Marceline",
+  "sections": {
+    "descricao": "# Celular da Marceline\n\nO Celular da Marceline é um objeto usado por ela em \" Vem Comigo \".",
+    "aparicoes": "### Primeira Aparição\n\n### Última Aparição",
+    "aparencia": "O Celular da Marceline aparece primeiramente como um inseto, mas quando Marceline o esmaga, ele vira um telefone-celular. Na forma de inseto, ele tem uma semelhança a um peixe e tem o tamanho de um telefone médio."
+  },
+  "source_file": "Celular_da_Marceline.md"
+}

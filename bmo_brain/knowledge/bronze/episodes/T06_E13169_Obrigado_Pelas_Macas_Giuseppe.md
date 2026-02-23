@@ -1,15 +1,36 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 13169
 nome: "Obrigado Pelas Maçãs, Giuseppe!"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Obrigado_Pelas_Ma%C3%A7%C3%A3s,_Giuseppe"
 data_exibicao: "13/10/2014"
 roteiro: "Kent Osborne"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Obrigado_Pelas_Ma%C3%A7%C3%A3s,_Giuseppe"
 ---
 
 # Obrigado Pelas Maçãs, Giuseppe!
 
 **Temporada 6 — Episódio 13169**
+
+## Descrição
+" Obrigado Pelas Maçãs, Giuseppe " é o 13º episódio da 6ª temporada de Hora de Aventura . É o 168º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Rei Gelado e um bando de magos desajeitados saem em uma viajem para formar sua própria sociedade secreta.
@@ -32,13 +53,68 @@ Abracadaniel sugere que talvez, como o resto da viagem, este é o destino guiand
 A cena então muda para a Cidade dos Magos , onde dois bruxos estavam ​​trocando um "aperto de mão secreto" e abertamente se gabam a sua "coisa secreta esta noite" na frente do Abracadaniel , quem eles chama de "perdedor". Como Abracadaniel anda, ele encontra os Antigo Bruxo Adormecido Da Vida . Eles piscam um para o outro e mostrar os seus anéis no polegar, que têm uma imagem da árvore crabapple sobre eles, um símbolo da sociedade os magos na viagem formaram com base em sua experiência compartilhada. A imagem no anel dissolve a árvore Crabapple que viu pela última vez no Giuseppe e a voz de Rei Gelado é ouvido dizendo: " Giuseppe ".
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Rei Gelado
+
 - Abracadaniel
+
 - Ron James
+
 - Antigo Bruxo Adormecido Da Vida
+
 - Amiguinho
+
 - Ninfas
+
 - Homem Folha
+
 - Bo
+
 - Giuseppe
+
+
+### Menores:
+
+- Finn
+
+- Jake
+
+- BMO
+
+- Dona Tromba
+
+- Sr. Porco
+
+- Caracol
+
+## Curiosídades
+- É o segundo episódio com o título mais longo da série. O primeiro é " Lista do Que Fazer Antes de Morrer do Billy " e o terceiro é " The Prince Who Wanted Everything ".
+
+- Podemos ver que Abracadaniel e Rei Gelado sabem dirigir.
+
+- Pode-se ver que o lago das Ninfas agora é bem perto da casa de Finn e Jake .
+
+- Podemos ver que Bo e Rei Gelado estavam brincando de "pedra, papel e tesoura" enquanto estavam no ônibus.
+
+## Referências Culturais
+- É provável que o personagem Giuseppe tem o nome do artista italiano de mesmo nome, Giuseppe Arcimboldo . Isto é reforçado pelo fato de que o artista trabalhou principalmente com as frutas e Giuseppe é mais conhecido pelas maçãs que ele deu para o Rei Gelado .
+
+- A aparência de Giuseppe lembra o Smeagol dos filmes O Senhor dos Anéis e O Hobbit .
+
+## Conexões de Episódios
+- Amiguinho e o Antigo Bruxo Adormecido Da Vida retornam de " Amiguinho ".
+
+- Ron James retorna de " Só Magos, Tolos " e " Betty ".
+
+- Rei Gelado e Abracadaniel ainda são grandes amigos desde " Encontro pra Brincar ".
+
+- As Ninfas retornam de " Incansável " (agora com uma terceira integrante).
+
+## Censuras
+- Foi censurado a cena de Giuseppe soltando um pum.
+
+- Foi censurada a parte dos magos em cima da pedra do Bumbum fazendo o feitiço
+
+- Foi censurado Sr. Porco massageando a cabeça de Ron James .

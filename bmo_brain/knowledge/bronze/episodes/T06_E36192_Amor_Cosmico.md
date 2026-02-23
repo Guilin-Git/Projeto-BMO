@@ -1,15 +1,32 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 36192
 nome: "Amor Cósmico"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Amor_C%C3%B3smico"
 data_exibicao: "18/05/2015"
 codigo_producao: "1025-196"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Amor_C%C3%B3smico"
 ---
 
 # Amor Cósmico
 
 **Temporada 6 — Episódio 36192**
+
+## Descrição
+" Amor Cósmico " é o 36º episódio da 6ª temporada de Hora de Aventura . É o centésimo quadragésimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Uma estranha e carismática aparece no sonho de Finn que leva a Coruja Cósmica a fugir de suas funções.
@@ -34,6 +51,101 @@ No sonho, a Princesa Jujuba regava o solo e crescia o seu castelo, todos do rein
 Coruja Cósmica para a Mulher Pássaro e diz que ela interferiu um sonho em que ele estava, ela diz que parecia a coisa certa a fazer, a Coruja diz que eles seriam perfeitos juntos, mas tudo tinha acabado, a Mulher Pássaro diz que eles podem fugir, a Coruja diz que ela estava sonhando e que era hora de acordar e ela desaparece. A mulher acaba revelando ser Gunter , que acorda assustado, Rei Gelado da uma mamadeira pra ele quebrar, Gunter pega a mamadeira bravo e vai para a janela para quebra-la e fica pensativo por um segundo, mas no final joga a garrafa.
 
 ## Personagens
+
 ### Principais
+
 - Coruja Cósmica
+
 - Gunter (Mulher Pássaro)
+
+
+### Menores
+
+- Finn
+
+- Jake
+
+- BMO
+
+- Martin
+
+- Docinho
+
+- Shelby
+
+- Prismo
+
+- Kim Kil Whan
+
+- Lemonhope
+
+- Rei Gelado
+
+- Rei de Ooo
+
+- Rei da Festa
+
+- Abracadaniel
+
+- Princesa Tartaruga
+
+- Homem Banana
+
+- Dona Tromba
+
+- Sr. Porco
+
+- Mago da Floresta
+
+- Berdzerd
+
+- Bufo
+
+- Maga Caçadora
+
+- Mago Laser
+
+- Povo Doce Princesa Jujuba Mordomo Menta Kenneth Gominha 1 Sr. Bolinho Ponche Moranguinha Cerejinha Joven Marshmallow Bastão de Caramelo Blombo Canelinha
+
+- Caracol
+
+- Pinguins
+
+- Princesa Jujuba
+
+- Mordomo Menta
+
+- Kenneth
+
+- Gominha 1
+
+- Sr. Bolinho
+
+- Ponche
+
+- Moranguinha
+
+- Cerejinha
+
+- Joven Marshmallow
+
+- Bastão de Caramelo
+
+- Blombo
+
+- Canelinha
+
+## Curiosidades
+- Apesar de ser um sonho, isso mostra que o Homem Banana pode ter 87 anos.
+
+- No sonho de Princesa Jujuba , Canelinha é visto, mesmo ele tendo partido para o Reino de Fogo em " Terra e Água ".
+
+- Quando a Coruja Cósmica olha para Jake de cabeça para baixo no sonho de Finn, Jake diz: "Diga adeus" ao contrario.
+
+- Prismo diz que está fazendo aulas de banjo.
+
+## Conexões de Episódios
+- Finn diz que a última vez que ele seguiu o sonho da Coruja Cósmica terminou seu namoro, e isso de fato aconteceu em " Frio e Fogo ".
+
+## Censura
+- O final do episódio foi cortado, quando um pinguim escorregou igual ao humanoide no primeiro sonho de Gunter.

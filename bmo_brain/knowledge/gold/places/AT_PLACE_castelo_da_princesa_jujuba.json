@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_castelo_da_princesa_jujuba",
+  "tipo": "lugar",
+  "nome": "Castelo da Princesa Jujuba",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_castelo_da_princesa_jujuba_descricao",
+      "text": "[Lugar: Castelo da Princesa Jujuba]\nDescricao:\n# Castelo da Princesa Jujuba\n\nO Castelo da Princesa Jujuba (também conhecido como O Castelo Doce ) é a casa da Princesa Jujuba e antiga casa do Rei de Terra de Ooo . Ele está localizado no centro do Reino Doce .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_castelo_da_princesa_jujuba",
+        "nome": "Castelo da Princesa Jujuba",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

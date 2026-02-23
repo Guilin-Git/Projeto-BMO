@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 5230
 nome: "Eu Sou Uma Espada"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Eu_Sou_Uma_Espada"
 data_exibicao: "29/08/2016"
 diretor: "Andres Salaff"
 roteiro: "Sam Alden Jesse Moynihan"
 codigo_producao: "1034-236"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Eu_Sou_Uma_Espada"
 ---
 
 # Eu Sou Uma Espada
 
 **Temporada 8 — Episódio 5230**
+
+## Descrição
+" Eu Sou Uma Espada " é o quinto episódio da oitava temporada de Hora de Aventura. É o ducentésimo trigésimo episódio ao todo.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn começa a ter pesadelos após perder sua Espada Finn.
@@ -26,8 +53,60 @@ O Finn da espada diz a ela que sua vida foi arruinada, e ela diz que faria mais 
 Finn e Jake chegam ao Reino das Caixas e Finn começa a lutar com um taco de golfe, ela tenta cortar a cabeça de Finn, porém ele segura a espada e a crava no chão. Nisso, a Espada de Grama sai de dentro de sua mão, quando ataca a ladra, ela coloca a Espada Finn na frente, fazendo acidentalmente ele quebrar a Espada Finn. O episódio acaba com a Espada de Grama entrando dentro da Espada Finn, e Finn volta para casa.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Ladra
+
 - Espada Finn (Finn alternativo)
+
+
+### Menores
+
+- BMO
+
+- Povo Espeto
+
+- Cameron
+
+- Sharon
+
+- Merchant
+
+- Spearbear
+
+- Gato Cientista
+
+- Príncipe Caixa (morte)
+
+- Lich (citado)
+
+- Ar (bolha) (citado)
+
+- Caracol
+
+## Curiosidades
+- Finn "mata" a Espada Finn (alternativo) usando a Espada de Grama , por acidente.
+
+- O cristal da Espada Finn quebra neste episódio e parece está eventualmente fundida com uma metade da Espada de Grama .
+
+- A Espada de Grama retorna com sua antiga forma da 5ª e no começo da 6ª temporada.
+
+- Finn tem a Espada do Billy guardado em seu baú.
+
+## Conexões de Episódios
+- O ouro do Povo Espeto é roubado novamente como em " O Mói-Tripa ."
+
+- O Reino das Caixas reaparece do episódio " O Príncipe das Caixas ".
+
+- À o Finn acordar assustado, Jake menciona: "Acordando gritando de novo. Te deram um toco? Lich? Eu morrendo? Você morrendo? Outra separação? Crescendo? Nunca crescer? Ou aranhas? " - Finn acorda gritando em " O Lich ", " Frio e Fogo ", " O Cofre ", " É Você? ", " Plano Astral " e " Amor Cósmico ".
+
+- Finn tendo pesadelos sobre términos, também é como referência para os eventos de " Frio e Fogo ", enquanto seus pesadelos com aranhas pode sido por causa dos eventos de " Teia de Estranhos ".
+
+- O Gato Cientista têm encontrado um novo parceiro após a morte do Espada Tubarão, que foi mencionado em " Flute Spell ".
+
+- Penny que seria a antagonista do episódio.

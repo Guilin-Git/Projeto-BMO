@@ -1,0 +1,86 @@
+{
+  "id": "AT_S10E7273",
+  "tipo": "episodio",
+  "nome": "Marcy & Hunson",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E7273_meta",
+      "text": "[Episódio: Marcy & Hunson (Temporada 10, Ep 7273)]\nDiretor: Cole Sanchez\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E7273",
+        "temporada": 10,
+        "numero_ep": 7273,
+        "nome": "Marcy & Hunson",
+        "characters_secondary": "Finn|Jake|Marceline|Hunson Abadeer|Mordomo Menta|Primo Chiclete|Princesa Jujuba|Fantasmas|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E7273_sinopse",
+      "text": "[Episódio: Marcy & Hunson (Temporada 10, Ep 7273)]\nSinopse: Hunson vem para Terra de Ooo ver Marceline em seu Show.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E7273",
+        "temporada": 10,
+        "numero_ep": 7273,
+        "nome": "Marcy & Hunson",
+        "characters_secondary": "Finn|Jake|Marceline|Hunson Abadeer|Mordomo Menta|Primo Chiclete|Princesa Jujuba|Fantasmas|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E7273_informacoes",
+      "text": "[Episódio: Marcy & Hunson (Temporada 10, Ep 7273)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E7273",
+        "temporada": 10,
+        "numero_ep": 7273,
+        "nome": "Marcy & Hunson",
+        "characters_secondary": "Finn|Jake|Marceline|Hunson Abadeer|Mordomo Menta|Primo Chiclete|Princesa Jujuba|Fantasmas|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E7273_creditos",
+      "text": "[Episódio: Marcy & Hunson (Temporada 10, Ep 7273)]\nCreditos:\n### Diretor\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E7273",
+        "temporada": 10,
+        "numero_ep": 7273,
+        "nome": "Marcy & Hunson",
+        "characters_secondary": "Finn|Jake|Marceline|Hunson Abadeer|Mordomo Menta|Primo Chiclete|Princesa Jujuba|Fantasmas|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E7273_curiosidades",
+      "text": "[Episódio: Marcy & Hunson (Temporada 10, Ep 7273)]\nCuriosidades:\n- Esta é a primeira aparição real de Hunson Abadeer desde \" A Monstrinha do Papai \" da 4ª temporada.\n\n- Este episódio revela que o guarda alto e magro que abriu a porta para o laboratório de Gumbald para BMO e Rei Gelado em \"BMO Vendedor\" foi Chiclete .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E7273",
+        "temporada": 10,
+        "numero_ep": 7273,
+        "nome": "Marcy & Hunson",
+        "characters_secondary": "Finn|Jake|Marceline|Hunson Abadeer|Mordomo Menta|Primo Chiclete|Princesa Jujuba|Fantasmas|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E7273_conexoes_de_episodios",
+      "text": "[Episódio: Marcy & Hunson (Temporada 10, Ep 7273)]\nConexoes_De_Episodios:\n- A Espada da Noite apareceu anteriormente em \" Orb \" duas vezes: no cartão de título, e quando Finn encontra Jake no jogo dos sonhos.\n\n- Marceline é vista usando o suéter da princesa Jujuba da minissérie Estaca Zero quando Finn, Jake e Hunson entram em sua casa.\n\n- No flashback de \" Tudo Permanece \", quando Simon estava saindo, ele disse para Marceline: \"Vou arranjar alguém para vir cuidar de você\". Este episódio revela que essa pessoa era Hunson Abadeer. Isso faz sentido porque Marceline é vista passando tempo com ele em sua memória dele comendo suas batatas fritas em \"Memória de Uma Memória\"",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E7273",
+        "temporada": 10,
+        "numero_ep": 7273,
+        "nome": "Marcy & Hunson",
+        "characters_secondary": "Finn|Jake|Marceline|Hunson Abadeer|Mordomo Menta|Primo Chiclete|Princesa Jujuba|Fantasmas|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

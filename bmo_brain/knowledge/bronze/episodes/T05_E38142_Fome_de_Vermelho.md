@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 38142
 nome: "Fome de Vermelho"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Fome_de_Vermelho"
 data_exibicao: "07/04/2014"
 diretor: "Nate Cash (supervisora) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Fome_de_Vermelho"
 ---
 
 # Fome de Vermelho
 
 **Temporada 5 — Episódio 38142**
+
+## Descrição
+" Fome de Vermelho " é o 38º episódio da 5ª temporada de Hora de Aventura . É o centésimo quadragésimo segundo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn , Jake e Marceline estão presos em uma caverna subterrânea sem nenhum vermelho à vista. Se Marceline não se alimentar o mais rápido possível, ela vai se transformar em um monstro vampiro e sugar todo o sangue de Jake! Então, Finn dirige-se para explorar a caverna e encontrar algo vermelho para saciar ela até que possam ser resgatados.
@@ -22,22 +46,60 @@ Marceline começa a se perguntar por que a Princesa Jujuba quer a colher. Jake d
 
 Marceline diz que Jake demolido metade da cidade com Finn acrescentando que ele selou a sua única saída. Jake pede desculpas e diz que ele vai cavar seu caminho para fora de lá, mas Finn e Marceline dizem que não porque ele vai enterrá-los vivos(Finn e jake) e morta-viva(marceline). Finn puxa seu Holo -pingente PB e chama por socorro, mas não há sinal é cortada . Marceline pergunta se eles tem idéias mais brilhantes e Jake estados " lanches ", o que sugere que ele simplesmente porque ele está com fome. Marceline decide que ela está com fome demais e diz Finn para rebentar os lanches. Como Jake pega um biscoito para comer, Marceline pergunta onde as borrachas vermelhas são Jake e de repente percebe que o que ele comeu algum tempo atrás eram as borrachas . Marceline fica furiosa , mas Finn tenta acalmá-la e que ele vai procurar algo vermelho na caverna enquanto eles salvar a sua energia . Enquanto Finn diz Jake ser legal como ele sai, Jake pede Marceline como ela está com fome . Respostas Marceline com um assobio e um assustado Jake pede desculpas , rapidamente dizendo " Por favor, não sugar o meu sangue! " Marceline diz a Jake que ela não quer magoá-lo , mas permite-lhe saber que as coisas enlouquecem quando ela está com fome , onde ela entra em um "modo selvagem. " Jake simplesmente gemidos em resposta . Marceline sugere que amarrá-la , não que iria impedi-la de drenar seu sangue , mas para que ele não estaria com medo.
 
-Finn está andando ao lado de alguns fluxos de lava dizendo que mesmo o rosto de Marceline iria derreter  se ela tentar comer a lava. A cena corta para Marceline e Jake . Marceline está todo amarrado e cada vez pior e diz para Jake trazer para ela um balde de lava(na cidade de areia tinha lava). Jake diz: vê se não pira garota. marceline diz para jake obdecer e trazer o balde de lava  e jake sussurra : "Por que você me deixou aqui , amigão? " e continua comendo o sanduíche que estava comendo
+Finn está andando ao lado de alguns fluxos de lava dizendo que mesmo o rosto de Marceline iria derreter se ela tentar comer a lava. A cena corta para Marceline e Jake . Marceline está todo amarrado e cada vez pior e diz para Jake trazer para ela um balde de lava(na cidade de areia tinha lava). Jake diz: vê se não pira garota. marceline diz para jake obdecer e trazer o balde de lava e jake sussurra : "Por que você me deixou aqui , amigão? " e continua comendo o sanduíche que estava comendo
 
-Finn descobre uma entrada bloqueada com uma luz vermelha brilhando por trás dele. Ele chuta a parede de areia e desmorona , descobrindo que as pessoas da caverna não são realmente pessoas de areia , mas as pessoas se transformou em areia pela luz vermelha. Ele passa o cadáver com o objetivo de luz e rasteja em um buraco . Voltando para Marceline e Jake, Jake diz:ai meu glob ai meu glob cadê você cara a marcy ta pirando marceline chama jake e jake pergunta o que foi marceline diz que pode sentir o cheiro de suas entranhas e que elas cheiram a cor vermelha e manda jake abrir a boca   Jake começa a gritar e marceline diz legal jake continua gritando e a cena volta para Finn.
+Finn descobre uma entrada bloqueada com uma luz vermelha brilhando por trás dele. Ele chuta a parede de areia e desmorona , descobrindo que as pessoas da caverna não são realmente pessoas de areia , mas as pessoas se transformou em areia pela luz vermelha. Ele passa o cadáver com o objetivo de luz e rasteja em um buraco . Voltando para Marceline e Jake, Jake diz:ai meu glob ai meu glob cadê você cara a marcy ta pirando marceline chama jake e jake pergunta o que foi marceline diz que pode sentir o cheiro de suas entranhas e que elas cheiram a cor vermelha e manda jake abrir a boca Jake começa a gritar e marceline diz legal jake continua gritando e a cena volta para Finn.
 
 Finn ainda está engatinhando no buraco. No final do buraco , ele encontra uma criatura tartaruga-como brilhar a luz vermelha em uma jóia. A criatura pergunta se isso é Paris , mas Finn diz que Paris foi morto " por uns 500 anos. " Finn pergunta o que eles estavam fazendo e que a criatura explica que eles planejaram para reanimar o povo de areia para conquistar sua pátria no centro da Terra. Finn então pergunta se ele pode ter o rubi, mas a criatura diz que é uma esmeralda . Insistindo que é um rubi , Finn diz que gostaria de levá-lo. A criatura dá -lo a ele e caminha nas sombras como Finn tenta mover a pedra preciosa e ele acaba soltando um pum e diz:epa.
 
-Jake esta cobrindo  Marceline até o pescoço com areia e jake diz:pronto terminei ta curtida né? e Marceline diz que ela não pode controlar-se muito mais tempo, se desculpando como ela ri maldosamente . Jake rapidamente tenta pensar em um plano , mas está com muita fome para fazê-lo. Ele, então, percebe que ele poderia cozinhar Marceline com lava(na cidade de areia tinha lava)e comer Marceline antes que ela come ele. Depois circundante Marceline com lava , Jake vê Finn chegando com a gema . Jake diz que não é um rubi e que é uma esmeralda , mas Finn nega. Jake diz a Finn que ele pode ser um pouco daltônico ea jóia é mostrado para ser realmente uma esmeralda . Finn , de repente percebe que Marceline havia desaparecido , fazendo Jake pânico e tentativa de executar com Finn, mas Marceline é sobrecarga pronto para atacar. De repente, um gigante rajadas verme através do teto e princesa Bubblegum chega , controlando o verme dentro de sua boca através de tubos ligados à sua cabeça. Jake tenta avisa que Marceline ficou raivosa , mas Marceline agarra PB e a morde chupando seu sangue. Marceline retorna ao normal e, graças PB , dizendo que deve segurá-la mais até chegar em casa. Finn PB pergunta se está tudo bem , que , em seguida, pede a colher da Prosperidade eles encontraram antes. Colocá-lo no nariz , ela volta ao normal . O worm então pula para cima, como a cidade está cheia de lava, eo episódio termina
+Jake esta cobrindo Marceline até o pescoço com areia e jake diz:pronto terminei ta curtida né? e Marceline diz que ela não pode controlar-se muito mais tempo, se desculpando como ela ri maldosamente . Jake rapidamente tenta pensar em um plano , mas está com muita fome para fazê-lo. Ele, então, percebe que ele poderia cozinhar Marceline com lava(na cidade de areia tinha lava)e comer Marceline antes que ela come ele. Depois circundante Marceline com lava , Jake vê Finn chegando com a gema . Jake diz que não é um rubi e que é uma esmeralda , mas Finn nega. Jake diz a Finn que ele pode ser um pouco daltônico ea jóia é mostrado para ser realmente uma esmeralda . Finn , de repente percebe que Marceline havia desaparecido , fazendo Jake pânico e tentativa de executar com Finn, mas Marceline é sobrecarga pronto para atacar. De repente, um gigante rajadas verme através do teto e princesa Bubblegum chega , controlando o verme dentro de sua boca através de tubos ligados à sua cabeça. Jake tenta avisa que Marceline ficou raivosa , mas Marceline agarra PB e a morde chupando seu sangue. Marceline retorna ao normal e, graças PB , dizendo que deve segurá-la mais até chegar em casa. Finn PB pergunta se está tudo bem , que , em seguida, pede a colher da Prosperidade eles encontraram antes. Colocá-lo no nariz , ela volta ao normal . O worm então pula para cima, como a cidade está cheia de lava, eo episódio termina
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Marceline
+
 - Princesa Jujuba
 
+
 ### Secundários
+
 - Tartaruga Mutante
+
 - París
+
 - Homens de Areia
+
+## ​Curiosidades
+- É revelado que Finn é daltônico.
+
+- Marceline chupa o sangue da Princesa Jujuba , que em seguida se regenera com a "colher da prosperidade"
+
+- O Reino Doce pode ser "eterno", já que a Princesa Jujuba diz no final do episodio, que ninguém passaria fome em seu reino eterno.
+
+- Parece que a Princesa Jujuba acredita que a colher da prosperidade a ajudará a alcançar a imortalidade, segundo o que disse no final do episodio.
+
+- Quando Marceline ameaça chupar o sangue de Jake , seus olhos ficam verdes.
+
+- No cartão de título, mostra uma caixa com giz de cera e um deles, o vermelho, foi mordido por Jake e ficou branco.
+
+- É possível ver que Jake é muito esfomeado, já que após ele comer um sanduíche alega estar morrendo de fome.
+
+- É a segunda vez que Marceline chama a Princesa Jujuba de Bonnibel (a primeira foi em " Vem Comigo ")
+
+- Na cidade de areia subterrânea, pode-se ver o emblema da Triforce e o medalhão do espírito (o símbolo do templo de areia) da popular franquia Legend of Zelda .
+
+- É revelado que se Marceline ficar com muita fome e não comer ela vira um monstro vampiro
+
+- Neste episódio parece que mesmo sendo meia-vampira; Marceline ainda sente sede por sangue mesmo comendo a "cor vermelha". E isso também parece afetar seu raciocínio, já que ela pretendia atacar o Jake, beber seu sangue e comer suas entranhas (não se sabe se ela falava sério ou se estava apenas delirando)
+
+## Erro
+- Na dublagem brasileira Marceline diz que suas borrachas são rosas, mas depois ela diz que são vermelhas.
+
+## Censura
+- A parte em que Marceline chupa o sangue da Princesa Jujuba foi cortada.

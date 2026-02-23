@@ -1,0 +1,11 @@
+{
+  "id": "AT_ITEM_oculos_de_nerdicon",
+  "tipo": "objeto",
+  "nome": "Óculos de Nerdicon",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/%C3%93culos_de_Nerdicon",
+  "sections": {
+    "descricao": "# Óculos de Nerdicon",
+    "aparicoes": "### Primeira Aparição"
+  },
+  "source_file": "Oculos_de_Nerdicon.md"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_caverna_subterranea",
+  "tipo": "lugar",
+  "nome": "Caverna Subterrânea",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_caverna_subterranea_descricao",
+      "text": "[Lugar: Caverna Subterrânea]\nDescricao:\n# Caverna Subterrânea\n\nA Caverna Subterrânea foi vista pela primeira vez no episódio \" A Nova Fronteira \", quando o Foguete do Homem Banana explodiu, criando uma entrada para a caverna, que foi o local do Sonho de Morte de Jake .\n\nA caverna subterrânea está localizada sob a borda da Terra da Grama . A entrada da caverna é um grande, profundo buraco formado no quintal do Homem da Banana .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_subterranea",
+        "nome": "Caverna Subterrânea",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_caverna_subterranea_aparencia",
+      "text": "[Lugar: Caverna Subterrânea]\nAparencia:\nA caverna subterrânea é escuro e úmido. A terra na caverna tem uma cor cinzento-roxo.\nEstalagmites formadas facilmente, devido à umidade da caverna. Eles são da mesma cor de cinza, roxo como a terra ao seu redor. Eles variam em tamanho, desde muito pequena a maior do Finn. Característica principal da caverna é o seu lago. O lago é tão profundo e escuro que se assemelha ao espaço sideral. Foguete do homem Banana afundado no lago. No Sonho de Jake, ele se afogou no lago, mas foi Finn que realmente quase se afogou.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_subterranea",
+        "nome": "Caverna Subterrânea",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

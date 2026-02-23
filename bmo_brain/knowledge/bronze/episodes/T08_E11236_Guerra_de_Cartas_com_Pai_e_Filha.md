@@ -1,14 +1,28 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 11236
 nome: "Guerra de Cartas com Pai e Filha"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Guerra_de_Cartas_Com_Pai_e_Filha"
 data_exibicao: "11/07/16"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Guerra_de_Cartas_Com_Pai_e_Filha"
 ---
 
 # Guerra de Cartas com Pai e Filha
 
 **Temporada 8 — Episódio 11236**
+
+## Descrição
+Guerra de Cartas Com Pai e Filha é o décimo primeiro episódio da oitava temporada de Hora de Aventura. É o ducentésimo trigésimo sexto episódio ao todo.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Jake e sua filha Charlie , lutam para restaurar a honra de Jake e ganhar um torneio de Guerra de Cartas em um super segredo do submundo.
@@ -31,8 +45,60 @@ De volta à casa de Charlie, seu ritual se mostra em intervalos de dez anos, com
 De volta ao banheiro da plataforma de petróleo, Jake luta com a tentação de seu eu de vinte anos; ele quer se livrar dessas compulsões violentas e raivosas, mas não consegue se separar de sua identidade mais jovem. Charlie retorna enquanto Jake luta; ela força o subconsciente imaturo de Jake, permitindo que ele siga em frente e cresça. Os dois começam sua batalha com Grand Prix e Moniker, levando os campeões reinantes a sair vitoriosos novamente. Jake os parabeniza, e o episódio termina com ele enterrando seus "vinte anos".
 
 ## Personagens
+
 ### Principais
+
 - Jake
+
 - Charlie
+
 - Grand Prix
+
 - Moniker
+
+
+### Menores
+
+- Todd
+
+- Jennings
+
+- Benton
+
+- Mike R.
+
+- Luke
+
+- Captain Majesty
+
+- Mr. Outrageous
+
+- Mr. International
+
+- Reggie
+
+- Pete the Punk
+
+- Jamaica
+
+- Princesa Tartatura
+
+- BMO
+
+- Caracol
+
+## Curiosidades
+- Esse é o episódio em que Charlie , pela primeira vez, tem um diálogo.
+
+- É revelado que Charlie vive em uma das grandes pirâmides do Egito. A pirâmide é mostrada ainda em condições relativamente boas, sugerindo que o Cairo pode não ter sido alvejado durante a Grande Guerra dos Cogumelos ; ou que esta pirâmide não foi localizada perto de quaisquer alvos estratégicos.
+
+- É também revelado que Charlie herdou a habilidade da mãe de atravessar objetos, bem como a habilidade de seu pai de mudar o tamanho e a forma do seu corpo, porém; ao contrário de Jake , ela apenas pode expandir as moléculas do seu corpo.
+
+- Charlie absorve a sabedoria de sua versão de 90 anos.
+
+## Conexões de Episódios
+- As pessoas que Jake introduziu para Charlie são as mesmas que estavam nos contatos de Jake no seu celular antigo como foi visto em " Minhas Duas Pessoas Prediletas ."
+
+- É a 3ª vez que Guerra de Cartas é visto na série. A 2ª vez que Guerra de Cartas aparece na série, tirando o episódio original . Na anterior, foi em " Acorda " com Prismo e Coruja Cósmica tendo uma batalha.
+
+- A 2ª vez que Guerra de Cartas aparece na série, tirando o episódio original . Na anterior, foi em " Acorda " com Prismo e Coruja Cósmica tendo uma batalha.

@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 36140
 nome: "Trem Masmorra"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Trem_Masmorra"
 data_exibicao: "17/03/2014"
 diretor: "Nath Cash (Supervisão) Nick Jennings (Arte)"
 roteiro: "Pendleton Ward Kent Osborne Jack Pandarvis Thomas Herpich Steve Wolfhard Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Trem_Masmorra"
 ---
 
 # Trem Masmorra
 
 **Temporada 5 — Episódio 36140**
+
+## Descrição
+" O Trem Masmorra " é o 36º episódio da 5ª temporada de Hora de Aventura . É o centésimo quadragésimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Kent Osborne Jack Pandarvis Thomas Herpich Steve Wolfhard Adam Muto
 
 ## Sinopse
 Finn e Jake descobrem um trem onde cada vagão é uma masmorra com um novo inimigo para Finn lutar. Jake rapidamente se entedia e quer sair, mas Finn está tendo seu melhor dia e não quer sair... nunca!
@@ -27,11 +50,53 @@ Chegando no vagão das formigas de cristal novamente, Jake diz Finn que "este lu
 Ele volta para o vagão para encontrar Finn com uma varinha de aranha, um Flamberge laranja , um casaco grande de chamas e uma máscara de ferro. Chocado que ele se tornou um dos "chefes de vagão", Jake decide forçá-lo para fora do trem. Finn usa sua Varinha Aranha para derrotar Jake e rouba sua mochila. Ao olhar para dentro, ele encontra o cristal do futuro e usa para ver o futuro. Desta vez, no entanto, mostra um velho Jake lealmente seguinte Finn ao redor, mesmo depois de todos esses anos. Finn decidi acertar as coisas e retorna ao Jake. Jake pede desculpas e diz que ele vai ficar no trem com ele, mas Finn pede desculpas assim, dizendo que "está tudo acabado agora". Jake acredita que eles vão embora do trem, mas Finn diz que ele vai voltar em cerca de uma semana ou duas. Jake fica preocupado que Finn ainda está obcecado com o trem, mas Finn tranquiliza-lhe que ele aprendeu a lição e mostra o cristal do futuro, que agora mostra os dois na Casa na Árvore , lavando pratos juntos e o episódio termina com Jake dissendo: "É disso que eu estou falando..."
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
 
+
 ### Secundários
+
 - Formigas Cristal
+
 - Gorilas de Cabelo
+
 - Caracol
+
+
+### Mencionados
+
+- Princesa de Fogo
+
+- Filhotes de Jake e Lady
+
+- Irmão do Flambo
+
+- Flambo
+
+## Curiosidades
+- É revelado que Flambo tem um irmão.
+
+- Se pode ver que no trem tem o símbolo do infinito ("∞"), em referencia que não tem fim, pois todos os vagões estão conectados em círculos.
+
+- Este é o episódio com mais armas na série.
+
+- Alguns monstros mostrados, parecem ser da Dimensão Cristal .
+
+- Finn ainda está deprimido por causa do seu fim de relacionamento com a Princesa de Fogo .
+
+- Finn usa uma espécie de coroa parecida com a que ele usou em " O Rei Silencioso ".
+
+- No cartão de título, a Terra aparece com um grande pedaço faltando, decorrente da Guerra dos Cogumelos.
+
+- É o quarto episódio a ter o nome de Masmorra (os outros foram Masmorra , Masmorra do Papai e Masmorra do Mistério ).
+
+- Todos os vagôes do trem parecem ser um tipo de ''jogo'' onde várias pessoas estâo jogando, e se equipando ao mesmo tempo; e são essas pessoas que parecem ser os ''chefoes'' que Finn e Jake estão lutando.
+
+## Erros
+- Quando Jake sobe em cima do trem em quando os Macacos Peludos atacam Finn, ale pisa na porta que estava aberta, ou seja, pisou no nada.
+
+- Quando Finn espanca um grande tipo de criatura a sua manopla dourada desaparece em um segundo.

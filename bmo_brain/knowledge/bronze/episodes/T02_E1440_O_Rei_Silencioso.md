@@ -1,16 +1,53 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 1440
 nome: "O Rei Silencioso"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Rei_Silencioso"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Mark Banker Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-040"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Rei_Silencioso"
 ---
 
 # O Rei Silencioso
 
 **Temporada 2 — Episódio 1440**
+
+## Descrição
+" O Rei Silencioso " é o 14º episódio da 2ª temporada de Hora de Aventura . É o quadragésimo (40º) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Mark Banker
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Jesse Moynihan
+
+- Cole Sanchez
 
 ## Sinopse
 Finn vira o Rei dos Goblins após destronar o tirano Xergiok . Mas ele descobre que a vida de rei não é fácil.
@@ -25,16 +62,53 @@ Na manhã seguinte, Finn descobre que a maior parte das regras que Gummy leu o p
 Depois de sua vitória, Finn e Jake são levados de volta para o palácio pelos guerreiros goblins, onde eles acham que Sussurro disfarçado de Finn é exatamente o tipo de rei que os goblins precisa: um rei que precisa e permite que outros façam tudo por ele. Finn e Jake decidem deixar o Reino Goblin ainda disfarçados. Quando eles saem, Finn pergunta ao Jake porque suas entranhas cheiro de baunilha. Jake responde que um mago o enfeitiçou e Finn termina dizendo: "maneiro".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Xergiok
+
 - Gummy
+
 - Sussurro
 
+
 ### Secundários
+
 - Goblins
+
 - Oreclops
+
 - Dragões
+
 - Animais
+
 - Caracol
+
+## Curiosidades
+- O número "041010" aparece neste episódio, sobre a placa de um carro capotado que aparece rapidamente durante a cena do tumulto dos goblins.
+
+- Na última cena com a multidão goblin, um goblin com um Phil Face aparece no lado direito da tela.
+
+- No banheiro do castelo goblin, há um compartimento com uma escada está cheia de papel higiênico.
+
+- Um dos dentes de Xergiok é um cristal.
+
+- É revelado que um Mago enfeitiçou Jake e agora as tripas dele tem cheiro de baunilha.
+
+## Músicas
+- Só Quero Ajudar Vocês
+
+## Erros
+- Após Finn diz que ele vai se tornar o Rei dos Globins, Jake mexe a boca mas não fala nada (nem na versão original em Inglês).
+
+- Existem alguns erros que acontecem durante a cena em que Finn salta para a boca de Jake: Três quadros separados mostram o chapéu de Finn como a mesma cor do céu atrás dele. Um quadro tem boca de Finn acima de seus olhos. Um quadro tem o chapéu do Finn da mesma cor que o pelo de Jake.
+
+- Três quadros separados mostram o chapéu de Finn como a mesma cor do céu atrás dele.
+
+- Um quadro tem boca de Finn acima de seus olhos.
+
+- Um quadro tem o chapéu do Finn da mesma cor que o pelo de Jake.

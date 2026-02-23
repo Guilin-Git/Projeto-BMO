@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_monte_cragdor",
+  "tipo": "lugar",
+  "nome": "Monte Cragdor",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_monte_cragdor_descricao",
+      "text": "[Lugar: Monte Cragdor]\nDescricao:\n# Monte Cragdor\n\nMonte Cragdor é a localização do Enquirídio e é a residência de uma variedade de criaturas. O episódio \" O Enquirídio \" ocorreu nesse local, em que Finn e Jake tiveram que recuperar o Enquirídio. A montanha inteira e é em torno de uma floresta fechada, e a entrada é guardada pelo Chaveiro , o primeiro julgamento. Não se sabe se há outros habitantes além dos que apareceram no episódio, mas é provável, já que Finn e Jake usaram o \"dinheiro grande\" do Ogro para deslizar sobre a maioria dos obstáculos.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_monte_cragdor",
+        "nome": "Monte Cragdor",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

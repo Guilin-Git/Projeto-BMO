@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_espada_gigante_suprema_movida_a_laser",
+  "tipo": "objeto",
+  "nome": "Espada Gigante Suprema Movida a Laser",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_espada_gigante_suprema_movida_a_laser_descricao",
+      "text": "[Objeto: Espada Gigante Suprema Movida a Laser]\nDescricao:\n# Espada Gigante Suprema Movida a Laser",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_gigante_suprema_movida_a_laser",
+        "nome": "Espada Gigante Suprema Movida a Laser",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_gigante_suprema_movida_a_laser_aparicoes",
+      "text": "[Objeto: Espada Gigante Suprema Movida a Laser]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_gigante_suprema_movida_a_laser",
+        "nome": "Espada Gigante Suprema Movida a Laser",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

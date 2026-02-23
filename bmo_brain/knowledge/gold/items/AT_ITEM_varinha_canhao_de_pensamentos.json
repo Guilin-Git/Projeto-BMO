@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_varinha_canhao_de_pensamentos",
+  "tipo": "objeto",
+  "nome": "Varinha Canhão de Pensamentos",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_varinha_canhao_de_pensamentos_descricao",
+      "text": "[Objeto: Varinha Canhão de Pensamentos]\nDescricao:\n# Varinha Canhão de Pensamentos\n\nA Varinha Canhão de Pensamentos foi uma antiga arma usada por Finn e Jake , logo após foi encontrada por Cuber .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_varinha_canhao_de_pensamentos",
+        "nome": "Varinha Canhão de Pensamentos",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_varinha_canhao_de_pensamentos_aparicoes",
+      "text": "[Objeto: Varinha Canhão de Pensamentos]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_varinha_canhao_de_pensamentos",
+        "nome": "Varinha Canhão de Pensamentos",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_varinha_canhao_de_pensamentos_aparencia",
+      "text": "[Objeto: Varinha Canhão de Pensamentos]\nAparencia:\nSe resume em um pedaço de madeira com um galho em sua parte inferior e uma estrela ( semelhante á de árvores natalinas ) na parte superior.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_varinha_canhao_de_pensamentos",
+        "nome": "Varinha Canhão de Pensamentos",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_varinha_canhao_de_pensamentos_habilidades",
+      "text": "[Objeto: Varinha Canhão de Pensamentos]\nHabilidades:\nPossui a habilidade de trazer a realidade coisas que o utilizador pensar, mas só se ele não se distrair.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_varinha_canhao_de_pensamentos",
+        "nome": "Varinha Canhão de Pensamentos",
+        "secao": "habilidades"
+      }
+    }
+  ]
+}

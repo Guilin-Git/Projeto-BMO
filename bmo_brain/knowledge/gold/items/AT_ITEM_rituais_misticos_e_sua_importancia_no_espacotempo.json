@@ -1,0 +1,18 @@
+{
+  "id": "AT_ITEM_rituais_misticos_e_sua_importancia_no_espacotempo",
+  "tipo": "objeto",
+  "nome": "Rituais Místicos e sua Importância no Espaço-Tempo",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_rituais_misticos_e_sua_importancia_no_espacotempo_descricao",
+      "text": "[Objeto: Rituais Místicos e sua Importância no Espaço-Tempo]\nDescricao:\n# Rituais Místicos e sua Importância no Espaço-Tempo\n\nRituais Místicos e sua Importância no Espaço-Tempo é um livro escrito por Simon Petrikov e Betty Grof . O livro contém diversos rituais e feitiços mágicos, que ajudaram Simon a criar um portal do tempo para 1000 anos no passado para resgatar Betty.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_rituais_misticos_e_sua_importancia_no_espacotempo",
+        "nome": "Rituais Místicos e sua Importância no Espaço-Tempo",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

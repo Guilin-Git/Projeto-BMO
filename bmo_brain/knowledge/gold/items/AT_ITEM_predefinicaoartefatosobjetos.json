@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_predefinicaoartefatosobjetos",
+  "tipo": "objeto",
+  "nome": "Predefinição:Artefatos/Objetos",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_predefinicaoartefatosobjetos_descricao",
+      "text": "[Objeto: Predefinição:Artefatos/Objetos]\nDescricao:\n# Predefinição:Artefatos/Objetos\n\n== Uso & pré-visualização\nDigite o seguinte:\n\nClique aqui para atualizar a pré-visualização acima",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_predefinicaoartefatosobjetos",
+        "nome": "Predefinição:Artefatos/Objetos",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_predefinicaoartefatosobjetos_informacoes",
+      "text": "[Objeto: Predefinição:Artefatos/Objetos]\nInformacoes:\n### Sobre This is a test\n\n### Tipo\n\n### Criador\n\n### Dono",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_predefinicaoartefatosobjetos",
+        "nome": "Predefinição:Artefatos/Objetos",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_predefinicaoartefatosobjetos_aparicoes",
+      "text": "[Objeto: Predefinição:Artefatos/Objetos]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_predefinicaoartefatosobjetos",
+        "nome": "Predefinição:Artefatos/Objetos",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_guillermo",
+  "tipo": "objeto",
+  "nome": "Guillermo",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_guillermo_descricao",
+      "text": "[Objeto: Guillermo]\nDescricao:\n# Guillermo\n\nGuillermo foi a criação de Blargata para se passar por seu marido e governar o Reino Geleca , visto em \" Jogos de Amor \". Ele não tem personalidade e nunca falou, porque ele não é uma pessoa geleca real, mesmo assim ele é chamado de mau pela Princesa Geleca .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_guillermo",
+        "nome": "Guillermo",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_guillermo_aparicoes",
+      "text": "[Objeto: Guillermo]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_guillermo",
+        "nome": "Guillermo",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_guillermo_aparencia",
+      "text": "[Objeto: Guillermo]\nAparencia:\nGuillermo é uma gelatina com um bigode longo, chapéu de pena e olhos de azeitona.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_guillermo",
+        "nome": "Guillermo",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

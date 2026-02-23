@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 6231
 nome: "Canelita"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Canelita"
 data_exibicao: "05/09/2016"
 diretor: "Elizabeth Ito"
 roteiro: "Somvilay Xayaphone"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Canelita"
 ---
 
 # Canelita
 
 **Temporada 8 — Episódio 6231**
+
+## Descrição
+" Canelita " é o sexto episódio da oitava temporada de Hora de Aventura. É o duzentos e trinta e um episódio ao todo.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Princesa Jujuba cria uma nova pessoa doce a partir de partes sobressalentes de Canelinha .
@@ -39,9 +63,39 @@ Na busca pelo Rei Flamejante, Bun Bun interrompe para mostrar a Cinnamon Bun seu
 No Reino do Fogo, a Princesa de Fogo é um estilo livre e Cinnamon Bun se junta a eles, dizendo a eles que Bun Bun o ensinou "como se divertir novamente". Ele também diz a eles que o Rei Flamejante está solto através de suas letras. Finn e Flame Princess ficam chocados, mas Cinnamon Bun explica que o Flame King agora não é uma ameaça. Finn se pergunta se eles deveriam deixá-lo ficar livre, mas a Princesa de Fogo observa como os animais sempre trouxeram à tona o lado gentil do Rei de Fogo, e talvez deixar ficar com os esquilos faça isso novamente. Flame Princess considera isso como uma alternativa melhor para sua prisão. O episódio termina com Cinnamon Bun lendo uma carta que Bun Bun lhe enviou (consistindo em uma gota de lama em um papel), compartilhando
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Princesa de Fogo
+
 - Canelinha
+
 - Canelita (personagem)
+
 - Rei do Fogo
+
+
+### Menores
+
+- Princesa Jujuba
+
+- Princesa Cachorro Quente (citada)
+
+- Rei Gelado (citado)
+
+- Shelby (citado)
+
+- Caracol
+
+## Curiosidades
+- Finn volta à falar com a Princesa de Fogo neste episódio. Ele não tinha falado com ela desde " O Trono Vermelho " (aproximadamente 2 anos).
+
+- Rei do Fogo escapou de sua prisão.
+
+- Não se sabe o que aconteceu com Don John ; se ele ainda está preso ou em uma sala diferente.
+
+- Um flashback do episódio " O Enquirídio! " é mostrado. No entanto, a cor dos olhos do Canelinha são de sua cor atual, preto; e não verde.
+
+- Princesa de Fogo percebe que Finn cresceu bastante.

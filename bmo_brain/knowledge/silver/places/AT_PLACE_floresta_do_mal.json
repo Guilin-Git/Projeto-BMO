@@ -1,0 +1,13 @@
+{
+  "id": "AT_PLACE_floresta_do_mal",
+  "tipo": "lugar",
+  "nome": "Floresta do Mal",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Floresta_do_Mal",
+  "sections": {
+    "descricao": "# Floresta do Mal\n\nA Floresta do Mal é uma das localizações da Terra de Terra de Ooo . A floresta foi vista e mencionada pela primeira vez no episódio \" Dona Tromba \". É o lar de uma variedade de criaturas (a maioria do mal) e diversos mistérios.",
+    "aparencia": "Sendo fiel ao seu nome, a Floresta do Mal tem pouca iluminação, tornando-a bastante sombria. É totalmente coberta por árvores tortuosas, a maioria com expressões assustadoras, dando a impressão que estão vivas.",
+    "habitantes": "- Parede de Pele\n\n- Placas Zumbis\n\n- Borboletas Esqueleto\n\n- Besta Cerebral\n\n- Guardião de Cristal",
+    "curiosidades": "- A Maçã da Gema Cristal (ou Maça de Cristal ) se encontra nas profundezas da floresta.\n\n- Não se sabe ao certo se existem outros objetos de valor dentro da floresta.\n\n- É visto que tem variedade infinita de vilões"
+  },
+  "source_file": "Floresta_do_Mal.md"
+}

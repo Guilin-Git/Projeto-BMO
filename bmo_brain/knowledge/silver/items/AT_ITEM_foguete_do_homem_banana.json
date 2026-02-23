@@ -1,0 +1,11 @@
+{
+  "id": "AT_ITEM_foguete_do_homem_banana",
+  "tipo": "objeto",
+  "nome": "Foguete do Homem Banana",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Foguete_do_Homem_Banana",
+  "sections": {
+    "descricao": "# Foguete do Homem Banana",
+    "aparicoes": "### Primeira Aparição\n\n### Última Aparição"
+  },
+  "source_file": "Foguete_do_Homem_Banana.md"
+}

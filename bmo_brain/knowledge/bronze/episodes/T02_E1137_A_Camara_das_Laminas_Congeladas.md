@@ -1,17 +1,58 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 1137
 nome: "A Câmara das Lâminas Congeladas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/A_C%C3%A2mara_das_L%C3%A2minas_Congeladas"
 data_exibicao: "27/11/11"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-037"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/A_C%C3%A2mara_das_L%C3%A2minas_Congeladas"
 ---
 
 # A Câmara das Lâminas Congeladas
 
 **Temporada 2 — Episódio 1137**
+
+## Descrição
+" A Câmara das Lâminas Congeladas " é o 11º episódio da 2ª temporada de Hora de Aventura . É o 37º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Adam Muto
+
+- Rebecca Sugar
 
 ## Sinopse
 O Rei Gelado leva Gunter ao hospital. Enquanto isso, Finn e Jake vão a casa do Rei Gelado espiona-lo e encontram uma sala secreta onde o Rei Gelado guarda os seus artefatos ninjas.
@@ -28,15 +69,56 @@ De volta ao Hospital, Rei Gelado e Gunter estão à espera de um médico. Ele su
 Na caverna do Rei Gelado, Finn e Jake estão tendo um duelo ninja, convocando diferentes armas de gelo. Finn e Jake destroem ainda mais o covil de Rei Gelado com suas técnicas ninja. Enquanto Finn e Jake estão lutando, Jake faz clones de si mesmo, seguindo Finn dizendo que é demais. Então Jake atira uma flecha de gelo no Finn, mas Finn pega e quebra-lo, fazendo com que Jake a olhar com admiração. No entanto, eles são rapidamente interrompido pelo Rei Gelado quando volta para a casa falando com alguém. Finn e Jake salta com ele para pegá-lo com a princesa, mas se surpreendem ao encontrá-lo sem uma princesa. Rei Gelado diz a Finn e Jake que Gunter foi estava realmente grávida e ele estava falando com o ovo, uma vez que é um tal "gracinha". Mas Rei Gelado percebe a destruição de sua casa e fica furioso com Finn e Jake. Ele os chama de idiotas e Finn quer fazer a coisa certa. Rei Gelado diz a Finn levar sua mala para a jaula. Enquanto Finn está fazendo isso, ele ouve um barulho e o Rei diz-lhes para colocá-lo para baixo. Finn abre o zíper do saco de revela que o rei havia seqüestrado a Doutora Princesa. Rei Gelado explica que o ovo de Gunter foi a distração perfeita para raptar a princesa, mas Dr. Princesa diz que não é relamente uma princesa, é apenas seu sobrenome. Finn, Jake e o Rei então entram em combate ninja, com o Rei Gelado produzindo um sansetsukon e Finn e Jake produzindo uma shuriken e nunchaku, respectivamente. No meio da luta, Dr. Princesa pergunta ao Gunter como está o ovo, e ele começa a eclodir. Quando o ovo, um gato rosa com um coração na testa sai. O Rei Gelado se distrai com ele, e depois é atacado por Finn e Jake ao mesmo tempo para terminar o episódio.
 
 ## Personagens
+
 ### Principais
+
 - Rei Gelado
+
 - Gunter
+
 - Finn
+
 - Jake
+
 - Doutora Princesa
 
+
 ### Secundários
+
 - Flambo
+
 - Pessoas Rocha
+
 - Gatinho
+
 - O Caracol
+
+## Caracol
+No topo da montanha, quando Finn colocava o suéter, do lado de uma uma pequena estalagmite de gelo.
+
+## Curiosidades
+- Os "clones de gelo" de Jake eram de cor mais clara, e nenhum deles tinha a faixa preta que Jake estava usando.
+
+- Doutora Princesa chama os pinguins de "povo de smoking".
+
+- Quando Jake diz "Gunter é Fêmea?" Rei Gelado imediatamente nega, mas depois olha entre as pernas de Gunter para determinar o sexo, mas não foi determinado.
+
+- Na área de trabalho do computador holográfico do Rei Gelado das oito pastas mostradas: Segredos, Roms, Misc, Desenhos, pasta sem título, princesas, músculos e coisas do Gunter.
+
+- Um dos cartazes ninja do Rei Gelado é intitulado "Pontos de Pressão Mortais" e mostra um diagrama rotulado de anatomia de um pinguim.
+
+- Quando Jake chuta as kunais ele chama o golpe de "chute sincero".
+
+- Esse episódio é muito parecido com o Piloto , tal como a camiseta de Finn e os sapatos de Jake.
+
+- É revelado que Rei Gelado tem uma sala secreta cheia de coisas de Ninja.
+
+- O cartão de título aparece no final do episódio.
+
+- Quando o Gatinho nasce o Rei Gelado diz " Gunter, por quê não me contou? ", isso é porque na cena original o Gatinho seria um híbrido Rei Gelado e Pinguim, mas eles esqueceram de mudar as frases.
+
+## Erros
+- Nesse episódio Finn e Jake usam poderes de Gelo sem utilizar objetos ou artefatos para realiza-los, porém, nos episódios seguintes eles não possuem mais esses poderes.
+
+## Referencias Culturais
+- Os movimentos que Finn e Jake fazem para para usarem ataques ninjas fazem uma referência aos movimentos que os ninjas usam para fazer os jutsus no anime Naruto.

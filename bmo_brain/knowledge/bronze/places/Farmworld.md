@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Farmworld"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Farmworld"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Farmworld"
 ---
+
+> Farmworld é um lugar de Hora de Aventura.
 
 # Farmworld
 

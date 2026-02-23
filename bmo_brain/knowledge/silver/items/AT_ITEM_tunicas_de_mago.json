@@ -1,0 +1,13 @@
+{
+  "id": "AT_ITEM_tunicas_de_mago",
+  "tipo": "objeto",
+  "nome": "Túnicas de Mago",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/T%C3%BAnicas_de_Mago",
+  "sections": {
+    "descricao": "# Túnicas de Mago\n\nA túnica de mago é uma túnica específica dada á alunos do Bufo .",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "A túnica de mago é roxa ou marrom na cor, e tem um grande capuz. Estrelas amarelas aparecem automaticamente sobre ela quando o usuário realiza uma prova dada a eles por Bufo. A quantidade de estrelas em uma túnica é indicativo de um conjunto de habilidades mágicas do usuário. Um Mago Supremo, o mais alto nível de mago, recebe uma estrela grande no peito que substitui todas as estrelas ganhas anteriormente. Qualquer nível abaixo desse tem pequenas estrelas que eventualmente cobrem a totalidade da túnica.\n\nA túnica de Bufo é da cor roxa, e tem uma estrela grande sobre ela, indicando que ele é um Mago Supremo.",
+    "funcoes": "Em \" Bruxo \", uma estrela é adicionada à túnica para cada tarefa que Finn e Jake realizam, e para cada estrela conquistada, eles podem executar uma nova magia. Quando uma tarefa é realizada corretamente, um pequeno feixe, brilhante dourado de luz brilha no local onde uma estrela logo aparece. Foi confirmado que a magia é armazenada no manto, uma vez que Finn e vestes de Jake foram destruídos no final do episódio, e eles não usaram magia desde então.\n\nOs poderes mágicos conhecidos usados ​​por Finn e Jake todo episódio \"Bruxo\" incluem: Olhos do dragão, Garra de Tigre, Mão Laminar, Pés Flamejantes, Asas Bonitas, a capacidade de criar instantaneamente o cabelo facial, Poeiromancia (o domínio sobre todas as partículas de poeira e a capacidade de ler suas emoções), Sombromancia (capacidade de controlar as sombras), a capacidade de disparar fogos de artifício de seu dedo, a capacidade de disparar uma \"fonte ilimitada\" de maionese de seu dedo, e a capacidade de lançar feitiços de dormir."
+  },
+  "source_file": "Tunicas_de_Mago.md"
+}

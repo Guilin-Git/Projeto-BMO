@@ -1,0 +1,15 @@
+{
+  "id": "AT_PLACE_senhorita_ilha",
+  "tipo": "lugar",
+  "nome": "Senhorita Ilha",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Senhorita_Ilha",
+  "sections": {
+    "descricao": "# Senhorita Ilha",
+    "informacoes": "### Nome\n\n### Sexo\n\n### Espécie\n\n### Parentes",
+    "detalhes": "### Primeira Aparição",
+    "aparencia": "Senhorita Ilha é uma ilha grande coberta de areia, usa sobre seu corpo um biquíni de árvores com pequenas árvores espalhadas em seu corpo, seus pés são subaquáticos e seu cabelo são algas.",
+    "curiosidades": "- A Senhorita Ilha é a primeira que não acha o Rei Gelado louco, e chega a ter uma relação muito amigável com ele e até diz que ele é maduro emocionalmente.\n\n- Ela sabe falar espanhol, mas no Brasil ela não falou em espanhol."
+  },
+  "source_file": "Senhorita_Ilha.md",
+  "primeira_aparicao": ", Acabou a Festa, Isla de Señorita, "
+}

@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Vila Espeto"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Vila_Espeto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Vila_Espeto"
 ---
+
+> Vila Espeto é um lugar de Hora de Aventura.
 
 # Vila Espeto
 

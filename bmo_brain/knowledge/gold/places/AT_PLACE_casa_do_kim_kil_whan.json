@@ -1,0 +1,38 @@
+{
+  "id": "AT_PLACE_casa_do_kim_kil_whan",
+  "tipo": "lugar",
+  "nome": "Casa do Kim Kil Whan",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_casa_do_kim_kil_whan_descricao",
+      "text": "[Lugar: Casa do Kim Kil Whan]\nDescricao:\n# Casa do Kim Kil Whan\n\nA Casa de Kim Kil Whan é uma casa no meio de uma floresta que era desconhecida por Finn e Jake , é onde vive Kim Kil Whan , sua esposa e aparentemente sua filha.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_do_kim_kil_whan",
+        "nome": "Casa do Kim Kil Whan",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_casa_do_kim_kil_whan_aparencia",
+      "text": "[Lugar: Casa do Kim Kil Whan]\nAparencia:\nA casa é de 3 andares de forma paralelepípedo, similar ao um prédio. Possui as iniciais K.K.W (Kim Kil Whan) na caixa de correio e no topo da casa.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_do_kim_kil_whan",
+        "nome": "Casa do Kim Kil Whan",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_casa_do_kim_kil_whan_habitantes",
+      "text": "[Lugar: Casa do Kim Kil Whan]\nHabitantes:\n- Kim Kil Whan\n\n- Pat\n\n- Bronwyn",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_do_kim_kil_whan",
+        "nome": "Casa do Kim Kil Whan",
+        "secao": "habitantes"
+      }
+    }
+  ]
+}

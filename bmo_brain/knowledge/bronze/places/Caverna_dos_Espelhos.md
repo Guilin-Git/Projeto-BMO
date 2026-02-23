@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Caverna dos Espelhos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_dos_Espelhos"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_dos_Espelhos"
 ---
+
+> Caverna dos Espelhos é um lugar de Hora de Aventura.
 
 # Caverna dos Espelhos
 

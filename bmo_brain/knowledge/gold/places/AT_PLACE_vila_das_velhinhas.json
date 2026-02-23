@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_vila_das_velhinhas",
+  "tipo": "lugar",
+  "nome": "Vila das Velhinhas",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_vila_das_velhinhas_descricao",
+      "text": "[Lugar: Vila das Velhinhas]\nDescricao:\n# Vila das Velhinhas\n\nA Vila das Velhinhas é um um lugar que a turma de Abracadaniel passa em \" Obrigado Pelas Maçãs, Giuseppe \", é uma vila com casas muito parecidas.É um lugar habitado somente por velhinhas.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vila_das_velhinhas",
+        "nome": "Vila das Velhinhas",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_vila_das_velhinhas_curiosidades",
+      "text": "[Lugar: Vila das Velhinhas]\nCuriosidades:\n- As casas são igualmente parecidas.\n\n- Duas velinhas que apareceram em '' O Enquirídio (Episódio) aparecem ao fundo da foto nessa vila.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vila_das_velhinhas",
+        "nome": "Vila das Velhinhas",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

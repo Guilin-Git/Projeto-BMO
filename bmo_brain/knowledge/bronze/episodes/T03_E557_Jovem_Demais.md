@@ -1,24 +1,143 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 557
 nome: "Jovem Demais"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Jovem_Demais"
 data_exibicao: "08/08/2011 (EUA)"
 diretor: "Larry Leichliter"
 roteiro: "Marry Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-059"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Jovem_Demais"
 ---
 
 # Jovem Demais
 
 **Temporada 3 — Episódio 557**
 
+## Descrição
+" Jovem Demais " é o 5º episódio da 3ª temporada de Hora de Aventura . É o quinquagésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Marry Banker
+
+- Patrick McHale
+
+- Kent Osborne
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Tom Herpich
+
+- Jesse Moynihan
+
 ## Sinopse
 O Conde de Limãograb assume o Reino Doce devido à regressão de idade da Princesa Jujuba , forçando a ela e Finn tentarem livrar-se dele, mesmo que isso signifique uma decisão de alternação de vida.
 
+## História
+No início do episódio, Finn está no Reino Doce em um "encontro" com a Princesa Jujuba (que está com 13 anos de idade). Finn liga para Jake , que está na Casa na Árvore jogando um jogo no BMO . Jake dá a Finn alguns conselhos e, em seguida, concentra-se para continuar o seu videogame. Princesa Jujuba pede Finn para testar um soro desodorante que faz com que o suor do usuário vire agentes de limpeza. No entanto, ele acaba sendo insuportavelmente quente.
+
+Depois, Manfreid , a Pinhata Falante anuncia a chegada do Conde de Limãograb , que chega em seu Camelo Limãograb . Ele acredita que o Reino Doce está em "condição inaceitável", e afirma que ele vai assumir o controle do Reino Doce. Apesar de protestos de Finn, Limãograb, aparentemente, tem esse direito. Sendo a criação de Princesa Jujuba a partir de uma experiência fracassada, ele assume o direito como o próximo herdeiro do reino, tendo sido criado com o único propósito de cumprir deveres reais, se a Princesa Jujuba tornar-se incapaz de fazê-lo.
+
+Limãograb é tenso, rígido, com excesso de zelo, e fiel ao seu nome e forma, indivíduo azedo, ele sentencia membros do pessoal castelo para o calabouço com pouca ou nenhuma provocação. Finn e a Princesa Jujuba percebem que para Limãograb sair, ele precisa ter essa vontade já que ele é o governante legitimo. Então, eles vão tentar uma série de brincadeiras para fazer Limãograb sair por contra própria.
+
+A primeira envolve fazer uma máquina complexa que mostra uma mensagem insultante para o Conde de Limãograb ler ao acordar de seu cochilo, a mensagem é: "Você fede a bumbum de cachorro.". O Conde de Limãograb exagera a esta brincadeira imensamente, reunindo todo o pessoal do castelo e gritando com eles para revelar o culpado da "coisa" (a brincadeira). Quando Mordomo Menta informa que a "coisa" era apenas uma brincadeira para risos, Conde de Limãograb tenta rir, mas não consegue e manda Mordomo Menta para o calabouço por 12 anos, e todos os outros durante 7 anos sem julgamentos.
+
+Depois de ver que a primeira brincadeira não funcionou, a Princesa Jujuba fica desanimada, mas Finn tranquiliza-a de que eles só precisam inventar uma nova brincadeira. Eles se disfarçam de fantasmas, e param Conde de Limãograb em um corredor, com um soco no estômago, e derrubam-o ao chão. Mesmo chorando, Conde de Limãograb ri e promete não deixar o Reino Doce.
+
+Com Conde de Limãograb não mostrando qualquer sinal de querer sair, eles correm de um dos telhados do castelo onde Finn inventa outra brincadeira: gotejamento do soro picante de mais cedo em sua refeição e em qualquer coisa que ele tenta comer. A princesa aceita a ideia, não sem flertar com ele por suspirar e relaxar em seu corpo, o que faz corar e suspirar também. O Conde de Limãograb tirou o Mordomo Menta da masmorra mais cedo por causa de sua falta de conhecimento de onde a comida vem. Finn e a Princesa Jujuba escondem-se no teto do quarto do Limãograb e se preparam para pingar a poção na refeição do Limãograb, mas a Princesa Jujuba ficou desligada e, acidentalmente, pinga a poção nos olhos do Mordomo Menta, fazendo-o gritar de dor. A princesa faz um sinal para o Mordomo Menta disfarçar e não contar que eles estão no teto. Princesa Jujuba tenta novamente, desta vez acertando a comida (um prato de purê de cenoura), e após comer, Limãograb fica vermelho, vomita, grita de agonia, e cai para fora da janela.
+
+Ao cair no chão, desesperadamente começa a comer terra para amenizar a ardência, mas a Princesa Jujuba pinga novamente uma gota de poção diretamente em sua boca, retomando o tempero picante. Limãograb corre para a floresta e tenta pegar uma maçã para acalmar sua boca ardente, mas pega uma maçã do ramo que Finn, a Princesa Jujuba, e Mordomo Menta estão sentados, fazendo com que Mordomo Menta caia direto na boca do Limãograb, efetivamente parando a ardência da boca. Ao ver quem é responsável pela brincadeira, ele sentencia Finn e a Princesa Jujuba à "um milhão de anos na masmorra!". Dentro da Masmorra, junto com o resto da equipe do castelo, Finn tenta inventar uma nova brincadeira, tacar fogo no bumbum de Limãograb, mas a Princesa Jujuba percebe que a única maneira de retirar Limãograb do reino é ter 18 anos novamente e retomar o trono, apesar de gostar de ser uma criança novamente. Finn parece estar triste com a decisão dela, mas entende que não há outra maneira de salvar o Reino Doce. Princesa Jujuba então transmite que ela precisa de carne, doces para aumentar sua biomassa de volta para a de uma jovem de 18 anos de idade. As pessoas doces graciosamente levantam e oferecem partes de si para seu uso. Finn fornece o "agente de ligação" com a sua saliva.
+
+Para finalizar o processo, é necessário o calor de um "abraço de amor". Finn e Princesa Jujuba estão prontos para o abraço, e pouco antes de fazer, a Princesa Jujuba diz a Finn que ela realmente gostava de sair com ele, e lamenta ter que voltar a ter 18 anos.
+
+Agora com 18 anos novamente, a Princesa Jujuba fala "o conde tá despedido bundão " então com Limãograb fora do reino e recupera seu trono. No final, Finn e a Princesa Jujuba olham Limãograb deixar o Reino Doce no seu Camelo Limão, resmungando com raiva de si mesmo. Finn pede nervosamente a Princesa Jujuba por outro abraço, mas ela lembra que, brincando, que isso era "há cinco anos.". Finn fica muito desapontado, e liga para Jake, que o conforta com conselhos concebido a partir de suas façanhas do videogame que ele estava jogando, dizendo:
+
+"Não é fácil, mas você tem que ser persistente. Você pode ter que derrotar um lorde demônio, ou deformar através de vários mundos. Mas uma vez que você fizer isso, você subir as escadas do mago e produzir a sua chave mágica que você pegou no mundo da água e destravar a porta da câmara. Então, você anda até a princesa, e dar-lhe um beijo ... Será que isso faz sentido? "
+
+O episódio termina com Finn olhando para cima para ver distante a Princesa Jujuba, no alto de uma torre no castelo. Ele pensa de caminhar até ela, repetindo parte das palavras de Jake sobre as escadas do mago.
+
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Princesa Jujuba
+
 - Conde de Limãograb
+
 - Mordomo Menta
+
+
+### Menores
+
+- Povo Doce Canelinha Manfreid Starchy Camelo Limãograb Moranguinha Chet Jam Jam
+
+- BMO
+
+- Jake
+
+- Caracol
+
+- Canelinha
+
+- Manfreid
+
+- Starchy
+
+- Camelo Limãograb
+
+- Moranguinha
+
+- Chet
+
+- Jam Jam
+
+## Curiosidades
+- Na 1ª versão para o cartão de título, Finn e a Princesa Jujuba estão quase se beijando, mas ela foi descartada pois seria um grande spoiler do episódio. 1ª versão do titlecard
+
+- O episódio " Velha Demais " da quinta temporada tem título oposto a esse episódio.
+
+- Este episódio foi indicado ao Emmy em 2012 na categoria Curta-Metragem Animado, mas perdeu para o episódio "Ovocelente" ("Eggscellent" no original) de Apenas um Show .
+
+- Essa é a terceira vez que Jake não é um personagem principal.
+
+- Neste episódio, Finn e Jujuba se beijam pela primeira vez.
+
+## Erros
+- Quando o Limãograb chega no castelo, os seus sapatos ficam amarelos da cor de sua pele.
+
+- Quando Limãograb agarra uma maçã da árvore, algumas das maçãs não são formadas corretamente.
+
+- Quando a Princesa Jujuba está criando Limãograb, a poção em cima da mesa é verde, mas quando ela pega a poção, é vermelha. Isto, no entanto, pode ter a ver com o fato da experiência. arte alternativa
+
+- Nesse episódio Bastão de Caramelo está muito diferente: Tem listras vermelhas, seu rosto está onde devia estar o pescoço e não está de chapéu.
+
+- Quando está lambendo os pedaços de doces para juntá-os, Finn lambe um canto de um pedaço roxo, mas atribui este na massa dos doces por um ângulo diferente.
+
+- A jovem Princesa Jujuba não usava sapatos. Depois de se recuperar á sua verdadeira idade, quando estava sentada do lado de fora do castelo com Finn , ela se levanta para entrar no castelo e quando anda soa como se ela estivesse usando sapatos de salto alto.
+
+- Quando a Princesa Jujuba ja está com a "coroa de doces", ela abraça o Finn e depois ele à beija. Nessa hora, podemos reparar que está um abraçando o outro, mas na mochila de Finn, tem uma mão intrusa.
+
+- Quando Limãograb estava falando que ia dormir um dos olhos de seu camelo ficou amarelo.
+
+- Quando Jake liga pra Finn pela segunda vez ao por do sol, a janela da casa da árvore mostra o céu de tarde.

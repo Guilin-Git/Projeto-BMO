@@ -1,15 +1,36 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 15240
 nome: "Nunca Causar Dano ou Mal"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Nunca_Causar_Dano_ou_Mal"
 data_exibicao: "06/03/2017"
 roteiro: "Emily Partridge"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Nunca_Causar_Dano_ou_Mal"
 ---
 
 # Nunca Causar Dano ou Mal
 
 **Temporada 8 — Episódio 15240**
+
+## Descrição
+" Nunca Causar Dano ou Mal " é o décimo quinto episódio da oitava temporada de Hora de Aventura. É o ducentésimo quadragésimo episódio ao todo.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn tenta se reconciliar no hospital do Reino Doce enquanto Jake tenta se enturmar com um convidado inesperado.
@@ -36,9 +57,42 @@ Então, Samambia leva a moto de Starchy e sai ao pôr-do-sol. Quando Finn está 
 De volta à sala de Susana Forte, uma lâmina de um ventilador de teto quebra e voa na direção de Susana. A uma centena de distância de seu rosto, ela de repente acorda e pega a lâmina antes que ela a toca.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Samambaia
+
 - Doutora Princesa
+
 - Mago da Grama
+
+
+### Menores
+
+- Susana Forte
+
+- Rei Gelado
+
+- Sr. Raposo
+
+- Starchy
+
+- Monstros de grama
+
+- Chicletão
+
+- Caracol
+
+## Curiosidades
+- Doutora Princesa revela que ela não tem um diploma médico (ela veio para um exame de raio-x) e que "doutora" é simplesmente o seu primeiro nome. Isso significa que 'Doutora Princesa' é literalmente seu nome.
+
+- O título do episódio é uma referência ao Juramento de Hipócrates, um juramento feito pelo estudante de medicina no ato da formatura, em que o mesmo jura praticar a medicina de forma limpa e honesta e "nunca causar dano ou mal" aos seus pacientes.
+
+## Conexões de Episódios
+- Esse episódio marca o retorno do Mago da Grama que não aparecia desde " Espada de Grama " 3 temporadas atrás na série.
+
+- A maneira como Samambaia perfurou / socou o Mago da Grama (fazendo o braço em um punho enorme e espetado) é extremamente similar à como Finn bateu " Martin " ( Princesa Jujuba disfarçada dele) com o braço de psquíco em " A Torre ".

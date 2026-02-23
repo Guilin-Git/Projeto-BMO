@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Reino do Deserto"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_do_Deserto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_do_Deserto"
 ---
+
+> Reino do Deserto é um lugar de Hora de Aventura.
 
 # Reino do Deserto
 

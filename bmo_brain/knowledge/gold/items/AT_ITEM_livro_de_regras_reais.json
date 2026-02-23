@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_livro_de_regras_reais",
+  "tipo": "objeto",
+  "nome": "Livro de Regras Reais",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_livro_de_regras_reais_descricao",
+      "text": "[Objeto: Livro de Regras Reais]\nDescricao:\n# Livro de Regras Reais\n\nO Livro de Regras Reais aparece pela primeira e única vez em \" O Rei Silencioso \" e inclui 623 regras. Após Finn tornar-se o rei dos goblins, Gummy lê-o para Finn e Jake , colocando os dois para dormir.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_regras_reais",
+        "nome": "Livro de Regras Reais",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_livro_de_regras_reais_informacoes",
+      "text": "[Objeto: Livro de Regras Reais]\nInformacoes:\n### Tipo\n\n### Dono\n\nFinn (indiretamente e anteriormente)",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_regras_reais",
+        "nome": "Livro de Regras Reais",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_livro_de_regras_reais_aparicoes",
+      "text": "[Objeto: Livro de Regras Reais]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_regras_reais",
+        "nome": "Livro de Regras Reais",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_livro_de_regras_reais_aparencia",
+      "text": "[Objeto: Livro de Regras Reais]\nAparencia:\nÉ um livro azul marinho muito grosso com fonte e margem dourados.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_regras_reais",
+        "nome": "Livro de Regras Reais",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_livro_de_regras_reais_lista_de_regras_conhecidas",
+      "text": "[Objeto: Livro de Regras Reais]\nLista_De_Regras_Conhecidas:\n- O rei/rainha não pode escovar seus próprios dentes.\n\n- O rei/rainha não pode cortar seu próprio alimento.\n\n- O rei/rainha não pode comer sua comida a menos que seja pré-mastigada.\n\n- O rei/rainha não pode dar a seu próprio discurso e deve deixar o alto-falante real dar o discurso.\n\n- O rei/rainha não pode olhar através do telescópio.\n\n- O rei/rainha não pode lutar, mas sim dar palestras.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_regras_reais",
+        "nome": "Livro de Regras Reais",
+        "secao": "lista_de_regras_conhecidas"
+      }
+    }
+  ]
+}

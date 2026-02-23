@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Espada da Noite"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_da_Noite"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_da_Noite"
 ---
+
+> Espada da Noite é um objeto/item de Hora de Aventura.
 
 # Espada da Noite
 

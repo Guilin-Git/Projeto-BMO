@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Reino Músculos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_M%C3%BAsculos"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_M%C3%BAsculos"
 ---
+
+> Reino Músculos é um lugar de Hora de Aventura.
 
 # Reino Músculos
 

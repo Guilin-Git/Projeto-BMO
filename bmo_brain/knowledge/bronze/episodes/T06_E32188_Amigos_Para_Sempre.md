@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 32188
 nome: "Amigos Para Sempre"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Amigos_para_Sempre_(Epis%C3%B3dio)"
 data_exibicao: "06/04/2015"
 diretor: "Cole Sanchez (supervisor) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
 codigo_producao: "1025-191"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Amigos_para_Sempre_(Epis%C3%B3dio)"
 ---
 
 # Amigos Para Sempre
 
 **Temporada 6 — Episódio 32188**
+
+## Descrição
+" Amigos para Sempre (Episódio) " é o 32º episódio da 6ª temporada de Hora de Aventura . É o 188 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Rei Gelado quer formar um ciclo perfeito de confidentes.
@@ -28,10 +55,45 @@ Rei Gelado começa a gritar com os móveis e dizendo-lhes que eles não podem tr
 Mais tarde, Rei Gelado é visto jogando todos os móveis congelado para fora de seu castelo. A Abajur no entanto, ainda viva, diz ao Rei Gelado que ele é ganancioso e fez a vida apenas para destruí-la no final. Rei Gelado, então, responde que ele tentou fazer amizade com os móveis, mas eles não lhe deram uma chance, e antes do Rei jogá-la fora de seu castelo, o Bruxo, ainda congelado, desfaz sua magia, fazendo a Abajur de volta ao normal. O Bruxo, agora descongelado, está sentando-se ao lado do Rei Gelado na borda do Castelo, enquanto bebem suco. O Fionna and Cake Omnibus esta no colo do Rei Gelado. O Bruxo pergunta ao Rei se vai ser seu melhor amigo. Rei Gelado recusa e diz que ele gosta do livro Fionna e Cake Omnibus e que ambos devem ser amigos dele. O livra grita "escrever em mim!" e salta puns sobre o Rei Gelado. Então o Antigo Bruxo Adormecido Da Vida simplesmente concorda.
 
 ## Personagens
+
 ### Principais
+
 - Rei Gelado
+
 - Antigo Bruxo Adormecido Da Vida
+
 - Abajur
+
 - Móveis
+
 - Intrumentos
+
 - Chave
+
+
+### Menores
+
+- Gunter
+
+- Pinguins
+
+- Abracadaniel
+
+- Fionna and Cake Omnibus
+
+- Caracol
+
+## Curiosidades
+- Este episódio foi ao ar primeiro no Cartoon Network da Nova Zelândia a cerca de 17:00 em 18 de Março de 2015 em seguida no Brasil em cerca de 21:00 em 06 de abril de 2015. Só depois estreou nos EUA em 16 de abril.
+
+- Este é o terceiro episódio (sem contar episódios de Fionna e Cake ) onde Finn e Jake não aparecem. O primeiro é " O Dia de Princesa " e o segundo é " Evergreen ".
+
+- É revelado neste episódio que Rei Gelado e Abracadaniel não são mais amigos. Também foi mostrado que Rei Gelado congelou Abracadaniel , segurando-o como prisioneiro em seu castelo. Isto deve ter acontecido recentemente, devido a aparição normal de Abracadaniel em " Jake, o Tijolo "
+
+- A maioria dos móveis do Rei Gelado como o seu microondas, gaveta, pesos, cabide e chave foram congeladas e destruído neste episódio.
+
+- O livro que o Rei Gelado lê, na verdade, não é aleatório, como aparece ao narrar pensamentos de Simon sobre a Guerra dos Cogumelos .
+
+- Também foi mostrado que Rei Gelado congelou Abracadaniel , segurando-o como prisioneiro em seu castelo. Isto deve ter acontecido recentemente, devido a aparição normal de Abracadaniel em " Jake, o Tijolo "
+
+- Isto deve ter acontecido recentemente, devido a aparição normal de Abracadaniel em " Jake, o Tijolo "

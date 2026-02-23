@@ -1,16 +1,49 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 2248
 nome: "O Limite"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Limite"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1002-048"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Limite"
 ---
 
 # O Limite
 
 **Temporada 2 — Episódio 2248**
+
+## Descrição
+" O Limite " é o 22º episódio da 2ª temporada de Hora de Aventura . É o quadragésimo oitavo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Patrick McHale
+
+- Kent Osborne
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Cole Sanchez
+
+- Jesse Moynihan
 
 ## Sinopse
 Finn e Jake entram em um labirinto enorme para resgatar alguns Cavaleiros Cachorro Quente e descobrem que poderão realizar um desejo se conseguirem chegar no final.
@@ -23,18 +56,65 @@ Quando eles chegam ao Labirinto, Jake sugere se esticar e ultrapassar as paredes
 Como o grupo se aproxima do centro do labirinto, uma estátua gigante prende um enigma coloca o que parece ser o último obstáculo. Mesmo que Jake está tão esticado que não pode ao menos fechar os olhos, ele continua a empurrar-se a pedido dos cavaleiros. Ele resolve o enigma, permitindo-lhes a entrada para o centro onde se encontram Aquandrius que conferirão aos seus desejos. Eles entram na câmara, deixando acidentalmente um dos cavaleiros atrás que acaba quebrando o quebra-cabeça. A porta se fecha e esmaga uma parte do corpo de Jake, prendendo os outros dentro também. Finn pensa que tudo o que tem a fazer é desejar que jake volte ao normal, mas quando um dos cavaleiros corre para a enguia, ele é morto por uma armadilha. Mais uma vez cabe ao Jake e seu corpo para que ele possa realizar os outros através das armadilhas escondidas letais no chão. Os restantes dois cavaleiros tomam suas pequenas esferas mágicas e desejando uma caixa e explodir (queria crescer em tamanho, mas explodiu em seu lugar). Jake distraidamente deseja que ele não estavesse com tanta fome, e recebe um sanduíche. Com apenas um desejo para a esquerda, Finn deve finalmente decidir se quer salvar o Jake ou desejar o Elefante Psíquico de Guerra Pré Histórico que tanto queriam. No final, ele deseja o elefante, e ele deseja para os amigos de Finn para serem salvos. Jake e os Cavaleiros Cachorro Quente estam vivo e bem, e eles saem com Finn no elefante, com Aquandrius resmungando quando eles saem.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Cavaleiros Cachorro Quente
+
 - Aquandrius
 
+
 ### Secundários
+
 - Princesa Cachorro Quente
+
 - Golem
+
 - Demônio Cristalino
+
 - Minhoca do Labirinto
+
 - Elefante Psíquico de Guerra Pré Histórico
+
 - Escorpiões
+
 - Vagalume
+
 - Caracol
+
+## Caracol
+Ele aparece na entrada do Labirinto nas pedras no canto.
+
+## Curiosidades
+- Jake afirma que fará qualquer coisa para qualquer um, se dizerem seu nome três vezes.
+
+- Um símbolo do olho aparece em vários lugares ao longo do labirinto.
+
+- Os escorpiões surgem a partir de uma parede com uma imagem de uma aranha.
+
+- Neste episódio é revelado que os Cavaleiros Cachorro Quente são imunes ao veneno.
+
+- A sigla B.U.T.T que aparece no começo do episódio significa traseiro (se referindo à parte do corpo) em inglês.
+
+- Este episódio compartilha o mesmo nome de episódio da 2° temporada de O Incrivel Mundo de Gumball
+
+## Referências Culturais
+- A ideia de Jake para evitar-se perder é uma referência a idéia do héroi grego Teseu. Ele tinha que matar um minotauro no centro de um labirinto, e não tinha nada, mas usa um novelo de barbante para traçar seu caminho no labirinto sem se perder.
+
+## Notas de produção
+- O nome original deste episódio foi "Desejo em Cima de um Labirinto".
+
+- No tiro de encerramento do episódio, uma vasta aréa do Labirinto mostra algumas paredes soletrando a palavra "abril". Isto porque Morynihain foi forçado a colocar isso no episódio sob ordem de um de seus amigos, de acordo com uma resposta de vídeo em sua conta no vyou.
+
+## Erros
+- Mesmo que Jake disse que suas pálpebras estavam tão apertadas que não podia fechar os olhos , ele ainda conseguiu piscar.
+
+- Enquanto Jake está completando o quebra-cabeça do gato , há um quadrado faltando (para os outros a deslizar) mas quando a câmera mostrar o quebra-cabeça acabando , não tem peças que faltam.
+
+- Quando o Cavaleiros Cachorro Quente disse que "gostaria de explodir", ele terminou a frase , depois ele explode.
+
+- No começo do episodio quando finn beija um vaga-lume sua boca fica verde, porém minutos depois desaparece sem ele ao menos limpar.

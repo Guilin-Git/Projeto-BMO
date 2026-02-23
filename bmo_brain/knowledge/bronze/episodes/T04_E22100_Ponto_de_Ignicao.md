@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 22100
 nome: "Ponto de Ignição"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Ponto_de_Igni%C3%A7%C3%A3o"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-101"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Ponto_de_Igni%C3%A7%C3%A3o"
 ---
 
 # Ponto de Ignição
 
 **Temporada 4 — Episódio 22100**
+
+## Descrição
+" Ponto de Ignição " é o 22º episódio da 4ª temporada de Hora de Aventura . É o centésimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake ajudam a Princesa de Fogo pegando velas perfumadas, mas acabam entrando em uma nova missão para salvar o Rei de Fogo .
@@ -25,14 +46,50 @@ Eles fizeram um teatro sobre como matar o Rei. O Rei suspeitou deles e mandaram
 Finn e Jake foram para a casa da Princesa de Fogo quando ela estava dormindo e acenderam as velas, e depois que eles vam embora o Rei de Fogo aparece nas velas e sussurra "Mal, mal, mal, mal, mal... MAL!".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Rei de Fogo
+
 - Furnius
+
 - Torcho
+
 - Princesa de Fogo
 
+
 ### Secundários
+
 - Pessoas de Fogo Cozinheiro de Fogo Flambo Guardas de Fogo Atores de Fogo
+
 - Caracol
+
+- Cozinheiro de Fogo
+
+- Flambo
+
+- Guardas de Fogo
+
+- Atores de Fogo
+
+## Curiosidades
+- Essa é a primeira vez que a Princesa de Fogo usa uma roupa diferente.
+
+- A serpente no ombro de Finn parecia uma cobra normal sem um feitiço de fogo que teria mordido.
+
+- Esse é o episódio 100 de Hora de Aventura
+
+## Erros
+- Nesse episódio Flambo soca Finn e Jake para lançar o Escudo de Fogo, mas em "Incêndio" Flambo cuspe para lançar.
+
+- Imediatamente após Finn bater no Jake enquanto eles estão na grama , a boca de Finn desapareceu por dois quadros.
+
+- O poço que foi visto perto da casa Princesa de Fogo em "Pegando um Foguinho" , não está mais lá.
+
+- Há erros de continuidade em relação as pinturas nas paredes do castelo do "Rei de Fogo".
+
+- Quando a câmera se afasta na mão "Princesa de Fogo" no ínicio do episódio , ela tem cinco dedos em vez de 4 dedos.

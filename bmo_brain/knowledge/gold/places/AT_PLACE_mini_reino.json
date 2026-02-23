@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_mini_reino",
+  "tipo": "lugar",
+  "nome": "Mini Reino",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_mini_reino_descricao",
+      "text": "[Lugar: Mini Reino]\nDescricao:\n# Mini Reino\n\nLittleland (ou Pequena Terra, em português) é uma das áreas que a Mini Rainha governa. Aparentemente, ela parece ser muito pequena, provavelmente do tamanho da Mini Rainha. O local apareceu pela primeira vez no storyboard original do episódio \" O Herói Dele \", porém mais tarde, a cena foi cortada do episódio.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_mini_reino",
+        "nome": "Mini Reino",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

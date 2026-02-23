@@ -1,0 +1,18 @@
+{
+  "id": "AT_ITEM_forno_doce",
+  "tipo": "objeto",
+  "nome": "Forno Doce",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_forno_doce_descricao",
+      "text": "[Objeto: Forno Doce]\nDescricao:\n# Forno Doce\n\nForno Doce é um antigo forno mágico apagado há anos e reativado pelo principe de fogo. foi usado por Principe Chiclete pra forjar a Espada Especial .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_forno_doce",
+        "nome": "Forno Doce",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

@@ -1,17 +1,56 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 355
 nome: "Memória de Uma Memória"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Mem%C3%B3ria_de_Uma_Mem%C3%B3ria"
 data_exibicao: "09/04/2012"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-057"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Mem%C3%B3ria_de_Uma_Mem%C3%B3ria"
 ---
 
 # Memória de Uma Memória
 
 **Temporada 3 — Episódio 355**
+
+## Descrição
+" Memória de Uma Memória " é o terceiro episódio da terceira temporada de Hora de Aventura . É o quinquagésimo quinto (55°) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Patrick McHale
+
+- Kent Osborne
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Ako Castuera
+
+- Tom Herpich
 
 ## Sinopse
 Finn e Jake entram nas memórias de Marceline para a acordar de um feitiço de sono eterno que ela jogou em si mesma, sem saber que estavam sendo enganados pelo Ash , o ex- namorado de Marceline .
@@ -34,8 +73,68 @@ Os dois acordaram para descobrir que Mago Rag realmente tem braços, e leva a ma
 Finn e Jake segui-los para sua casa, onde Jake fornece uma distração batendo com uma pá contra um galpão, mas o galpão é realmente a casa de um Pequeno Goblin . O Goblin minúsculo imediatamente entra em pânico, Jake confundindo com um monstro. Jake percebe seu erro e tenta acalmar o Goblin, mas o Goblin minúsculo mantém gritando por socorro, atraindo a atenção de Ash, que pensa que vê Jake perto do Goblin minúsculo e persegue Jake, estando em pé de guerra contra Jake enquanto tentava proteger o pouco vizinho. Tendo Ash efetivamente afastados da casa, Finn quebra na via da chaminé e encontra dentro de Marceline, que avisa Finn para sair, como Ash não gosta dela sair com os "meros mortais". Finn concorda em sair, mas primeiro Marceline mostra um pouco do pó de sono ainda em sua posse, e sopra em seu rosto, enviando-a para a memória do Finn. Olhando através de uma rachadura em uma porta aberta, Marceline testemunha Finn (ainda como bebê gordinho) cantando uma canção para si mesmo na casa de Josué e Margaret . Finn atual encontra-la e revela sua própria memória de ver a quebra de Marceline memória para ela. Desmotivada em sua lembrança, Marceline e Finn acordar e ir para fora, assim como Ash surge dos bosques próximos. Ash diz Marceline não estar com Finn. Ele, então, ordens Marceline para a cozinha para fazer dele um sanduíche de peru com tomate e picles, apenas para ser chutado na virilha por Marceline, pulou em cima de Finn e esmagado pelo pé gigante de Jake.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Marceline
+
 - Ash (Mago de Trapo)
+
+
+### Menores
+
+- Hunson Abadeer
+
+- Pequeno Goblin
+
+- Fantasma da Flor Mágica
+
+- Hambo
+
+- Joshua (foto)
+
+- Margaret (foto)
+
+- Jermaine (foto)
+
+- Caracol
+
+## Caracol
+É possivel ver a concha do Caracol quando Finn e Jake estão pendurados na porta da geladeira, nas memórias da Marceline
+
+## Música
+- Canção do Bebê Finn
+
+## Curiosidades
+- Quando Marceline entrou memória do Finn, suas presas não foram apontadas. Isso pode indicar que há alterações de aparência das pessoas na paisagem mental.
+
+- No cartão de título mostra Marceline dormindo em sua cama, mas no episódio " O Armário de Marceline " ela é vista flutuando em sua cama. Isso pode indicar que Marceline dorme em ambos os sentidos, dependendo de seu humor.
+
+- No cartão de título é possível ver a mesma vaca que aparece em Contando Histórias , com um Phil Face na "barriga".
+
+- Marceline é vista com o cabelo bagunçado quando Finn e Jake estão pendurados na porta da geladeira, mas o cabelo dela suaviza quando Jake morde uma maçã que tem na geladeira. Sendo que ela é um metamorfo, ela poderia ter usado apenas seus poderes para corrigir rapidamente sua  aparência.
+
+- Quando o bebê Finn canta, naquela casa, é possivel ver fotos da família do Jake na parede, insinuando que aquela é a casa do Joshua e da Margaret .
+
+- A primeira memória de Finn que Marceline vê é a do Finn bebê cantando.
+
+- A música que Marceline canta para o pai dela no episodio Veio Da Noitosfera, se refere a cena que ele come as batatas dela neste episodio.
+
+## Erros
+- Quando Ash dá ao Finn e Jake a poção mágica na bolsa, ele ainda a tem na cena seguinte.
+
+- Finn, Jake e Ash disfarçado como o assistente, usam a segunda porta para entrar na casa de Marceline, mas é como se eles tivessem usado a porta principal.
+
+- A porta muda de cor quando Finn abre.
+
+- Quando Ash e Marceline voam para fora da caverna, é dia do lado de fora. Mas quando Finn diz que ele à levou, é noite.
+
+- Antes de Finn e Marceline estavam na varanda de Ash não havia bule com uma planta e colmeia.
+
+- Quando Finn e Marceline estão na varanda dos pneus e garrafas sumiram do lado de fora da casa do goblin, e o telhado quebrado está no lado oposto.
+
+- Depois de Marceline acordar ela fala que iria se trocar mas depois aparece com a mesma roupa.

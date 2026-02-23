@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_orfanato_doce",
+  "tipo": "lugar",
+  "nome": "Orfanato Doce",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_orfanato_doce_descricao",
+      "text": "[Lugar: Orfanato Doce]\nDescricao:\n# Orfanato Doce\n\nO Orfanato dos Doces é o orfanato em que o Bebelício morava quando ele era criança junto com outras cianças doces.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_orfanato_doce",
+        "nome": "Orfanato Doce",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_orfanato_doce_curiosidades",
+      "text": "[Lugar: Orfanato Doce]\nCuriosidades:\n- Não se sabe como ele é por fora.\n\n- Pode se ver uma criança parecida com o Mordomo Menta , não si sabe que era ele como criança.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_orfanato_doce",
+        "nome": "Orfanato Doce",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

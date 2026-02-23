@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_hambo",
+  "tipo": "objeto",
+  "nome": "Hambo",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_hambo_descricao",
+      "text": "[Objeto: Hambo]\nDescricao:\n# Hambo\n\nHambo era o ursinho de Marceline . Marceline amava ele até a sua adolescência até que Ash o vende para uma bruxa para comprar uma flor mágica. Mas no episódio \" A Bruxa do Céu \" Marceline o recupera com a ajuda de Princesa Jujuba .\n\nHambo foi dado para Marceline por Simon Petrikov , na época da Grande Guerra dos Cogumelos .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_hambo",
+        "nome": "Hambo",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_hambo_informacoes",
+      "text": "[Objeto: Hambo]\nInformacoes:\n### Sobre Hambo\n\n### Tipo\n\n### Dono\n\nDepois: Maja Atual dono: Marceline",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_hambo",
+        "nome": "Hambo",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_hambo_aparicoes",
+      "text": "[Objeto: Hambo]\nAparicoes:\nQuando foi dado primeiro a Marceline, como mostrado no flashback no episódio \" Me Lembro de Você \" que era vermelho, tinha dois botões azuis para os olhos e um sorriso costurado. Ele se assemelha a um macaco da peúga, devido a suas longas pernas e braços. Mais dois botões foram costurados em seu bumbum.\n\nEm \" Memória de Uma Memória \", o ele está muito mais sujo e tem manchas, adesivos, ligaduras e pontos de reparação. Alguns dos seus membros têm o recheio saindo do brinquedo, e apenas um botão permaneceu como o olho do brinquedo. O brinquedo o vermelho etá extremamente fraco, mas ainda há uma tonalidade vermelha para Hambo, o que significa que Marceline nunca chupou a cor dele nos muitos séculos de propriedade.\n\nNo episódio \" A Bruxa do Céu \", Marceline pede a ajuda da Princesa Jujuba para resgatar seu ursinho. Mesmo Jujuba repetindo que Hambo só era um brinquedo Marceline insistiu e ameaçou-a, até que ela realmente prosseguiu e ajudou-a encontrar seu ursinho, que estava com a bruxa Maja .\n\nEm \" Betty \" (Episódio), Rei Gelado volta a ser Simon Petrikov devido a magia de Bellanoche , que foi despertado por outros magos, e assim ele pede a ajuda de Finn , Jake e Marceline para trazer de volta a Betty (Personagem) para o mundo atual (presente), e para isso ele acaba tendo que sacrificar o Hambo.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_hambo",
+        "nome": "Hambo",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Espada Com o Cabo de Raiz"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Com_o_Cabo_de_Raiz"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Com_o_Cabo_de_Raiz"
 ---
+
+> Espada Com o Cabo de Raiz é um objeto/item de Hora de Aventura.
 
 # Espada Com o Cabo de Raiz
 

@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Pizza Sassy's"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Pizza_Sassy%27s"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Pizza_Sassy%27s"
 ---
+
+> Pizza Sassy's é um lugar de Hora de Aventura.
 
 # Pizza Sassy's
 

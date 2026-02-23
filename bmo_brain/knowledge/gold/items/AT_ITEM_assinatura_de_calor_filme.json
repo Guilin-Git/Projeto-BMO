@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_assinatura_de_calor_filme",
+  "tipo": "objeto",
+  "nome": "Assinatura de Calor (Filme)",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_assinatura_de_calor_filme_descricao",
+      "text": "[Objeto: Assinatura de Calor (Filme)]\nDescricao:\n# Assinatura de Calor (Filme)\n\nAssinatura de Calor ( Heat Signature , originalmente ) é uma série de filmes pré- guerra , que consiste em pelo menos três filmes. O slogan do filme: \" SOB O OCEANO NINGUÉM PODE TE OUVIR \" parece sugerir que é um filme de terror ou um suspense, embora o gênero real é desconhecido. O filme teve algumas continuações, mostrando que ele fez sucesso, sendo Assinatura de Calor III a única conhecida. O terceiro filme da saga começa com um aviso da Lei de Direitos Autorais dos EUA [ 1 ] , assim como todos os outros filmes que Finn e Jake tinham. Esse tipo de aviso é comum em DVDS.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_assinatura_de_calor_filme",
+        "nome": "Assinatura de Calor (Filme)",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_assinatura_de_calor_filme_informacoes",
+      "text": "[Objeto: Assinatura de Calor (Filme)]\nInformacoes:\n### Tipo\n\n### Criador\n\n### Dono",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_assinatura_de_calor_filme",
+        "nome": "Assinatura de Calor (Filme)",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_assinatura_de_calor_filme_aparicoes",
+      "text": "[Objeto: Assinatura de Calor (Filme)]\nAparicoes:\n### Primeira Aparição\n\nAssinatura de Calor (principal)\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_assinatura_de_calor_filme",
+        "nome": "Assinatura de Calor (Filme)",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_assinatura_de_calor_filme_sobre",
+      "text": "[Objeto: Assinatura de Calor (Filme)]\nSobre:\nNo episódio Assinatura de Calor (que ocorre cronologicamente antes de Cineastas ) o filme é visto como sendo um terror sobre uma tripulação de um submarino. Finn comenta com Jake que está surpreso que Marceline tenha mais de mil anos e nunca tenha visto o filme. Em Cineastas , quando Finn e Jake apresentam Assinatura de Calor III como o filme da noite, Marceline fala \"Ah, com o submarino?\". Os fantasmas do final de Assinatura de Calor estranham quando Finn fala sobre o filme, e devido a surpresa de Finn com Marceline nunca ter assistido, mais ao fato do longa metragem ter continuações e chamar tanto a atenção dos personagens, mostra que o filme fez sucesso e foi popular na Terra antes da Guerra dos Cogumelos.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_assinatura_de_calor_filme",
+        "nome": "Assinatura de Calor (Filme)",
+        "secao": "sobre"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_assinatura_de_calor_filme_curiosidades",
+      "text": "[Objeto: Assinatura de Calor (Filme)]\nCuriosidades:\n- Existem humanos no filme, porque foi feito antes da Guerra dos Cogumelos. No entanto, Pendleton Ward falou nos comentários do lançamento de DVD da segunda temporada que esse filme é uma animação ao invés de um Live Action.\n\n- O Slogan é uma referência ao do filme Alien (1979), que é \"No espaço, ninguém pode te ouvir gritar\".\n\n- O Filme parece ser semelhante ao clássico The Thing (1982)\n\n- No entanto, Pendleton Ward falou nos comentários do lançamento de DVD da segunda temporada que esse filme é uma animação ao invés de um Live Action.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_assinatura_de_calor_filme",
+        "nome": "Assinatura de Calor (Filme)",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

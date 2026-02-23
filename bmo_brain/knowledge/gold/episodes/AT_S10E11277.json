@@ -1,0 +1,99 @@
+{
+  "id": "AT_S10E11277",
+  "tipo": "episodio",
+  "nome": "Templo de Marte",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E11277_meta",
+      "text": "[Episódio: Templo de Marte (Temporada 10, Ep 11277)]\nDiretor: Diana Lafyatis\nRoteiro: Kent Osborne , Jack Pendarvis , Julia Pott e Adam Muto",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E11277",
+        "temporada": 10,
+        "numero_ep": 11277,
+        "nome": "Templo de Marte",
+        "characters_secondary": "Finn|Jermaine|Betty|Homem Rei|Gunter (como Pensador Gelado)|Jake|GOLB|Mini Mantícora|Marcianos|Fern (como sapo)|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E11277_sinopse",
+      "text": "[Episódio: Templo de Marte (Temporada 10, Ep 11277)]\nSinopse: Finn e Jermaine viajam para Marte em uma tentativa de tentar resgatar Jake , mas os dois logo são forçados a sobreviver a uma armadilha mental marciana junto com Betty .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E11277",
+        "temporada": 10,
+        "numero_ep": 11277,
+        "nome": "Templo de Marte",
+        "characters_secondary": "Finn|Jermaine|Betty|Homem Rei|Gunter (como Pensador Gelado)|Jake|GOLB|Mini Mantícora|Marcianos|Fern (como sapo)|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E11277_informacoes",
+      "text": "[Episódio: Templo de Marte (Temporada 10, Ep 11277)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E11277",
+        "temporada": 10,
+        "numero_ep": 11277,
+        "nome": "Templo de Marte",
+        "characters_secondary": "Finn|Jermaine|Betty|Homem Rei|Gunter (como Pensador Gelado)|Jake|GOLB|Mini Mantícora|Marcianos|Fern (como sapo)|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E11277_creditos",
+      "text": "[Episódio: Templo de Marte (Temporada 10, Ep 11277)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E11277",
+        "temporada": 10,
+        "numero_ep": 11277,
+        "nome": "Templo de Marte",
+        "characters_secondary": "Finn|Jermaine|Betty|Homem Rei|Gunter (como Pensador Gelado)|Jake|GOLB|Mini Mantícora|Marcianos|Fern (como sapo)|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E11277_curiosidades",
+      "text": "[Episódio: Templo de Marte (Temporada 10, Ep 11277)]\nCuriosidades:\n- Jermaine ressalta que nenhum das fases o representa, e Homem Rei mais tarde explica que a cápsula de telemetria está calibrada com as mentes daqueles que entram.\n\n- Nenhuma das fases representa Jermaine, já que ele não tem conflitos não resolvidos desde que deixou a casa dos pais e entrou na pintura abstrata.\n\n- A única questão não resolvida que Finn tem é o seu conflito em relação a Fern, que é representada por um único sapo pequeno que se parece com Fern.\n\n- O resto das fases estão centrados em torno de Betty e sua obsessão em curar Simon da maldição da coroa.\n\n- A equação na segunda fase pode representar Simon, por Finn, dizendo que o \"Pensador Gelado\" está mudando os números.\n\n- Homem Normal agora se chama de Homem Rei, o que significa que ele alcançou seus objetivos e fama como líder de Marte.\n\n- Os edifícios marcianos agora se assemelham ao rosto do Homem Rei.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E11277",
+        "temporada": 10,
+        "numero_ep": 11277,
+        "nome": "Templo de Marte",
+        "characters_secondary": "Finn|Jermaine|Betty|Homem Rei|Gunter (como Pensador Gelado)|Jake|GOLB|Mini Mantícora|Marcianos|Fern (como sapo)|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E11277_referencias_culturais",
+      "text": "[Episódio: Templo de Marte (Temporada 10, Ep 11277)]\nReferencias_Culturais:\n- O Homem Rei chama Jermaine de \"cão covarde\", provavelmente uma referência a Coragem, o Cão Covarde.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E11277",
+        "temporada": 10,
+        "numero_ep": 11277,
+        "nome": "Templo de Marte",
+        "characters_secondary": "Finn|Jermaine|Betty|Homem Rei|Gunter (como Pensador Gelado)|Jake|GOLB|Mini Mantícora|Marcianos|Fern (como sapo)|Caracol",
+        "secao": "referencias_culturais"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E11277_conexoes_de_episodios",
+      "text": "[Episódio: Templo de Marte (Temporada 10, Ep 11277)]\nConexoes_De_Episodios:\n- Finn menciona a traição de Betty em \" Ganchos Celestes II \".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E11277",
+        "temporada": 10,
+        "numero_ep": 11277,
+        "nome": "Templo de Marte",
+        "characters_secondary": "Finn|Jermaine|Betty|Homem Rei|Gunter (como Pensador Gelado)|Jake|GOLB|Mini Mantícora|Marcianos|Fern (como sapo)|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

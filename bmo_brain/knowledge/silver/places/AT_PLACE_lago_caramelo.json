@@ -1,0 +1,10 @@
+{
+  "id": "AT_PLACE_lago_caramelo",
+  "tipo": "lugar",
+  "nome": "Lago Caramelo",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Lago_Caramelo",
+  "sections": {
+    "descricao": "# Lago Caramelo\n\nO Lago Caramelo é um lago localizado aos arredores do Reino Doce , próximo as Florestas de Algodão Doce ."
+  },
+  "source_file": "Lago_Caramelo.md"
+}

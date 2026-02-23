@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_panquecas_de_toucinho_comida",
+  "tipo": "objeto",
+  "nome": "Panquecas de Toucinho (Comida)",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_panquecas_de_toucinho_comida_descricao",
+      "text": "[Objeto: Panquecas de Toucinho (Comida)]\nDescricao:\n# Panquecas de Toucinho (Comida)\n\nAs Panquecas de Toucinho é uma comida que Jake preparou em Pegando um Foguinho .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_panquecas_de_toucinho_comida",
+        "nome": "Panquecas de Toucinho (Comida)",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_panquecas_de_toucinho_comida_ingredientes",
+      "text": "[Objeto: Panquecas de Toucinho (Comida)]\nIngredientes:\n- Bacon.\n\n- Panquecas.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_panquecas_de_toucinho_comida",
+        "nome": "Panquecas de Toucinho (Comida)",
+        "secao": "ingredientes"
+      }
+    }
+  ]
+}

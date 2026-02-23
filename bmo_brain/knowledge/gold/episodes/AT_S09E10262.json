@@ -1,0 +1,92 @@
+{
+  "id": "AT_S09E10262",
+  "tipo": "episodio",
+  "nome": "Abstrato",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S09E10262_meta",
+      "text": "[Episódio: Abstrato (Temporada 9, Ep 10262)]\nDiretor: Adam Muto\nRoteiro: Graham Falk\nPersonagens Principais: Jake, Jermaine",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E10262",
+        "temporada": 9,
+        "numero_ep": 10262,
+        "nome": "Abstrato",
+        "characters_main": "Jake|Jermaine",
+        "characters_secondary": "Finn|BMO|Refri|James|Bryce|Lady Íris|Shapeshifter|Joshua|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E10262_sinopse",
+      "text": "[Episódio: Abstrato (Temporada 9, Ep 10262)]\nSinopse: Conforme Jake passa por mudanças pessoais, ele é assombrado por um sonho sinistro onde encontra com seu irmão Jermaine .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E10262",
+        "temporada": 9,
+        "numero_ep": 10262,
+        "nome": "Abstrato",
+        "characters_main": "Jake|Jermaine",
+        "characters_secondary": "Finn|BMO|Refri|James|Bryce|Lady Íris|Shapeshifter|Joshua|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E10262_informacoes",
+      "text": "[Episódio: Abstrato (Temporada 9, Ep 10262)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E10262",
+        "temporada": 9,
+        "numero_ep": 10262,
+        "nome": "Abstrato",
+        "characters_main": "Jake|Jermaine",
+        "characters_secondary": "Finn|BMO|Refri|James|Bryce|Lady Íris|Shapeshifter|Joshua|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E10262_creditos",
+      "text": "[Episódio: Abstrato (Temporada 9, Ep 10262)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E10262",
+        "temporada": 9,
+        "numero_ep": 10262,
+        "nome": "Abstrato",
+        "characters_main": "Jake|Jermaine",
+        "characters_secondary": "Finn|BMO|Refri|James|Bryce|Lady Íris|Shapeshifter|Joshua|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E10262_curiosidades",
+      "text": "[Episódio: Abstrato (Temporada 9, Ep 10262)]\nCuriosidades:\n- Uma das habilidades de Jake de sua forma nova/normal/natural é ser capaz de sentir as emoções de objetos, como torradas.\n\n- Finn tornou-se desconfortável com a nova parecência de Jake desde o episódio anterior.\n\n- Dentro da tenda dos James , há muitas medalhas penduradas. Isso mostra que a Princesa Jujuba manteve sua promessa e continuou enviando medalhas todos os dias.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E10262",
+        "temporada": 9,
+        "numero_ep": 10262,
+        "nome": "Abstrato",
+        "characters_main": "Jake|Jermaine",
+        "characters_secondary": "Finn|BMO|Refri|James|Bryce|Lady Íris|Shapeshifter|Joshua|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S09E10262_conexoes_de_episodios",
+      "text": "[Episódio: Abstrato (Temporada 9, Ep 10262)]\nConexoes_De_Episodios:\n- Este episódio é uma continuação do final de \" Ganchos Celestes II \".\n\n- A verdade das origens de Jake , que foi revelada em \" Joshua e Margaret \", também faz parte deste episódio.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S09E10262",
+        "temporada": 9,
+        "numero_ep": 10262,
+        "nome": "Abstrato",
+        "characters_main": "Jake|Jermaine",
+        "characters_secondary": "Finn|BMO|Refri|James|Bryce|Lady Íris|Shapeshifter|Joshua|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

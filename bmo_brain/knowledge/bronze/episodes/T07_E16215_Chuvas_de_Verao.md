@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 16215
 nome: "Chuvas de Verão"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Chuvas_de_Ver%C3%A3o"
 data_exibicao: "07/01/2016"
 diretor: "Elizabeth Ito Nick Jennings (arte)"
 roteiro: "Kent Osborne Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Chuvas_de_Ver%C3%A3o"
 ---
 
 # Chuvas de Verão
 
 **Temporada 7 — Episódio 16215**
+
+## Descrição
+" Chuvas de Verão " é o 16º episódio da 7ª temporada de Hora de Aventura . É o ducentésimo décimo quinto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Viola tem um papel em uma peça por uma nova diretora, a Princesa Caroço .
@@ -31,8 +52,58 @@ Na noite de estréia, uma série de (principalmente idosos) cidadãos do Reino D
 Princesa Caroço, furiosa, faz o seu caminho de volta para o Reino Doce enquanto no palco, Viola oferece uma performance sincera. Jake, Lady Íris e Jake Jr. todos parecem interessados, embora Finn está tentando não cair no sono na história entediante.
 
 ## Personagens
+
 ### Principais
+
 - Viola
+
 - Princesa Caroço
+
 - Sr. Bolinho
+
 - Dona Tromba
+
+
+### Menores
+
+- Jake
+
+- Crocante
+
+- Finn (Sem falas)
+
+- Sr. Porco
+
+- Rei Gelado
+
+- Charlie
+
+- T.V.
+
+- Chocofruta
+
+- Woody
+
+- Demônio Porco
+
+- Ee-ow
+
+- Taddle
+
+- Mudscamps
+
+- Homem Coala
+
+- Aranha Fantasma
+
+- Minhoca
+
+- Caracol
+
+## Curiosidades
+- Esse é o primeiro episódio de 2016.
+
+- Nesse episódio a Princesa Caroço parece ter um certo conhecimento sobre a Inglaterra (ou Ingla Terra, como ele diria)
+
+## Conexões de Episódios
+- A maioria dos moradores temporários da Casa na Árvore em " Ocarina " reaparecem nesse episódio na plateia.

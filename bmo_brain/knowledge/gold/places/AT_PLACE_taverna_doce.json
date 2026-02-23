@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_taverna_doce",
+  "tipo": "lugar",
+  "nome": "Taverna Doce",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_taverna_doce_descricao",
+      "text": "[Lugar: Taverna Doce]\nDescricao:\n# Taverna Doce\n\nA Taverna Doce é um bar nos becos do Reino Doce . É dirigido pelo Garçom da Taverna Doce . Este é o lugar onde bandidos do Reino frequentam. Em \" Ladrão de Maçãs \", Finn , Jake e Dona Tromba vêm aqui em busca de maçãs roubadas e encontram Jaybird e sua gangue no beco atrás do bar. Perto é esconderijo da quadrilha onde eles guardam os diamantes roubados.\n\nJake antes dele ser herói, costumava vir para a Taverna, roubando bolsas e leiloando bicicletas em um edifício no bairro. Finn se pergunta se a Princesa Jujuba sabe sobre este lugar. Querendo ou não ela se faz de desconhecida.\n\nA Taverna Doce aparece novamente em \" Sonho de Amor \". Jake e Sr. Porco entram no bar depois de Dona Tromba e o Porco são forçados a se separar. Sr. Porco expressa publicamente seus sentimentos lá com sua canção \" Sonho de Amor \".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_taverna_doce",
+        "nome": "Taverna Doce",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_taverna_doce_curiosidades",
+      "text": "[Lugar: Taverna Doce]\nCuriosidades:\n- O Caracol faz duas aparições neste lugar, uma atrás do Homem Biscoito em \" Ladrão de Maçãs , e outra no chão, ao lado do Sr. Porco em \" Sonho de Amor \".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_taverna_doce",
+        "nome": "Taverna Doce",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

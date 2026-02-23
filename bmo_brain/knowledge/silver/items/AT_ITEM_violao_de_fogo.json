@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_violao_de_fogo",
+  "tipo": "objeto",
+  "nome": "Violão de Fogo",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Viol%C3%A3o_de_Fogo",
+  "sections": {
+    "descricao": "# Violão de Fogo\n\nO Violão de Fogo foi usado por Jake no episódio \" Incêndio\" para tocar a musica \" Calor Dentro de Mim \". Jake pega emprestado do Tocador de Fogo .",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "O violão de fogo é um violão marrom, com fogos em diversas partes. É semelhante à um vulcão."
+  },
+  "source_file": "Violao_de_Fogo.md"
+}

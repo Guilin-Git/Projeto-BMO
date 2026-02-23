@@ -1,15 +1,36 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 39143
 nome: "Consertamos um Caminhão"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Consertamos_um_Caminh%C3%A3o"
 data_exibicao: "14/04/2014"
 diretor: "Elizabeth Ito (supervisora) Nick Jennings (art)"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Consertamos_um_Caminh%C3%A3o"
 ---
 
 # Consertamos um Caminhão
 
 **Temporada 5 — Episódio 39143**
+
+## Descrição
+Consertamos um Caminhão é o 39º episódio da 5ª temporada de Hora de Aventura. É o centésimo quadragésimo terceiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake convidam o Homem Banana ​​para ajudar a consertar um caminhão que encontraram, o que o Homem Banana tenta usar para se tornar uma boa amizade com seus vizinhos.
@@ -26,17 +47,111 @@ O Homem Banana ​​vê uma Guarda Banana Feminino , e os três tentam incentiv
 O Homem Banana ​​gira em torno do caminhão e acelera a ordens de Finn. Enquanto estam dirigindo, Finn puxa casca do Homem Banana pra ​​fora e joga-o sob um dos pneus, fazendo o caminhão rodar em alta velocidade. O veículo, em seguida, sobe uma rampa, e antes que as batidas de caminhão ao lagarto, Jake se transforma em um pára-quedas para salvar o grupo em segurança no chão. O lagarto, juntamente com o caminhão, explode em uma grande bola de fogo. A verdadeira Princesa Jujuba sai do esgoto e por pouco se esquiva do Daniel Gatão flamejante. Ela vê Finn e Jake e os adverte sobre replicantes reptilianas que tomam todo o reino, mas vê que eles já têm tudo sob controle. A Guarda Banana feminino aparece, e afirma que o Homem Banana virá com ela. O Banana, ainda nu, é completamente surpreso e pergunta: "O quê? Sério?" O guarda responde que ele está preso por "desacato ao pudor". BMO chora porque 'Daniel Gatão' está morto, enquanto Finn e Jake acenam se lamentando.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - BMO
+
 - Homem Banana
 
+
 ### Secundários
+
 - Povo Doce
+
 - Guarda Banana Feminino
+
 - Starchy
+
 - Princesa Jujuba
+
 - Clone Reptiliano
+
 - Rei Gelado
+
 - Caracol
+
+## Músicas
+- " Que Dia Bom "
+
+- " Manlorette Party "
+
+- " Amigos Para Sempre "
+
+## Curiosidades
+- Quando eles voltam do Reino Café da Manhã , o Reino Gelado aparece só que no início do episódio não estava lá.
+
+- O Homem Banana de " A Nova Fronteira " reaparece neste episódio.
+
+- Nesse episódio é mostrado que Homem Banana é experiente também com outros veículos, além de foguetes.
+
+- Finn encontra um dos poucos caminhões que restaram da guerra, pois ao decorrer da série, pode-se ver vários automóveis em florestas, terras desertas e até mesmo no fundo do mar.
+
+- Canelinha aparece nesse episódio, apesar de ter decidido morar no Reino de Fogo , ele é visto ainda no Reino Doce .
+
+- O nome do caminhão é "Daniel Gatão", a mesma exclamação usada por Finn em Caverna de Ossos , na versão em inglês, quando a Princesa de Fogo salva Finn do esqueleto de gosma.
+
+- O Caminhão ficou após a restauração uma Mistura de um Chevrolet de 1950 com a traseira de Cadillac eldorado de 1959 mais um farol foi adicionado
+
+- Reaparece o Reino Café da Manhã e nesse episódio aparece o terceiro habitante do reino.
+
+- Possivelmente deve haver uma civilização em Ooo onde devem viver os Reptilianos, já que a Princesa Jujuba falou que eles queriam se apoderar do Reino Doce.
+
+- Se tiver, é possível que sua princesa seja a Princesa Lagarto .
+
+- Este episódio faz uma referência ao mito dos Reptilianos, uma raça extraterrestre, que vivem em nosso planeta, disfarçados de humanos.
+
+- Segundo Jake há um programa de rádio dedicado a conspirações paranormais.
+
+- Quando BMO escuta o rádio se revela que Starchy conduz uma estação de rádio de sucesso, com assuntos paranormais.
+
+- Foi mostrado que existe um spa no Reino Café da Manhã.
+
+- No cartão de título, pode se ver onde Finn encontrou o caminhão. Foi em uma árvore.
+
+- Rei Gelado continua morando na Casa da Árvore de Finn e Jake.
+
+- Essa é a segunda vez que BMO acha que alguém é uma réplica, sendo a primeira em " Silêncio! ".
+
+- Homem Banana menciona o episódio " A Nova Fronteira ", quando diz que ele, Finn e Jake não se viam desde que ele destruiu sua casa, seu quintal e seu foguete.
+
+- Na arte promocional mostra Homem Banana esperando Finn e Jake ligarem.
+
+- A dublagem do Homem Banana na versão original é feita por Weird Al Yankovic, músico conhecido por versões satíricas de músicas de sucesso.
+
+- Rei Gelado diz que não curte carros, são muito confusos.
+
+## Referências Culturais
+- A idéia de um "lagarto replicante" também pode se referir aos visitantes da franquia de ficção científica V. Eles são humanóides reptilianos que se disfarçam como seres humanos normais, a fim de ajudar a sua invasão na Terra.
+
+- Enquanto BMO está dormindo, a tela exibe um par de torradeiras voadoras. Esta é uma referência a um módulo screensaver incluído no After Dark , o computador das Trevas.
+
+- Quando BMO busca sua memória para informações sobre consertar carros, a tela exibe uma lanterna . Esta é uma referência ao ícone de lanterna exibido durante a pesquisa de arquivos no Windows 98.
+
+- O caminhão que eles consertaram é um Chevrolet 3100, um carro famoso de 1954.
+
+## Conexões de Episódio
+- Em uma cena, Finn, Jake, BMO, e Homem Banana ​​vão para o mesmo spa no Reino Café da Manhã exibido pela primeira vez em "Batedor" para roubar um pouco de graxa para fazer biodiesel.
+
+- Homem Banana ​​menciona alguns eventos do episódio " A Nova Fronteira "
+
+- Finn chama o caminhão de "Hot Daniel", uma exclamação que ele usa em " Caverna de Ossos " quando chama Princesa de Fogo para salvá-lo do Crânio gigante, na dublagem original.
+
+- Durante o conserto do carro, BMO faz a mesma dança sobre o capô do carro que Homem Banana ​​estava praticando em " A Nova Fronteira "
+
+## Erros
+- Canelinha é visto na multidão enfurecida perseguindo a falsa Princesa Jujuba apesar de se recusar a voltar para o Reino Doce em " Terra e Água ". Este pode ser um cidadão semelhante ao Canelinha, no entanto.
+
+- BMO esmagou uma lata de refrigerante em sua cabeça e atirou-a para longe, mas ela não foi vista no chão logo depois.
+
+- Quando chega a noite e Homem Banana ​​começa a se afastar para voltar para sua casa, ele não está usando seus sapatos pretos. Ele é mostrado usando seus sapatos em todo resto do episódio.
+
+- Homem Banana ​​enche o caminhão com biodiesel, apesar do caminhão ter o que parece ser um motor a gasolina.
+
+- No Brasil, Finn canta a música com a voz de outro dublador.
+
+- Quando Finn está falando o que fazer com o caminhão, ele diz "virar o volante só com mão direita" e movimenta o braço esquerdo.

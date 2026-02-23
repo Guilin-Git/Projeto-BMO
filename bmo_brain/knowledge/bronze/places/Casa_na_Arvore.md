@@ -1,19 +1,59 @@
 ---
 tipo: "lugar"
 nome: "Casa na Árvore"
-localizacao: "Reino Doce, ,, Ooo, [, 1, ]"
+localizacao: "Reino Doce, Ooo, [, 1, ]"
 dono: "Finn, e, Jake, (Antigamente), Marceline Abadeer, (, Despejados!, ), Kim Kil Whan, (, Ocarina, )"
 residentes: "BMO, Shelby, Neptr, Rei Gelado, (, Terra e Água, até, Encontro pra Brincar, ), Fern, (, Duas Espadas, até, Três Baldes, )"
-estado_atual: "Destruída, Substituída por, Fern"
+status: "Destruída, Substituída por, Fern"
 primeira_aparicao: "Zig Zag"
 ultima_aparicao: "Venha Comigo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Casa_na_%C3%81rvore"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Casa_na_%C3%81rvore"
 ---
+
+> Casa na Árvore é um lugar de Hora de Aventura.
 
 # Casa na Árvore
 
 ## Descrição
 A Casa Na Árvore é a moradia de Finn , Jake , BMO , Shelby e Neptr . Eles moram lá desde o início de Hora de Aventura . A Casa Na Árvore era uma propriedade de Marceline antigamente, mas quando ela saiu, Finn e Jake a encontraram e ficaram com ela. Um pouco depois, em Despejados! , ela tomou a casa de volta, porém devolveu porque simpatizou com Finn e Jake. Em Ocarina , Kim Kil Whan compra a escritura da casa de Marceline, tornando-a oficialmente dele, então Finn e Jake passam a morar lá por aluguel. Mais tarde ele troca a escritura da casa com seu pai por uma ocarina, tornando a casa finalmente propriedade oficial de Finn e Jake .
+
+## Casa na Árvore
+- Normal
+
+- Doce
+
+- Florida
+
+- Futuro
+
+## Informações
+
+### Nome
+
+
+### Localização
+
+
+### Dono
+
+- Finn e Jake (Antigamente)
+
+- Marceline Abadeer ( Despejados! )
+
+- Kim Kil Whan ( Ocarina )
+
+
+### Residentes
+
+
+### Estado Atual
+
+## Detalhes
+
+### Primeira Aparição
+
+
+### Última Aparição
 
 ## Aparência
 Possui uma copa principal e três copas menores que se ramificam a partir do centro. As copas são conectadas por estreitas pontes de madeira. Construído na base da árvore está um barraco de madeira de onde os quartos dentro da copa podem ser acessados. Várias decorações, incluindo janelas, bandeiras e chaminés, podem ser vistas.
@@ -30,3 +70,42 @@ Depois que a árvore cresceu, foi convertida em uma casa. Vários moradores come
 Finn e Jake se mudam para a Casa da Árvore em algum momento antes do início da série, embora a propriedade não seja deles. Marceline deixou que continuassem morando lá, porém em Ocarina , ela trocou a escritura com Kim Kil Whan. No mesmo episódio, foi trocada com  Jake em troca de uma ocarina quebrada, como um símbolo de seu "amor paterno", finalmente passando a propriedade legalmente para Finn e Jake. Após Princesa de Fogo destruir seu reino, Rei Gelado se muda para a casa, mas volta em Encontro para Brincar .
 
 A Casa na Árvore é destruída em Venha Comigo . Em seu leito de morte, Fern pede a Finn e Jake que plante seus restos mortais na região onde ficava sua antiga casa. Logo depois de plantarem, uma árvore cresce no lugar. 1 000 anos no futuro, em Lemonhope Parte II , é revelado que a árvore cresceu absurdamente, e que Shermy e Beth costumam frequentar o lugar.
+
+## Curiosidades
+- Há um local na casa onde tem um coração com as iniciais "AT" de Adventure Time (em português Hora de Aventura ), e o mesmo coração reaparece em " Contando Histórias ", porém em uma árvore da floresta.
+
+- Marceline já morou na casa, como ela mesma alegou em " Despejado! " e que foi provado em " Memória de Uma Memória ".
+
+- Tem uma marca de 'M' que a Marceline fez quando morava lá, como se pode ver em Despejados .
+
+- Finn e Jake pagam impostos para o Reino Doce porque a Princesa Jujuba também tem posse da Terra da Grama, como revelado em "Pegando um Foguinho". E isso também pode explicar o fato da Dona Tromba ser cidadã do Reino Doce mesmo não morando em um lugar feito de doce como mostra em " Pânico na Festa do Pijama " quando ela (Princesa Jujuba) chama todos os seus cidadãos.
+
+- Estranhamente não é danificada em chuvas de canivetes .
+
+- No episódio " Amor Lento ", a casa é destruída pela lesma Snorlock .
+
+- Na casa tem um quadro rasgado de uma mulher de biquíni mas dá a impressão dela estar sem roupa (foi confirmado por Pendleton Ward que ela está de biquíni e não nua).
+
+- Como visto em " Um Último Serviço ", no tronco da casa tem um botão que chama a Gangue do Jake .
+
+- Em " O Cofre " é revelado que a árvore da Casa na Á rvore tem mais de 300 anos.
+
+- Em " O Cofre " é revelado que o corpo de Shoko jaz na fundação da Casa da Árvore, onde a mesma morreu quando a Árvore ainda era um broto.
+
+- No final de " Lemonhope Segunda Parte " ela está muito mais alta e bem mais velha.
+
+- Na frente da casa havia um Pato de Duas Cabeças(porem apena na abertura),mas em "Ghost Fly" é revelado que ele esta morto.
+
+- No episódio " Silêncio! ". Se revela que dentro das paredes da casa da árvore tem ratos, aranhas, um escritor e até mesmo um sarcófago e varias outras coisas talvez. Há vida morando lá.
+
+- Em " Irmãozinho " é possível ver que a Casa na Árvore pode chegar a florir.
+
+- Em "Irmãozinho" mostra que a Casa da Arvore só pode florir agora porque o irmão de Shelby derrotou o Rei Rato que destruía as raízes.
+
+- Em " Irmãozinho " é mostrado que a uma sociedade de criaturinhas vivendo entre os troncos da Casa da Árvore.
+
+- Na sala da Casa na Árvore, há um crânio parecido com o do Lich pendurado na Parede.
+
+- Em " Histórinhas " é mostrado que árvore tem crescido muito, mostrando que talvez após " Irmãozinho " a árvore continuou a crescer.
+
+- Em Lemonhope Segunda Parte é mostrado (na canção da Jujuba ), quando Lemonhope passa por uma árvore, é a mesma árvore do episódio " Histórinhas " (a Casa na Árvore). Confirmando que o mesmo futuro que o Lemonhope estava era o mesmo em " Histórinhas " (1000 anos no futuro).

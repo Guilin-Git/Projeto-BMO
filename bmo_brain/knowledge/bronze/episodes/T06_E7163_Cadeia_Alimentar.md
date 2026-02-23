@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 7163
 nome: "Cadeia Alimentar"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cadeia_Alimentar"
 data_exibicao: "12/06/2014"
 diretor: "Masaaki Yuasa"
 roteiro: "Masaaki Yuasa"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cadeia_Alimentar"
 ---
 
 # Cadeia Alimentar
 
 **Temporada 6 — Episódio 7163**
+
+## Descrição
+" Cadeia Alimentar " é o 7
+º episódio da 6
+ª temporada de Hora de Aventura . É o centésimo sexagésimo (160º) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Em uma viagem de campo para o Museu do Reino Doce de História Natural, Finn e Jake aprendem sobre a cadeia alimentar, tornando-se parte da cadeia alimentar!
@@ -35,8 +58,50 @@ De volta para a realidade, Finn percebe a lição da Cadeia Alimentar e canta " 
 O final mostra Finn transformando-se em um híbrido de verme-lagarta-planta, enquanto as crianças saem devido ao tédio, e mais uma vez entrando na cena vista no início.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Erin
+
 - Mágico
+
+
+### Menores:
+
+- Crianças Doces Terry
+
+- Princesa Jujuba
+
+- Pássaros
+
+- Minhocas
+
+- Terry
+
+## Músicas
+- Versão eletrônica de "Der Hölle Rache Kocht" em meinem Herzen (a rainha da ária da Noite) de Wolfgang Amadeus Mozart A Flauta Mágica.
+
+- Nós Somos Plantas
+
+- Cadeia Alimentar .
+
+## Curiosidades
+- Este episódio, como em " Erro é Erro ", é animado com um estilo diferente dos outros episódios. No entanto, a abertura do episódio tem tomadas de câmera de ângulos diferentes, incluindo personagens em lugares diferentes. Finn e Jake são observados no início da abertura e "Jake o Cão" foi substituído com Jake a Lagarta, Finn o Humano foi substituído por "Finn a Flor." A abertura também não é cantada por Pendleton Ward , mas sim por Masaaki Yuasa como ele produziu o episódio.
+
+- Se você olhar o cartão de título de perto, você pode ver o Mágico no lado esquerdo.
+
+- Esse é o terceiro episódio sem o Caracol , os outros dois são o " Piloto " e " The Wand " , sendo que esse é o primeiro episodio que não é um curta de animação que não possui o personagem.
+
+- Finn se apaixona pela quarta vez nesse episódio.
+
+## Referências Culturais
+- Quando Finn e Jake são primeiramente transformados em pássaros, a música tocando é "Rainha da Noite Aria" A partir da peça "A Flauta Mágica", de Mozart.
+
+- A cena era Erin e Finn estão caindo, mantendo as mãos tem semelhanças com uma cena em "A Viagem de Chihiro" de Hayao Miyazaki.
+
+## Conexões de Episódios
+- Quando Finn e Jake se transformaram em flores , Finn lembra seu braço flor que foi visto pela última vez em " Breezinha ".

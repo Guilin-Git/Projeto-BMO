@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 5109
 nome: "Todos os Baixinhos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Todos_os_Baixinhos"
 data_exibicao: "29/07/2014"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-109"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Todos_os_Baixinhos"
 ---
 
 # Todos os Baixinhos
 
 **Temporada 5 — Episódio 5109**
+
+## Descrição
+" Todos os Baixinhos " é o 5º episódio da 5ª temporada de Hora de Aventura . É o 109º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn encontra um pequeno saco com miniaturas vivas de todos os seus amigos e inimigos.
@@ -30,7 +57,108 @@ Dezesseis semanas depois, Jake retorna a casa da árvore, onde Finn alega ter ar
 No final, BMO e o Rei Gelado , acabam dançando juntos, completamente por sua conta sem a força de Finn, assim terminando o episodio.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Mágico
+
+
+### Secundarios (Pessoinhas)
+
+- Rei Gelado
+
+- BMO
+
+- Princesa de Fogo
+
+- Tiffany
+
+- Donny
+
+- Lady Íris
+
+- Caracol
+
+- Bruxa
+
+- Kim
+
+- Lenny
+
+- Princesa Caroço
+
+- Xergiok
+
+- Gary
+
+- Conde de Limãograb
+
+- Marceline
+
+- Mordomo Menta
+
+- Sr. Porco
+
+- Ricardio
+
+- Phil
+
+- Princesa Tartaruga
+
+- Booko
+
+- Garota Pirulito
+
+- Princesa Jujuba
+
+- Dona Tromba
+
+- Hunson Abadeer
+
+- Abracadaniel
+
+- Gansinho Vizinho
+
+- Duque das Nozes
+
+- Gary, a Rainha Sereia
+
+- Chaveiro
+
+## Curiosidades
+- É a primeira vez que o Mágico realmente ensina uma boa lição aos personagens: "Não brinque com a vida ou os sentimentos dos outros".
+
+- O cartão de título apresenta o Mágico fazendo os bonequinhos
+
+- Episódio com o maior número de reaparições de personagens, através das pessoas-brinquedo.
+
+- As cores de Lady Íris em seu corpo são apenas amarelo, vermelho e verde, em vez do arco-íris.
+
+- Finn menciona que Lady Íris ainda está grávida.
+
+- O Mágico e Finn dizem a mesma frase neste episódio: "Eu não vou voltar."
+
+- Esta é a primeira vez que Princesa de Fogo interage com outros personagens, embora sejam todos brinquedos.
+
+- Não há o boneco do Mágico incluído na bolsa, apesar de ele ser o único a criá-los.
+
+- Em um trecho do livro de Jay T. Cachorrão , um parágrafo é repetida várias vezes : "Agora, para ser claro, Jay T. Cachorrão não tolera namorico aleatório com garotas devassas, mas sim a consideração cuidadosa de que a amada dá batidas em seu coração. Porque é tudo sobre as batidas. Segundo lugar você tem que se lembrar de ser suave, nenhum bebê audacioso pertence há um bebê trapalhão de namorado desprovido."
+
+- Jake se refere um pouco do trecho do livro neste início do episódio, de que ele deve seguir os caroços e inchaços no seu coração o que implica que ele leu o livro de Jay T. Cachorrão.
+
+- O brinquedo de Finn não tem meias.
+
+- Esse é o episódio com mais insinuações sexuais da série (Junto com " Jogos de Amor ", " Péssima Hora " e " Te Peguei! ").
+
+- Este episódio teve sua primeira exibição no Brasil pelo SBT. No Cartoon Network Brasil, nunca foi exibido, o episódio foi provavelmente banido na America Latina, embora uma cena dele tenha sido exibida dublada em um comercial do canal.
+
+## Referências Culturais
+- Quando o Mágico fala "Fazes o que tu queres, mas há de ser o todo da lei" é uma referência à frase "Faz o que tu queres e há de ser tudo da lei". Este foi o princípio da religião Thelema desenvoldida no começo do século 20 pelo oculista Aleister Crowley.
+
+- As pessoinhas e sua ações são parecidas com o jogo "The Sims". Assim como Finn, existem pessoas que não comem nem dormem porque passam o tempo todo no jogo.
+
+- A conversa entre Finn e sua pessoinha é uma referência ao filme "O Rei Leão", onde Mufasa aparece nas nuvens e dá seu recado à Simba.

@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_espada_relampago",
+  "tipo": "objeto",
+  "nome": "Espada Relâmpago",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_espada_relampago_descricao",
+      "text": "[Objeto: Espada Relâmpago]\nDescricao:\n# Espada Relâmpago",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_relampago",
+        "nome": "Espada Relâmpago",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_relampago_aparicoes",
+      "text": "[Objeto: Espada Relâmpago]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_relampago",
+        "nome": "Espada Relâmpago",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_relampago_sobre",
+      "text": "[Objeto: Espada Relâmpago]\nSobre:\nÉ uma espada com a lâmina em formato de relâmpago. Finn recebe ela como recompensa a partir do primeiro monstro que ele encontra e a usa para destruir as Formigas Azuis de Cristal.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_relampago",
+        "nome": "Espada Relâmpago",
+        "secao": "sobre"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_relampago_curiosidades",
+      "text": "[Objeto: Espada Relâmpago]\nCuriosidades:\n- Se virá-la de cabeça para baixo, parece que o relâmpago está saindo da nuvem.\n\n- Ela lança um raio que não conhecido como lança o raio,o que mostrou foi que ele balançou forte e saiu o raio.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_relampago",
+        "nome": "Espada Relâmpago",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

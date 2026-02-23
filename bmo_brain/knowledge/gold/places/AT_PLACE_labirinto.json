@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_labirinto",
+  "tipo": "lugar",
+  "nome": "Labirinto",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_labirinto_descricao",
+      "text": "[Lugar: Labirinto]\nDescricao:\n# Labirinto\n\nO Labirinto é um local de destaque em \" O Limite \". É um grande labirinto de pedra que se prolonga por quilômetros e termina em um santuário onde Aquandrius vive ( Finn descreve o lugar como \"maior que uma bola de gude\").\n\nJake se estendeu por todo o labirinto e quase morreu por causa do desgaste físico devido ao alongamento limitado em seu corpo, bem como o esforço adicional de manter os outros a salvo das armadilhas nefastas no labirinto, como um Golem , um enxame de escorpiões, e Aquandrius. Uma placa do lado de fora do labirinto proibiu trapaças com a mensagem \"não trapaceie ou você morre\", esta mensagem foi originalmente escrito como uma espécie de fórmula matemática, mas magicamente transformado em palavras quando Finn e Jake perceberam isso.\n\nSe o centro do labirinto é atingido, Aquandrius irá conceder um único desejo. Na sala antes do santuário um quebra-cabeça deve ser resolvido, que nada mais é do que uma imagem confusa de um gato. Finalmente, deve-se cruzar com sucesso um piso cheio de armadilhas mortais. Aparentemente, o labirinto não se destina a ser resolvidas, uma vez que o grupo chega ao centro Aquandrius diz que eles deveriam \"deveria morrer\".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_labirinto",
+        "nome": "Labirinto",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

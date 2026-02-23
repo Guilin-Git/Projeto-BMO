@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Floresta Algodão Doce"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Floresta_Algod%C3%A3o_Doce"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Floresta_Algod%C3%A3o_Doce"
 ---
+
+> Floresta Algodão Doce é um lugar de Hora de Aventura.
 
 # Floresta Algodão Doce
 

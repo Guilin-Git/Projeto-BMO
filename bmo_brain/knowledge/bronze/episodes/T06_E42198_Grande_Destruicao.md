@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 42198
 nome: "Grande Destruição"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Grande_Destrui%C3%A7%C3%A3o"
 data_exibicao: "07/09/2015"
 diretor: "Andres Salaff (supervising) Nick Jennings & Sandra Lee (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
 codigo_producao: "1025-203"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Grande_Destrui%C3%A7%C3%A3o"
 ---
 
 # Grande Destruição
 
 **Temporada 6 — Episódio 42198**
+
+## Descrição
+" Grande Destruição " é o 42º episódio da 6ª temporada de Hora de Aventura . É o centésimo nonagésimo oitavo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 É o dia da eleição no Reino Doce , mas a atenção da Princesa Jujuba é divergida por uma presença nos céus.
@@ -32,11 +59,80 @@ Lá fora, o Reino Doce está em situações de pânico, sobre o cometa. Toronto 
 No barraco, Mordomo Menta está pintando o interior enquanto Princesa Jujuba vai para fora para tomar um ar. De repente, uma enorme explosão e fumaça é visto vindo do Reino Doce na distância.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Rei de Ooo
+
 - Toronto
+
 - Orgalorg (Gunter)
+
 - Mordomo Menta
+
+
+### Menores:
+
+- Povo Doce
+
+- Mãe do James
+
+- Starchy
+
+- S enhor Bolinho
+
+- Chocolate
+
+- Kenneth
+
+- Coração Doce
+
+- Guardas Bananas
+
+- Garota Pirulito
+
+- Coronel Milho Doce
+
+- Crocante
+
+- Biscoito de Gengibre Muto
+
+- Jovens Marshmallows
+
+- Chet
+
+- Jam Jam
+
+- Punchy
+
+- Docinho
+
+- Esquilo Raivoso
+
+- Guardiões Chicletes
+
+- Dona Tromba (mencionada)
+
+- James (mencionado)
+
+- Jujubel (mencionado)
+
+- Caracol
+
+## Curiosidades
+- Neste episódio provavelmente o sonho da Mulher Pássaro (Gunter) junto com a Coruja Cósmica que a Princesa Jujuba "perde" o reino e cai, e isso foi o que tecnicamente aconteceu, ela perdeu os votos para o Rei de Ooo e perdeu o Reino Doce pra ele.
+
+- È o primeiro episódio que Gunter aparece sem o Rei Gelado .
+
+- Nesse episódio é revelado que a Princesa Jujuba tinha uma espaço nave.
+
+- É revelado que o James (ambos todos os 25 em um só) tinha uma mãe.
+
+## Conexões de Episódios
+- Quando o cometa se aproxima do Reino Doce , Finn menciona pra Jake que não vai evacuar o povo, não depois que ele derrubou a torre no castelo; isso foi uma citação do episódio " A Torre ".

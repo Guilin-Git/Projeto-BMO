@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Reino das Nuvens"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_das_Nuvens"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_das_Nuvens"
 ---
+
+> Reino das Nuvens é um lugar de Hora de Aventura.
 
 # Reino das Nuvens
 

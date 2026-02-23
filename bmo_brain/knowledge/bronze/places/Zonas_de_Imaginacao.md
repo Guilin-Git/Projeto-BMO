@@ -1,10 +1,47 @@
 ---
 tipo: "lugar"
 nome: "Zonas de Imaginação"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Zonas_de_Imagina%C3%A7%C3%A3o"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Zonas_de_Imagina%C3%A7%C3%A3o"
 ---
+
+> Zonas de Imaginação é um lugar de Hora de Aventura.
 
 # Zonas de Imaginação
 
 ## Descrição
 Ao longo de Hora de Aventura , inúmeras zonas de imaginação surgiram, às vezes interagindo com o mundo real de maneiras inesperadas. Este artigo contém uma lista desses lugares imaginários.
+
+## Zonas de Imaginação
+
+### Zona de imaginação do Rei Gelado
+
+A Zona de imaginação é um local visitado pelo Rei Gelado . Primeira aparição em " O Que é Vida? ". Zona de imaginação é um espaço mágico onde ele pode imaginar o que quiser, geralmente belas princesas. Ele também imagina e Neptr desfrutar de um pôr do sol como pai e filho.
+
+O Rei Gelado pode teleportar a si mesmo e os outros em sua Zona de Imaginação, embora ele também parece ir lá involuntariamente quando ele é nocauteado por Finn , como visto em " O Que é Vida? " e " Prisioneiras do Amor ". Parece que o Rei Gelado não pode controlar quem vai para a Zona de Imaginação, porque Finn foi capaz de viajar para lá, agarrando a bainha do manto de Rei Gelado . A Zona de Imaginação parece comportar-se como um lugar físico real e não apenas algo imaginado. Em " Prisioneiras do Amor ", o Coruja Cósmica é encontrado na Zona de Imaginação, declarando Rei Gelado um sociopata.
+
+Neptr lembra o Rei Gelado da Zona de Imaginação em " Masmorra do Mistério ", quando ele está desesperado para encontrar Fionna após o fracasso de trazer seu " Fionna e Cake " fanfictions para a vida. Dentro da zona, Fionna , finalmente, tem a voz de Neptr quando Rei Gelado encontra-la.
+
+
+### Mago Negro (Mundo Cerebral)
+
+Durante o final do episódio de " O Enqurídio ", Finn é enviado ao "Cérebro" do Mago Negro para um teste de caráter. Esse lugar pode ou não ser sua Zona de imaginação, parece funcionar de um jeito similar.
+
+
+### Zona de Imaginação do Finn
+
+Zona de Imaginação do Finn é mostrado pela primeira vez no episódio " Cidade das Aberrações ", Finn aparece quando a canção " O Herói Chamado Finn " começa. Ele parece estar sonhando. Mais tarde, foi mostrado no episódio " Sonhos de Um Dia Chuvoso ", onde Finn entra em sua mente, concentrando-se na imaginação. É principalmente em branco, como Finn acredita que a imaginação é para aqueles que não podem encarar a realidade. Há três habitantes lá, Bug Bellamy , Fada , e Tocador de Alaúde . Finn parece saber como controlá-lo, embora ele nunca usa sua imaginação, mas isso poderia ser simplesmente pensando. Ele também foi visto em " Goliad " quando Goliad usou seus poderes psíquicos para penetrar na mente de Finn . Finn tentou lutar contra o que a Princesa Jujuba dizia ser armadilhas imaginárias. No episódio " Parados ", Finn usa sua Zona de Imaginação para pedir ajuda de um animal desconhecido. Quando Finn está em sua Zona de Imaginação, ele desmaia e vai dormir.
+
+
+### Galáxia de Sabores
+
+" As Outras Tortas " começa com a Princesa Jujuba descrevendo uma " Galáxia de Sabores " sobre uma cena que se assemelha a um espaço cheio de doces flutuantes. Mais tarde, o Entregador das Tortas Reais , apesar de ser cego, surdo e completamente insano, percebe que ele está se afastando ainda que a mesma galáxia. Por alguma razão desconhecida, a Princesa Caroço pode ser visto pegando uma carona em uma rosquinha passando, porém se ela realmente está lá ou se é apenas um fruto da imaginação, não sabemos. A imagem de título do episódio " Cinco Historinhas ", de acordo com o desenhista Andy Ristaino , é a Galaxia de Sabores . Embora a imagem de título do episódio, parece não caber dentro história real do episódio, parece mostrar Cuber dentro de uma estrutura cristalina ou nave espacial, atravessando o Galaxia de Sabores , que contém biscoitos flutuantes, cachorros-quentes e sushi.
+
+
+### Sonhos de morte do Jake
+
+Os sonhos de morte do Jake , pode ser associada Zona de Imaginação, sendo derivado das partes mais profundas da mente, bem como associados a um avistamento da Coruja Cósmica .
+
+## Curiosidades
+- O Tocador de Alaúde na zona imaginação de Finn também é Tocador de Alaude de Sir Slicer em " Sangue Sob a Pele ".
+
+- A Zona de Imaginação do Rei Gelado é um verde mais escuro em sua segunda aparição.

@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_biblioteca",
+  "tipo": "lugar",
+  "nome": "Biblioteca",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_biblioteca_descricao",
+      "text": "[Lugar: Biblioteca]\nDescricao:\n# Biblioteca\n\nA biblioteca é um local nos episódios \" Você de Verdade \" e \" Pedro Papel \". Ela é localizada no Reino Tartaruga.\n\nFinn e Jake são os primeiros a usar a biblioteca, enquanto buscam conhecimento no episódio \"Você de Verdade\", mas foram forçados a sair quando eles fizeram muito barulho. A biblioteca é dirigida pela Princesa Tartaruga . Há uma área secreta na biblioteca.\n\nEm \" Esposa Princesa Monstro \", o quarto da Princesa Tartaruga pode ser visto.\n\nEm \" Te Peguei! \" Princesa Caroço adiciona um livro que ela escreveu para a Princesa Tartaruga na biblioteca.\n\nFinn estava na biblioteca durante seu sonho \" Rei Minhoca \" por um curto período de tempo como o terceiro lugar, que ele é transportado até ao início do episódio.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_biblioteca",
+        "nome": "Biblioteca",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_biblioteca_curiosidades",
+      "text": "[Lugar: Biblioteca]\nCuriosidades:\n- A casa da Biblioteca está enterrada no solo, possivelmente era também uma biblioteca na era dos humanos, mas na verdade essa biblioteca está localizada no Reino Tartaruga.\n\n- Cadeiras com o que parece ser a Coruja Cósmica em cima deles pode ser vistas. Esta é provavelmente uma referência que as corujas são um símbolo do conhecimento na mitologia grega, por serem o símbolo de Atena.\n\n- Alguns dos livros estão organizados por rimas, invés de ordem alfabética, como visto quando Finn saiu lendo os títulos de vários livros terminados com \"inhas\".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_biblioteca",
+        "nome": "Biblioteca",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

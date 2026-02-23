@@ -1,0 +1,107 @@
+{
+  "id": "AT_S04E22100",
+  "tipo": "episodio",
+  "nome": "Ponto de Ignição",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "AT_S04E22100_meta",
+      "text": "[Episódio: Ponto de Ignição (Temporada 4, Ep 22100)]\nDiretor: Larry Leichliter\nRoteiro: Patrick McHale Kent Osborne Pendleton Ward\nPersonagens Principais: Finn, Jake, Rei de Fogo, Furnius, Torcho, Princesa de Fogo",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E22100",
+        "temporada": 4,
+        "numero_ep": 22100,
+        "nome": "Ponto de Ignição",
+        "characters_main": "Finn|Jake|Rei de Fogo|Furnius|Torcho|Princesa de Fogo",
+        "characters_secondary": "Pessoas de|Fogo|Cozinheiro de|Flambo|Guardas de|Atores de|Caracol|Cozinheiro de Fogo|Guardas de Fogo|Atores de Fogo",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E22100_sinopse",
+      "text": "[Episódio: Ponto de Ignição (Temporada 4, Ep 22100)]\nSinopse: Finn e Jake ajudam a Princesa de Fogo pegando velas perfumadas, mas acabam entrando em uma nova missão para salvar o Rei de Fogo .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E22100",
+        "temporada": 4,
+        "numero_ep": 22100,
+        "nome": "Ponto de Ignição",
+        "characters_main": "Finn|Jake|Rei de Fogo|Furnius|Torcho|Princesa de Fogo",
+        "characters_secondary": "Pessoas de|Fogo|Cozinheiro de|Flambo|Guardas de|Atores de|Caracol|Cozinheiro de Fogo|Guardas de Fogo|Atores de Fogo",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E22100_enredo_1",
+      "text": "[Episódio: Ponto de Ignição (Temporada 4, Ep 22100)]\nEnredo Parte 1:\nFinn e Jake enchiam balões de ar para Princesa de Fogo estourar usando seus poderes de fogo, eles enchião os balões com pum e arrotos,e a Princesa de Fogo disse que o ar mágico cherava mal e precissava das velas perfumadas do Reino de Fogo para espantar o fedor mágico. Eles aceitaram o trabalho e encontraram o Flambo para usar o escudo que os protegerá do fogo.\n\nAo chegar lá, pegaram as velas e escutaram vozes, um com vos de \"sss\" e outro com sapato desamarrado. Eles disseram que irão matar o Rei de Fogo com gelo e Finn e Jake seguiram eles até um tubo de ventilação, que encontram um cozinheiro com voz de \"sss\" foram até lá derrubando as amoras azuis dele e ele disse que a voz de \"sss\" era da cobra no braço do Finn. O cozinheiro ficou bravo e queria cortar eles no meio, Finn e Jake se disfarçaram de pessoas do teatro e eles tiverão uma ideia de procurar os assasinos do Rei de Fogo na arquibancada do show.\n\nEles fizeram um teatro sobre como matar o Rei. O Rei suspeitou deles e mandaram os guardas prederem eles e viram o que eles roubaram, eles acharam as velas da Princesa de Fogo e o Rei mandou os outros guardas cortarem as cabeças deles, o guarda disse \"Paradosss\" e o outro tinha um sapato desamarrado, Finn destraiu os guardas e ele disse que encontraram os assasinos do Rei de Fogo. O Rei mandou tirar a mascara dos guardas todos viram que eram Furnius e Torcho , os sobrinhos do Rei de Fogo, que alegaram que queriam matá-lo porque ele havia matado seu pai para virar rei. O Rei de Fogo prendeu os assasinos e o Finn perguntou se todos eram mals no reino, o Rei responde que sim e também falou que a Princesa de Fogo era do mal, Finn pergunta se dava para mudá-la para o bem, e o Rei responde que sim, porém ficou desconfiado.\n\nFinn e Jake foram para a casa da Princesa de Fogo quando ela estava dormindo e acenderam as velas, e depois que eles vam embora o Rei de Fogo aparece nas velas e sussurra \"Mal, mal, mal, mal, mal... MAL!\".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E22100",
+        "temporada": 4,
+        "numero_ep": 22100,
+        "nome": "Ponto de Ignição",
+        "characters_main": "Finn|Jake|Rei de Fogo|Furnius|Torcho|Princesa de Fogo",
+        "characters_secondary": "Pessoas de|Fogo|Cozinheiro de|Flambo|Guardas de|Atores de|Caracol|Cozinheiro de Fogo|Guardas de Fogo|Atores de Fogo",
+        "secao": "enredo",
+        "parte": 1
+      }
+    },
+    {
+      "chunk_id": "AT_S04E22100_informacoes",
+      "text": "[Episódio: Ponto de Ignição (Temporada 4, Ep 22100)]\nInformacoes:\n### Temporada\n\n### Código de Produção",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E22100",
+        "temporada": 4,
+        "numero_ep": 22100,
+        "nome": "Ponto de Ignição",
+        "characters_main": "Finn|Jake|Rei de Fogo|Furnius|Torcho|Princesa de Fogo",
+        "characters_secondary": "Pessoas de|Fogo|Cozinheiro de|Flambo|Guardas de|Atores de|Caracol|Cozinheiro de Fogo|Guardas de Fogo|Atores de Fogo",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E22100_creditos",
+      "text": "[Episódio: Ponto de Ignição (Temporada 4, Ep 22100)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E22100",
+        "temporada": 4,
+        "numero_ep": 22100,
+        "nome": "Ponto de Ignição",
+        "characters_main": "Finn|Jake|Rei de Fogo|Furnius|Torcho|Princesa de Fogo",
+        "characters_secondary": "Pessoas de|Fogo|Cozinheiro de|Flambo|Guardas de|Atores de|Caracol|Cozinheiro de Fogo|Guardas de Fogo|Atores de Fogo",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E22100_curiosidades",
+      "text": "[Episódio: Ponto de Ignição (Temporada 4, Ep 22100)]\nCuriosidades:\n- Essa é a primeira vez que a Princesa de Fogo usa uma roupa diferente.\n\n- A serpente no ombro de Finn parecia uma cobra normal sem um feitiço de fogo que teria mordido.\n\n- Esse é o episódio 100 de Hora de Aventura",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E22100",
+        "temporada": 4,
+        "numero_ep": 22100,
+        "nome": "Ponto de Ignição",
+        "characters_main": "Finn|Jake|Rei de Fogo|Furnius|Torcho|Princesa de Fogo",
+        "characters_secondary": "Pessoas de|Fogo|Cozinheiro de|Flambo|Guardas de|Atores de|Caracol|Cozinheiro de Fogo|Guardas de Fogo|Atores de Fogo",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S04E22100_erros",
+      "text": "[Episódio: Ponto de Ignição (Temporada 4, Ep 22100)]\nErros:\n- Nesse episódio Flambo soca Finn e Jake para lançar o Escudo de Fogo, mas em \"Incêndio\" Flambo cuspe para lançar.\n\n- Imediatamente após Finn bater no Jake enquanto eles estão na grama , a boca de Finn desapareceu por dois quadros.\n\n- O poço que foi visto perto da casa Princesa de Fogo em \"Pegando um Foguinho\" , não está mais lá.\n\n- Há erros de continuidade em relação as pinturas nas paredes do castelo do \"Rei de Fogo\".\n\n- Quando a câmera se afasta na mão \"Princesa de Fogo\" no ínicio do episódio , ela tem cinco dedos em vez de 4 dedos.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S04E22100",
+        "temporada": 4,
+        "numero_ep": 22100,
+        "nome": "Ponto de Ignição",
+        "characters_main": "Finn|Jake|Rei de Fogo|Furnius|Torcho|Princesa de Fogo",
+        "characters_secondary": "Pessoas de|Fogo|Cozinheiro de|Flambo|Guardas de|Atores de|Caracol|Cozinheiro de Fogo|Guardas de Fogo|Atores de Fogo",
+        "secao": "erros"
+      }
+    }
+  ]
+}

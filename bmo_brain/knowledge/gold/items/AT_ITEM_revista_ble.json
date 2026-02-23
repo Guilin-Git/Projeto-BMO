@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_revista_ble",
+  "tipo": "objeto",
+  "nome": "Revista Ble",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_revista_ble_descricao",
+      "text": "[Objeto: Revista Ble]\nDescricao:\n# Revista Ble\n\nBLE é uma revista se histórias em quadrinhos. \" Blenanas \" tem como foco a revista em si.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_revista_ble",
+        "nome": "Revista Ble",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_revista_ble_aparicoes",
+      "text": "[Objeto: Revista Ble]\nAparicoes:\n- \" O Armário da Marceline \"\n\n- \" Incêndio \"\n\n- \" Seguindo Seus Passos \"\n\n- \" Nêmesis \"\n\n- \" Historinhas \"\n\n- \" Blenanas \"\n\n- \" Venha Comigo \"",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_revista_ble",
+        "nome": "Revista Ble",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

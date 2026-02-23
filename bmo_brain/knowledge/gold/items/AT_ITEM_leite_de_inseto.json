@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_leite_de_inseto",
+  "tipo": "objeto",
+  "nome": "Leite de Inseto",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_leite_de_inseto_descricao",
+      "text": "[Objeto: Leite de Inseto]\nDescricao:\n# Leite de Inseto",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_leite_de_inseto",
+        "nome": "Leite de Inseto",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_leite_de_inseto_aparicoes",
+      "text": "[Objeto: Leite de Inseto]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_leite_de_inseto",
+        "nome": "Leite de Inseto",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_leite_de_inseto_aparencia",
+      "text": "[Objeto: Leite de Inseto]\nAparencia:\nO leite de inseto está contido em uma caixa de leite meio galão. O recipiente tem dois símbolos do lado: a joaninha perto do topo e que se parece com um banquinho para sentar-se em enquanto ordenha o inseto . Isto sugere que um certo tipo de inseto é ordenhada para obter leite de inseto.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_leite_de_inseto",
+        "nome": "Leite de Inseto",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_leite_de_inseto_curiosidades",
+      "text": "[Objeto: Leite de Inseto]\nCuriosidades:\n- É possível que o leite de Inseto é uma referência ao filme de 1988 comédia de horror Beetlejuice .\n\n- Pode estar relacionado com manteiga de besouro, que é visto em Guerra de Cartas .\n\n- Ele pode ser usado como um power-up no Adventure Time DS Game : Adventure Time: Hey Rei Gelado! Why'd You Steal Our Garbage?!",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_leite_de_inseto",
+        "nome": "Leite de Inseto",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

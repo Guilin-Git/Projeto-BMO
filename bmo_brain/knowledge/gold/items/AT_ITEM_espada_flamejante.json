@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_espada_flamejante",
+  "tipo": "objeto",
+  "nome": "Espada Flamejante",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_espada_flamejante_descricao",
+      "text": "[Objeto: Espada Flamejante]\nDescricao:\n# Espada Flamejante\n\nA Espada Flamejante aparece no episódio \" Teia de Estranhos \", em que Ed , a aranha, encontra-lo e uma capa, enquanto procura um presente para Barb na floresta. Ele encontra-la nas mãos de uma carcaça do que parece ser um cavaleiro humanóide. Ele, então, envolve a espada na capa e traz para a sua esposa, a fim de salvar seu relacionamento. Quando isso falhar, ele usa a Espada Flamejante para libertar Finn , Jake , e as duas moscas de sua teia e derruba a espada no chão.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_flamejante",
+        "nome": "Espada Flamejante",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_flamejante_aparicoes",
+      "text": "[Objeto: Espada Flamejante]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_flamejante",
+        "nome": "Espada Flamejante",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_flamejante_curiosidades",
+      "text": "[Objeto: Espada Flamejante]\nCuriosidades:\n- Esta é uma espada imbuído de magia de fogo.\n\n- A Espada Flamejante aparece como um item em Adventure Time: Hey Rei Gelado! Why'd you steal our garbage?!!\n\n- O Código Rúnico inscrito na espada se traduz em \"Eu sou um esqueleto. Eu gostaria de ter a pele.\"",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_flamejante",
+        "nome": "Espada Flamejante",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

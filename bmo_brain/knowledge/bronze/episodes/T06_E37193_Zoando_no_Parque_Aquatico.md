@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 37193
 nome: "Zoando no Parque Aquático"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Zoando_no_Parque_Aqu%C3%A1tico"
 data_exibicao: "03/08/2015"
 diretor: "David Ferguson"
 roteiro: "David Ferguson"
 codigo_producao: "1025-202"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Zoando_no_Parque_Aqu%C3%A1tico"
 ---
 
 # Zoando no Parque Aquático
 
 **Temporada 6 — Episódio 37193**
+
+## Descrição
+" Zoando no Parque Aquático " é o 37º episódio da 6ª temporada de Hora de Aventura . É o centésimo quadragésimo primeiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Após resgatar a Princesa Orangotango dos Papais Tristes, Finn e Jake vão a um parque aquático pós-apocalíptico.
@@ -32,3 +59,41 @@ Rei Gelado constantemente tenta deslizar para baixo, porém, ele volta por causa
 Agora nos vestiários, Finn e Jake percebem o Rei Gelado sendo empurrado em uma maca amarrado com cordas. O Rei Gelado está banido para sempre do parque aquático. Ele abaixa a mão e joga o cabelo no ralo em seus rostos de Finn e Jake. Ele ri quando ele é empurrado para longe.
 
 Finn e Jake estão agora longe do parque aquático e estão se secando com os raios do sol. Eles caminham junto com a Princesa Jujuba. Finn vê uma poça e tenta lavar o cabelo do ralo na água indo para dentro. No entanto, ele descuidadamente recebe que os Papais Chorões estão preso nele novamente.
+
+## Personagens
+- Finn
+
+- Jake
+
+- Rei Gelado
+
+- Salva-vidas
+
+
+### Menores
+
+- Princesa Jujuba
+
+- Princesa Orangotango
+
+- Papais Chorões
+
+- Orangotangos
+
+- Caracol
+
+## Curiosidades
+- Esse é considerado o pior episódio de Hora de Aventura no IMDB, com uma nota de 4,9. [ 1 ]
+
+- Este episódio foi feito por um convidado, assim como Cadeia Alimentar e Erro é Erro .
+
+- A razão pela qual os orangotangos são comuns no parque aquático é devido a eles confundirem o aviso com caveira e ossos cruzados com seus "antepassados carecas."
+
+- Parece que o Rei Gelado tem problemas para usar sua magia quando os dedos estão "enrugados".
+
+- Nos créditos finais, é revelado além de Rei Gelado, o Limãograb 3 , Princesa Caroço , Tiffany , Ricardio , Mágico , Donny e Esquilo Raivoso foram permanentemente banidos do Parque Aquático .
+
+## Censura
+- Quando Rei Gelado diz: " Eu não sei como você desceu, mas é melhor me contar e parar de me fazer de... " Era para o Rei Gelado disser "idiota" mas tudo ficou em silêncio e ele continuava mexendo a boca.
+
+- Não passa os créditos finais que foram feitos para este episódio.

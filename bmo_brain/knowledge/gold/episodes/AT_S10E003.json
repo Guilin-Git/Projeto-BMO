@@ -1,0 +1,73 @@
+{
+  "id": "AT_S10E003",
+  "tipo": "episodio",
+  "nome": "Porquinha, Você Gosta de Maçãs?",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E003_meta",
+      "text": "[Episódio: Porquinha, Você Gosta de Maçãs? (Temporada 10, Ep 3)]\nDiretor: Andres Salaff\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E003",
+        "temporada": 10,
+        "numero_ep": 3,
+        "nome": "Porquinha, Você Gosta de Maçãs?",
+        "characters_secondary": "Rei Gelado|Marceline|Porco|Mordomo Menta|Gunter|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E003_sinopse",
+      "text": "[Episódio: Porquinha, Você Gosta de Maçãs? (Temporada 10, Ep 3)]\nSinopse: Rei Gelado está com fome de bacon, então ele tenta comer um porco solitário em uma fazenda.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E003",
+        "temporada": 10,
+        "numero_ep": 3,
+        "nome": "Porquinha, Você Gosta de Maçãs?",
+        "characters_secondary": "Rei Gelado|Marceline|Porco|Mordomo Menta|Gunter|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E003_informacoes",
+      "text": "[Episódio: Porquinha, Você Gosta de Maçãs? (Temporada 10, Ep 3)]\nInformacoes:\n### Temporada\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E003",
+        "temporada": 10,
+        "numero_ep": 3,
+        "nome": "Porquinha, Você Gosta de Maçãs?",
+        "characters_secondary": "Rei Gelado|Marceline|Porco|Mordomo Menta|Gunter|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E003_creditos",
+      "text": "[Episódio: Porquinha, Você Gosta de Maçãs? (Temporada 10, Ep 3)]\nCreditos:\n### Diretor\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E003",
+        "temporada": 10,
+        "numero_ep": 3,
+        "nome": "Porquinha, Você Gosta de Maçãs?",
+        "characters_secondary": "Rei Gelado|Marceline|Porco|Mordomo Menta|Gunter|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E003_curiosidades",
+      "text": "[Episódio: Porquinha, Você Gosta de Maçãs? (Temporada 10, Ep 3)]\nCuriosidades:\n- Enquanto Rei Gelado espia através de seu telescópio, Mordomo Menta pode ser visto brevemente arrastando o que parece ser uma bolsa de corpo para fora de um lago.\n\n- Este é a única historinha curta que não apresenta Finn e Jake.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E003",
+        "temporada": 10,
+        "numero_ep": 3,
+        "nome": "Porquinha, Você Gosta de Maçãs?",
+        "characters_secondary": "Rei Gelado|Marceline|Porco|Mordomo Menta|Gunter|Caracol|Cuber (apenas no cartão de título)",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

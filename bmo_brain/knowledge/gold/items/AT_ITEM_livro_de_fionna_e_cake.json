@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_livro_de_fionna_e_cake",
+  "tipo": "objeto",
+  "nome": "Livro de Fionna e Cake",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_livro_de_fionna_e_cake_descricao",
+      "text": "[Objeto: Livro de Fionna e Cake]\nDescricao:\n# Livro de Fionna e Cake\n\nO Livro de Fionna e Cake é um livro de fã-fic escrito pelo Rei Gelado no episódio \" Fionna e Cake \". É um livro sobre as versões de gênero trocado dos personagens principais da série. Rei Gelado obriga Finn e Jake ao ouvi-lo a lê-lo, aprisionando-os em gelo (embora a cabeça de Finn não esteja em gelo completo). O livro é muito mais romântico do que as aventuras regulares Finn e Jake da 1ª até a 3ª temporada.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_fionna_e_cake",
+        "nome": "Livro de Fionna e Cake",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_livro_de_fionna_e_cake_aparicoes",
+      "text": "[Objeto: Livro de Fionna e Cake]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_fionna_e_cake",
+        "nome": "Livro de Fionna e Cake",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_livro_de_fionna_e_cake_aparencia",
+      "text": "[Objeto: Livro de Fionna e Cake]\nAparencia:\nNa capa diz: \"Fionna and Cake\". A capa também mostra Fionna e beijando o Rei Gelado . Parece estar escrito em algum tipo de ligante e não tem cores.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_fionna_e_cake",
+        "nome": "Livro de Fionna e Cake",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_livro_de_fionna_e_cake_curiosidades",
+      "text": "[Objeto: Livro de Fionna e Cake]\nCuriosidades:\n- O Livro de Fionna e Cake não é o mesmo livro trazido a vida no episódio \" Masmorra do Mistério \".\n\n- Na Edição 1 nos quadrinhos de Hora de Aventura, Rei Gelado estava escrevendo uma continuação chamada \"Fionna e Cake, conheçam Finn e Jake\".",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_livro_de_fionna_e_cake",
+        "nome": "Livro de Fionna e Cake",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

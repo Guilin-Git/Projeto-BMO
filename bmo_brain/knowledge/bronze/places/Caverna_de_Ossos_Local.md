@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Caverna de Ossos (Local)"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_de_Ossos_(Local)"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_de_Ossos_(Local)"
 ---
+
+> Caverna de Ossos (Local) é um lugar de Hora de Aventura.
 
 # Caverna de Ossos (Local)
 

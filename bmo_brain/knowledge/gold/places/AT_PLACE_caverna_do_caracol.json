@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_caverna_do_caracol",
+  "tipo": "lugar",
+  "nome": "Caverna do Caracol",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_caverna_do_caracol_descricao",
+      "text": "[Lugar: Caverna do Caracol]\nDescricao:\n# Caverna do Caracol\n\nA Caverna do Caracol é um lugar no alto de uma montanha visto no episódio \" Seguindo Seus Passos \", onde o Lich reside enquanto possui o Caracol . Depois do episodio \" Seguindo Seus Passos \" a caverna não foi mais usada.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_do_caracol",
+        "nome": "Caverna do Caracol",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_caverna_do_caracol_curiosidades",
+      "text": "[Lugar: Caverna do Caracol]\nCuriosidades:\n- No episódio \" Seguindo Seus Passos \" o Urso dá o livro para o Caracol possuído, que Lich diz que já é um passo.\n\n- Aparentemente a caverna é bem protegida, porque enquanto o Urso subia a montanha havia algumas armadilhas.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_do_caracol",
+        "nome": "Caverna do Caracol",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

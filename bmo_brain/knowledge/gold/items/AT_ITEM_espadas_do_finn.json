@@ -1,0 +1,18 @@
+{
+  "id": "AT_ITEM_espadas_do_finn",
+  "tipo": "objeto",
+  "nome": "Espadas do Finn",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_espadas_do_finn_descricao",
+      "text": "[Objeto: Espadas do Finn]\nDescricao:\n# Espadas do Finn\n\nDurante os episódios de Hora de Aventura , Finn obteve diversas espadas. Esse artigo mostra uma lista de todas as espadas ele usou durante a série.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espadas_do_finn",
+        "nome": "Espadas do Finn",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Floresta Assustadora"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Floresta_Assustadora"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Floresta_Assustadora"
 ---
+
+> Floresta Assustadora é um lugar de Hora de Aventura.
 
 # Floresta Assustadora
 

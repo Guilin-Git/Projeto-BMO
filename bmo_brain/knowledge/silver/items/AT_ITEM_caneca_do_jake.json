@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_caneca_do_jake",
+  "tipo": "objeto",
+  "nome": "Caneca do Jake",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Caneca_do_Jake",
+  "sections": {
+    "descricao": "# Caneca do Jake",
+    "informacoes": "### Sobre Caneca de Jake\n\n### Tipo\n\n### Dono",
+    "aparicoes": "### Primeira Aparição\n\n### Última Aparição"
+  },
+  "source_file": "Caneca_do_Jake.md"
+}

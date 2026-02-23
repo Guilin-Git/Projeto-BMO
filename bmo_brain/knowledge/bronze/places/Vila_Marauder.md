@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Vila Marauder"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Vila_Marauder"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Vila_Marauder"
 ---
+
+> Vila Marauder é um lugar de Hora de Aventura.
 
 # Vila Marauder
 

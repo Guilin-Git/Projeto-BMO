@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_masmorra_do_misterio_local",
+  "tipo": "lugar",
+  "nome": "Masmorra do Mistério (Local)",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_masmorra_do_misterio_local_descricao",
+      "text": "[Lugar: Masmorra do Mistério (Local)]\nDescricao:\n# Masmorra do Mistério (Local)\n\nA Masmorra do Mistério é o principal local do episódio de mesmo nome . Rei Gelado sequestra Limãograb , Dona Tromba , Shelby , e Rojotor e os traz aqui para ajudá-lo a chegar ao centro da cisterna, em que o Antigo Bruxo Adormecido Da Vida reside.\n\nNas paredes da primeira sala no calabouço são as palavras:\n\nExiste 5 desafios que Rei Gelado diz que só pode ser superados de acordo com as habilidades especificas de cada personagem:",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_masmorra_do_misterio_local",
+        "nome": "Masmorra do Mistério (Local)",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_masmorra_do_misterio_local_curiosidade",
+      "text": "[Lugar: Masmorra do Mistério (Local)]\nCuriosidade:\n- O buraco que o Mágico emerge em \" All the Little People \" tem uma notável semelhança com o buraco que o Rei Gelado e os outros saíram da masmorra.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_masmorra_do_misterio_local",
+        "nome": "Masmorra do Mistério (Local)",
+        "secao": "curiosidade"
+      }
+    }
+  ]
+}

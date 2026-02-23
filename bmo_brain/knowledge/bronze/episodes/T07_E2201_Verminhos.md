@@ -1,15 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 2201
 nome: "Verminhos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Verminhos"
 data_exibicao: "11/01/2016"
 diretor: "Elizabeth Ito"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Verminhos"
 ---
 
 # Verminhos
 
 **Temporada 7 — Episódio 2201**
+
+## Descrição
+" Verminhos " é o 2º episódio da 7ª temporada de Hora de Aventura . É o 201º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
+
+## Sipnose
+Bonnibel e Marceline passam um tempo juntas após Rei de Ooo tomar o controle do Reino Doce.
 
 ## Enredo
 O episódio se inicia com Marceline indo até o castelo do Reino Doce á procura de Princesa Jujuba , ela se depara com o Rei de Ooo fantasiado de Princesa Jujuba na cama dela, ele fala á ela os acontecimentos de Grande Destruição onde Princesa Jujuba é destronada e Marceline vira morcego gigante vai voando até a casa do campo de Bonnibel onde ela se encontra.
@@ -21,3 +45,24 @@ Marceline e Bonnibel passam um tempo observando as abóboras, Marceline fala sob
 A criatura se regenera e corre atrás de Marceline e Bonnibel com a ajuda de seus filhotes, um dos filhotes rouba o boné de Bonnibel que acaba tendo que ser levada por Marceline, elas entram em um buraco localizado em uma das paredes, a Mãe Praga e seus filhotes tentam invadir, mas Bonnibel lança um aparelho que cria barreiras tecnológicas e acaba que só dois filhotes conseguem entrar, Bonnibel começa a chorar após lembrar que perdeu seu reino, chapéu e seu povo, Marceline a consola e a Mãe Praga começa a derrubar a caverna com suas cabeçadas, Bonnibel se desespera, Marceline então revela que observou bastante as criaturas, e usa sua metamorfose para transformar seu braço na Mãe Praga, ela usa isso para roer uma saída para elas, as criaturas conseguem quebrar o campo de força mas não conseguem seguir Marceline e Bonnibel.
 
 Na casa do campo, as duas discutem sobre os acontecimentos anteriores e Bonnibel dorme no colo de Marceline, e mordomo menta pergunta se já podia sair onde é encerrado o episódio.
+
+## Personagens
+- Bonnibel
+
+- Marceline Abadeer
+
+- Rei de Ooo
+
+- Mordomo Menta
+
+- Mãe Praga
+
+## Curiosidades
+- Este é o sexto episódio (sem contar os episódios de gênero trocado) em que ambos Finn e Jake não aparecem e nem são mencionados. O primeiro foi " Princess Day ", o segundo foi " Evergreen ", o terceiro foi " Amigos para Sempre (Episódio) ", o quarto foi " Fofura "; e o quinto sendo " Orgalorg (Episódio) ."
+
+- A razão da amizade entre Bonnie e Marceline ter ficado tensa; foi porque Bonnie distanciou-se de tudo para se dedicar ao seu trabalho que era governar o Reino Doce e cuidar de seus habitantes.
+
+- Marceline vira um morcego gigante pela segunda vez; a primeira foi no episódio " Despejados ".
+
+## Conexão de Episódios
+- Quando Marceline voa em direção ao Reino Doce, ela está cantarolando as linhas de " Sou Seu Problema " do episódio " O Que Faltava ."

@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_bebida_doce",
+  "tipo": "objeto",
+  "nome": "Bebida Doce",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Bebida_Doce",
+  "sections": {
+    "descricao": "# Bebida Doce",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "Ela está dentro de um pote de sorvete rosa com patinhos, tem um canudinho branco, e ela é rosa e tem olhos e bocas."
+  },
+  "source_file": "Bebida_Doce.md"
+}

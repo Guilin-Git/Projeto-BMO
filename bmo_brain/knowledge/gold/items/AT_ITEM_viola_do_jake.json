@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_viola_do_jake",
+  "tipo": "objeto",
+  "nome": "Viola do Jake",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_viola_do_jake_descricao",
+      "text": "[Objeto: Viola do Jake]\nDescricao:\n# Viola do Jake",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_viola_do_jake",
+        "nome": "Viola do Jake",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_viola_do_jake_aparicoes",
+      "text": "[Objeto: Viola do Jake]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_viola_do_jake",
+        "nome": "Viola do Jake",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_viola_do_jake_sobre",
+      "text": "[Objeto: Viola do Jake]\nSobre:\nA viola é um membro da família do violino. É a voz do meio do grupo, tendo um passo menor do que o violino, mas maior do que o violoncelo. Muitas vezes, é confundido com um violino, devido tanto a passo instrumento e similaridade em tamanho e forma. As quatro cordas menor para o maior são Lá, Ré, Sol e Dó. A viola é tocada em clave de Dó, diferente do violino que é em clave de Sol.\n\nJake e Lady Íris partilham o mesmo amor pela viola, foi assim que os dois acabaram namorando. Em Os Olhos , Jake tenta atrair o cavalo para longe, tocando \"Sonata ao Luar\" de Beethoven em sua viola, uma canção apropriada dada configuração da cena noturna. Esta falha em persuadir o cavalo, embora interpretação de Jake de Mozart \" Eine Kleine Nachtmusik \" ​​faz sucesso em atrair cobras diversas.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_viola_do_jake",
+        "nome": "Viola do Jake",
+        "secao": "sobre"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_viola_do_jake_curiosidades",
+      "text": "[Objeto: Viola do Jake]\nCuriosidades:\n- A palavra \" Toots \" (gíria em inglês para querido, amor, etc.) está gravada na parte de trás da viola.\n\n- A viola é muitas vezes confundida com o violino, as vezes esse erro é cometido pelos próprios produtores.\n\n- É mostrado em alguns episódios que Jake está segurando a viola errado. Ele também acaricia a curva abaixo da ponte da viola que não produz som algum.\n\n- Jake também colocou o nome de Viola em um de seus filhotes .\n\n- Shelby vive dentro dela.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_viola_do_jake",
+        "nome": "Viola do Jake",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

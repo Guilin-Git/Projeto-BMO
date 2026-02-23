@@ -1,0 +1,50 @@
+{
+  "id": "AT_S01E007",
+  "tipo": "episodio",
+  "nome": "Ricardio, o Coração",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_S01E007_meta",
+      "text": "[Episódio: Ricardio, o Coração (Temporada 1, Ep 7)]\nDiretor: -\nRoteiro: -\nPersonagens Principais: Finn, Jake, Princesa Jujuba, Ricardio, Rei Gelado",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S01E007",
+        "temporada": 1,
+        "numero_ep": 7,
+        "nome": "Ricardio, o Coração",
+        "characters_main": "Finn|Jake|Princesa Jujuba|Ricardio|Rei Gelado",
+        "characters_secondary": "Povo|Doce|Guarda|Banana|Guardiões de|Chiclete|Senhor|Bolinho|Starchy|Sra. Pirulito|Mordomo|Menta|Biscoito de|Gengibre|Pen|Pat|Princesas|Princesa|Caroço|Frutinhas|Anel de|Casamento|Geleca|Esmeralda|Caracol|Guarda Banana|Guardiões de Chiclete|Senhor Bolinho|Mordomo Menta|Biscoito de Gengibre Pen|Biscoito de Gengibre Pat|Princesa Caroço|Princesa Frutinhas|Princesa Anel de Casamento|Princesa Geleca|Princesa Esmeralda",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S01E007_sinopse",
+      "text": "[Episódio: Ricardio, o Coração (Temporada 1, Ep 7)]\nSinopse: Uma coração de fala mansa chamado Ricardio surge e chama a atenção de Princesa Jujuba , deixando Finn com ciúmes enquanto suspeita de que ele pode ser mau.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S01E007",
+        "temporada": 1,
+        "numero_ep": 7,
+        "nome": "Ricardio, o Coração",
+        "characters_main": "Finn|Jake|Princesa Jujuba|Ricardio|Rei Gelado",
+        "characters_secondary": "Povo|Doce|Guarda|Banana|Guardiões de|Chiclete|Senhor|Bolinho|Starchy|Sra. Pirulito|Mordomo|Menta|Biscoito de|Gengibre|Pen|Pat|Princesas|Princesa|Caroço|Frutinhas|Anel de|Casamento|Geleca|Esmeralda|Caracol|Guarda Banana|Guardiões de Chiclete|Senhor Bolinho|Mordomo Menta|Biscoito de Gengibre Pen|Biscoito de Gengibre Pat|Princesa Caroço|Princesa Frutinhas|Princesa Anel de Casamento|Princesa Geleca|Princesa Esmeralda",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S01E007_curiosidades",
+      "text": "[Episódio: Ricardio, o Coração (Temporada 1, Ep 7)]\nCuriosidades:\n- Ri cardio é um trocadilho com o nome Ricardo, já que o personagem é um coração.\n\n- É mostrado que a Coroa de Gelo escurece quando seu usuário está perto de morrer.\n\n- Quando Princesa Jujuba sai do túnel secreto atrás da estante de livros, a parede ao lado do esqueleto diz \"487061\", que é o tripleto hexadecimal da cor da parede.\n\n- No extras do DVD da primeira temporada , Tom Kenny chamou Ricardio de \"um namorado do inferno\".\n\n- O início do episódio é semelhante ao final do Piloto .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S01E007",
+        "temporada": 1,
+        "numero_ep": 7,
+        "nome": "Ricardio, o Coração",
+        "characters_main": "Finn|Jake|Princesa Jujuba|Ricardio|Rei Gelado",
+        "characters_secondary": "Povo|Doce|Guarda|Banana|Guardiões de|Chiclete|Senhor|Bolinho|Starchy|Sra. Pirulito|Mordomo|Menta|Biscoito de|Gengibre|Pen|Pat|Princesas|Princesa|Caroço|Frutinhas|Anel de|Casamento|Geleca|Esmeralda|Caracol|Guarda Banana|Guardiões de Chiclete|Senhor Bolinho|Mordomo Menta|Biscoito de Gengibre Pen|Biscoito de Gengibre Pat|Princesa Caroço|Princesa Frutinhas|Princesa Anel de Casamento|Princesa Geleca|Princesa Esmeralda",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

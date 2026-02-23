@@ -1,14 +1,25 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 1200
 nome: "Bonnie & Neddy"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Bonnie_e_Neddy"
 diretor: "Andress Salaff"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Bonnie_e_Neddy"
 ---
 
 # Bonnie & Neddy
 
 **Temporada 7 — Episódio 1200**
+
+## Descrição
+" Bonnie & Neddy " é o 1º episódio da 7ª temporada de Hora de Aventura . É o ducentésimo episódio no total.
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
 
 ## Sinopse
 Um dos maiores segredos do Reino Doce é revelado graças ás ordens do Rei de Ooo sobre Finn e Jake .
@@ -21,3 +32,38 @@ Finn e Jake usam um pequeno veículo e chegam á casa no campo da Princesa Jujub
 Princesa Jujuba localiza Neddy e manda Finn e Jake esperarem na frente da caverna onde ele se escondeu, Finn e Jake começam a conversar sobre suas armaduras, Jujuba entra e encontra Neddy encolhido no meio da caverna, ela toca nele e então ele começa a tremer, ela começa a emitir sons com a boca e os dois começam a brilhar, ele então dorme e ela o cobre.
 
 Levado de volta ao Reino Doce, ele acorda em seu poço de suco, onde começa a chupar raízes e produzir mais do suco. Rei de Ooo então toma banho e ordena Finn e Jake a o esperarem na frente da banheira dele.
+
+## Personagens
+- Princesa Jujuba
+
+- Rei de Ooo
+
+- Toronto
+
+- Neddy
+
+- Finn
+
+- Jake
+
+- Mãe Goma (Flash Back)
+
+- Orgalorg (mencionado)
+
+- Caracol
+
+## Curiosidades
+- Um preview desse episódio foi lançado no NYCC15;
+
+- É mostrado um dos irmãos da Bonnibel
+
+- Apesar da Bonnibel ainda não ser mais princesa, Finn & Jake ainda chamam ela como "Princesa".
+
+- No flashback é possível ver o rio radiativo perto da pequena árvore onde Neddy estava se alimentando.
+
+- A partir deste episódio, o subtítulo "A Cartoon Network Original" aparece no topo do título na introdução.
+
+## Conexões de Episódios
+- Os eventos de Grande Destruição e O Cometa onde Jujuba é destronada continuam nesse episódio.
+
+- Rei de Ooo menciona os eventos do episódio " O Cometa ", como o Cometa Catalizador e o Orgalorg .

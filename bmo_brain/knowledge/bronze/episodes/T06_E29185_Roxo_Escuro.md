@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 29185
 nome: "Roxo Escuro"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Roxo_Escuro"
 data_exibicao: "16/03/2015"
 diretor: "Adam Muto (supervisor) Nick Jennings (arte)"
 codigo_producao: "1025-185"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Roxo_Escuro"
 ---
 
 # Roxo Escuro
 
 **Temporada 6 — Episódio 29185**
+
+## Descrição
+" Roxo Escuro " é o 29º episódio da 6ª temporada de Hora de Aventura . É o centésimo octogésimo primeiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
 
 ## Sinopse
 Susana Forte e seus aliados se infiltram na misteriosa fábrica de Super Porp .
@@ -31,10 +55,43 @@ Susana leva máscara de Cheryl, usa-lo, e se aproxima dos trabalhadores. Pensand
 Um mês mais tarde, Jake aguarda a máquina Super Porp para reabastecer no mesmo local. Um drone defeituoso voa e deixa cair a caixa na máquina de venda automática. Jake pega uma lata e bebe um pouco e acaba cuspido e derrama um líquido preto, que ele grita com nojo "Eu amaldiçoo isso!"
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Susana Forte
+
 - Sally
+
 - Cheryl
+
 - Celina
+
 - Bebê
+
 - Pessoas Super Porp
+
+
+### Menores:
+
+- Finn
+
+- Jake
+
+- BMO
+
+- Marceline
+
+- Hyoomanos
+
+- Caracol
+
+## Curiosidades
+- É possível ver que todos os Hyoomans agora falam inglês fluente. No entanto, Susana ainda fala em terceira pessoa.
+
+- Neste episodio é revelado que Susana Forte é parte ciborgue quando seu chapéu é retirado.
+
+## Conexões de Episódio
+- Marceline diz que Super Porp estava por lá desde que ela era criança. Isso é verdade pois uma lata de Super Porp pode ser vista em " Simon & Marcy ".
+
+## Censura
+- Há uma censura, na parte que os trabalhadores da Super Porp dizem: "Vamos lamber todos os buracos dela".

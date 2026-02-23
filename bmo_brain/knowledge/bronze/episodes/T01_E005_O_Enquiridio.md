@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 5
 nome: "O Enquirídio!"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Enquir%C3%ADdio!_(Epis%C3%B3dio)"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Enquir%C3%ADdio!_(Epis%C3%B3dio)"
 ---
 
 # O Enquirídio!
 
 **Temporada 1 — Episódio 5**
+
+## Descrição
+" O Enquirídio! " é o 5º episódio da 1ª temporada de Hora de Aventura . É o quinto episódio no total.
 
 ## Sinopse
 Finn e Jake querem provar que são aventureiros  e vão atrás do Enquirídio, o Manual do Herói .
@@ -34,10 +38,104 @@ Todos então vão para uma mesa, onde vão comer o espaguete feito pelo Chaveiro
 Jake pede para Finn lê uma parte do livro, e Finn abre numa página sobre como beijar princesas. Finn começa a rir e fecha o livro. Jake pergunta o que Finn leu. A Princesa Jujuba aparece em uma bola mágica e pergunta para Finn o que está escrito no livro, dizendo que o Mannish nunca vai dizer para ela, mas Mannish diz para Finn não dizer nada, o que irrita a Princesa Jujuba, todos acabam rindo e o episódio acaba.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Chaveiro
+
 - Mannish, o Minotauro
+
 - Velhinhas
+
+
+### Menores
+
+- Mago Negro
+
+- Lady Íris
+
+- Pessoas Doces Canelinha Moranguinha Ponche Senhor Bolinho Coração Doce Picolé de Uva Sra. Pirulito Biscoito de Gengibre Muto Biscoito de Gengibre Pen Biscoito de Gengibre Pat
+
+- Gnomos
+
+- Ogro
+
+- Coração Fera
+
+- Formiga Neutra
+
+- Princesa Frutinhas
+
+- Princesa Cachorro Quente
+
+- Princesa Geleca
+
+- Minhocas
+
+- Caracol
+
+- Canelinha
+
+- Moranguinha
+
+- Ponche
+
+- Senhor Bolinho
+
+- Coração Doce
+
+- Picolé de Uva
+
+- Sra. Pirulito
+
+- Biscoito de Gengibre Muto
+
+- Biscoito de Gengibre Pen
+
+- Biscoito de Gengibre Pat
+
+## Curiosidades
+- O Enqurídio, Manual de Epicteto é na verdade um livro grego escrito por Arriano de Nicomédia por volta de 125. Arriano foi aluno de Epicteto, filósofo grego estoico ( Ver artigo O Enquirídio (Livro) para mais informações ).
+
+- Esse é o primeira episódio a terminar com um ponto de exclamação.
+
+- No final do episódio com a logotipo da série, podem se ouvir gritos e tiros. Adam Muto disse que quem adicionou esses sons foi Pendleton Ward , que estava tentando deixar tudo mais "radical". [ 1 ]
+
+- Um clipe de O Enquirídio! aparece em uma televisão no episódio " Minha Galera ", do desenho Ursos Sem Curso.
+
+- Esse foi o primeiro episódio a mostrar sangue explicitamente.
+
+
+### Notas de Produção
+
+- Esse foi o primeiro episódio a ser produzido. Como esse episódio seria o primeiro produzido, a série iniciaria com Finn recebendo o Manual dos Heróis, e terminando com ele conhecendo o seu herói, Billy (" O Herói Dele ").
+
+- Durante a produção esse episódio acabou ficando duas vezes mais longo, então diversas cenas tiveram que ser cortadas. Veja aqui o storyboard original .
+
+- A parte em que Finn diz " This party is so crazy! " foi colocado na variante do logotipo do Cartoon Network Studios após o final dos créditos dos episódios de Hora de Aventura.
+
+- Como esse episódio seria o primeiro produzido, a série iniciaria com Finn recebendo o Manual dos Heróis, e terminando com ele conhecendo o seu herói, Billy (" O Herói Dele ").
+
+
+### Referências Culturais
+
+- Quando Finn chuta o Mago Negro , ele simplesmente desaparece, sobrando apenas seu robe. É uma clara referência ao filme Star Wars: Uma Nova Esperança , quando Obi-Wan é morto. Essa referência fica mais forte pelo fato de que Mark Hamill , que interpreta Luke Skywalker, dublou o Mago Negro nos EUA.
+
+- Originalmente iriam ser doze provas para provar que Finn é um herói de verdade, provável referência aos Doze Trabalhos de Hércules .
+
+
+### Mudanças e Diferenças
+
+- O Titlecard original era de Finn esfaqueando Jake com uma adaga, depois mudaram para o Finn prestes à esfaqueá-lo, depois a adaga foi substituída por uma baguete. No final o cenário foi clareado, foi tirado uma mancha roxa, os olhos do Jake ficam mais brancos e o Finn aparece sorrindo. Essa série de mudanças foi uma brincadeira da produção de arte mas posteriormente as imagens caíram na internet.
+
+- Originalmente essa devia ser a primeira aparição do Gansinho Vizinho , mas ele foi cortado. Ele se apresentaria com uma frase parecida com a de " Sangue Sob a Pele ": " Eu sou o Gansinho Vizinho, voltem pra tomar suquinho " e insistiria para que Finn bebesse seu suco.
+
+- Originalmente este era pra ser o primeiro episódio, mas decidiram que ele seria o quinto posteriormente.
+
+- Outras coisas como o beijo da Princesa Jujuba na bochecha do Finn foram excluídos ou mudados.

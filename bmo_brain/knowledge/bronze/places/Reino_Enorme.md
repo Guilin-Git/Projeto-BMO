@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Reino Enorme"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_Enorme"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_Enorme"
 ---
+
+> Reino Enorme é um lugar de Hora de Aventura.
 
 # Reino Enorme
 

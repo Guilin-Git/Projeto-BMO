@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 19
 nome: "O Duque"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Duque"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Duque"
 ---
 
 # O Duque
 
 **Temporada 1 — Episódio 19**
+
+## Descrição
+" O Duque " é o 19º episódio da 1ª temporada de Hora de Aventura . É o décimo nono episódio no total.
 
 ## Sinopse
 Durante um acidente causado por Finn , a Princesa Jujuba torna-se verde e careca, e a culpa cai no Duque das Nozes . Finn e Jake não têm escolha a não ser encontrar o Duque das Nozes à ordens da Princesa.
@@ -26,3 +30,75 @@ Mais tarde naquela noite, quando a Princesa Jujuba está viajando para o grande 
 Ela então se acalma um pouco, e diz que ela não permaneceria zangada com Finn para sempre. Mas ela ainda odeia o Duque porque ele sempre come seu suprimento de pudim. Finn então explica a "doença pudinesca" de Duque, dizendo que não podia controlar-se em torno de pudim. Jujuba "perdoa" o Duke e o mal-entendido, mas sussurra no ouvido de Finn que ela não acredita que nisso. Jujuba surge com a idéia de esconder a sua feiura enviando Finn e Jake ir para o grande encontro, em vez dela, usando perucas da Princesa Jujuba para representa-la.
 
 Durante a reunião Jake descobre que a pessoa que está sentada ao lado dele é Marquês das Nozes , que ainda quer matar Finn por tentar prender o pai, e o anfitrião se revela ser o Esquilo Raivoso , que quer Jake o responda. Jake não o reconhece. Em um acesso de raiva, Marquês das Nozes e o Esquilo atacam Finn e Jake juntos. A cena congela antes do episódio terminar logo depois.
+
+## Personagens
+
+### Personagens Maiores
+
+- Finn
+
+- Jake
+
+- Princesa Jujuba
+
+- Duque das Nozes
+
+
+### Personagens Menores
+
+- Duquesa das Nozes
+
+- Marquês das Nozes
+
+- Esquilo Raivoso
+
+- Dr. Sorvete
+
+- Mordomo Menta
+
+- Cavalo Goma
+
+- Marceline
+
+- Princesa Trapo
+
+- Princesa Cachorro Quente
+
+- Princesa Geleca
+
+- Princesa Frutinhas
+
+- Princesa Esmeralda
+
+- O Caracol
+
+- Rei Caroço
+
+## Curiosidades
+- Este é o segundo episódio em que o Caracol apareceu duas vezes, uma no monitor do Esquilo e outra quando o Duque ajudou uma família de patos a atravessar uma poça d'água. (A Primeira foi em Despejados )
+
+- Marceline está presente no "Grande Encontro da Realeza de Ooo"
+
+- O resultado da primeira garrafa a ser jogada é semelhante aos Amebóides de " Bonitopia ".
+
+- O fosso do Reino Doce é geralmente cheio de chocolate, mas Finn e Jake são vistos nele no início do episódio.
+
+- O nome original desse episódio era "Duque das Nozes".
+
+- No cartão de título é possível ver o Duque das Nozes em cima de um monte de pudins derramados no chão.
+
+- Neste episódio, a sanidade da Princesa Jujuba mostrou-se bastante questionável.
+
+
+### Erros
+
+- Na foto de Finn na sala da Princesa Jujuba, sua expressão facial muda várias vezes durante a cena.
+
+- Princesa Jujuba chama o Mordomo Menta de "Mordomo Pimentinha já que seu nome em inglês é Peppermint Butler".
+
+- Quando Finn e Jake começam a falar na reunião. Jake esta á esquerda e Finn está à direita. Mas quando o esquilo se revela Jake está à direita e Finn está à esquerda.
+
+
+### Conexões de episódios
+
+Quando Finn e Jake atiram a primeira garrafa, a reação é semelhante aos Amebóides de Bonitopia .

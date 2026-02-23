@@ -2,30 +2,66 @@
 tipo: "personagem"
 nome: "Princesa de Fogo"
 categoria: "Reino de Fogo"
-nome_completo: "Phoebe"
 genero: "Feminino"
 idade: "14 Anos (4°temporada), 15 Anos (5°temporada), 16 Anos (6°temporada Até Venha comigo)"
 especie: "Fogo"
 ocupacao: "Princesa/Rainha do, Reino de Fogo"
-parentes: "Rei de Fogo, (pai), Flint, (irmão mais velho), Furnius, e, Torcho, (primos), Tios, Baldus, (reencarnação)"
-primeira_aparicao: "", Incêndio, ""
-ultima_aparicao: "", Venha Comigo, ""
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Princesa_de_Fogo"
+parentes: "Rei de Fogo (pai), Flint (irmão mais velho), Furnius e Torcho (primos), Tios, Baldus (reencarnação)"
+primeira_aparicao: "Incêndio"
+ultima_aparicao: "Venha Comigo"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Princesa_de_Fogo"
 ---
+
+> Princesa de Fogo é um personagem de Hora de Aventura. Categoria: Reino de Fogo.
 
 # Princesa de Fogo
 
 ## Descrição
 Phoebe (como revelado em " O Resfriador "), também conhecida como Princesa de Fogo ( Rainha de Fogo , como ela é atualmente chamada no Reino de Fogo ), é a melhor amiga de Canelinha , e ex-namorada de Finn . Ela teve sua primeira aparição em  " Incêndio ". Ela é filha do Rei de Fogo . Ela passa a ser uma personagem principal a partir da 5ª temporada. Apartir do episódio " Terra e Água " ela passou a ser a nova governante do Reino de Fogo .
 
-## Aparência
-Princesa de Fogo tem o cabelo laranja e vermelho longo sobre a cintura, que é como o fogo e como tais fluxos cima de sua cabeça. Ela tem olhos negros que brilham branco e amarelo á luz do seu fogo. Seus braços também são retratadas como mais espessa do que a maioria dos personagens. Sua pele é amarela e laranja e ela geralmente usa um vestido vermelho-alaranjado sob uma túnica cor de laranja claro. No início, ela não usa sapatos, embora o vestido geralmente esconde os pés de vista. Ela tem duas pedras preciosas em forma de diamante vermelho, um na testa e outro na parte da frente do vestido.
+## Informações
 
-Quando suas chamas estão encharcadas, sua pele muda para um tom cinza-rosado, e seu cabelo cai pelas costas e se torna uma sombra opaca marrom. Em condições secas, ela retorna á sua aparência normal rapidamente. Quando Princesa de Fogo é privada de oxigênio ela vira uma leve sombra azul, como visto em Pegando Um Foguinho .
+### Nome
 
-Ela normalmente vive vestindo roupas, principalmente vestidos, em todos os tons diferentes de vermelho com uma jóia em sua testa e seu cabelo é visto a maior parte do tempo. Em Ponto de Ignição , ela é mostrada com os cabelos em dois pães colaterais e ela começa a usar sapatos. O animatic também mostrou-lhe usando uma gargantilha, que mais tarde foi removida. Em Caverna de Ossos , ela veste um vestido sem alças seu cabelo parece ser mais curto do que geralmente é visto. Em Earth & Water , ela usa um vestido branco casual com uma túnica de manga curta cor de pêssego, uma faixa rosa quente e um par de botas vermelhas que são cerca de altura do joelho. Durante a sua de flashback, quando ela era um bebê, ela usa uma camisa vermelha e uma fralda rock. Seu cabelo também é menor. Mais tarde no episódio, ela usa um terno semelhante ao de seu pai e uma coroa.
 
-## Personalidade
+### Sexo
+
+
+### Idade
+
+16 Anos (6°temporada Até Venha comigo)
+
+
+### Espécie
+
+
+### Ocupação
+
+
+### Moradia
+
+Reino de Fogo (congresso moderador)
+
+
+### Parentes
+
+Flint (irmão mais velho) Furnius e Torcho (primos) Tios
+
+## Detalhes
+
+### Primeira Aparição
+
+
+### Última Aparição
+
+## Dubladores
+
+### Inglês
+
+
+### Português (BR)
+
+## Personalidade e traços
 Princesa de Fogo tem uma personalidade volátil, ela geralmente tem um comportamento calmo, embora com tendências bastantes frequentes a oscilações súbitas e violentas de humor. Ela é descrita como apaixonada por Finn, mal pelo Rei de Fogo e intensa por Pendleton Ward . O Rei de Fogo também observa que ela é difícil de controlar. Ela parece ser muito sensível e rápida para julgar. Ela também é propensa a ataques não provocados de agressão, como mostrado quando ela joga bolas de fogo em seus súditos apenas por sussurrar. Princesa de Fogo também é impressionável de uma forma positiva. Ela está muito feliz quando Finn a chama de linda. Ela também estava interessada quando Jake estava dando-lhe presentes no episódio " Incêndio " e animada quando seu pai a liberta. Embora essa excitação rapidamente se transforma em raiva quando Príncipe Finn a rejeita.
 
 No episódio " Quente Demais ", Princesa de Fogo mostra curiosidade sobre seu novo ambiente, examinando flores. Isto configura-las no fogo e ela parece surpresa com a reação, indicando que ela não sabe muito sobre diferentes terras além do Reino de Fogo . No final do mesmo episódio, ela mostra que ela gosta de Finn, mas acha que eles não podem ficar juntos porque eles são elementais opostos, chamando Finn um elemental da água por causa das lágrimas que ela sentia nele.
@@ -59,6 +95,92 @@ Depois de voltar para casa, Princesa de Fogo percebe que é mais poderosa do que
 
 Em " O Trono Vermelho " ela é enganada por Ursula e acaba perdendo seus poderes, e seu pai foge do lampião. Ela foge com Canelinha e Jake 2 e vai pedir ajuda a Finn. Ela é presa, mas com a ajuda do Lord da Chama (que distraiu o Rei de Fogo) Canelinha conseguiu libertar os dois. No final ela volta a ser a Rainha de Fogo.
 
+## Aparições
+
+### Principais
+
+- " Incêndio "
+
+- " Quente Demais "
+
+- " Pegando um Foguinho "
+
+- " Ponto de Ignição "
+
+- " Caverna de Ossos "
+
+- " Frio e Fogo "
+
+- " Terra e Água "
+
+- " O Trono Vermelho "
+
+- " O Resfriador "
+
+- " Bun Bun "
+
+- " Elemental "
+
+- " Buraco Musical "
+
+- " Happy warrior "
+
+- " Hearth hero "
+
+- " Skyhooks II "
+
+
+### Secundárias
+
+- " Rei Minhoca " (no sonho)
+
+- " Reino de Gunters " (mencionada)
+
+- " Me Lembro de Você "(mencionada)
+
+- " Puhoy " (mencionada)
+
+- " Traje de Jake "
+
+- " Velha Demais " (mencionada)
+
+- " Jogos de Amor "(mencionada)
+
+- " O Trem Masmorra "(mencionada)
+
+- " O Poço "(mencionada)
+
+- " Chicletão " (mencionada)
+
+- " Breezy " (mencionada)
+
+- " O Dia da Princesa "
+
+- " Joshua e Margaret " (mencionada)
+
+- " Jake, o Tijolo "
+
+- " A Montanha "
+
+- " O Cometa "
+
+- " A Nuvem Negra "
+
+- " O Salão de Saída " (mencionada)
+
+- " The Light Cloud " (mencionada)
+
+## Habilidades
+Espada de Fogo é uma habilidade da Princesa de Fogo, usado pela primeira vez no episódio " Caverna de Ossos ". É uma chama intensa e isolada, azul-e-branco, brilhante. Ele tem a aparência e o som da chama de um maçarico.
+
+Sensor de Calor (Heat Sense) é um poder também exibido pela primeira vez em " Caverna de Ossos ". A capacidade de detectar vários tipos de matérias inflamáveis na área de detecção. Essa habilidade não queima nada.
+
+Escalhar Fogo é a capacidade de fogo de dispersão, no qual ela emite quatro, manipuláveis, raios de fogo. Visto pela primeira vez em " Caverna de Ossos " quando a Princesa de Fogo se defende contra um esqueleto que queria que ela "tomasse o seu lugar".
+
+Cobra de Fogo é a capacidade de enviar chamas até fios e ter o controle deles, usando como um chicote.
+
+Fogo do Inferno é a capacidade de disparar pelas mãos uma enorme e destrutiva labareda. Visto pela primeira vez em " Frio e Fogo " quando a Princesa de Fogo a dispara contra o Rei Gelado que se defende usando o "Coisa de Gelo".
+
 ## Relacionamentos
 
 ### Rei de Fogo
@@ -71,12 +193,21 @@ Mais tarde, ele tenta enviar mensagens subliminares para ela enquanto dormia diz
 
 Em Terra e Água , quando Princesa de Fogo nasceu, Rei de Fogo temia que ela se tornaria tão poderosa que iria derrubá-lo. Então, ele ordenou um dos seus servos para levá-la para a floresta para que ela possa perecer. No entanto, o servo ficou com pena dela e lhe deu a um lenhador, mas ela vagou em volta e passou a queimar a casa do lenhador e a floresta circundante. Ela foi encontrada pela Princesa Jujuba, que trouxe-a de volta ao seu pai, onde a princesa exigiu para ele controlar sua filha. Então, ele a trancou em uma lâmpada onde ela permaneceu por 14 anos. Quando Princesa de Fogo descobre isso, ela e Canelinha foram para o Reino de Fogo, derrubou seu pai e trancou-o na lâmpada, onde ela ficou aprisionada.
 
+
+#### Irmãos
+
 Princesa de Fogo tem dois irmãos mais novos não identificados e um irmão mais velho que serviu nas forças armadas.
+
+
+#### Prolongado família
 
 Princesa de Fogo tem dois primos: Furnius e Torcho , que odeiam o Rei de Fogo por matar seu pai, a fim de assumir o controle do Reino. Ela também tem uma tia e um tio que são muito críticos.
 
 
 ### Amigos
+
+
+#### Jake
 
 Jake entra no Reino de Fogo ao tribunal da Princesa de Fogo em nome de Finn, que está se sentindo com o coração partido
 
@@ -92,6 +223,9 @@ Jake parece contente de ver Finn feliz com a Princesa de Fogo, como ele foi o ú
 
 Em Traje de Jake , Princesa de Fogo acha que foi muito incondicional de Finn para suportar Jake controlando seu corpo e envergonhá-lo na frente dela e de seus familiares, fazendo a dança do bebê Finn.
 
+
+#### Canelinha
+
 Em Terra e Água , quando Princesa de Fogo se submeteu a experimentos pela Princesa Jujuba para controlar suas emoções, a Princesa Jujuba teve que sair para ajudar Finn e Jake, como ela não tinha escolha, colocou o Canelinha responsável pelo experimento. No entanto, ele trouxe Princesa de Fogo para sua casa conversar. Por gostar de sua honestidade e depois de ter recordado que foi Princesa Jujuba e seu pai que a colocaram na lâmpada, os dois foram para o Reino de Fogo e destronaram o Rei de Fogo e promulgaram uma política onde mentiras não são autorizadas.
 
 Já em " O Trono Vermelho ", o Rei de Fogo escapa de seu prisão e toma posse do reino de novo. Canelinha e a Princesa pedem ajuda à Finn, que concorda. Depois de planos mal-estruturados e do fato de que Finn quer se aparecer para a Princesa de Fogo, os dois são capturados. Mas Canelinha os salva, e, enquanto fogem, ele é acertado por uma bola de fogo, que o assa completamente, tornando-o mais corajoso. No final, ele fala que, graças à Princesa de Fogo, virou um homem melhor. Disse também que ele será seu eterno campeão e que a ama.
@@ -100,6 +234,9 @@ Eles são vistos em " Princess Day " juntos participando do Dia das Princesas , 
 
 
 ### Interesse Amoroso
+
+
+#### Finn
 
 Princesa de Fogo se apaixona rapidamente por Finn em Incêndio . Depois que ela está encharcada com pirotecnias líquidas, ela inconscientemente cai do telhado da Casa na Árvore . Finn pega-la e a traz para dentro. Ela recupera a consciência e com raiva pergunta a Finn por que ele não gosta dela; Finn responde que ele gosta dela, o que faz ela corar de surpresa. Confundida pela inconstância aparente de Finn, ela lhe dá um tapa e avisa para ele nunca mais mexer com ela de novo, sem saber que Jake era o original Príncipe Finn .
 
@@ -130,8 +267,81 @@ Como " Bun Bun " ela o perdoa e amam uns aos outros novamente.
 
 ### Neutro
 
+
+#### Princesa Jujuba
+
 Em All the Little People , Princesa de Fogo e Princesa Jujuba disputam por Finn. Princesa Jujuba revela a Jake em Pegando Um Foguinho que foi ela quem mandou o Rei de Fogo tranca-la na lâmpada devido á sua instabilidade física. Princesa Jujuba sabe, em grande detalhe, sobre a matriz elemental da Princesa de Fogo, o que extremo romance poderia destruir o planeta inteiro. Em Earth & Water , Princesa de Fogo concorda com a Princesa Jujuba para ajudá-la através da criação de um modelo científico que descreveu sua matriz elementar completa, para que ela pudesse isolar e suprimir seus sentimentos violentos. Depois que Canelinha fala para Princesa de Fogo que Princesa Jujuba colocou-a na prisão bebê , dizendo que era uma coisa estranha de amigo , ela finalmente percebe que foi idéia da Princesa Jujuba trancá-la em uma lâmpada quando era criança. Em O Trono Vermelho , quando Canelinha fala se ia pedir a ajuda dela, Princesa de Fogo diz que não confia nela.Mais tarde em "The Cooler" Princesa Jujuba ataca o Reino de Fogo,acreditando que é uma ameaça,porem cancela o ataque devido a conversa com Phoebe(Princesa de Fogo).
+
+
+#### Rei Gelado
 
 Antes que tinha havido qualquer contato direto entre Princesa de Fogo e Rei Gelado, parecia que ele a conhecia porque ele mencionou Princesa de Fogo em Eu Lembro de Você , provavelmente ele pode ter ouvido sobre ela a partir de Finn e Jake. Princesa de Fogo é uma das princesas que o Rei Gelado chama de bem .
 
 Em Frio e Fogo , ela atacou o Rei Gelado depois que ele a chamou de maluca por abraçar um tronco de árvore. Mais tarde no episódio, Finn forjou uma carta insultuosa para fazer Princesa de Fogo e Rei Gelado lutarem novamente. A batalha que se seguiu causaram a maior parte do Reino Gelado destruído.
+
+## Aparência
+Princesa de Fogo tem o cabelo laranja e vermelho longo sobre a cintura, que é como o fogo e como tais fluxos cima de sua cabeça. Ela tem olhos negros que brilham branco e amarelo á luz do seu fogo. Seus braços também são retratadas como mais espessa do que a maioria dos personagens. Sua pele é amarela e laranja e ela geralmente usa um vestido vermelho-alaranjado sob uma túnica cor de laranja claro. No início, ela não usa sapatos, embora o vestido geralmente esconde os pés de vista. Ela tem duas pedras preciosas em forma de diamante vermelho, um na testa e outro na parte da frente do vestido.
+
+Quando suas chamas estão encharcadas, sua pele muda para um tom cinza-rosado, e seu cabelo cai pelas costas e se torna uma sombra opaca marrom. Em condições secas, ela retorna á sua aparência normal rapidamente. Quando Princesa de Fogo é privada de oxigênio ela vira uma leve sombra azul, como visto em Pegando Um Foguinho .
+
+Ela normalmente vive vestindo roupas, principalmente vestidos, em todos os tons diferentes de vermelho com uma jóia em sua testa e seu cabelo é visto a maior parte do tempo. Em Ponto de Ignição , ela é mostrada com os cabelos em dois pães colaterais e ela começa a usar sapatos. O animatic também mostrou-lhe usando uma gargantilha, que mais tarde foi removida. Em Caverna de Ossos , ela veste um vestido sem alças seu cabelo parece ser mais curto do que geralmente é visto. Em Earth & Water , ela usa um vestido branco casual com uma túnica de manga curta cor de pêssego, uma faixa rosa quente e um par de botas vermelhas que são cerca de altura do joelho. Durante a sua de flashback, quando ela era um bebê, ela usa uma camisa vermelha e uma fralda rock. Seu cabelo também é menor. Mais tarde no episódio, ela usa um terno semelhante ao de seu pai e uma coroa.
+
+
+### Fantasias e disfarces
+
+No episódio Ponto de Ignição , ela estava usando pães colaterais em seu cabelo que estava na parte de trás. Ela estava usando sapatos e ela tinha uma camada transparente sob seu vestido.
+
+No episódio Caverna de Ossos , seu cabelo estava mais curto que ela estava com um vestido sem alças, que foi menor do que o seu vestido original e mostrou seus pés.
+
+No episódio Terra e Água , ela usa um vestido branco casual com uma túnica de manga curta cor de pêssego, uma faixa rosa quente e um par de botas vermelhas que são cerca de altura do joelho. Seu cabelo está desgastado e é mais longo. Durante sua flashbacks quando ela era um bebê, ela usava uma camisa vermelha e uma fralda rock. Seu cabelo também foi menor. Mais tarde no episódio, ela usa um terno semelhante ao de seu pai e uma coroa.
+
+## Curiosidades
+- Princesa de Fogo foi trancada em uma lâmpada pelo seu pai, segundo ele por seu temperamento maléfico, porém o verdadeiro motivo é mostrado no episodio " Pegando um Foguinho " em que a Princesa Jujuba fala para Jake , que foi ela quem mandou a princesa ser trancada, porque ela não controla bem o seus poderes.
+
+- Ela é uma das poucas princesas que não foram capturadas ou se quer foram mencionadas pelo Rei Gelado , provavelmente por ser feita de fogo, sendo assim o oposto do gelo. Na verdade ela só é mencionada pelo rei em " Me Lembro de Você ", em sua música " Oh Jujuba! ".
+
+- Suas emoções fazem alterações em seu fogo corporal, então se ela está furiosa, suas chamas se elevam, e quando ela está calma suas chamas enfraquecem.
+
+- Uma das coisas que se disse em uma conferência foi que Finn e a Princesa de Fogo seriam namorados durante toda a série, mas ao parecer isto foi mudado durante o transcurso da série, eles podem ter feito isso para dar mais drama a série.
+
+- Ela ganhou o concurso miss princesa de Ooo no site do Cartoon Network com 70,1% dos votos.
+
+- Ao parecer ela não gosta de falar sobre sua infância, como se ve no comic Adventure Time Vol. 1: Playing With Fire , pois não a aproveitou.
+
+- Ela está convencida de que Finn é um ser de água, já que a única coisa que ele parece fazer é chorar.
+
+- Diz Princesa Jujuba que ela não resiste á romance total.
+
+- Seu poder é suficiente para acabar com a terra.
+
+- Segundo Adam Muto , sua roupa é feita de fogo, o que significa que pode mudar sua roupa a vontade.
+
+- Em " Caverna de Ossos ", revela ter uma habilidade sensorial, para detectar objetos ocultos, girando e criando fogo a baixa intensidade.
+
+- Em " Ponto de Ignição " quando está dormindo, se pode ver livros, uma caixa, uma pedra (provavelmente a pedra a qual beijou ela e Finn em " Pegando Um Foguinho "), e vários cofres em sua habitação.
+
+- Ela tem uma natureza destrutiva e adora destruir coisas como mostrado em " Caverna de Ossos " mas prometeu só fazer isso com coisas do mal.
+
+- Quando pisam, molham ou apagam o fogo que ela deixa de rastro ela se machuca.
+
+- No final de " Pegando um Foguinho ", a Princesa Jujuba diz que eles estão salvos por hora (por agora), ou seja, a Princesa de Fogo pode destruir a Terra de Ooo a qualquer momento.
+
+- Nos EUA ganhou um livro em forma de mangá para sua primeira aventura com o Jake em busca do Finn que foi sequestrado por um dragão: AdventureTime: Playing With Fire .
+
+- Terminou com Finn , embora ainda gostando dele, como visto em Frost & Fire .
+
+- Foi a campeã do Concurso Senhorita Princesa de OOO.
+
+- No episódio Earth & Water Princesa de fogo tranca o seu pai na mesma lâmpada que ele a trancou 15 anos atrás, e se tornando o novo Rei de Fogo, nesse mesmo episódio ela se resolve com Finn e por fim eles resolvem ser só amigos.
+
+- Em Terra e Água é revelado que seu pai a abandonou pelo seu incrível poder, mas a Princesa Jujuba a achou e a levou de volta, onde o Rei de Fogo por ordens da Princesa Jujuba a trancou.
+
+- Em Fionna & Cake 1 , Cake conta uma historia com uma personagem principal cuja aparência é semelhante á ela..
+
+- No storyboard original para Quente Demais , Princesa de Fogo devia beijar Finn , no entanto, a idéia foi abandonada e reutilizada para Pegando Um Foguinho .
+
+- Ama algodão doce.
+
+- No episódio O Resfriador ela revela seu verdadeiro nome é "Phoebe".
+
+- Em Elemental é revelado que Phoebe é a reencarnação do Baldus (Elemento do Fogo).

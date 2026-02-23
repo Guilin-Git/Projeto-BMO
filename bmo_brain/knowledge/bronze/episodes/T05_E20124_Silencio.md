@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 20124
 nome: "Silêncio!"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Sil%C3%AAncio!"
 data_exibicao: "04/10/2013"
 diretor: "Elizabeth Ito (supervisão) Nick Jennings (arte)"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-129"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Sil%C3%AAncio!"
 ---
 
 # Silêncio!
 
 **Temporada 5 — Episódio 20124**
+
+## Descrição
+" Silêncio! " é o 20º episódio da 5ª temporada de Hora de Aventura . É o 124º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake fazem um jogo de silêncio, se comunicando apenas por cartazes já escritos, em quanto isso BMO acha que não são eles de verdade, o que causa uma serie de problemas.
@@ -24,15 +51,50 @@ Enquanto isso, BMO tinha convidado algumas Meninas de Biquini para dançar, mas 
 O episódio termina com uma dedicatória ao falecido recentemente storyboarder de Hora de Aventura: Armen Mirzaian .
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - BMO
+
 - Meninas de Biquini
 
+
 ### Secundários
+
 - Caracol
+
 - Deus da Festa
+
 - Aranha
+
 - Ratos
+
 - Homem na parede
+
+## Proibição na America Latina
+O episódio foi completamente banido na America Latina, talvez alguns desses motivos fossem: Garotas de bikini, algumas conotações sexuais e ect. Nos Estados Unidos o episódio foi ao ar sem nenhum problema, e nenhuma censura, já no Brasil Hora de Aventura tinha a classificação de "não recomendado para menores de 12 anos" o que já era o suficiente para um episódio como esse, mas decidiram banir completamente o mesmo.
+
+## Curiosidades
+- " Silêncio! " entra na lista de episódios completamente banidos de Hora de Aventura , não só na America Latina, mas tambem como em diversos outros paises da Europa e Ásia.
+
+- É revelado que nesse episódio que BMO pode cheirar. Ele parece ser atraído por cheiro de equipamentos tecnológicos.
+
+- As placas de Finn continha todas as letras maiúsculas, enquanto as de Jake eram minúsculas.
+
+- As primeiras exibições desse episódio nos Estados Unidos tinha "Armen Mirzaian (1977-2013) Aw C'mon!" com uma foto dele no final. Mais tarde o Cartoon Network retirou a foto.
+
+- Armen Mirzaian foi um artista de storyboard. Graduou-se no Instituto de Artes da Califórnia, com um BFA em animação de personagens. Em Hora de Aventura, ele escreveu quatro episódios e sete storyboards. Ele morreu em um acidente de carro, em Sun Valley, em fevereiro de 2013.
+
+- O episódio é uma homenagem a Armen, como "um minuto de silêncio".
+
+- Se revela que dentro das paredes da casa da árvore tem, ratos, aranhas, um escritor e até mesmo um sacórfago e varias outras coisas talvez.
+
+- Nas legendas do cartaz de Finn , o nome de BMO aparece como sua pronuncia, "Beemo".
+
+- A parte que Jake quebra a parede com o machado, e olha de um jeito estranho para o lado, é uma referência ao filme "Iluminado".
+
+- Ele parece ser atraído por cheiro de equipamentos tecnológicos.

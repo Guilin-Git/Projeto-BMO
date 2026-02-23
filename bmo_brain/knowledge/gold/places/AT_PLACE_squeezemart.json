@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_squeezemart",
+  "tipo": "lugar",
+  "nome": "Squeez-E-Mart",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_squeezemart_descricao",
+      "text": "[Lugar: Squeez-E-Mart]\nDescricao:\n# Squeez-E-Mart\n\nSqueez-E-Mart é uma loja de conveniência em Terra de Ooo que Jake anteriormente frequentou para comprar Queijo Derretido no episódio \" Princesa Fantasma \". A loja só tem um funcionário conhecido como Tonya . Foi nessa loja que Jake falou sobre a morte de Clarence , que engoliu demasiado Queijo Derretido. Antes de Clarence morrer na loja, ele disse: \"Minha vida é como um pum\", e em seguida explodiu. A loja também aparece em \" Um Último Serviço \". quando os Irmãos Alface Voador roubam Tonya, imitando a voz do chefe do Squeez-E-Mart no telefone (apesar do fato de que ele saiu da loja pouco antes de dos irmãos chamarem Tonya).",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_squeezemart",
+        "nome": "Squeez-E-Mart",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_squeezemart_curiosidades",
+      "text": "[Lugar: Squeez-E-Mart]\nCuriosidades:\n- Squeez-E-Mart pode ser uma referência ao Kwik-E-Mart, a loja de Apu de Os Simpsons .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_squeezemart",
+        "nome": "Squeez-E-Mart",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

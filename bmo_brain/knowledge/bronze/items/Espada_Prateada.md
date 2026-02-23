@@ -3,8 +3,10 @@ tipo: "objeto"
 nome: "Espada Prateada"
 tipo_objeto: "Espada"
 dono: "Finn"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Prateada"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Prateada"
 ---
+
+> Espada Prateada é um objeto/item de Hora de Aventura.
 
 # Espada Prateada
 

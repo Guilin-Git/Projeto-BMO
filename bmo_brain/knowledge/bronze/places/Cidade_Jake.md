@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Cidade Jake"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cidade_Jake"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cidade_Jake"
 ---
+
+> Cidade Jake é um lugar de Hora de Aventura.
 
 # Cidade Jake
 

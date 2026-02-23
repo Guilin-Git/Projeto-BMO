@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Espada de Sangue de Demônio"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_de_Sangue_de_Dem%C3%B4nio"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Espada_de_Sangue_de_Dem%C3%B4nio"
 ---
+
+> Espada de Sangue de Demônio é um objeto/item de Hora de Aventura.
 
 # Espada de Sangue de Demônio
 
@@ -20,8 +22,13 @@ A Espada de Sangue de Demônio, possui um visual um pouco incomum. Ela está em 
 
 ## Curiosidades
 - Parece que a aparência da mesma é alterada desde o episódio " Retorno a Noitosfera " (a ponta do cabo é branca ao invés de vermelha, e continua sendo branca depois desse episódio). Além disso, a guarda em forma de cruz parece ter ligeiramente alargado.
+
 - Fora das três principais espadas que Finn tem usado na série, a Espada de Sangue de Demônio é que mais apareceu.
+
 - Mesmo para os padrões de uma espada, a lâmina em si tem demonstrado uma imensa quantidade de resistência e durabilidade. Isso é demonstrado em "A Masmorra do Papai", quando Finn usou-a para esfaquear e levantar o Monstro do Mal do chão e atirá-lo em um poço atrás de si.
+
 - Em " Caverna de Ossos ", ela se mostrou ser à prova de fogo, já que a Princesa de Fogo a maneja sem qualquer consequência a espada.
+
 - O poder dela era o sangue de Kee-Oth como mostrado em " Encontro pra Brincar " e " O Poço " que quando Finn a quebra sua cor muda para branco significando que ela perdeu "seu" sangue.
+
 - Era uma das espadas preferidas de Finn.

@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_jj",
+  "tipo": "objeto",
+  "nome": "JJ",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_jj_descricao",
+      "text": "[Objeto: JJ]\nDescricao:\n# JJ\n\nJJ é um dos três vagabundos que Finn e Jake enfrentam no Deserto da Morte , em \" As Outras Tortas \". Ele e seus companheiros Grimby e Taddle roubam algumas das (envenenadas) tortas reais. JJ usa seus foguetes para escapar de Finn e Jake e voa com Grimsby e Tattle para o deserto.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_jj",
+        "nome": "JJ",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_jj_informacoes",
+      "text": "[Objeto: JJ]\nInformacoes:\n### Nome\n\n### Sexo\n\n### Espécie\n\n### Moradia",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_jj",
+        "nome": "JJ",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_jj_detalhes",
+      "text": "[Objeto: JJ]\nDetalhes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_jj",
+        "nome": "JJ",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_jj_aparencia",
+      "text": "[Objeto: JJ]\nAparencia:\nJJ parece ser uma máquina de vídeo game, como o BMO . Assim como BMO tem as letras \"BMO\" impresso no lado dele, tem as letras JJ. O rosto de JJ tem três olhos e ele tem uma pequena rachadura ao lado de sua perna esquerda.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_jj",
+        "nome": "JJ",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_covil_do_lich",
+  "tipo": "lugar",
+  "nome": "Covil do Lich",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_covil_do_lich_descricao",
+      "text": "[Lugar: Covil do Lich]\nDescricao:\n# Covil do Lich\n\nO Covil do Lich onde é, provávelmente, a casa do Lich . Lá é uma caverna bem grande que há muitos esqueletos.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_covil_do_lich",
+        "nome": "Covil do Lich",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_covil_do_lich_curiosidades",
+      "text": "[Lugar: Covil do Lich]\nCuriosidades:\n- O Covil do Lich se assemelha à um metrô desabilitado, provavelmente tenha sido desativado por circunstâncias da Guerra dos Cogumelos.\n\n- A Princesa Jujuba disse que esse lugar era uma torre, provávelmente foi destruída.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_covil_do_lich",
+        "nome": "Covil do Lich",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

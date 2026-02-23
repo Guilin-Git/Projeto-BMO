@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 22126
 nome: "Acabou a Festa, Isla de Señorita"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Acabou_a_Festa,_Isla_de_Se%C3%B1orita"
 diretor: "Elizabeth Ito (supervisando) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Adam Muto"
 codigo_producao: "1014-131"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Acabou_a_Festa,_Isla_de_Se%C3%B1orita"
 ---
 
 # Acabou a Festa, Isla de Señorita
 
 **Temporada 5 — Episódio 22126**
+
+## Descrição
+" Acabou a Festa, Isla de Señorita " é o 22º episódio da 5ª temporada de Hora de Aventura . É o 126 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 ﻿Após se cansar de sempre perder lutas com Finn e Jake e sempre falhando em ganhar o amor da Princesa Jujuba , Rei Gelado desiste e joga a toalha após outra tentativa falhada.
@@ -39,7 +60,60 @@ O Deus da festa dispara um feixe de laser no Rei Gelado de sua boca, mas Rei Gel
 Rei Gelado retorna a Ilha, segurando Deus da Festa por trás e fingindo ser ele, abrindo e fechando a boca com os seus pés e segurando os olhos abertos com as mãos. No primeiro momento, a Ilha diz que não há nada que ela quer dizer a ele, mas quando o Rei (imitando o Deus da Festa) tenta incentivar a separação, ela logo termina com ele e diz que foi devido a seu amigo emocionalmente maduro, Rei Gelado. Rei Gelado, ainda fingindo ser o Deus da Festa, diz que o Rei vai terminar com a namorada dele e que ele vai visitar. O Rei deixa a Ilha, joga o Deus da Festa para o espaço exterior, e retorna ao Reino Doce. Ele quebra uma janela do castelo para dizer a Princesa Jujuba que ele está terminando com ela porque ela o trata mal e está sempre longe em festas, em seguida, deixa, sussurrando "vamos resolver as coisas" para si mesmo.
 
 ## Personagens
+
 ### Principais
+
 - Senhorita Ilha
+
 - Rei Gelado
+
 - Deus da Festa
+
+
+### Menores
+
+- Finn
+
+- Princesa Jujuba
+
+- Guarda Banana
+
+- Gunter
+
+- Jake
+
+- Mordomo Menta (mencionado)
+
+- Jimmy (mencionado)
+
+## Músicas
+- Rei Gelado e a Senhorita Ilha
+
+## Curiosidades
+- É a terceira vez que Jake aparece sem falas (a primeira foi em Veio da Noitosfera e " O Pretendente ").
+
+- No final, Rei Gelado demonstra gostar da Senhorita Ilha, já que diz que "terminou" com a Princesa Jujuba e que podia dar certo.
+
+- O Rei Gelado disse que a Princesa Jujuba massacra os relacionamentos, para não desenvolver sentimentos.
+
+- No fundo da primeira cena, parece que a Princesa Jujuba possui duas coroas e o segundo é ligeiramente bem diferente.
+
+- O Caracol aparece bem no inicio do episódio, atrás de um vaso onde há uma pequena árvore, do lado da cama da Princesa Jujuba.
+
+## Referências Culturais
+- "Isla de Senoritã" significa ilha da Miss em espanhol.
+
+- Usando uma fita adesiva para abafar o discurso de uma pessoa é um método usado por criminosos para raptar pessoas.
+
+- "Senhorita Ilha" pode estar relacionado ao da vida real nas ilhas tropicais no Pacífico, como Nauru, Tuvalu, Ilhas Marshall, Kiribati ou Fiji.
+
+- Enquanto esquivando feixes de laser do Deus da Festa , o Rei Gelado exclama "Wowzers", um slogan que se originou no desenho animado de 1980 "Inspetor Bugiganga"
+
+- Rei Gelado ao início do episódio é mostrado como um náufrago. Em determinado momento ele faz uma casa e começa a se habitar a ilha. Essa é uma referência a Robinson Crusoe. No romance escrito por Daniel Dafoe, narra a história de um náufrago que passou 28 anos em uma remota ilha tropical próxima à Trinidad, encontrando canibais, cativos e revoltosos antes de ser resgatado.
+
+- A cena em que o Rei Gelado joga o Deus da Festa ao espaço é uma Dragon Ball e seu clássico golpe de arremesso para cima.
+
+- A espada de gelo gigantesca usada por Rei Gelado muito se assemelha aos limit break usados em Final Fantasy.
+
+## Censura
+- É censurado quando o Rei Gelado tampa a boca da Princesa Jujuba .

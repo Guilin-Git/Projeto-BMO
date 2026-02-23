@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Mundo Espiritual"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Mundo_Espiritual"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Mundo_Espiritual"
 ---
+
+> Mundo Espiritual é um lugar de Hora de Aventura.
 
 # Mundo Espiritual
 

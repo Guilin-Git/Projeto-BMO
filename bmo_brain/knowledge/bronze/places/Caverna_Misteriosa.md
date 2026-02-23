@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Caverna Misteriosa"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_Misteriosa"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_Misteriosa"
 ---
+
+> Caverna Misteriosa é um lugar de Hora de Aventura.
 
 # Caverna Misteriosa
 

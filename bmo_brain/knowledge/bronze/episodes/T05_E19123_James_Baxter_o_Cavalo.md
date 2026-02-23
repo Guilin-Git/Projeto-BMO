@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 19123
 nome: "James Baxter, o Cavalo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/James_Baxter,_o_Cavalo"
 diretor: "Adam Muto (supervisão) Nick Jennings (arte)"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-124"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/James_Baxter,_o_Cavalo"
 ---
 
 # James Baxter, o Cavalo
 
 **Temporada 5 — Episódio 19123**
+
+## Descrição
+" James Baxter, o Cavalo " é o 19º episódio da 5ª temporada de Hora de Aventura . É o 123º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Jake e Finn querem ser iguais a James Baxter e fazer as pessoas tristes felizes.
@@ -28,8 +49,47 @@ Eles chegam em um estúdio cheio de alto-falantes e equipamentos eletrônicos. O
 De repente, o caixão se abre e esqueleto da pessoa morta saltar para fora, rolando no chão. Os enlutados e Jake fugiu, apavorado, enquanto Finn batalhas do esqueleto. O fantasma do esqueleto aparece como Finn pede Jake alguma ajuda. Jake aparece dentro de uma flor e cresce grande, mas foram jogados para trás, quando o fantasma cospe sobre eles. O fantasma joga um grande pedaço de terra para eles, que eles esquivar. Jake protege Finn dos ataques, mas o fantasma os soca para baixo para o chão.Finn diz Jake um ferido que ele irá bloquear o próximo ataque, mas Jake percebeu que iria morrer e executa uma salva de palmas rítmica, dizendo Finn que ele deve ouvir o som para que eles possam ser separados no Mundo Morto 9. De repente, James Baxter aparece, acalmando-o enquanto ele está quase batido a dupla até a morte. O fantasma carrega Finn e Jake para fora do buraco e coloca-los suavemente sobre o solo, e perguntou-lhes se eles sabiam desse cara. Eles respondem que conheço, enquanto o cavalo, percebendo a noite está chegando, esvazia sua bola de praia, dobra-o em um chapéu triangular e trota fora como o episódio termina.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - James Baxter (Personagem)
+
 - BMO
+
+
+### Secundárias
+
+- Garota Pirulito
+
+- Pessoas Pizza
+
+- Pessoas do Funeral
+
+- Menininha Pirulito
+
+- Espírito do Cara Morto no Funeral
+
+- Povo Árvore
+
+- Caracol
+
+## Música
+- " BMO, Como Ficou Tão Grávido? "
+
+## Censuras
+- é censurado quando Jake coloca o traseiro dele na cabeça do finn
+
+## Curiosidades
+- O espirito do cadáver tem a aparencia similar aos Monstros de gosma
+
+- No inicio do episódio BMO provavelmente se refere a Bolha do episódio " BMO Perdido " quando fala que uma entidade elétrica falou com ele dizendo que precisava de "seu corpo perfeito" para hospedar uma "encarnação" humana de um bebê. A versão juvenil do Mordomo Menta
+
+- Quando James Baxter estava animando as pessoas, uma versão bebê do Mordomo Me nta aparece.
+
+- A James Baxter trabalhando no seu personagem. capa do episódio refere - se á James Baxter o cartunista fazendo o episódio.
+
+- Foi a segunda vez em que Finn e jake lutam com um fantasma a primeira foi sangue sob a pele

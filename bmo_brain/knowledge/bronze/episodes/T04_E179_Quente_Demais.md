@@ -1,31 +1,112 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 179
 nome: "Quente Demais"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Quente_Demais"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-082"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Quente_Demais"
 ---
 
 # Quente Demais
 
 **Temporada 4 — Episódio 179**
 
+## Descrição
+" Quente Demais " é o 1º episódio da 4ª temporada de Hora de Aventura . É o septagésimo nono episódio no total. Esse episódio é a continuação de " Incêndio ".
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
+
 ## Sinopse
 As tentativas de Finn de provar para Jake que a Princesa de Fogo não é realmente má enquanto tenta conquistar seu coração se transformam em uma aventura para pará-la de destruir o Reino Goblin .
 
+## História
+Na tentativa de fazer Princesa do Fogo gostar dele Finn decide seguir ela, a Princesa estava dentro da floresta, observando a natureza e quando encostava em algo (como em flores) queimava. Ela tentou entrar no rio, mas se machucou por causa da água. Quando se feriu Finn que estava observando tenta ajudá-la, mas acaba pisando em cima de uma de suas pequenas chamas o que faz ela se machucar, Finn tenta conversar com ela e dizer que gosta dela, mas acaba deixando ela mais confusa. Ela sai correndo e Finn vai atrás.
+
+Finn e Jake chegam ao um campo aberto, no fim da floresta. Eles olham para os lados, mas não acham a Princesa de Fogo . Então ela sai de trás de uma árvore e diz que eles caíram em uma armadilha. A Princesa cerca um lado de fogo e vai para o outro lado. Ela ataca Finn, mas Finn tenta conversar e explicar que gosta dela e que não queria brigar. A Princesa de Fogo acha que Finn é louco, ela fala que Finn disse que gostava dela, mas depois disse que não. Frustrada, a Princesa vai até o Reino dos Duendes com a missão de transformar o local em seu reino de fogo. Jake diz a Finn que eles precisam lutar contra "a monstro de fogo", mas Finn diz que não pode lutar que alguém que ele gosta. Jake pergunta a Finn se ele quer tentar a Princesa de Fogo ou se ele quer se herói e salvar o Reino Goblin . Finn escolhe ser herói.
+
+A dupla de heróis volta para casa atrás de roupas a prova de fogo e Jake acidentalmente acha Neptr que estava escondido ali a bastante tempo (por volta de 9 meses). Finn pergunta a Neptr se sabe construir roupas a prova de fogo. Neptr cria duas armaduras a prova de fogo e eles vão até o Reino dos Goblins.
+
+Quando chegaram lá a Princesa do Fogo já estava acabando com tudo e falando como se estivesse decorando uma casa. Finn , de novo, tenta falar com a Princesa de Fogo , mas ela continua destruindo a cidade. Jake vai apagar o fogo em um lugar, mas Finn diz para ele parar porque machuca a Princesa. Jake não para, ele precisa salvar os globins.
+
+Neptr decide lançar jatos de água na princesa, mas Finn não deixa e vira a armadura para o outro lado, acertando uma das chamas, Finn vira novamente, agora acertando Jake, destruindo a armadura de Jake. A Princesa de Fogo fica furiosa, virando uma chama enorme e saindo para o outro lado.
+
+Finn lamenta dizendo que não consegue namorar e começa a chorar. Uma lagrima de Finn cai em uma das chamas chamando atenção da Princesa, a Princesa então olha para trás e vê Finn chorando. De repente, ela volta ao normal e todo o fogo some.
+
+A Princesa vai falar com Finn e chega à conclusão de que Finn é um elementar de água pois consegue criar lágrimas (uma coisa normal para um ser humano), assim um ser oposto a ela. A Princesa pergunta a Finn se ele quer ir contra a natureza, e Finn diz que eles poderiam tentar. Eles tentam se abraçar, só que eles acabam se ferindo e ela vai embora.
+
+Jake diz que não restou nenhum goblin vivo e Finn fica desesperado, mas era só uma pegadinha. Todos estavam a salvo.
+
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa de Fogo
 
+
 ### Secundários
+
 - Neptr
+
 - Goblins
+
 - Pássaro Marrom
+
 - Princesa Frutinhas (mencionada)
+
 - BMO (mencionado)
+
 - Rei de Fogo (mencionada)
+
 - O Caracol
+
+## Curiosidades
+- Neptr fez a sua segunda aparição.
+
+- Finn e Jake esqueceram que estavam brincando de esconde-esconde com Neptr, por isso ele ficou sumido.
+
+- Rojetor é chamado de Neptr agora nesse episódio é pra frente.
+
+- Neptr fala que Finn e Jake demoraram 11 meses para achá-lo depois do episódio " O Que é Vida ?" que é da primeira temporada, sendo que esse o episódio é da Quarta Temporada, 3 Temporadas depois.
+
+- Este é o primeiro episódio que a Princesa de Fogo é dublada por Sílvia Goiabeira, o outro é Pegando um Foguinho e o último é O Rei Minhoca, até que nos últimos episódios a princesa de Fogo é dublada por Luisa Palomanes (exceto em Ponto de Ignição onde a Princesa de Fogo é dublada por Jullie).
+
+- No início, quando Princesa de Fogo bate em Finn durante a repetição do final de " Incêndio ", a marca de mão esquerda no rosto de Finn é uma cor mais clara do que a que foi deixado em seu rosto em "Incêndio". A marca de mão desaparece quando Finn responde com raiva ao que a Jake que a Princesa é má.
+
+- Princesa de Fogo diz: "Eu já ouvi tudo isso antes", depois de Finn dizer a ela que não quer magoá-la, o que poderia significar que algo como isso já acon teceu antes, possivelmente quando ela estava trancada pela primeira vez no lampião.
+
+- Finn diz que gostaria de jogar BMO com a Princesa de Fogo.
+
+## Referência Cultural
+- A armadura à prova de fogo construída por Neptr para Finn é uma referência à armadura Mark I do Homem de Ferro, com Neptr agindo como Inteligência Artificial igual à Jarvis.
+
+- Na armadura à prova de fogo também é possível ver numa cena que há a marca de um arco-íris no braço direito da armadura e de um unicórnio atrás fazendo uma referência as Belas Marcas (cutie marks) do desenho My Little Pony - A Amizade é Mágica.
+
+## Erros
+- O Reino Goblin foi chamado de "Reino dos Duendes" e mesmo com os Goblins que foram chamados de "duendes".
+
+- Quando Princesa de Fogo voa para fora da janela, a janela não está em chamas, enquanto Jake e Finn continuar falando, a janela ainda não está em chamas, quando Finn diz: "Ela não é do mal", a janela está em chamas.
+
+- No epísodio anterior Finn fala gamei mas nesse ele fala apaixonado.
+
+- Quando Finn e Jake estão voando sob o Reino Goblin, um Goblin passa correndo pelo fogo da Princesa de Fogo mas não se queima.

@@ -1,16 +1,42 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 7232
 nome: "Homem Normal"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Normal_Man"
 data_exibicao: "30/01/2017"
 diretor: "Andres Salaff"
 roteiro: "Kent Osborne Jack PendarvisJesse MoynihanAshly BurchAdam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Normal_Man"
 ---
 
 # Homem Normal
 
 **Temporada 8 — Episódio 7232**
+
+## Descrição
+" Normal Man " é o sétimo episódio da oitava temporada de Hora de Aventura. É o episódio duzentos e trinta e dois no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Jack PendarvisJesse MoynihanAshly BurchAdam Muto
+
+
+### Escritor
 
 ## Sinopse
 Normal Man pede ajuda à Finn e Jake para resgatarem o seu irmão.
@@ -25,9 +51,54 @@ O homem normal leva eles até a montanha das armadilhas, onde manticora esta com
 Durante a queda, homem normal explica que queria trazer ele de volta a marte precisa de um líder e se desculpa com Glob por ter sido um babaca durante 1.000 anos. Glob acha que talvez ele tenha realmente mudado. Enquanto eles trocam umas ultimas palavras, Manticora ouve a conversa e decide salvar os dois da queda, com Homem normal esbarrando em Limãograb 3 que estava em um piquenique com a Princesa Caroço em baixo deles. Normal pergunta porque ele fez isso, e ele diz que nunca consegue completar nada e que os irmãos são amáveis juntos. Manticora leva eles de volta para a casa do homem normal. Normal e Glob entram no portal para marte, mas durante a viagem Glob acaba se soltando de Normal de proposito, caindo no espaço dizendo que os dias dele como governante de marte já se foram, e deixa normal encarregado disso. Glob reencontra seus outros 3 irmãos, e fala para um que Homem normal é um cara legal agora. Normal chega em marte e encontra os marcianos desorganizados. Eles se assustam com ele, mas ele fala que está tudo bem. Um marciano estrela do mar vitima da magia dele, pergunta que truque ele estava planejando agora. O Hoem Normal mostra para eles alguns brownies, e diz que é um começo.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Normal Man
+
 - Mini Mantícora
+
 - Grob Gob (Glob) Grod
+
+
+### Menores
+
+- Habitantes da Wild Trap Mountain
+
+- Esquilo Raivoso
+
+- Mantícoras
+
+- Plantas Carnívoras
+
+- Dragão Fantasma
+
+- Formiga Vermelha
+
+- Princesa Caroço
+
+- Limãograb 3
+
+- Abraham Lincoln (flashback)
+
+- Margles (mencionada)
+
+- Marcianos
+
+- Caracol
+
+## Curiosidades
+- É revelado que Grob Gob Glob Grod sobreviveu ao impacto do "falso cometa" (a espaçonave do Martin ) no episódio " Plano Astral ".
+
+- Finn volta a usar a Espada de Raiz nesse episódio devido aos acontecimentos do episódio " Eu Sou Uma Espada ".
+
+- Esse foi o último episódio de Hora de Aventura que Jesse Moynihan trabalhou antes de sair no verão de 2015, para terminar sua webcomic, "Forming."
+
+## Conexões de Episódios
+- Mágico ainda continua sem seus poderes devido ao evento do episódio " Você Esqueceu As Boias ".
+
+- Normal Man também retorna a Marte para fazer as pazes com os Marcianos .

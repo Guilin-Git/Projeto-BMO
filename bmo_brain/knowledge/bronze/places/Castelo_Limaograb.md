@@ -1,13 +1,15 @@
 ---
 tipo: "lugar"
 nome: "Castelo Limãograb"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Castelo_Lim%C3%A3ograb"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Castelo_Lim%C3%A3ograb"
 ---
+
+> Castelo Limãograb é um lugar de Hora de Aventura.
 
 # Castelo Limãograb
 
 ## Descrição
-O Castelo de Limãograb é a maior estrutura no condado de Limãograb governado pelo Conde de Limãograb . É localizado na Terra de  Ooo e esta pelo território do Reino Doce , que significa que requer autoridade da Princesa Jujuba .
+O Castelo de Limãograb é a maior estrutura no condado de Limãograb governado pelo Conde de Limãograb . É localizado na Terra de Ooo e esta pelo território do Reino Doce , que significa que requer autoridade da Princesa Jujuba .
 
 Segundo o próprio Limãograb no episódio " Você Me Fez ", o castelo não tinha cidadãos. Princesa Jujuba pede três voluntários para morar com o Conde, mas as pessoas doces se recusam a fazê-lo e responder com uma multidão enfurecida. No entanto, mais tarde na história Princesa Jujuba cria outro Limãograb que vai viver no castelo.
 

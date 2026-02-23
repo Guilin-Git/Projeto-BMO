@@ -1,9 +1,11 @@
 ---
 tipo: "personagem"
 nome: "Rei Gelado"
-categoria: "Núcleo principal recorrente"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Rei_Gelado"
+categoria: "Núcleo principal"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Rei_Gelado"
 ---
+
+> Rei Gelado é um personagem de Hora de Aventura. Categoria: Núcleo principal.
 
 # Rei Gelado
 
@@ -17,11 +19,81 @@ Tempos antes da Guerra dos Cogumelos , Rei Gelado era um homem que estava estuda
 
 Em " Me Lembro de Você ", Simon, professor de arqueologia, acaba encontrando o Enquirídio durante uma expedição, a cordilheira Hindu Kush no Paquistão; Isso é mostrado em uma notícia de jornal que a Marceline mostra no episódio. A notícia diz: "Simon Petrikov descobre tesouro antigo".
 
+
+### Encontrando a Coroa
+
+Em algum momento ele comprou uma coroa de joias de um comerciante no norte da Escandinávia. Ao chegar em casa, Simon colocou a coroa, para brincar com a sua noiva e faze-la rir, porém ela fez o desmaiar e experienciar visões estranhas. Ele "lutou com [as visões]... gritou com elas até que [ele] percebeu que não era real, era a coroa.
+
+Simon não se lembrava do que havia dito ou feito enquanto usava a coroa, embora fosse o suficiente para assustar sua noiva. Simon nunca mais viu Betty novamente e durante o início da Guerra dos Cogumelos, começou a fazer gravações em fitas de VHS para que as pessoas conhecessem sua história.
+
+
+### Pós-guerra
+
+Ver artigo principal: Guerra dos Cogumelos
+
+Após o fim da Guerra dos Cogumelos e antes de perder totalmente sua sanidade, Simon encontrou uma garotinha chamada Marceline chorando. Para acalmá-la, ele a deu um bicho de pelúcia no qual ela o apelidou de Hambo . Que viria a ser o melhor amigo da menina e sua posse mais preciosa, que ela mantinha sã e salva até ele ser vendido para Maja , a bruxa do céu por seu ex-namorado, Ash. Marceline descrevia Hambo para Ash como o seu "brinquedo favorito da sua vida". Ela é vista usando uma versão velha do boneco quando Finn e Jake visitaram as memórias dela em " Memória de uma Memória ". No episódio " A Bruxa do Céu ", Marceline reencontra com o Hambo depois da Princesa Jujuba conseguiu trocar com a bruxa dando a roupa que Marceline a deu no show. Depois isso, Simon cuidou da garota durante anos, porém, com a necessidade de usar a Coroa para se proteger dos perigos daquele mundo, Simon acabou tendo sua sanidade mental cada vez mais deteriorada. Com a possibilidade de acabar machucando Marceline ou até pior, ele foi obrigado a deixá-la após gravar sua última fita. Antes disso, ele invocou Hunson Abadeer , pai de Marceline, na tentativa de encontrar alguém que cuidasse dela, alguém que segundo ele "não a abandonaria do jeito que ele fez".
+
+É implicado que a coroa apenas quis protege-lo. Ensinou a ele os segredos do "gelo e da neve", então ele poderia sobreviver o mundo pós-apocalíptico, assim como fez como o Finn da Dimensão da Fazenda em " Finn, o Humano ".
+
+
+### Virando o Rei Gelado
+
+Com o passar do tempo, Simon começou a perder a sua cabeça quanto mais ele usava a coroa, acabando com sua mente e seu físico com o passar dos anos até seu estado antigo. Sua condição ficou pior quando a sua noiva, Betty, é levada para seu futuro em que seu subconsciente começa a ter compulsão por princesas. Enquanto piorava por causa da coroa, Simon acreditou que tinha ido longe demais para escapar da influência, porém acreditava que talvez um dia pudesse recuperar a sua sanidade assim Betty, sua "princesa", pudesse voltar e amá-lo novamente. Ele não podia mais ser considerado humano; o poder da coroa não transtornou apenas a sua mente levou o corpo consigo. Sua raça/espécie era Mago de acordo com os roteiristas e escritores.
+
+Simon tornou-se tão desmembrado de sua antiga identidade que a única reação que esboçou quando Finn e Jake viram as fitas do seu passado foi a vergonha de saberem que ele usava óculos. Quando os outros o chamavam de "Simon", ele geralmente ficava confuso ou ignorava.
+
+
+### Retornando ao seu "Eu"
+
+No último episódio da série original, " Venha Comigo ", Betty , Homem Rei e Maja sumonaram a entidade " GOLB " para OOO após o fim da Guerra de Goma. Betty tinha se conectado a Maja para conseguir atrair o poder do GOLB. O Homem-Rei disse que o único que poderia parar a Betty seria o Rei Gelado, no entanto ele usou de suas fanfics, cantando a música do Príncipe Chiclete, na tentativa de conversar com ela. Ela acorda e briga com ele por querer interferir no processo de trazer o GOLB para curá-lo. Suas emoções fortes junto a Maja a fazem explodir, lançando o Rei Gelado e a Betty para dentro da boca da divindade junto a Finn que pulou também para ajudá-los.
+
+Dentro do "estômago" do GOLB, Betty e Simon retornaram aos seus estados originais, sãos e sem poderes mágicos, com ele finalmente lembrando dela. Reunidos novamente, Simon e Betty se abraçaram esperando o seu fim com o espaço ficando cada vez menor.
+
+Após os amigos de Finn e Jake cantarem "Time Adventure", o corpo do GOLB começa a se abrir permitindo Finn e Simon escaparem, contudo Betty deseja ficar e se sacrificar, usando a coroa em seu estado puro de conceder desejos profundos do usuário, ela tenta desejar que o GOLB suma da existência, porém falha, então ela deseja para manter o Simon a salvo. Assim os dois se fundem em uma só entidade. Simon vendo isso fica devastado e é confortado pela Marceline enquanto o novo GOLB sai por um portal. A coroa cai no momento em que o portal se fecha, Gunter decide usá-la e ela concede o desejo mais profundo dele, que é se tornar o Rei Gelado virando a Coisa Gelada.
+
+
+### Vivendo após o sacrifício da Betty
+
+Ele é visto depois na Sala do Tempo do Prismo tentando trazer a Betty de volta, mas o pedido resulta num balde assim como quando o Homem Rei pediu a Margles de volta.
+
+Simon é visto na casa da Marceline, fazendo pipoca e passando um tempo com ela, Jujuba , Mordomo Menta , Coisa Gelada e a Princesa Tartaruga . Sorrindo na maior parte do tempo, implicando que ele superou o luto e o sacrifício de sua amada.
+
+Retornando em " Hora de Aventura: Terras Distantes ", no episódio Obsidiana , passando um tempo após o último episódio. Ele é visto cantando na taberna do Refri Sujinho cantando " Lembrar de Você " e depois leva o Menino Vidro para a casa da Marceline. Ele depois é visto usando a velha roupa do Rei Gelado, com pantufas de Gunter e uma coroa de brinquedo, falando (na versão original) que é assim que ele lida com o trauma dos anos em que passou sendo o Rei Gelado depois que lacaios do Larvo arrobam a casa. Depois da batalha com o Larvo ele aparece com reforços, uns guardas bananas, Finn e a Bronwyn . No final ele aparece dançando com uma pessoa de vidro após o Reino de Vidro ser salvo.
+
+
+### Fionna e Cake
+
+No novo desenho, " Hora de Aventura: Fionna e Cake ", o papel de Simon é ainda desconhecido. Ele aparenta estar mais velho, com o cabelo com uma faixa grisalha e mais rugas.
+
+## Aparições
+
+### Principais
+
+
+### Menores
+
+
+### Mencionados:
+
+- " Hora de Negócios "
+
+- " Amiguinho "
+
+- " Sanduíche do Tempo "
+
+- " Péssima Hora "
+
 ## Relacionamentos
 
 ### Interesses Amorosos:
 
+
+#### Betty:
+
 Betty era a antiga noiva de Simon Petrikov, mas ela o abandona porque ele a perseguiu sobre o efeito da coroa e ele nunca mais o viu. No episódio Betty , Rei Gelado volta a ser Simon e com uma espécie de poção que ele pode ir no passado pedir desculpas a Betty e ela pula e tenta ajudá-lo a sobreviver, mas como ele volta a ser Rei Gelado ela voa para longe.
+
+
+#### Princesa Jujuba:
 
 Rei Gelado ama todas as princesas, mas a que ele mais ama é a Jujuba. Ele sempre a sequestra para que seja sua esposa (exemplo no Piloto e Ricardio, o Coração ), porém ela não aceita. Em alguns episódios, como Lady & Jujuba , ela ajuda o Rei Gelado como quando cria um novo coração pra ele.
 
@@ -30,9 +102,18 @@ Em Acabou a Festa, Isla de Señorita ele decide viajar para "esquecer" a Princes
 
 ### Amigos:
 
+
+#### Marceline:
+
 Antigamente Simon era o único amigo de Marceline, mas como ele perdeu a memória não se lembra dela. Em Me Lembro de Você ele queria fazer uma música com ela, mas ela não queria ele por perto, quando ela canta a música Lembrar de Você o relacionamento com ela melhorou. Em Simon & Marcy ele é convidado para jogar Basquete na casa da Marceline e ouve a sua própria história sem saber.
 
+
+#### Nerpt:
+
 Em O Que é Vida? , Finn tenta roubar um dos raios de gelo do Rei Gelado para dar energia a seu robô, Rei Gelado atira um raio de gelo em Rojotor e ele passa a ser seu filho a partir de DNA. Em Masmorra do Mistério ele passa mais tempo com seu filho, apesar de que era para BMO estar no lugar dele.
+
+
+#### Abracadaniel:
 
 Rei Gelado não gostava da ideia de Abracadaniel querer ser seu amigo, porque Abracadaniel derrotou ele em Batalha dos Magos e impediu que ele ganhasse um beijo da Princesa Jujuba. Em Encontro pra Brincar , Rei Gelado e Abracadaniel viram amigos.
 
@@ -40,9 +121,74 @@ Em Obrigado Pelas Maçãs, Giuseppe , Rei Gelado é convidado para a viagem dos 
 
 Por algum motivo desconhecido, em " Amigos Pra Sempre " ele não é mais considerado "melhor amigo" pelo Rei Gelado, e Abracadaniel foi congelado dentro do Castelo do Rei Gelado.
 
+
+#### FinneJake:
+
 Rei Gelado quer sempre ser amigo de Finn e Jake, mas eles pensam que ele é um vilão e por isso não ficam muito perto dele. Após descobrir o passado dele, Finn e Jake ficam mais amigos do Rei Gelado e até deixam ele morar na Casa da Árvore por um tempo quando a Princesa de Fogo destrói sua casa em Frio e Fogo .
 
 
 ### Inimigos:
 
+
+#### Princesa de Fogo:
+
 Até o episódio Frio e Fogo , ele não tinha nenhuma relação com ela (Exceto quando a menciona na música Oh Jujuba ). No episódio Frio e Fogo , Finn mente para os dois o que causa uma batalha entre os dois e a destruição do Reino Gelado. Ele se refere a Princesa de Fogo como Maluca.
+
+## Curiosidades
+- Seu nome verdadeiro é Simon Petrikov.
+
+- Como visto em " Prisioneiras do Amor " ele tem a tatuagem de um pinguim, talvez Gunter , em sua nádega direita.
+
+- Cuidou de Marceline quando ela era pequena na época da guerra e deu a ela seu ursinho vermelho, Hambo .
+
+- Ajudou a derrotar Lich , o maior vilão da série.
+
+- No episódio " Parados " é revelado que o Rei Gelado dorme de olhos abertos.
+
+- Ele chamou Marceline 2 vezes de Gunter em " Simon & Marcy ".
+
+- Com seus olhos de mago ele consegue ver todos os espíritos, mas, só pode vê-los, e não tocá-los. Ele pode ter também "ouvidos de mago", como ele também ouve os espíritos.
+
+- Em vários episódios pode-se ver que ele é bem magro, com seus ossos à vista, porém em outros episódios como " Me Lembro de Você " e " Menininho Mal " pode se ver que ele engordou (São dois episódios que ele faz parceria com Marceline).
+
+- A guerra aconteceu a cerca de 996 anos atrás, porém Pendleton Ward afirmou que o rei Gelado tem 600 anos, o que é bem contraditório, porém como ele estava vivo durante a guerra e tinha 47 anos, significa que ele tem 1043 anos e não 600 como foi falado, ele tem 40 anos a mais que Marceline.
+
+- No episodio " Acabou a Festa, Isla de Señorita " ele age como se fosse namorado da Princesa Jujuba .
+
+- No episódio " Frost & Fire " seu reino é aparentemente destruído. Ele começou a viver na Casa na Árvore , mas voltou depois que Gunter reconstruiu o reino.
+
+- Atualmente, ele tem um coração feito de caramelos e maracais.
+
+- Ele já se casou com o Jake acidentalmente em " Quando os Sinos de Casamento Derretem ". Isso é mencionado também em " Earth & Water ".
+
+- Em " Menininho Mal ", é revelado que seu sonho é encontrar Fionna e Cake (já que ele fez uma estátua de gelo de cada uma e diz que elas são reais). Em " Masmorra do Mistério ", o Rei Gelado tenta dar vida a todos os personagens de Fionna e Cake usando um dos livros que escreveu. Mas o que acontece é o livro se tornar vivo e não os personagens da história.
+
+- No episódio " Batedor " ele diz que suas princesas menos favoritas são a Princesa Caroço e a Princesa Fantasma .
+
+- Ele já morou na Casa na Árvore , mas em " Play Date " ele volta a morar em seu reino.
+
+- Após descobrir sua história em Simon & Marcy , Finn começa a chamá-lo de Simon (como visto em " Frost & Fire ", " Love Games " e " Play Date ").
+
+- Finn o chama de nerd em " Erro é Erro ".
+
+- Ele diz que seu segredo era que ele usava óculos quando era Simon.
+
+- É revelado em " Amiguinho " que Rei Gelado às vezes dorme no telhado da Finn e Jake (Igual a Marceline,que diz no episódio " O Armário da Marceline " que ela tem costume de ficar escondida ou no teto da casa de Finn e Jake)
+
+- Rei Gelado diz que a Princesa de Fogo é louca de pedra.
+
+- Ele não gosta de correios com visto em " Festinha de Princesas ".
+
+- Ele é o primeiro que magoa Marceline (o segundo foi o pai dela por comer suas batatinhas e o terceiro foi Ash porque vendeu Hambo à Maja ).
+
+- Ele sabe tocar Piano e Bateria.
+
+- Ele volta a ser Simon em Betty (Episódio)
+
+- Em " A Câmara das Lâminas Congeladas " é revelado que ele é um ninja.
+
+- Ele reconheceu sua loucura em Fionna e Cake .
+
+- Ele é o vilão da série, apesar de ser um vilão atrapalhado e sentimental.
+
+- Em " Masmorra do Mistério ", o Rei Gelado tenta dar vida a todos os personagens de Fionna e Cake usando um dos livros que escreveu. Mas o que acontece é o livro se tornar vivo e não os personagens da história.

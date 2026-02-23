@@ -1,17 +1,41 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 2577
 nome: "A Masmorra do Papai"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/A_Masmorra_do_Papai"
 data_exibicao: "08/02/2012 (EUA)"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-078"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/A_Masmorra_do_Papai"
 ---
 
 # A Masmorra do Papai
 
 **Temporada 3 — Episódio 2577**
+
+## Descrição
+" A Masmorra do Papai " é o 25º episódio da 3ª temporada de Hora de Aventura . É o septuagésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Nesse episódio o Pai de Finn e Jake aparece como um holograma contando sobre uma masmorra que criou para testar a coragem de Finn com vários desafios.
@@ -24,18 +48,53 @@ No Caminho das Flores, Finn pergunta ao Jake o que seu pai disse. Jake diz que J
 Jake diz a Finn que está realmente acontecendo quando eles vão para a passagem final. Eles encontram mais um cartão de memoria e assistem a fita que Joshua explica que eles estam terminando a última câmara da masmorra. Ele explica que está tentando encaixar um monstro em uma cova que ele cavou. No meio do que ele está dizendo, dois, longos dedos com garras enormes lentamente esgueirar-se para fora da entrada para a câmara e agarrá-lo. Joshua então é puxado na câmara, então Finn e Jake vão para o quarto. Enquanto Finn tenta pegar a espada, Jake descobre mais um cartão Holo-Mensagem. Ele diz a final informando-o de assisti-lo quando Finn ele terminar o calabouço. Atrás de Finn, duas mãos gigantes aparecem da escuridão, e Finn é golpeado pela mão esquerda. Finn é arrastado em toda a sala, e o Monstro do Mal rasteja para fora da escuridão, revelando-se. Quando Finn expressa a dúvida dentro de si mesmo por causa das palavras de seu pai, Jake diz que Joshua o ama e tem a fita revelando o Joshua dizendo que ele fez o calabouço para ele, bem como expressar o seu orgulho por ele. Tendo a confiança em si mesmo restaurado, ele rasga a espada do seu local e mata o monstro. Eles deixam a Masmorra e Finn fica com a espada de Joshua, quando o demônio reaparece. Jake repete a mensagem em que Josué expulsou o demônio acabar com o feitiço "Kee Oth Rama Panqueca". O episódio termina com os dois dizendo que seu pai era "legal".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Joshua
 
+
 ### Secundários
+
 - Kee-Oth
+
 - BMO
+
 - Pedra Muda
+
 - Monstro do Mal
+
 - Lady Íris (Na Imaginação de Jake)
+
 - O Caracol
+
 - Monstro Cachorro-Quente
+
 - Bruxas da Fruta
+
 - Monstro Hambúrguer
+
+## Curiosidades
+- No holograma, fotos de gatos pendurados na parede aparecem atrás de Joshua.
+
+- As Bruxas Frutas parecem idênticas as três meninas no cartão título de “ Pânico na Festa do Pijama ”.
+
+- Quando as Bruxas da Fruta comem a maçã gigante, é possível ver ossos e carne na maçã que antes era a bruxa que comeu a maçã amaldiçoada.
+
+- Nesse episódio Finn encontra a espada da família (uma espada feita de sangue de demônio) com o grande monstro. Ele usa essa espada durante quase toda a 4ª temporada.
+
+- O motivo da morte de Joshua ainda é um mistério, não se sabe se ele morreu no final de sua masmorra.
+
+- O canto que Joshua diz para banir o demônio é “Kee Oth Rama Panqueca”.
+
+- O Mago Ladrão no episódio ” Cidade dos Ladrões ” também diz “panqueca” três vezes como um encantamento para se transformar em um gato, “panqueca” pode ser talvez uma palavra mágica. Também é uma referência ao gato de Natasha Allegri chamado Pancake.
+
+- Os monstros que saem da cabeça da Bruxas da Fruta são parecidos com os Amebóides .
+
+- Finn fala que é um bosta, mas a Cartoon Network Brasil (que censura muitas cenas) deixou assim mesmo.
+
+- Quando Joshua pede para Finn cobrir os ouvidos, ele cobre as orelhas de seu chapéu.

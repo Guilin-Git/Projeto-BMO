@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Pro Football 1861"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Pro_Football_1861"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Pro_Football_1861"
 ---
+
+> Pro Football 1861 é um objeto/item de Hora de Aventura.
 
 # Pro Football 1861
 
@@ -13,5 +15,7 @@ O verdadeiro nome do jogo nunca foi revelado realmente, mas se você ver no apli
 
 ## Curiosidades
 - O fundo é semelhante ao sintonizador de cores de um video-cassete.
+
 - É o jogo com mais aparições na série, 3 no total.
+
 - Esse é um dos 3 jogos que poder ser jogados no aplicativo Beemo para smartphones.

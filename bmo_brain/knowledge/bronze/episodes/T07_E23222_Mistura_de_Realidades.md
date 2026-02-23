@@ -1,14 +1,28 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 23222
 nome: "Mistura de Realidades"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Mistura_de_Realidades"
 data_exibicao: "21/03/16"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Mistura_de_Realidades"
 ---
 
 # Mistura de Realidades
 
 **Temporada 7 — Episódio 23222**
+
+## Descrição
+" Mistura de Realidades " é o 22º episódio da 7ª temporada de Hora de Aventura . É o ducentésimo vigésimo terceiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Prismo precisa de Finn e Jake para parar um evento catastrófico que aconteça em algum lugar do multiverso.
@@ -29,10 +43,91 @@ Prismo diz que algo bem ruim vai acontecer, que o Finn Gelado estava usando o En
 Finn pergunta de que jeito iria cuidar, Prismo diz que conta com eles e os transporta para a dimensão de Farmworld. O flashback acaba, Finn abre a caixa que Prismo lhe deu, ele tira uma broca da caixa. Jake pergunta o que era aquilo e Finn diz que eram o peso de 50 bolas de boliche encima de seu corpo juvenil
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Prismo
+
 - Finn (Farmworld)
+
 - Jake (Farmworld) (como o Lich alternativo)
+
 - Billy (Farmworld)
+
+
+### Menores
+
+- BMO
+
+- Marceline (Farmworld) (tela do Prismo)
+
+- Destinão
+
+- Martin (Farmworld)
+
+- Mãe de Finn (Farmworld)
+
+- Simon Petrikov (Farmworld) (tela do Prismo)
+
+- Pessoas da Farmworld (congeladas)
+
+- Lich (citado)
+
+- Chefe do Prismo (citado)
+
+- Bartram (tela do Prismo e citado)
+
+- Caracol
+
+## Curiosidades
+- Finn de Farmworld mudou drasticamente desde que começou a usar a coroa, agora seu nariz está mais pontudo, seu cabelo está branco e ele está com a pele mais azulada.
+
+- È revelado que na realidade de Farmworld também existe o livro Enquirídio .
+
+- Prismo revela que tem um chefe.
+
+- É a segunda vez que a Espada de Grama é usada desde seu retorno em " O Cometa ". Também é mostrado nesse episódio que ela só se "ativa" apenas quando é para uma "emergência" (ou seja, quando Finn está prestes a morrer ou em perigo extremo) Não se sabe se Finn agora só pode usar ela em seu braço como um chicote, ou como uma espada; igual antigamente.
+
+- No final do episódio, Prismo coloca a coroa do Simon de volta em seu esqueleto, o que explica porquê a coroa estava lá quando Marceline foi checar a bomba, em " Finn, o Humano ".
+
+- Lich / Jake (Farmworld) tentou fazer algo similar igual em " O Lich "; que foi: Usar alguém pra roubar as joias, enganar o Finn , e abrir um portal para outra dimensão.
+
+- Finn de Farmworld só precisou colocar uma das pedras de sua coroa no Enquíridio, enquanto na realidade da série, Finn e Jake pegaram as três pedras da coroa do Rei Gelado.
+
+- Este é o 4° episódio que vem depois de " Fuga da Cidadela ", em que o Lich está em sua verdadeira forma; o primeiro foi " É Você? ", o segundo é " Estrelas de Ouro , e o terceiro é " O Cometa ".
+
+- Finn (Farmworld) chamou Lich de "Gunter".
+
+- Nessa realidade, Billy se chama Bobby e aparenta ser um humano normal.
+
+- Não se sabe o que aconteceu com o Bartram .
+
+- É a segunda vez que a Espada Finn "fala", a primeira vez foi em " Dentista ".
+
+- Prismo está com uma dublagem (na versão brasileira) diferente neste episódio.
+
+- Bartram sobreviveu a explosão da bomba, porem, não se sabe o que aconteceu com ele neste episódio, provavelmente ele deve ter fugido.
+
+- Um dos Title Card alternativos mostra BMO na Casa da Àrvore olhando para uma das mãos do Lich; que nesse episódio foi cortada pela Espada Finn.
+
+- Também é mostrado nesse episódio que ela só se "ativa" apenas quando é para uma "emergência" (ou seja, quando Finn está prestes a morrer ou em perigo extremo)
+
+- Não se sabe se Finn agora só pode usar ela em seu braço como um chicote, ou como uma espada; igual antigamente.
+
+## Conexões de Episódios
+- Esse episódio é uma continuação (no universo alternativo) do episódio " Jake, o Cão ".
+
+- Jake alternativo continua sendo o Lich de Farmworld como foi mostrado no final de " Jake, o Cão "
+
+- Os eventos anteriores de " O Lich ", " Finn, o Humano " e " Jake, o Cão " é citado (e mostrado) por Prismo .
+
+- Finn cobriu seus ouvidos da mesma forma que ele fez em " A Masmorra do Papai ".
+
+- É a terceira vez que o reflexo da Espada Finn "reage por conta própria", anteriormente foi em " Dentista " e " A Montanha ".
+
+## Notas de Produção
+- Este episódio vazou na internet antes de sua data de lançamento.

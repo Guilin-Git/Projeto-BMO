@@ -1,0 +1,92 @@
+{
+  "id": "AT_S10E004",
+  "tipo": "episodio",
+  "nome": "Presente do Ceifador",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E004_meta",
+      "text": "[Episódio: Presente do Ceifador (Temporada 10, Ep 4)]\nDiretor: Andres Salaff\nRoteiro: -\nPersonagens Principais: Morte, Vida",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E004",
+        "temporada": 10,
+        "numero_ep": 4,
+        "nome": "Presente do Ceifador",
+        "characters_main": "Morte|Vida",
+        "characters_secondary": "Finn|Jake|Gominha 1|Cuber (Card Título)|Caracol|Pai da Vida(Citado por Vida )",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E004_sinopse",
+      "text": "[Episódio: Presente do Ceifador (Temporada 10, Ep 4)]\nSinopse: Morte tenta encontrar um presente ideal para sua namorada, Vida .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E004",
+        "temporada": 10,
+        "numero_ep": 4,
+        "nome": "Presente do Ceifador",
+        "characters_main": "Morte|Vida",
+        "characters_secondary": "Finn|Jake|Gominha 1|Cuber (Card Título)|Caracol|Pai da Vida(Citado por Vida )",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E004_informacoes",
+      "text": "[Episódio: Presente do Ceifador (Temporada 10, Ep 4)]\nInformacoes:\n### Temporada\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E004",
+        "temporada": 10,
+        "numero_ep": 4,
+        "nome": "Presente do Ceifador",
+        "characters_main": "Morte|Vida",
+        "characters_secondary": "Finn|Jake|Gominha 1|Cuber (Card Título)|Caracol|Pai da Vida(Citado por Vida )",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E004_creditos",
+      "text": "[Episódio: Presente do Ceifador (Temporada 10, Ep 4)]\nCreditos:\n### Diretor\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E004",
+        "temporada": 10,
+        "numero_ep": 4,
+        "nome": "Presente do Ceifador",
+        "characters_main": "Morte|Vida",
+        "characters_secondary": "Finn|Jake|Gominha 1|Cuber (Card Título)|Caracol|Pai da Vida(Citado por Vida )",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E004_referencias_culturais",
+      "text": "[Episódio: Presente do Ceifador (Temporada 10, Ep 4)]\nReferencias_Culturais:\n- O design da vida parece inspirar-se no caduceu, o símbolo tradicional de Hermes que apresenta duas serpentes enroladas em torno de um cajado alado. As cobras duplas do caduceu representam a dualidade e a unificação dos opostos polares, muito parecido com o relacionamento da Vida com a Morte.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E004",
+        "temporada": 10,
+        "numero_ep": 4,
+        "nome": "Presente do Ceifador",
+        "characters_main": "Morte|Vida",
+        "characters_secondary": "Finn|Jake|Gominha 1|Cuber (Card Título)|Caracol|Pai da Vida(Citado por Vida )",
+        "secao": "referencias_culturais"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E004_conexoes_de_episodios",
+      "text": "[Episódio: Presente do Ceifador (Temporada 10, Ep 4)]\nConexoes_De_Episodios:\n- A música de banjo ouvida no início do episódio é a mesma música ouvida em \" Historinhas \".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E004",
+        "temporada": 10,
+        "numero_ep": 4,
+        "nome": "Presente do Ceifador",
+        "characters_main": "Morte|Vida",
+        "characters_secondary": "Finn|Jake|Gominha 1|Cuber (Card Título)|Caracol|Pai da Vida(Citado por Vida )",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

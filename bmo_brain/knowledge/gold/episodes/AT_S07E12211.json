@@ -1,0 +1,56 @@
+{
+  "id": "AT_S07E12211",
+  "tipo": "episodio",
+  "nome": "Estaca Zero",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_S07E12211_meta",
+      "text": "[Episódio: Estaca Zero (Temporada 7, Ep 12211)]\nDiretor: -\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E12211",
+        "temporada": 7,
+        "numero_ep": 12211,
+        "nome": "Estaca Zero",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E12211_producao",
+      "text": "[Episódio: Estaca Zero (Temporada 7, Ep 12211)]\nProducao:\n",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E12211",
+        "temporada": 7,
+        "numero_ep": 12211,
+        "nome": "Estaca Zero",
+        "secao": "producao"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E12211_vozes",
+      "text": "[Episódio: Estaca Zero (Temporada 7, Ep 12211)]\nVozes:\n### Original\n\n- Olivia Olson como Marceline\n\n- Jeremy Shada como Finn\n\n- John DiMaggio como Jake\n\n- Steve Little como Mordomo Menta\n\n- Tom Kenny como Rei Gelado\n\n- Pendleton Ward como Princesa Caroço\n\n### Brasil\n\n- Adriana Torres como Marceline\n\n- Luciano Monteiro como Finn\n\n- Eduardo Borgerth como Jake\n\n- Wirley Contaifer como Mordomo Menta\n\n- Jorge Vasconcelos como Rei Gelado\n\n- Hélio Ribeiro como Princesa Caroço",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E12211",
+        "temporada": 7,
+        "numero_ep": 12211,
+        "nome": "Estaca Zero",
+        "secao": "vozes"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E12211_curiosidades",
+      "text": "[Episódio: Estaca Zero (Temporada 7, Ep 12211)]\nCuriosidades:\n",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E12211",
+        "temporada": 7,
+        "numero_ep": 12211,
+        "nome": "Estaca Zero",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

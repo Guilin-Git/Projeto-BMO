@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 26182
 nome: "Estrelas Douradas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Estrelas_de_Ouro"
 data_exibicao: "08/09/2015"
 diretor: "Elizabeth Ito (supervising) Nick Jennings (art)"
 codigo_producao: "1025-179"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Estrelas_de_Ouro"
 ---
 
 # Estrelas Douradas
 
 **Temporada 6 — Episódio 26182**
+
+## Descrição
+" Estrelas de Ouro " é o 26º episódio da 6ª temporada de Hora de Aventura . É o 182° episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
 
 ## Sinopse
 O filho de Dona Tromba e Senhor Porco, Docinho , se vê em apuros em seu primeiro dia de escola.
@@ -41,7 +65,39 @@ Tão rapidamente como começou, a posse termina. Rei de Ooo e Toronto correm por
 Na manhã seguinte, Docinho surpreende seus pais regando-os com as riquezas do Rei de Ooo e Toronto. Na escola, os mesmos valentões doces zombam de Docinho novamente, mas Docinho eleva a camisa e balança sua barriga, fazendo com que os valentões riem descontroladamente. Como a professora toca o sinal, Docinho entra na escola, deixando os três valentões rindo de fora.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Docinho
+
 - Rei de Ooo
+
 - Toronto
+
+
+### Menores:
+
+- Finn
+
+- Jake
+
+- Dona Tromba
+
+- Sr. Porco
+
+- Guardas Banana
+
+- Gunter (Orgalorg)
+
+- Caracol
+
+## Curiosidades
+- O nome atual do Lich é literalmente " Docinho Porco Tromba ", que é uma junção de Sr. Porco e Dona Tromba.
+
+- Docinho refere-se a Finn como "ursinho", devido a seu chapéu de urso .
+
+- A Casa da Dona Tromba é agora maior, e não é mais uma carroça.
+
+- Enquanto Lich faz seu discurso para o Rei de Ooo e Toronto , na cena que aparece os monstros, é possível ver Orgalorg logo abaixo, o que deduz que ele vem antes de existir tudo e que tem bilhões de anos, o que é confirmado em Orgalorg (episódio).
+
+- É revelado que antes do Big Bang, e antes do próprio vazio, existia um outro universo dominado somente por monstros.

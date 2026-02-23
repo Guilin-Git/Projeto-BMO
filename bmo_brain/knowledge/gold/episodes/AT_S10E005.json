@@ -1,0 +1,73 @@
+{
+  "id": "AT_S10E005",
+  "tipo": "episodio",
+  "nome": "Primavera, Outra Vez",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E005_meta",
+      "text": "[Episódio: Primavera, Outra Vez (Temporada 10, Ep 5)]\nDiretor: -\nRoteiro: -",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E005",
+        "temporada": 10,
+        "numero_ep": 5,
+        "nome": "Primavera, Outra Vez",
+        "characters_secondary": "Finn|Jake|Breezinha|Homem Mel|Sapo Carregando Coroa|Princesa Caroço",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E005_sinopse",
+      "text": "[Episódio: Primavera, Outra Vez (Temporada 10, Ep 5)]\nSinopse: Finn e Jake seguem um sapo que carrega uma coroa pela primavera (outra vez).",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E005",
+        "temporada": 10,
+        "numero_ep": 5,
+        "nome": "Primavera, Outra Vez",
+        "characters_secondary": "Finn|Jake|Breezinha|Homem Mel|Sapo Carregando Coroa|Princesa Caroço",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E005_informacoes",
+      "text": "[Episódio: Primavera, Outra Vez (Temporada 10, Ep 5)]\nInformacoes:\n### Temporada\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E005",
+        "temporada": 10,
+        "numero_ep": 5,
+        "nome": "Primavera, Outra Vez",
+        "characters_secondary": "Finn|Jake|Breezinha|Homem Mel|Sapo Carregando Coroa|Princesa Caroço",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E005_curiosidades",
+      "text": "[Episódio: Primavera, Outra Vez (Temporada 10, Ep 5)]\nCuriosidades:\n- Este é o único curta de Temporada de Sapo que não começa com Finn e Jake seguindo Sapo Carregando Coroa, em vez disso termina com isso.\n\n- Este episódio foi visto primeiro na Cartoon Network Africa de forma online (no YouTube).\n\n- Este episódio deveria ser lançado em 30 de abril de 2016, mas em vez disso foi adiado para 2 de setembro, no mesmo ano.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E005",
+        "temporada": 10,
+        "numero_ep": 5,
+        "nome": "Primavera, Outra Vez",
+        "characters_secondary": "Finn|Jake|Breezinha|Homem Mel|Sapo Carregando Coroa|Princesa Caroço",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E005_conexoes_de_episodios",
+      "text": "[Episódio: Primavera, Outra Vez (Temporada 10, Ep 5)]\nConexoes_De_Episodios:\n- A montanha que o Sapo Carregando Coroa transformou em Vida, vista pela primeira vez em \"Temporada de Sapo: Inverno\", faz outra aparição.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E005",
+        "temporada": 10,
+        "numero_ep": 5,
+        "nome": "Primavera, Outra Vez",
+        "characters_secondary": "Finn|Jake|Breezinha|Homem Mel|Sapo Carregando Coroa|Princesa Caroço",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

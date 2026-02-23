@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 7111
 nome: "Davey"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Davey"
 data_exibicao: "19/08/2013"
 diretor: "Larry Leichliter"
 roteiro: "Skyler Page"
 codigo_producao: "1014-112"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Davey"
 ---
 
 # Davey
 
 **Temporada 5 — Episódio 7111**
+
+## Descrição
+" Davey " é o 7º episódio da 5ª temporada de Hora de Aventura . É o centésimo décimo primeiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn decide fazer um alter-ego para se esconder de seus fãs.
@@ -38,13 +65,72 @@ Finn vai a cela de Jake e o liberta, um Guarda Banana que estava trazendo comida
 Finn fala com Jake em seu bolso, e Jake solta um pum.
 
 ## Personagens
+
 ### Principais
+
 - Finn /Davey
+
 - Jake
+
 - Randy
 
+
 ### Secundários
+
 - Pessoas Doces Guardas Banana Garota Pirulito Canelinha Gominha 1 Gominha 2
+
 - BMO
+
 - Dragão
+
 - Caracol
+
+- Guardas Banana
+
+- Garota Pirulito
+
+- Canelinha
+
+- Gominha 1
+
+- Gominha 2
+
+## Curiosidades
+- No cartão de título e no próprio episódio, uma pessoa doce está usando uma pequena réplica do Chapéu do Finn .
+
+- Juntamente com o seu cabelo, Finn também raspa as sobrancelhas neste episódio.
+
+- É revelado que BMO gosta do cabelo loiro de Finn, pois ele estava chorando quando Finn estava raspando.
+
+- Este é o primeiro episódio em que Garota Pirulito pode ser ouvida falando algo, pois estava cantando com outras garotas no episódio Cinco Historinhas .
+
+- A prisão dos doces está escrito "Pris-on" (Pris-ão) na parte de trás.
+
+- Quando Finn coloca o bigode na bunda do cavalo doce ele diz: "Adeus, Davey", e o bigode responde. É revelado que ele pode realmente falar com ele. Como tal, as legendas listam Davey e Finn como duas pessoas diferentes.
+
+- Parece que existem apenas dois guardas Banana guardando toda a prisão.
+
+- No lugar do relógio que está sempre pendurado na porta da cama de Jake, há um colar com um J de ouro incrustado com diamantes e um laço ao lado dele.
+
+
+### Referências Culturais
+
+- O disfarce de Finn, Davey Johnson, é uma referência a outro Davey Johnson , um famoso jogador de beisebol para o Baltimore Orioles e New York Mets, assim como o ator que dublou Xergiok em " O Rei Silencioso " e " O Grande Homem Pássaro " nos EUA.
+
+
+### Conexões de Episódio
+
+- Finn coloca o chapéu para trás da mesma forma como visto em " Para Cortar os Cabelos de Uma Mulher ". Além disso, ele corta seu cabelo pela segunda vez, apesar de que ele ainda deixou um pouco de cabelo pelas laterais de sua cabeça.
+
+- Finn usa o computador minúsculo que ele engoliu para mudar sua voz para a voz de Davey, revelando sua habilidade de remix pela primeira vez em " Zig Zag ".
+
+- Finn tem um bolso em sua camisa, como mostrado pela primeira vez em " Veio da Noitosfera ". Em outra nota, o final é muito parecido com o mesmo episódio, com Jake soltando um pum no último segundo, com o mesmo efeito de som.
+
+- Davey vai para a Taverna Doce, o local onde Finn, Jake e Dona Tromba foram no episódio Ladrão de Maçãs .
+
+- Em outra nota, o final é muito parecido com o mesmo episódio, com Jake soltando um pum no último segundo, com o mesmo efeito de som.
+
+
+### Análise da História
+
+- O desejo de Finn de ser normal pode resultar em uma busca de aventura, como em Pedro Papel . Ele não pôde simplesmente sentar-se calmamente lá na biblioteca com Jake e teve que ir em busca de alguma aventura fazendo Jake pensar que ele estava inventando tudo simplesmente para saciar sua necessidade de aventura. A maneira de como as pessoas começaram a praticamente perturbá-lo nesse episódio forçou a enfrentar esse mesmo problema criando Davey.

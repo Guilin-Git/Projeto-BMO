@@ -1,16 +1,42 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 17173
 nome: "Mosca Fantasma"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Mosca_Fantasma"
 data_exibicao: "01/12/2014"
 diretor: "Cole Sanchez (supervisor) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Mosca_Fantasma"
 ---
 
 # Mosca Fantasma
 
 **Temporada 6 — Episódio 17173**
+
+## Descrição
+"Mosca Fantasma" é o 17º episódio da 6ª temporada de Hora de Aventura . É o 173º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Jake mata uma mosca que entra em sua sopa. No entanto, ele e Finn devem ser criativos quando a mosca retorna como um poderoso fantasma para assombrá-los.
@@ -29,8 +55,49 @@ A mosca, usando o corpo de Finn, cria asas e começa a voar e cria manchas no ch
 O fantasma de Jake tenta combater a mosca fantasma, mas não consegue e começa a correr, ao mesmo tempo que corta tudo em seu caminho com um fantasma foice que ele criou. Quando chega a cozinha, Jake cai acidentalmente na sopa, e a mosca fantasma vem para beber a sopa, porque era isso o assunto inacabado. Jake mata a mosca, e momentos depois é trazido de volta à vida, acreditando que BMO fez isso, enquanto ele estava na verdade dentro do hospital, Doutora Princesa que trouxe ele de volta à vida usando desfibriladores.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Jake
+
 - Finn
+
 - BMO
+
 - Mosca Fantasma
+
+
+### Menores:
+
+- Mordomo Menta
+
+- Doutora Princesa
+
+- Enfermeira Bolo Fofo
+
+- Caracol
+
+## Curiosidades
+- Nos Estados Unidos, este episódio estreou em uma noite de terça-feira, em vez de ser na noite de quinta-feira. Ele também foi ao ar em um novo horário, às 18:00. A mudança provavelmente foi feita porque, com Clarêncio, o Otimista estreando novos episódios, não há mais espaço na programação das noites de quinta-feira. Essa marcará a terceira vez que Hora de Aventura mudou de dia e de horário nos Estados Unidos.
+
+- Finn está lendo um livro chamado " Adventure Boy ".
+
+- BMO matou Jake nesse episódio.
+
+- Apesar dos consideráveis esforços de Mordomo Menta para esconder seus poderes de magia negra, parece que eles já são conhecidos por Finn , Jake e BMO .
+
+- Entre os fantasma vistos na Casa na Árvore é possível ver o Pato de Duas Cabeças , revelando que ele morreu de alguma forma.
+
+## Referências Culturais
+- A aparência da Mosca Fantasma e do Scythe pode ser uma referência à morte, que veste um casaco e empunha uma foice.
+
+- Mordomo Menta do lado de fora da Casa na Árvore usando um chapéu e com uma bolsa é uma referência ao filme O Exorcista .(tambem faz a referencia a parte em que ele faz circulos de giz)
+
+- Quando Jake diz a Finn as doenças que uma mosca podia transferir é uma referência a vida real em que existem doenças causadas pelas moscas; como a tuberculose .
+
+- Na versão original, a Mosca Fantasma fazia barulhos de uma mosca comum, mas na versão brasileira ela faz barulhos de um fantasma assombrando alguém.
+
+## Conexões de Episódio
+- Jake morre pela segunda vez, a primeira foi em " Filhos de Marte ".
+
+- Jake estava com problema de perna enquieta que foi mostrado pela primeira vez em " Betty ".

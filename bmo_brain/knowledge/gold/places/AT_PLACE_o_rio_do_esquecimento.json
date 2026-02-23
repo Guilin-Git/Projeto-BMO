@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_o_rio_do_esquecimento",
+  "tipo": "lugar",
+  "nome": "O Rio do Esquecimento",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_o_rio_do_esquecimento_descricao",
+      "text": "[Lugar: O Rio do Esquecimento]\nDescricao:\n# O Rio do Esquecimento\n\nO rio do esquecimento é um rio na terra dos mortos com água mágica que causa perda de memória para quem a consume. em '' Morte em Botão \" O Crânio Falante diz para Jake beber a água depois de Jake dizer como ele estava sedento. Finn rapidamente disse para Jake não beber a água porque o crânio queria que ele o fizesse , mas o crânio, então, disse para Jake não beber, então Jake pulou no rio e bebeu dele. ao levantar-se para fora do rio, Jake estava com amnésia, daí o nome \" rio do esquecimento. \" Mordomo Menta provavelmente se referenciou deste rio, quando ele disse \"não beba a água \" antes do portal para a terra dos mortos ser fechado.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_o_rio_do_esquecimento",
+        "nome": "O Rio do Esquecimento",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_o_rio_do_esquecimento_curiosidade",
+      "text": "[Lugar: O Rio do Esquecimento]\nCuriosidade:\n- O Rio do Esquecimento é uma referência ao Rio Lete da Mitologia Grega. O Rio Lete é um rio que fica no submundo, que é governado pelo Deus dos Mortos, Hades. Quem bebe dele ou até o toca experimenta o esquecimento completo.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_o_rio_do_esquecimento",
+        "nome": "O Rio do Esquecimento",
+        "secao": "curiosidade"
+      }
+    }
+  ]
+}

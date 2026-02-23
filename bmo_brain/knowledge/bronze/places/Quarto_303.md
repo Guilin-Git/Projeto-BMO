@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Quarto 303"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Quarto_303"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Quarto_303"
 ---
+
+> Quarto 303 é um lugar de Hora de Aventura.
 
 # Quarto 303
 

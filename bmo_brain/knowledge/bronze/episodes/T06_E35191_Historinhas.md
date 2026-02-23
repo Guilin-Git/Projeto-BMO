@@ -1,17 +1,48 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 35191
 nome: "Historinhas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Historinhas"
 data_exibicao: "11/05/2015"
 diretor: "Andres Salaff (Supervisão) Nick Jennings Sandra Lee (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Steve Wolfhard Adam Muto"
 codigo_producao: "1025-195"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Historinhas"
 ---
 
 # Historinhas
 
 **Temporada 6 — Episódio 35191**
+
+## Descrição
+" Historinhas " é o 35º episódio da 6ª temporada de Hora de Aventura . É o centésimo octagésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+Nick Jennings Sandra Lee (arte)
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Steve Wolfhard Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Cuber precisa confiar em seu saco de historinhas para sobreviver em um planeta alienígena familiar.
@@ -26,13 +57,98 @@ Cuber vai até o mesmo lugar onde o canhão estava enterrado e acha o canhão, e
 Cuber na história é salvo por Tuber, Cuber então pega um dos casulos doces e joga no marido da tropa alienígena, ele vai até para sua nave usando a nave da tropa alienígena, ele encontra Tuber e a cumprimenta.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Cuber
+
 - Tuber
+
 - Finn
+
 - Jake
+
 - BMO
+
 - Rei Gelado
+
 - Princesa Jujuba
+
 - Starchy
+
 - Pessoas do Casamento no Espaço
+
+
+### Menores:
+
+- Crocante
+
+- Gominha 2
+
+- Gunter
+
+- Lady Íris
+
+- Ice Thing
+
+- Prize Ball Guardian
+
+- Grass Lards
+
+- Paper Princess
+
+- Caracol
+
+
+### Mencionados
+
+- Senhor Bolinho
+
+- Madam Eclair
+
+## Curiosidades
+- Este episódio revela que o Cuber vive em um  futuro distante do Hora de Aventura, e que ele vem de um planeta fora do Sistema Solar da Terra.
+
+- É a primeira vez que é mostrado a nave de Cuber no lado de fora, mas ela já foi mostrada no title card de " Cinco Historinhas ".
+
+- Esse episódio se passa 1000 anos no futuro, assim como o título sugere (em Inglês ou no title card).
+
+- E esse também é o mesmo futuro do episódio " Lemonhope Segunda Parte " em que a Princesa Jujuba fez uma canção sobre o Lemonhope no futuro.
+
+- É revelado que a árvore gigante que o Lemonhope passou é a Casa na Àrvore no futuro que ficou extremamente alta. E foi confirmado nesse episódio após o flashback da historinha do Finn , Jake e BMO .
+
+- Isso também prova que ambos os futuros mostrados no Lemonhope e nesse episódio são o mesmo.
+
+- È revelado que Cuber tem uma irma, Tuber .
+
+- Neste episodio é apresentado uma nova versão do Guarda Chiclete , que é 10x maior que o original. Aparentemente ele tem a função de colocar pessoas doces dentro dele para protege-los e colocá-los em hibernação. Provavelmente porque o Reino Doce no futuro foi abandonado e destruído, como foi visto em Lemonhope Segunda Parte . Se desconhece o motivo da destruição e abandono do Reino Doce.
+
+- Percebe-se nesse episódio que o Rei Gelado aparentemente destruiu o Reino Gelado. Não se sabe se Simon foi tomado completamente pela coroa e foi transformado em uma criatura barba gigante voadora; ou se alguém/outra criatura foi domada pela coroa.
+
+- Quando Cuber e os aliens estão sendo transportados no interior do Guardião Chiclete , um retrato do antigo Reino Doce pode ser visto na parede a esquerda. E aparentemente a Pricesa Jujuba vive lá.
+
+- A casa de Marceline pode ser vista com muita iluminação, e ela pode estar vivendo nela ainda porque se ouve um barulho de violão vindo de dentro da casa.
+
+- Na segunda Promo Arte, é possível ver o Cuber avistando o Reino Doce futurístico. Também é possível ver o Reino Cachorro Quente mas não se sabe se ele está abandonado também.
+
+- Cuber diz :''blá,blá,blá como os mortos diziam''. Insinuando a morte de Jake que diz isso quando estava usando o canhão de pensamento..
+
+- E mostrada a Glass Lard é mais velha quando Cuber está na Terra de Ooo , afirmando-se que elas podem viver por muito tempo.
+
+- E mostrado que Jujuba rastreava os habitantes do Reino Doce com um rastreador microfone em forma de dente (pode ou não variar de acordo com os habitantes).
+
+- O Novo Guardião de Chiclete reconhece o Povo Doce por esse dispositivo como quando ele chama Cuber de Starchy por ele estar com o dispositivo de Starchy na mão.
+
+## Conexões de Episódios
+- Essa é a quarta aparição de Cuber na série.
+
+- Cuber é visto em um futuro longo, perto da Casa na Árvore , que é mesma vista quando Lemonhope passa por perto na canção da Princesa Jujuba em " Lemonhope Segunda Parte ".
+
+- Princesa Jujuba é vista espionando o povo doce neste episódio, o que significa sua mudança de " O Resfriador " e " A Guerra do Pijama " foi embora após os acontecimentos do último.
+
+- No entanto, ela é vista vestindo a mesma camiseta que ela usava em " Jake, o Tijolo ", o que implica que os eventos sobre ela e Starchy poderia ter ocorrido no mesmo episódio.
+
+## Censura
+- Em varias cenas que mostram as pernas quebradas do Cuber e Rei Gelado foram censuradas.
+
+- Foi censurado quando a Princesa Jujuba espiona o Senhor Bolinho .

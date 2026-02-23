@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Arena de Luta"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Arena_de_Luta"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Arena_de_Luta"
 ---
+
+> Arena de Luta é um lugar de Hora de Aventura.
 
 # Arena de Luta
 

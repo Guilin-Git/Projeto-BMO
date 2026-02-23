@@ -1,16 +1,45 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 24
 nome: "O Que Vocês Fizeram?"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Que_Voc%C3%AAs_Fizeram%3F"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Tim McKeon"
 codigo_producao: "692-006"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Que_Voc%C3%AAs_Fizeram%3F"
 ---
 
 # O Que Vocês Fizeram?
 
 **Temporada 1 — Episódio 24**
+
+## Descrição
+" O Que Vocês Fizeram? " é o 24º episódio da 1ª temporada de Hora de Aventura . É o vigésimo quarto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Tim McKeon
+
+
+### Escritor
+
+- Elizabeth Ito
+
+- Adam Muto
 
 ## Sinopse
 Finn e Jake capturam o Rei Gelado sob a ordem da Princesa Jujuba , mesmo sem saber o que ele tem feito de errado.
@@ -29,15 +58,47 @@ Finn diz que ele não pode bater nas pessoas sem nenhum motivo, isso é contra o
 Quando Finn e Jake entram, Rei Gelado sai e pergunta se eles querem participar na noite do jogos, porque ele agora acha que Finn e Jake são seus melhores amigos por deixá-lo ir. Mas quando Finn diz para o Rei a uivar, ele diz que não poderia uivar sem rir. Rei Gelado caminha para Finn e diz que houve um inseto nele, que na realidade era apenas o Jake, só que menor. Rei Gelado bate no Finn, querendo retirar o "inseto". Finn tem uma idéia sobre isso e finge que está morto. Se sentido culpado, Rei Gelado pega corpo e de Finn e uiva extremamente alto que atingiu todo o caminho para o reino do doce, a curar de todos os habitantes. Quando a Princesa Jujuba vê que seu povo está ficando saudável, ela desmaia de felicidade. Rei Gelado, em seguida, solta o Finn e vai embora. Finn se chateia ao ver que o Rei o largou depois de gritar e Jake diz que, se ele se deparasse com o corpo sem vida de Finn, ele iria "apertar-lhe dramaticamente durante um zilhão anos". E Jake tem a idéia de adiantar o drama, Finn depois finge de morto e Jake leva-o gritando "por que" de volta ao Reino Doce.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Rei Gelado
 
+
 ### Secundários
+
 - Gunter
+
 - Manfreid
+
 - Lady Íris
+
 - Povo Doce
+
 - O Caracol
+
+## Curiosidades
+- Quando a Princesa Jujuba está pesquisando a cura envolvendo os uivos doloridos do Rei Gelado, o número 5318008 aparece em uma das páginas do livro. Usando ortografia da calculadora, esse número soletra a palavra "boobies" (seios).
+
+- Princesa Jujuba disse, em alemão, "Ich bin so glücklich! Ich könnte... Ich könnte..." (em português: "Estou tão feliz que eu poderia ... poderia ...!") e desmaia antes que ela pudesse terminar.
+
+- Neste episodio, quando a Princesa Jujuba junto com a Lady Íris vão pedir ao Rei Gelado seus uivos, quando Rei Gelado começa a falar coisa por coisa, Lady Íris em coreano o xinga.
+
+- A máscara usada por Princesa Jujuba se baseia em máscaras medievais usadas para combater a peste bubônica também chamada de peste negra.
+
+- Esse episódio originalmente se chamava "Rei Gelado tem Razão".
+
+## Localização do Caracol
+No chão, próximo à cama do Rei Gelado.
+
+## Erros
+- Após quebrar o espelho em sua prisão, Rei Gelado está segurando dois cacos do espelho, mas na cena seguinte só está segurando um.
+
+- Quando Finn e Jake vão para a cela, o espelho ainda está encostado na cama.
+
+- Na primeira cena quando o Rei Gelado está segurando o espelho antes de quebrar, Finn fica à esquerda e Jake é à direita. No entanto, quando Rei Gelado está segurando o caco de espelho novamente, Jake está do lado esquerdo e Finn está à direita

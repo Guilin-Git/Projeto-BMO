@@ -1,0 +1,99 @@
+{
+  "id": "AT_S07E19218",
+  "tipo": "episodio",
+  "nome": "Meninas de Olhos Vazios",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "AT_S07E19218_meta",
+      "text": "[Episódio: Meninas de Olhos Vazios (Temporada 7, Ep 19218)]\nDiretor: -\nRoteiro: -\nPersonagens Principais: Finn, Jake, Starchy, Meninas de Olhos Vazios",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E19218",
+        "temporada": 7,
+        "numero_ep": 19218,
+        "nome": "Meninas de Olhos Vazios",
+        "characters_main": "Finn|Jake|Starchy|Meninas de Olhos Vazios",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E19218_sinopse",
+      "text": "[Episódio: Meninas de Olhos Vazios (Temporada 7, Ep 19218)]\nSinopse: Em uma noite muito assustadora, Finn e Jake ficam cara a cara com um mito urbano.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E19218",
+        "temporada": 7,
+        "numero_ep": 19218,
+        "nome": "Meninas de Olhos Vazios",
+        "characters_main": "Finn|Jake|Starchy|Meninas de Olhos Vazios",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E19218_informacoes",
+      "text": "[Episódio: Meninas de Olhos Vazios (Temporada 7, Ep 19218)]\nInformacoes:\n### Temporada\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E19218",
+        "temporada": 7,
+        "numero_ep": 19218,
+        "nome": "Meninas de Olhos Vazios",
+        "characters_main": "Finn|Jake|Starchy|Meninas de Olhos Vazios",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E19218_menores",
+      "text": "[Episódio: Meninas de Olhos Vazios (Temporada 7, Ep 19218)]\nMenores:\n- Guarda Banana\n\n- Princesa Tartaruga\n\n- BMO\n\n- Pessoas Pizza",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E19218",
+        "temporada": 7,
+        "numero_ep": 19218,
+        "nome": "Meninas de Olhos Vazios",
+        "characters_main": "Finn|Jake|Starchy|Meninas de Olhos Vazios",
+        "secao": "menores"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E19218_mencionados",
+      "text": "[Episódio: Meninas de Olhos Vazios (Temporada 7, Ep 19218)]\nMencionados:\n- Lorraine\n\n- Rei Gelado",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E19218",
+        "temporada": 7,
+        "numero_ep": 19218,
+        "nome": "Meninas de Olhos Vazios",
+        "characters_main": "Finn|Jake|Starchy|Meninas de Olhos Vazios",
+        "secao": "mencionados"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E19218_curiosidades",
+      "text": "[Episódio: Meninas de Olhos Vazios (Temporada 7, Ep 19218)]\nCuriosidades:\n- Esse episódio foi originalmente chamado de \"Creepy Girl\".\n\n- O interior do Pizza Sassy's está maior nesse episódio.\n\n- Princesa Tartaruga pinta o cabelo de moreno nesse episódio.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E19218",
+        "temporada": 7,
+        "numero_ep": 19218,
+        "nome": "Meninas de Olhos Vazios",
+        "characters_main": "Finn|Jake|Starchy|Meninas de Olhos Vazios",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S07E19218_conexoes_de_episodios",
+      "text": "[Episódio: Meninas de Olhos Vazios (Temporada 7, Ep 19218)]\nConexoes_De_Episodios:\n- É segunda vez que o Pizza Sassy's aparece.\n\n- Lorraine é mencionada por Jake quando ele diz \"A nossa galinha fugiu\".\n\n- É a quarta aparição do programa de rádio do Starchy sendo as outras em \" Consertamos um Caminhão , \" Nêmesis \" e \" Jake, o Tijolo \".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S07E19218",
+        "temporada": 7,
+        "numero_ep": 19218,
+        "nome": "Meninas de Olhos Vazios",
+        "characters_main": "Finn|Jake|Starchy|Meninas de Olhos Vazios",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

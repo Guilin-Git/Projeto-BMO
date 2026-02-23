@@ -1,16 +1,53 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 1541
 nome: "Você de Verdade"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Voc%C3%AA_de_Verdade"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Mark Banker Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-041"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Voc%C3%AA_de_Verdade"
 ---
 
 # Você de Verdade
 
 **Temporada 2 — Episódio 1541**
+
+## Descrição
+" Você de Verdade " é o 15º episódio da 2ª temporada de Hora de Aventura . É o quadragésimo primeiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Mark Banker
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Adam Muto
+
+- Rebecca Sugar
 
 ## Sinopse
 Finn faz mais um ato heroico e Princesa Jujuba o convida para falar em um encontro de cientistas, e para impressionar ele coloca um óculos  que o deixa inteligente e acaba criando buracos negros no encontro.
@@ -23,19 +60,73 @@ Finn temendo de que ele não é inteligente o suficiente para impressionar a pri
 No churrasco, Finn apresenta o criador da bolha. Ele mostra a todos o Soprador de Bolhas Multidimensionais , dizendo-lhes que lança uma bolha bidimensional fazendo uma sombra unidimensional. Ele então apresenta uma bolha tridimensional, dizendo-lhes que lança uma sombra bidimensional. E finalmente ele mostra-lhes a bolha quadridimensional, que lança uma sombra tridimensional além da compreensão, fazendo com que o tempo e o espaço para mais tarde entram em colapso e se tornar um buraco negro. Finn, então, diz a Jujuba que ele ficou esperto, colocando os óculos, o que ela pede para tirá-los, porque ela precisa do Finn de verdade. Ela retira-los, e Finn vê o buraco negro. Ele vai destruí-lo, mas o soprador de bolha voa em direção a ele, e ele apunhala-lo com sua espada, destruído. Mas, ao que parece a espada se torna quadredimensional. Ele, então, tem uma idéia, se deixa ser sugado dentro Uma vez que ele está, a explosão do buraco negro, e Finn vem voando sem espada. Princesa Jujuba então chora sobre seu ombro dizendo-lhe que o seu churrasco cientifico foi um fiasco, mas todo mundo aplaude. Ela, então, pega a lista de Finn ele escreveu quando tinha os óculos e descobre que Finn a intenção de "ganhar o coração da princesa." Quando confrontado sobre isso, Finn explica como ele escreveu tudo isso quando ele usava os óculos. Jujuba, em seguida, beija no rosto de Finn, o que faz com que ele desmaiar. Quando ele faz isso, todos começam a rir.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
 
+
 ### Secundários
+
 - Flambo
+
 - Chet
+
 - Mordomo Menta
+
 - Princesa Tartaruga
+
 - Gansinho Vizinho
+
 - Minhocas
+
 - Dr. Dextrose
+
 - Povo Árvore
+
 - Cientistas do Churrasco Científico
+
 - O Caracol
+
+## Caracol
+Aparece embaixo da grelha de churrasco quando a Princesa Jujuba derrubava carvão na grelha.
+
+## Curiosidades
+- Uma das minhocas, antes de ser atacada, diz "Excelsior", frase que Stan Lee (um criador de histórias em quadrinhos) costuma dizer.
+
+- Na Conferência da Princesa Jujuba, um dos convidados se parece com BMO , mas ele aparece em uma cor diferente.
+
+- No inicio do episódio, Princesa Jujuba esta usando uma camisa com um Iriscórnio estampado muito parecido como Kim Kil Whan .
+
+- Depois que o buraco negro foi destruído, um dos computadores grita: "Eu não sei nada!" em segundo plano.
+
+- A Casa da Dona Tromba pode ser visto brevemente no fundo da cena, quando Finn e Jake estão se aproximando da faculdade de minhocas.
+
+- Durante as cenas de zoom, uma visão completa da Terra é mostrada pela primeira vez. A mesma imagem aparece na arte promocional de Rebecca Sugar para o episódio..
+
+- No trilho superior das cadeiras da biblioteca, há imagens de escultura de uma coruja com olhos roxos gema.
+
+- Na sala de aula das minhocas, havia um calendário no mês de "Avril", que é francês para "abril".
+
+- A primeira espada de Finn foi destruída neste episódio.
+
+- Após Finn dizer que vai escrever uma lista sistemática, o logo Adventure Time aparece na cena, no entanto, cada palavra é prefaciado por um ponto de bala e a espada é substituído por um lápis.
+
+- Neste episódio Princesa Jujuba chama Finn de "Finnzinho" pela primeira e única vez na série.
+
+- O fichário do professor verme tem uma imagem de uma fatia de pizza e a data 18/06/1986 que é a data de nascimento de Natasha Allegri .
+
+- O local onde o Ganso se encontra é diferente do que foi em " Sangue Sob a Pele ". Nesse episódio seu barraco estava em um grande campo aberto, enquanto que neste episódio, é em uma pequena área na floresta, cercado por árvores.
+
+- Quando a Princesa Jujuba levou os óculos de Finn fora, e a cena zoom todo saiu de bunda de Finn, um peido pode ser brevemente ouvido.
+
+
+### Erros
+
+- A bandeja com a Maquete de Saliva do Reino Doce era tão grande que Finn e Jake tinham que carregar os dois, mas quando Finn a colocou nas costas parecia menor.
+
+- Neste episódio, Jake não conseguia assobiar, mas no episódio " Zig Zag ", ele assobiou junto com a música perfeitamente.

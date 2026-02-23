@@ -1,15 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 4203
 nome: "Mamãe Disse"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Mam%C3%A3e_Disse"
 data_exibicao: "19/01/2016"
 diretor: "Elizabeth Ito"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Mam%C3%A3e_Disse"
 ---
 
 # Mamãe Disse
 
 **Temporada 7 — Episódio 4203**
+
+## Descrição
+" Mama Said " é o 4º episódio da 7ª temporada de Hora de Aventura . É o 203 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
+
+## Sipnose
+Rei de Ooo faz Finn e Jake embarcarem em uma missão á procura de cogumelos voadores.
 
 ## Enredo
 O episódio se inicia com o Rei de Ooo mostrando á câmera de segurança do reino para Finn e Jake, onde observam um cogumelo flutuando enquanto estão sentados em banquinhos, Rei de Ooo manda Finn e Jake atrás de um cogumelo voador para que sirva como transporte para ele, segundo Rei de Ooo, isso o faz parecer mais maneiro.
@@ -21,9 +45,39 @@ Jake começa a usar o graveto de radiestesia e é comprovado que funciona, o Rei
 Finn e Jake levam uma pizza de cogumelo para Rei de Ooo já que não conseguiram o seu transporte, Rei de Ooo se recusa a aceitar e demite Finn e Jake, ele senta na pizza e pede para os guardas banana o levantarem, eles acabam jogando Rei de Ooo pela escada e começam a cantar a música "Mamãe Disse", onde é encerrado o episódio.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Rei de Ooo
+
 - Canyon
+
 - Cogumelo Mutante
+
+
+### Menores
+
+- Caracol
+
+- Guarda Banana
+
+- Refri
+
+- Bonnibel (mencionada)
+
+- Billy (mencionado)
+
+## Músicas
+- " Mama Said (Canção) "
+
+## Curiosidades
+- Finn volta de sua ausência desde " Bonnie and Neddy ".
+
+## Conexões com Episódios
+- Canyon faz sua 2ª aparição, a primeira sendo " Lista do Que Fazer Antes de Morrer do Billy ".
+
+- Refri faz sua 2ª aparição desde que foi revivido, a primeira sendo o episódio passado .

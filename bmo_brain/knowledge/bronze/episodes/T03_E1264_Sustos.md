@@ -1,15 +1,143 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 1264
 nome: "Sustos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Sustos"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Sustos"
 ---
 
 # Sustos
 
 **Temporada 3 — Episódio 1264**
 
+## Descrição
+Sustos é o décimo segundo episódio da terceira temporada de Hora de Aventura . É o sexagésimo quarto episódio no total
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Patrick McHale Kent Osborne Pendleton Ward
+
+
+### Escritor
+
 ## Sinopse
 Finn , Jake , e alguns amigos participam de um jantar com um convite misterioso. No entanto, o anfitrião, em seguida, revela-se como um fantasma assassino que vai possuir o corpo de um convidado e matar todos. A noite se transforma de uma festa de máscaras em uma aterrorizante quem-fez-isso quando os convidados começam a ser assassinados um por um.
+
+## História
+Finn e Jake foram para um castelo para uma festa que eles foram convidados por uma pessoa desconhecida. Do lado de fora encontram uma caixa de disfarces para eles usarem. Quando entram lá dentro, eles encontram a Princesa Jujuba , Princesa Caroço , Canelinha e BMO dentro, sob as formas de Lady Quietinha (Princesa Jujuba), Duquesa Gelatina (Princesa Caroço), Peidão (Canelinha), Professor Calças ( BMO), Randy Manteiguinha (Jake) e Príncipe Gatão (Finn), respectivamente. Eles descobrem um bilhete nas costas de Canelinha. Finn lê-o dizendo-lhes que seu anfitrião é um fantasma que vai assumir um dos seus corpos e matar o resto deles. Canelinha tenta sair, mas enquanto ele tenta abrir a porta, as luzes piscam. Quando elas voltam, não há mais Canelinha, mas um esqueleto.
+
+Jake acha que Finn planejou tudo isso por causa de sua brincadeira de aniversário, mas Finn nega. Finn traz os restantes convidados da festa para a escada e pede para BMO tirar fotos deles com seu equipamento de detecção de fantasma para ver quem está possuído. Jake não piscar quando o BMO o checa , fazendo com que todos acreditam que ele é o fantasma até BMO confessar que não tem equipamento de detecção de fantasma e só gosta de tirar fotos.
+
+Jake sugere que eles peguem velas no caso de as luzes se apagarem novamente, o que eles fazem. Ele e BMO vão para o porão onde BMO desaparece, depois de ter sido capturado por aquilo que parece ser um fantasma branco. Jake então corre para cima e a diz Finn e princesa Jujuba que o fantasma capturou BMO mas Finn o acusa de ser o fantasma. Todo mundo entrou em pânico quando ouviram Princesa Caroço gritando no banheiro. (O que acontece que ela estava usando).
+
+Eles vão para a sala de jantar onde eles começam a apontar o dedo para o outro. Finn pergunta a Jake uma pergunta que só o verdadeiro Jake sabe. Depois que Jake responde corretamente à pergunta, Jake acusa Princesa Caroço que ela tem para lhes dizer por que ela se separou de Brad para provar a si mesma. Ela se recusa, alegando que eles não sabem o que aconteceu entre eles. Finn queria amarrá-la com a princesa Jujuba concordando com ele, fazendo-a ser acusado de ser possuído (princesa caroço então interrompe continuamente, confessando que ela terminou com Brad porque ele beijou-a na boca e ela não estava pronta) .
+
+Finn pede então para princesa Jujuba recitar o que ele escreveu há dois anos atrás,  em um cartão de aniversário, mas ela se recusa, porque ela não conseguia se lembrar. Em seguida, o fantasma passa pelo telhado e pela princesa Jujuba, fazendo-a derreter. Finn verifica o armário onde canelinha e BMO supostamente deveriam estar escondidos, mas ao invés disso encontra gosma espalhada e dispersa envolta em todas as paredes e celing do armário. Finn, em seguida, admite que esta era uma brincadeira, mas que não fazia parte dele. O 'fantasma' também engole Princesa caroço e ela tenta chamar seus pais, mas, em seguida, as luzes começam a piscar e o fantasma captura-la e coloca-la em uma pintura. Finn e Jake tenta fugir, mas as portas estavam trancadas. Então eles tentam correr lá em cima, mas Jake foi capturado. Finn, em seguida, se esconde em um quarto. Fora das estantes, a Lady Fantasma aparece e tenta pegar Finn, mas ele conseguiu escapar, quebrando um buraco na parede. Na sala ao lado, o chão explode aberta, uma imagem de corvos na parede ganha vida e libera corvos para o quarto. O piso separa completamente em forma de boca, e os móveis começam a tentar comê-lo, e Finn foge desta sala e uma escada próxima ao observatório.
+
+O observatório é cercado pelo oceano, que trava contra a base do edifício em ondas enormes. A luz sobe pelo chão, finalmente encurrala Finn, quando a luz leva a folha de fora de sua cabeça ele ve que o fantasma é Lady Íris com todos os convidados fundidos em seu corpo, e Jake nas costas. Jake revela que ele sabia sobre o plano de Finn por meses e "sacudiu o script 'com Lady íris. Finn pergunta sobre como PB derreteu (era um boneco de cera), e depois o monstro que ele viu na casa vindo pega-lo. Jake acredita que ele estava imaginando isso por medo, mas Finn nega. Jake então pensa que é apenas mais uma brincadeira. Depois que saem em LÍ , Finn pisca de volta para o monstro que ele viu e decide colocá-lo no "cofre" e esquece-lo.
+
+## Personagens
+- Finn /Príncipe Gatão
+
+- Jake /Randy Manteiguinha
+
+- Princesa Jujuba /Lady Quietinha
+
+- BMO /Professor Calças
+
+- Canelinha /Peidão
+
+- Princesa Caroço /Duquesa Gelatina
+
+- Lady Íris (como o fantasma)
+
+
+### Menores
+
+- Shoko (Dama Fantasma, real identidade não revelada até " O Cofre ")
+
+- Caracol
+
+- Rei Caroço (mencionado)
+
+- Rainha Caroço (mencionada)
+
+- Brad (mencionado)
+
+## Curiosidades
+- O cartão de título pode ser uma referencia ao jogo Clue, uma vez que as varias armas do crime que os convidados estão segurando e suas roupas se assemelham as usadas no jogo. Princesa Jujuba tem a faca, Princesa Caroço a corda, Jake tem a arma, Finn tem o atiçador de lareira e BMO tem o castiçal.
+
+- Neste episódio, Jake revela ser fofoqueiro quando pergunta a Princesa Caroço o motivo do término dela e de Brad e diz: "É verdade, eu só sou fofoqueiro e quero saber."
+
+- É revelado também por BMO que quando Jake sente medo de algo, pensa que tudo é brincadeira.
+
+- Estranhamente, quando Jake e BMO estão sozinhos no porão, Jake continuou fingindo que não sabia da brincadeira de Finn , mesmo com Jake tendo mudado o plano de Finn.
+
+- Princesa Caroço obviamente fala um palavrão quando diz "Mas que caroçada foi essa?".
+
+- É a segunda vez que Jake engana Finn (a primeira foi em " Trem Misterioso "), e por curiosidade também teve uma parte que Jake não planejou (cair na gelatina e a Shoko aparecer).
+
+- O fantasma que Finn vê saindo da sala aparece novamente no episódio " O Cofre " como vida passada de Finn.
+
+- Esse fantasma revela-se no episódio " O Cofre ", que é uma menina, uma vida passada do Finn chamada Shoko .
+
+- Neste episodio é revelado que Lady Íris consegue levar pessoas em seu corpo.
+
+- No quadro de uma mulher que se vê no episodio, contém a data 08/20/2012 (20 de agosto de 2012) que curiosamente foi a estréia de " Lady & Jujuba ' nos estados unidos.
+
+- Um carro arruinado da marca Skyline pode ser visto do lado de fora da mansão, que é um exemplo dos efeitos da Guerra dos Cogumelos .
+
+- Canelinha pode ter sentimentos pela Princesa Caroço , como demonstrado quando ele diz: "Agora é a minha chance", quando ele ouve que ela terminou com o namorado dela.
+
+- No topo de uma escada, a uma placa de um retrato que se lê: 8/18/12.
+
+- Na parte de baixo de uma pintura, ele diz que "La Caza Del Zorro", que é espanhol de "caça à raposa".
+
+- Quando a câmera focaliza no manequim da Princesa Jujuba , um de seus ouvidos é claramente visível.
+
+- Na pintura onde uma senhora está abraçando um touro, a placa abaixo se lê MAYO.11 que é espanhol para 11 de maio.
+
+- Logo após Princesa Jujuba derreter, as cores brancas e pretas nos olhos de Jake se mudam para um par de quadros.
+
+- Quando o episódio foi ao ar pela primeira vez em 17 outubro de 2011 nos EUA, na parte que BMO e Jake descem ao porão, BMO encontra um isqueiro. No entanto, quando o show foi exibido novamente no Cartoon Network, este isqueiro é alterado para um bastão luminoso por motivos desconhecidos. Mais tarde no episódio, Jake ainda diz que ele deixou cair o isqueiro no porão e se recusa a ir para lá novamente, apesar de ter sido alterado para um bastão luminoso.
+
+- Essa casa é idêntica à casa da Gangue do Banho do episódio " The Vault ", o que explica o espírito de Shoko naquela casa.
+
+- No final do episódio, quando Finn fala "Lady, você consegue colocar pessoas em seu corpo?" ela responde em coreano: "Claro! Jake e eu fundimos nossos corpos o tempo todo", uma possível referência sexual.
+
+- É a primeira vez que aparece Shoko.
+
+- No quadro, acima da escadaria, há um quadro com a foto de uma pessoa humana.
+
+## Erros
+- Quando a Princesa Caroço entra na sala de jantar, há oito pratos na mesa, mas na seguinte captura, um deles desaparece.
+
+- Quando Finn está acusando a Princesa Jujuba de tentar evitar suspeita culpando Princesa Caroço, Finn parece ser da mesma altura da Jujuba.
+
+- Quando Jake estava esticando os braços para prender a Princesa Jujuba, as mangas de sua roupa se esticam também.
+
+- Quando a Princesa Caroço é sugada para dentro da pintura, ela deixa o seu celular cair, mas na pintura ela está com ele.
+
+- Na pintura, a Princesa Caroço está perto do fim da linha dos cães, mas quando a câmera focaliza, ela fica ao lado da raposa.
+
+- Quando Finn e Jake estão tentando sair da porta, há uma cena que as luvas de Finn somem.
+
+- Quando BMO tirou fotos da Princesas Caroço, Princesa Jujuba e Jake, BMO revela apenas três fotos.
+
+- Quando BMO e Jake estão verificando o porão, fora do alcance da voz de Finn, eles agem como se nenhum deles sabe o que está acontecendo.
+
+- Jake sabia da armação de Finn e mesmo assim agiu assustado quando ficou preso com BMO no porão, apesar de Finn não estar lá.
+
+## Censuras
+- É censurado as cenas em que Canelinha e a Princesa Jujuba falam que o nome de Canelinha é "Peidão", antigamente essa cena não era censurada.
+
+- Quando a Princesa Caroço está no banheiro dizendo que está morrendo também é censura, antigamente essa cena também não era censurada.
+
+- É censurado a parte que a Princesa Caroço fala por que ela havia terminado com Brad, antigamente essa cena também não era censurada.

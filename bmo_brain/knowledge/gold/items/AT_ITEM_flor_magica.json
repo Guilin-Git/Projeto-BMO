@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_flor_magica",
+  "tipo": "objeto",
+  "nome": "Flor Mágica",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_flor_magica_descricao",
+      "text": "[Objeto: Flor Mágica]\nDescricao:\n# Flor Mágica\n\nA Flor Mágica aparece no episódio \" Memória de Uma Memória \", quando Ash obteve com a venda do ursinho da Marceline , Hambo , para a bruxa Maja . Diz-se que os bens preciosos como estes fazem excelentes misturas. Ela funciona como uma varinha e também pode criar um fantasma e pode chocar eletricamente alguém. O Fantasma , em seguida, canta \"sou um gênio, sou um gênio...\". Também é aparentemente um cara.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_flor_magica",
+        "nome": "Flor Mágica",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_flor_magica_aparicoes",
+      "text": "[Objeto: Flor Mágica]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_flor_magica",
+        "nome": "Flor Mágica",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_flor_magica_aparencia",
+      "text": "[Objeto: Flor Mágica]\nAparencia:\nFlor Mágica parece ser uma varinha com uma haste verde e flores vermelhas com pétalas brancas.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_flor_magica",
+        "nome": "Flor Mágica",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

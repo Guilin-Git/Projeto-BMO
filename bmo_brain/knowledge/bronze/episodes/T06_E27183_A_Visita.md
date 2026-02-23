@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 27183
 nome: "A Visita"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/A_Visita"
 diretor: "Andres Salaff (supervisão) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
 codigo_producao: "1025-183"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/A_Visita"
 ---
 
 # A Visita
 
 **Temporada 6 — Episódio 27183**
+
+## Descrição
+"A Visita" é o 27º episódio da 6ª temporada de Hora de Aventura. É o centésimo octogésimo terceiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Um visão leva Finn à uma civilização amigável e um local do acidente misterioso.
@@ -31,17 +54,35 @@ Martin parece estar desconfortável com o assunto, mas diz que ele nasceu em um 
 Finn acorda e vê que seu pai não está lá, os moradores estão espalhados em várias partes do campo e gemendo que tudo está em ruínas, como eles se tornaram gordos. A nave espacial de Martin parece estar em um estado crítico, pronta para explodir, e assim Finn olha para seu pai, que está prestes a entrar na cápsula de fuga. Finn pergunta se Martin está saindo, e informa que a nave está prestes a explodir e matar todos os moradores. Martin não é afetado por isso e continua a dizer que ele pode ou não explodir e que viu cerca de um milhão de coisas mais estranho do que uma nave espacial não explodir. Finn está irritado e diz que ele vai impedir a explosão por si mesmo e, antes que ele foge para fazê-lo, Martin diz-lhe para empurrar a alavanca de calor no motor para pará-lo. Finn, furioso, pergunta por que ele não contou a ele sobre a alavanca de calor em primeiro lugar e Martin responde que ele não sabe em uma voz deturbada. Finn grita de raiva e puxa uma alavanca em sua cápsula de fuga que envia-lo voando no ar. Finn sorri e corre em direção a nave espacial, rastejando em um espaço apertado e muito quente para chegar à alavanca. Ele tenta com todo o seu esforço e está prestes a desistir quando o morador que tinha adormecido sua mochila na noite anterior desperta e sobe em seu ombro, abraçando o rosto de Finn. Isso motiva Finn, e ele dá a alavanca de um último puxão e ele finalmente se move para baixo, parando o calor. Ele emerge do sudorese da nave espacial, e acena de volta para os moradores quando eles acenam para ele a partir do solo. Finn, em seguida, carrega todos os aldeões caminhando para casa, falando para si mesmo sobre como ele não era mesmo um cometa que viu no sonho, e que seu cérebro era estranho. Finn, então, diz que os moradores quando eles voltarem para a casa da árvore, eles deveriam deixá-lo no comando.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Martin
+
 - Pequenos Aldeões
 
+
 ### Secundários
+
 - Jake
+
 - Neptr
+
 - BMO
+
 - Lady Íris (foto)
+
 - Toicinho do Mar
+
 - Minerva (mencionada)
+
 - The Guardian (flashback)
+
 - Caracol
+
+## Conexões de Episódios
+- Martin faz um pouso forçado com sua nave, que é uma continuação exata desde " Plano Astral ".
+
+- Finn teve o sonho com o cometa no oceano, e esse oceano pode ser o mesmo do episódio " Oceanos de medo ", devido ter vários prédios submersos.

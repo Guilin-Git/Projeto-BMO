@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Reino Lagarto"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_Lagarto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_Lagarto"
 ---
+
+> Reino Lagarto é um lugar de Hora de Aventura.
 
 # Reino Lagarto
 
@@ -11,3 +13,6 @@ O Reino Lagarto é um reino brevemente visitado em " Breezy " visitado por Finn 
 
 ## Aparência
 O Reino Lagarto é um grande prédio abandonado provavelmente em seu estado, devida à Grande Guerra dos Cogumelos. As pessoas lagarto provavelmente o encontrou e o chamou de reino. O reino e seus arredores são cobertos no que parece ser ou algum tipo de vida vegetal ou substância gosmenta.
+
+## Curiosidades
+- Todos os habitantes são espécies de repteis.

@@ -1,18 +1,53 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 228
 nome: "Os Olhos"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Os_Olhos"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-031"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Os_Olhos"
 ---
 
 # Os Olhos
 
 **Temporada 2 — Episódio 228**
 
-## Sinopse
+## Descrição
+" Os Olhos " é o 2º episódio da 2ª temporada de Hora de Aventura . É o 28º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
+
+
+### Escritor
+
+- Kent Osborne
+
+- Somvilay Xayaphone
+
+## ​​Sinopse
 Finn e Jake não conseguem dormir, porque um cavalo fora de sua casa não para de olhar para eles. Eles tentam o seu melhor para remover o cavalo, sem recorrer a medidas violentas para poderem voltar a dormir.
 
 ## Enredo
@@ -25,20 +60,71 @@ Depois de muitos planos fracassados​​, Jake sugere que eles matem o cavalo. 
 Finn chuta a Coroa do Rei Gelado , em seguida, atira-o para a parede. Rei Gelado está então sentado no chão, Finn segurando uma espada em sua garganta. Eles ameaçam que, se o rei não lhes dizer por que ele está perseguindo eles, eles cortaram a cabeça. Rei Gelado admite que ele queria saber como ser feliz. Ele diz que é sempre tão triste, mas quando ele vê Finn e Jake, eles sempre parecem que estão se divertindo. Rei Gelado explica que ele se vestiu como um cavalo para espioná-los e aprender a ser feliz, mas antes que o Rei Gelado pudesse terminar, Finn e Jake dormem por seus lados. Perguntas Rei Gelado deduziu que ele precisa para ser feliz é uma boa noite de sono. Ele fecha os olhos ao lado deles e, depois de uma breve pausa, ele diz que ainda não é feliz.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Rei Gelado (Como Cavalo)
 
+
 ### Secundários
+
 - Princesa Geleca
+
 - Princesa Caroço
+
 - Rei Caroço
+
 - Rainha Caroço
+
 - Princesa Frutinhas
+
 - Mordomo Menta
+
 - Goblin Morto
+
 - Dragão
+
 - Pato
+
 - O Caracol
+
 - Gunter
+
+## Caracol
+Quando Jake está dizendo o que eles fizeram nos sete dias, O Caracol apareceu em um pedra no canto direito quando Jake diz "Aí capturamos aquele bandido".
+
+## Curiosidades
+- Quando Jake vai pegar sua viola, seus braços soletra a palavra "Yo".
+
+- O traje de cavalo do Rei Gelado é parecido com o traje que o Guarda Banana usava para atrair o Biscoito para fora no episódio " Princesa Biscoito ", porém o do Rei Gelado era lilás e o do Guarda Banana amarelo.
+
+- Rei gelado só espionou Finn e Jake apenas para saber como ele pode ser feliz como eles.
+
+- Esse é o primeiro episódio que deixa claro que Rei Gelado considera Finn e Jake amigos.
+
+- Este é um dos três episódio exibidos como uma versão resumida durante os intrevalos comerciais no Cartoon Network (os outros são " Cidade dos Ladrões " e " Masmorra ").
+
+- O conceito de Finn e Jake lidar com uma ameaça após um período exaustivo de aventuras é como o não produzido episódio "Brothers in Insomnia" ("Irmãos Com Insonia").
+
+- É revelado que Jake dorme pelado, e no episódio " Donny " ele fala que ele usa calças invisíveis. Possivelmente ele as tira.
+
+- É revelado que a Princesa Caroço têm 15 anos.
+
+## Conexões Episódio
+- Enquanto Jake estava explicando a Finn que eles fizeram durante uma semana , a música de fundo era o mesmo que em "Morte em Botão" quando  Princesa Jujuba estava falando com eles e prester a sair.
+
+- Quando Finn e Jake dormem com o Rei Gelado ainda falando, sabendo que o segredo para a felicidade real, a música foi tocada em " Calabouço do Papai ", quando Josué motivar Finn na último parte do episódio.
+
+## Referências Culturais
+- A aparência do cavalo assustador foi inspirador no "pônei de Shetland" no Webcomic de Kate Beaton, Hark! A Vagrant.
+
+- É revelado neste episódio que alguma parte da música clássica ainda existe da Terra de Ooo , como o Sonata ao Luar, Eine Kleine Nachtmusick, Calvagada das Valquírias e de Beethoven 5 Symphony.
+
+## Erros
+- Quando Jake coloca sua mão no ombro de Finn, dizendo: "Vamos voltar para a cama camarada", o braço desaparece depois reaparece pouco depois.
+
+- Após o Rei Gelado sair do traje cavalo, ele puxa a rolha da sua orelha e tira ar a partir dele como um balão. No entanto, quando ele está explicando por que ele estava espionando Finn e Jake , é mostrado os pinguins colocando-o em um traje com um corpo e uma cabeça separada.

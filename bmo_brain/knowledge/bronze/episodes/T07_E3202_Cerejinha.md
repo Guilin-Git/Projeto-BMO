@@ -1,15 +1,26 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 3202
 nome: "Cerejinha"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cerejinha"
 data_exibicao: "18/01/2016"
 roteiro: "Grahan Falk"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cerejinha"
 ---
 
 # Cerejinha
 
 **Temporada 7 — Episódio 3202**
+
+## Descrição
+" Cerejinha " é o 3º episódio da 7ª temporada de Hora de Aventura . É o 202 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição (BR)
 
 ## Sinopse
 A vida de Cerejinha muda completamente após a chegada de um visitante.
@@ -24,17 +35,46 @@ No dia seguinte, Milk Shake acorda melhor depois dos ocorridos do evento anterio
 Refri vai até o bar doce e começa a conversar com Jake e Lady-Íris, após uma tentativa falha de falar com a esposa, acaba irritando ela, e ele sai a procura de Refri para o ensinar uma lição. Jake e Lady encorajam Refri á falar com Milk Shake, ele é interrompido por Starchy e os dois começam a brigar, Refri discorda da luta mas Starchy insiste, Refri é perseguido por Starchy com medo de machucá-lo caso fosse realmente lutar, Milk Shake vai atrás dos dois, Starchy o leva até o buraco de onde ele saiu, mas logo intimidado após Refri levantar um grande cano de ferro, Milk Shake interrompe a briga e começa falar sobre seus sentimentos, ela dispensa Starchy e diz que seria melhor ela e Refri se conhecerem novamente em um encontro, e o episódio se encerra com os dois saindo juntos.
 
 ## Personagens
-### Principais
+
+### Personagens Principais
+
 - Cerejinha
+
 - Starchy
+
 - Refri
 
-### Secundários
+
+### Personagens Secundários
+
 - Maja (Flashback)
+
 - Darren (Flashback)
+
 - Princesa Jujuba (Flashback)
+
 - Finn (mencionado)
+
 - Jake
+
 - Lady Íris
+
 - Loafy
+
 - Pessoa Doce 22
+
+## Curiosidades
+- É revelado nesse episódio que Starchy se casou com Cerejinha após a morte de Refri .
+
+- Refri volta a vida nesse episódio; no local onde antes havia o que parecia ser uma sorveteria. Ele e sua esposa, Cerejinha; se conheceram ao serem criados pela Princesa Jujuba.
+
+- Jake faz uma indireta ao episódio " De Mal a Pior " ao perguntar à Lady se Refri (um zumbi) a mordeu.
+
+- Esse episódio revela que foi Refri quem ativou o campo de força em " Alguma Coisa Grande " para segurar Darren .
+
+- Finn não tem aparecido desde " Verminhos " No entanto, ele é mencionado por Starchy nesse episódio. Esta é a 2ª vez que ele não apareceu em um episódio com Jake, a 1ª foi em " O Diário ".
+
+## Conexão de Episódios
+- Os eventos de "Alguma Coisa Grande " é apresentado várias vezes, incluindo um flashback em que Refri se sacrifica salvando o Reino Doce.
+
+- Jake pergunta a Lady Íris se Refri não a mordeu, em referência ao seu medo pelo zumbis Doces ter causado em " Pânico na Festa do Pijama " e " De Mal a Pior ".

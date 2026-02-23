@@ -1,16 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 430
 nome: "Sangue Sob a Pele"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Sangue_Sob_a_Pele"
 diretor: "Larry Leichliter"
 roteiro: "Merriwether Williams Steve Little Patrick McHale Pendleton Ward Thurop Van Orman"
 codigo_producao: "1002-028"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Sangue_Sob_a_Pele"
 ---
 
 # Sangue Sob a Pele
 
 **Temporada 2 — Episódio 430**
+
+## Descrição
+" Sangue Sob a Pele " é o 4º episódio da 2ª temporada de Hora de Aventura . É o trigésimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Merriwether Williams
+
+- Steve Little
+
+- Patrick McHale
+
+- Pendleton Ward
+
+- Thurop Van Orman
 
 ## Sinopse
 Finn vai à procura da mágica armadura de Zeldron. Mas o caminho até lá está cheio de vergonha.
@@ -27,16 +55,41 @@ Depois de correr a uma curta distância, Finn e Jake descobrem o Lar da armadura
 Jake usa as asas na armadura para voar para longe com o Finn. Os poderes concedidos pela armadura permiti que Jake voe através de várias montanhas. Como eles desaparecem na distância Jake diz: "Cara, essa armadura é totalmente (click-click)!".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Sir Slicer
+
 - Fantasma do Cai Bola
 
+
 ### Secundários
+
 - Gansinho Vizinho
+
 - Cavaleiros de Armadura
+
 - Tocador de Alaúde
+
 - Monstro da Cara-Vermelha
+
 - Caracol
+
 - Phil
+
+## Curiosidades
+- Sir Slicer aparece cinco vezes no episódio e é sempre precedido pelo som de cornetas e tambores, seguido por pássaros e as folhas pretas soprando por ele no vento.
+
+- A armadura que tinha um valor igual a cabeça de Jake era uma armadura samurai.
+
+- Este episódio foi anteriormente intitulado "Click-Click!", referindo-se ao som de cliques de língua que é feito durante todo o episódio.
+
+- Este episódio não fez originalmente com o caracol acenando. O caracol foi posteriormente adicionado às reprises.
+
+- Devido á diálogos usados na dublagem original, este episódio foi censurado na Austrália.
+
+- Esse é um dos únicos episódios da segunda temporada sem referências culturais e mensagens ocultas.

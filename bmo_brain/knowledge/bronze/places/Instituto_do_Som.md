@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Instituto do Som"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Instituto_do_Som"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Instituto_do_Som"
 ---
+
+> Instituto do Som é um lugar de Hora de Aventura.
 
 # Instituto do Som
 

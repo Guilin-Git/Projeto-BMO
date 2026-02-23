@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 15119
 nome: "Erro é Erro"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Erro_%C3%A9_Erro"
 data_exibicao: "30/09/2013"
 diretor: "David OReilly"
 roteiro: "David OReilly"
 codigo_producao: "1014-118"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Erro_%C3%A9_Erro"
 ---
 
 # Erro é Erro
 
 **Temporada 5 — Episódio 15119**
+
+## Descrição
+" Erro é Erro " é o 15º episódio da 5ª temporada de Hora de Aventura . É o centésimo décimo nono (119º) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Rei Gelado cria um vírus de computador para deletar todo mundo menos ele e a Princesa Jujuba .
@@ -34,16 +61,95 @@ Então é mostrado Finn e Jake com a boca no cabelo de Finn então eles vão ao
 A tela fica cerca de 5 segundos escura mas depois mostra uma cena da aranha serpente picando (ou mordendo) o Rei Gelado .
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Rei Gelado
+
 - Princesa Jujuba
 
+
 ### Secundários
+
 - Povo Doce Senhor Bolinho Cubo de Açúcar Moranguinha Bastão de Caramelo Root Beer Float Rosquinha
+
 - BMO
+
 - Caracol
+
 - Vírus
+
 - Aranha Serpente
+
 - Abraham Lincoln
+
+- Senhor Bolinho
+
+- Cubo de Açúcar
+
+- Moranguinha
+
+- Bastão de Caramelo
+
+- Root Beer Float
+
+- Rosquinha
+
+## Curiosidades
+- É o segundo episódio 3D de Hora de Aventura desde " Guardiões do Brilho do Sol ".
+
+- É a segunda abertura alterada da série, sendo a primeira a versão de gêneros trocados.
+
+- No fim do episódio mostra Jake e Princesa Jujuba de namoro com as mãos atrás escondendo de Finn.
+
+- Neste episódio Jake "traiu" a Lady Íris com a mão da Princesa Jujuba .
+
+- Finn usa uma outra espada neste episódio.
+
+- No começo do episódio Finn e Jake fazem o Rei Gelado sendo picado e mordido por uma serpente e aranhas e no final do episódio Rei Gelado é picado por uma Aranha Serpent.
+
+## Erros
+- No Brasil a abertura e os créditos são normais, mas nos EUA eles são modificados em 3D.
+
+- Sr. Bolinho é bem menor nesse episódio do que suas aparições anteriores.
+
+- A gema da coroa da Princesa Jujuba está verde, pois a cor original é azul.
+
+## Referências Culturais
+- Alguns dos emoticons que Finn usa são usados na Internet.
+
+- Dois deles são emoticons amplamente utilizados no Japão: 'Д ` e "T_T".
+
+- O vídeo da menina comendo seu cabelo dela é um vídeo real de David O'Reilly, disponível em seu YouTube.
+
+- O computador usado por Finn e Jake se assemelha a um dos primeiros computadores Macintosh da Apple.
+
+- O disco que Finn e Jake recebem do Rei Gelado é chamado de disquete, que é um dispositivo de armazenamento de dados externo quase obsoleto. Mais especificamente, ele se assemelha a um disco flexível de 1,2 cm 3.
+
+- Quando Finn e Jake derrotam a minhoca, e o objeto no mundo pisca por uma terra quadrada pode ser visto por alguns instantes. Esta poderia ser uma referência a Minecraft, em que quase todos os objetos são feitos de cubos.
+
+## Conexões de Episódio
+- O Cubo de Açúcar chama Senhor Bolinho de "Todd". Isto pode ser uma referência ao episódio " Os Cineastas " onde o Senhor Bolinho desempenha o papel de Todd Johnson no filme.
+
+- As "antenas" esticadas do chapéu de Finn fizeram uma aparição anterior em " Rei Minhoca " da 4 ª temporada.
+
+- Finn e Jake dizem "boingloings", que foi usado em " Batedor ".
+
+- Gunter pode ser visto usando a  peruca do Rei Gelado em " Me Lembro de Você ".
+
+- A parte em que as mãos de Jake e Jujuba namoram são uma referencia ao episódio " Ricardio, o Coração ".
+
+## Censura
+- A fala de Finn "Onde está o Rei Gelado ? Eu quero chutar suas bolotas" foi mudada para "Onde está o Rei Gelado ? Eu quero dar umas pauladas nele" no Brasil.
+
+- Censuraram algumas cenas, onde a Princesa Jujuba , namora ela mesma, beijando e lambendo sua mão.
+
+- O tempo da mulher comendo o cabelo foi reduzido.
+
+- O começo também foi cortado.
+
+- É reduzido uma cena no final do episódio, onde a mão de Jake e Princesa Jujuba se beijam.

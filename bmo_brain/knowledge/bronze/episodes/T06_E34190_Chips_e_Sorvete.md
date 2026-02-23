@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 34190
 nome: "Chips e Sorvete"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Chips_e_Sorvete"
 diretor: "Cole Sanchez (supervisor) Nick Jennings & Sandra Lee (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Somvilay Xayaphone Seo Kim Adam Muto"
 codigo_producao: "1025-194"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Chips_e_Sorvete"
 ---
 
 # Chips e Sorvete
 
 **Temporada 6 — Episódio 34190**
+
+## Descrição
+" Chips e Sorvete " é o 34º episódio da 6ª temporada de Hora de Aventura . É o centésimo octagésimo sexto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Os artistas favoritos de BMO encontram um novo lar na Casa na Árvore .
@@ -31,10 +52,27 @@ No dia seguinte, Finn e Jake estão comendo enquanto Chips e Sorvete dizem repet
 Na casa de Morty, ele é visto em uma grande banheira de batatas fritas e sorvetes onde descobrimos que ele sente falta de Chips e Sorvete mesmo que ele queria se livrar deles. De repente, ele ouve uma canção leve brincando com as letras "Chips" e "Sorvete". Quando ele sai de sua casa e caminha para mais perto do canto, ele percebe que ele está na casa na árvore e que os Chips e Sorvete estão cantando. Ele urgentemente sobe ao lado de uma janela e vê Jake com Chips e Sorvete cantando juntos. Morty lança desesperadamente o ritual novamente pela lua brilhando e como eles saem da cabeça de Jake, BMO salta e pega Chips e Sorvete em um frasco. BMO corre para fora e abre o frasco, que liberta os espíritos de Chips e Sorvete. Morty que está em lágrimas e remorso se ajoelha ao lado de BMO. BMO explica que Chips e Sorvete queriam ser livre. Morty reconhece e pede desculpas a eles, por mantê-los prisioneiros, Chips e Sorvete dar-lhe um beijo e voam para longe admirando o mundo real e livre como um pássaro eles se beijam e dizem "Chips" e "Sorvete!"
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - BMO
+
 - Chips
+
 - Sorvete
+
 - Morty Rogers
+
+
+### Menores
+
+- Caracol
+
+- Velhinha (cameo)
+
+## Curiosidades
+- A Velhinha de " O Herói Dele " é mostrada que está viva. Ela foi vista pela última vez na boca do urso em um sonho de premonição de Finn em " O Lich ."

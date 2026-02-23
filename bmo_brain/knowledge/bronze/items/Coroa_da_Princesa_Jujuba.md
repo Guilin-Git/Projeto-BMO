@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Coroa da Princesa Jujuba"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Coroa_da_Princesa_Jujuba"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Coroa_da_Princesa_Jujuba"
 ---
+
+> Coroa da Princesa Jujuba é um objeto/item de Hora de Aventura.
 
 # Coroa da Princesa Jujuba
 
@@ -11,4 +13,5 @@ A Coroa da Princesa Jujuba é uma coroa de ouro com uma joia azul incrustrada no
 
 ## Curiosidades
 - Princesa Tartaruga , Princesa Embrião e Princesa Geleca tem coroas semelhantes.
+
 - O Rei de Ooo usou essa coroa durante seu reinado no Reino Doce .

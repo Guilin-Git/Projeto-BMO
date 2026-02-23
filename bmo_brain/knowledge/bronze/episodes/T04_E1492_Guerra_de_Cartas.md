@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 1492
 nome: "Guerra de Cartas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Guerra_de_Cartas"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-092"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Guerra_de_Cartas"
 ---
 
 # Guerra de Cartas
 
 **Temporada 4 — Episódio 1492**
+
+## Descrição
+" Guerra de Cartas " é o 14º episódio da 4ª temporada de Hora de Aventura . É o nonagésimo segundo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake jogam um jogo de cartas épico, Só que Finn vira profissional nesse jogo, sem saber que Jake não sabe lidar muito bem com a derrota.
@@ -37,3 +58,41 @@ Depois de cair na cabeça de Finn com o seu ataque, BMO explica que a última ve
 Para tanto Finn e desânimo de Jake, o porco ganha a batalha, e Jake carrancudo se prepara para admitir a derrota. No entanto, como o porco começa a voltar para o lado de Finn, ele fica preso na lama e cai sob o controle de Jake. Isso faz com que Jake a recuperar a sua excitação, uma vez que os porcos não podem deixar paisagens de lama, uma vez que entrar, ele alegremente declara "seu porco é meu!" Ele, então, desempenha um outro cartão "Reclaim Paisagem" para restaurar seus campos de milho, antes de convocar "Archer Dan" destruir todos os edifícios de Finn com flechas com ponta de milho. Para o seu movimento final, Jake convoca, uma criatura ceifeira grande que assume o controle de todas as criaturas de Finn. Jake triunfante explica que ele ganhou, já que Finn não tem criaturas esquerda.
 
 Finn calmamente felicita Jake, mesmo que o cão esfrega o rosto no tabuleiro do jogo e entrega o copo "panaca". Depois de tomar um gole, Finn afirma que é bom e pergunta se Jake quer experimentá-lo, e uma surpresa Jake obriga. Ele, então, imediatamente cospe para fora, porque é nojento, e Finn jocosamente chama um tolo. A cena então fecha com os dois ainda saboreando a bebida, enquanto BMO está balançando a cabeça para eles em decepção.
+
+## Personagens
+- Finn
+
+- Jake
+
+- BMO
+
+- Caracol
+
+- Lady Íris (mencionada)
+
+## Caracol
+Aparece enquanto Finn e Jake olham pela janela
+
+## Curiosidades
+- Uma prévia do episódio foi exibido em 14 de julho durante Weekend Big Fan do Cartoon Network 2012.
+
+- Jake fica irritado quando alguém ganha dele em Guerra de Cartas . Ele não falou com BMO por um mês depois que perdeu dele. O Cartão de Título mostra o jogo entre Jake e BMO mencionado acima. O Cartão mostra Jake rindo sem parar e BMO irritado.
+
+- As três pessoas que já jogaram com Jake foram: BMO, Lady Íris e Finn .
+
+- A mesma música tocada no cartão do titulo toca quando o Porco é ativado e come o campo de milho de Jake.
+
+- Jake aparentemente chama o seu reino de Guerras de Cartas de "Jakoria". Ele também faz referência a "Cinco Ventos", que são presumivelmente parte do folclore do Jogo.
+
+- BMO e Lady Íris não gostam do jogo porque Jake não sabe perder no jogo.
+
+- É revelado que Jake não sabe perder.
+
+- Depois desse episódio, Guerra de Cartas virou um jogo para dispositivos 'Android' e 'Apple'.
+
+- O Cartão de Título mostra o jogo entre Jake e BMO mencionado acima. O Cartão mostra Jake rindo sem parar e BMO irritado.
+
+## Referências Culturais
+- O jogo Guerra das Cartas faz uma referencia cultural ao anime Yu-Gi-Oh.
+
+- O Ancião Herodito se parece com uma membra dos Jovens Titãs,Ravena.

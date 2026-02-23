@@ -1,0 +1,87 @@
+{
+  "id": "AT_S06E41197",
+  "tipo": "episodio",
+  "nome": "Em Fuga",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S06E41197_meta",
+      "text": "[Episódio: Em Fuga (Temporada 6, Ep 41197)]\nDiretor: Elizabeth Ito (supervisando) Nick Jennings & Sandra Lee (arte)\nRoteiro: Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E41197",
+        "temporada": 6,
+        "numero_ep": 41197,
+        "nome": "Em Fuga",
+        "characters_secondary": "Martin|Aliens|Martin 2|Mariposa Espacial",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E41197_sinopse",
+      "text": "[Episódio: Em Fuga (Temporada 6, Ep 41197)]\nSinopse: Martin luta pela liberdade em um planeta estranho.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E41197",
+        "temporada": 6,
+        "numero_ep": 41197,
+        "nome": "Em Fuga",
+        "characters_secondary": "Martin|Aliens|Martin 2|Mariposa Espacial",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E41197_enredo_1",
+      "text": "[Episódio: Em Fuga (Temporada 6, Ep 41197)]\nEnredo Parte 1:\nO episódio se inicia com três coalas alienígenas observando prisioneiros alienígenas trabalharem enquanto seus guardas os vigiam, um coala está entre os prisioneiros, Martin aparece e fica escondido atrás de um dos prisioneiros, Martin pensa em um plano e o coloca em ação, ele arruma briga com um dos prisioneiros e usa os dentes dele para cortar suas correntes, ele corre por cima da cabeça dos prisioneiros em direção á um dos guardas para roubar o chapéu dele, ele acaba escorregando e como acorrentado á um dos coalas, os outros coalas alienígenas o protege e derruba os três guardas que estavam protegendo os prisioneiros. Os coalas levam Martin para uma ravina onde se encontra seu povo uma mariposa gigante, os coalas oferecem a Martin várias tigelas do leite da Mariposa e Martin se aproveita para fugir dali usando a criatura, os coalas aceitam e Martin sai dali dizendo ir buscar refeições de verdade para os coalas.\n\nMartin, seu parceiro coala (Martin Dois) e a mariposa vão até a cidade, Martin vende a mariposa e vai embora. Martin e Martin Dois vão até um bar e Martin pede uma caneca de gosma alienígena, o vendedor reconhece que Martin é um dos prisioneiros e avisa aos guardas que estavam no estabelecimento, Martin foge do bar com manobras e vai até o castelo, a rainha dos alienígenas ordena os guardas á pegarem o \"líder rebelde \" (Martin).\n\nMartin se esconde em um barril de tomate e ouve um alienígena dizer que irá levar os barris para fora da cidade á noite, Martin é cercado pelos guardas e joga Martin 2 para o salvar, os guardas prestam atenção em Martin 2 e travam uma luta com ele, nesta luta é revelado que Martin 2 é o tal líder rebelde, e que ele é bastante velho, Martin foge para o castelo e emboça o dinheiro presente nele, ele encontra a mariposa e a usa para ir ao espaço, ele termina o episódio com a mariposa espacial, na boca dela, com todo o dinheiro do castelo.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E41197",
+        "temporada": 6,
+        "numero_ep": 41197,
+        "nome": "Em Fuga",
+        "characters_secondary": "Martin|Aliens|Martin 2|Mariposa Espacial",
+        "secao": "enredo",
+        "parte": 1
+      }
+    },
+    {
+      "chunk_id": "AT_S06E41197_informacoes",
+      "text": "[Episódio: Em Fuga (Temporada 6, Ep 41197)]\nInformacoes:\n### Temporada\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E41197",
+        "temporada": 6,
+        "numero_ep": 41197,
+        "nome": "Em Fuga",
+        "characters_secondary": "Martin|Aliens|Martin 2|Mariposa Espacial",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E41197_creditos",
+      "text": "[Episódio: Em Fuga (Temporada 6, Ep 41197)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E41197",
+        "temporada": 6,
+        "numero_ep": 41197,
+        "nome": "Em Fuga",
+        "characters_secondary": "Martin|Aliens|Martin 2|Mariposa Espacial",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E41197_curiosidades",
+      "text": "[Episódio: Em Fuga (Temporada 6, Ep 41197)]\nCuriosidades:\n- Jake não aparece nem é mencionado desde \" Você Esqueceu As Boias \", diferente de Finn , que mesmo sem aparecer no episódio foi mencionado por Martin por Martin 2 ter a cabeça semelhante ao seu chapéu.\n\n- Enquanto Martin está escapando andando pelas cabeças dos prisioneiros, aparece uma figura semelhante á Princesa Caroço, embora tenha mais caroços, um tamanho diferente e uma joia triangular na testa.\n\n### Referências Culturais\n\n- As moedas \"rúpias\" mencionadas por Martin é a mesma moeda utilizada na Índia, e no jogo \"Legend of Zelda\".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E41197",
+        "temporada": 6,
+        "numero_ep": 41197,
+        "nome": "Em Fuga",
+        "characters_secondary": "Martin|Aliens|Martin 2|Mariposa Espacial",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

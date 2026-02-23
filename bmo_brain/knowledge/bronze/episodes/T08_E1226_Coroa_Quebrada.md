@@ -1,14 +1,28 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 1226
 nome: "Coroa Quebrada"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Coroa_Quebrada"
 data_exibicao: "01/08/2016"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Coroa_Quebrada"
 ---
 
 # Coroa Quebrada
 
 **Temporada 8 — Episódio 1226**
+
+## Descrição
+"Coroa Quebrada" é o primeiro episódio da oitava temporada de Hora de Aventura. É o ducentésimo vigésimo sexto episódio no geral.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Quando a coroa mágica do Rei Gelado fica com defeito, Marceline e Princesa Jujuba recorre a medidas extremas para ajudá-lo.
@@ -25,9 +39,52 @@ Quando eles chegam ao local de origem do rastro de vírus, encontram a cabeça d
 Lá dentro, Simon pergunta o que ela ia dizer mas ela diz que não era nada, apenas drama. O episódio encerra com o rei gelado falando que não se lembra de nada da festa que eles fizeram, mas que todos se divertiram muito.
 
 ## Personagens
+
 ### Principais
+
 - Rei Gelado (Simon Petrikov)
+
 - Princesa Jujuba
+
 - Marceline
+
 - Gunter (Dinossauro)
+
 - Betty (I.A)
+
+
+### Menores
+
+- Manhã
+
+- Gunter
+
+- Svein
+
+- Papai noel
+
+- Evergreen (mencionado)
+
+- Ash (mencionado)
+
+- Mágico (mencionado)
+
+- Caracol
+
+## Curiosidades
+- Princesa Jujuba chama Rei Gelado de "Simon" pela primeira vez, após um pedido de Marceline .
+
+- É revelado que a Coroa teve mais de um usuário (além de Gunter e Simon ).
+
+- Este é o sétimo episódio (sem contar com os episódios de gênero opostos) em que ambos Finn e Jake não aparecem e nem são mencionados, sendo o primeiro " O Dia da Princesa ", o segundo sendo " Evergreen ", o terceiro " Amigos para Sempre ", o quarto " Fofura ", o quinto " O Orgalorg ", e o sexto sendo " Verminhos ."
+
+- Simon diz que queria socar o ex-namorado da Marceline ( Ash ), ironicamente ele fez isso (como Simon) sem saber quem ele era em " Betty ".
+
+## Conexões de Episódios
+- Manhã de Morte em Botão reaparece desde " O Pretendente ".
+
+- Marceline menciona sobre seu antigo namoro com Ash para o Simon .
+
+- Gunter , do episódio " Evergreen ", reaparece nesse episódio.
+
+- Simon diz a Marceline que ele desejava dar um soco no ex-namorado dela, porém ele já fez isso em " Betty " para pegar o tapete dele (embora Simon não soubesse que Ash era o ex-namorado de Marceline .

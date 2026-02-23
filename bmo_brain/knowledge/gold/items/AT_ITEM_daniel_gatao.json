@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_daniel_gatao",
+  "tipo": "objeto",
+  "nome": "Daniel Gatão",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_daniel_gatao_descricao",
+      "text": "[Objeto: Daniel Gatão]\nDescricao:\n# Daniel Gatão",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_daniel_gatao",
+        "nome": "Daniel Gatão",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_daniel_gatao_aparicoes",
+      "text": "[Objeto: Daniel Gatão]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_daniel_gatao",
+        "nome": "Daniel Gatão",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_daniel_gatao_curiosidade",
+      "text": "[Objeto: Daniel Gatão]\nCuriosidade:\n- No title card do episódio, é mostrado que Finn o achou em uma árvore.\n\n- O nome do caminhão é uma exclamação que Finn usa no episódio \" Caverna de Ossos \", na dublagem original.\n\n- O Caminhão, após a restauração, é uma mistura de um Chevrolet de 1950 com a traseira de Cadillac Eldorado de 1959 mais um farol que foi adicionado.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_daniel_gatao",
+        "nome": "Daniel Gatão",
+        "secao": "curiosidade"
+      }
+    }
+  ]
+}

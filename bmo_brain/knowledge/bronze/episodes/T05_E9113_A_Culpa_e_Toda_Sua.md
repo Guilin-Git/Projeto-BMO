@@ -1,17 +1,43 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 9113
 nome: "A Culpa é Toda Sua"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/A_Culpa_%C3%A9_Toda_Sua"
 data_exibicao: "15/08/2013"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward Tom Herpich"
 codigo_producao: "1014-115"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/A_Culpa_%C3%A9_Toda_Sua"
 ---
 
 # A Culpa é Toda Sua
 
 **Temporada 5 — Episódio 9113**
+
+## Descrição
+" A Culpa é Toda Sua " é o 9º episódio da 5ª temporada de Hora de Aventura . É o 113º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Kent Osborne Pendleton Ward Tom Herpich
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake tem que salvar o Reino Doce de Limãograb , Limãograb 2 e de João Limão , que estão sem comida e querem alimentar seu povo, com todo o doce do Reino Doce .
@@ -26,14 +52,43 @@ Finn e Jake procuram o calabouço por muitas entradas no castelo, á cada porta 
 Porém, o povo Limão estava sem comida para sobreviver, então os Limãograbs decidem pegar todo o doce que há no Reino Doce, João Limão , se levanta, um gigante revestido com o castelo, ele caminha até o Reino Doce para consumir todo o doce. Finn e Jake lembram daqueles órgãos e que eles poderiam ser do João Limão , então eles vão até o coração do João Limão e batem nele. João Limão começa á agir de forma diferente, se ele e o povo Limão ir até o Reino doce as pessoas doces morrem, e se não for o povo limão morre, então faz uma triste decisão, vira um monte de limão doce para o povo limão se alimentar. Princesa Jujuba abre o cérebro dos Limãograbs e muda para eles não ficarem com anseio de criar mais povo limão e arrumar problemas.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Limãograb
+
 - Limãograb 2
+
 - João Limão
 
+
 ### Secundários
+
 - Caracol
+
 - Povo Limão
+
+## Curiosidades
+- Sistema Solar faltando o Sol e dois planetas. Neste episódio é descoberto que os Limãograbs veem a Princesa Jujuba como uma mãe, sendo ela sua criadora.
+
+- O Castelo Limãograb parece bem diferente do que se vê no episódio " Você Me Fez " e as árvores do lado de fora tem uma cor diferente. Em "Você me Fez" eram rosa, agora elas são verdes. Provavelmente, a presença do Limãogreeb parece afetar o local onde ele vive, como se azedasse a terra; já que nesse episódio ele não é o único morador do castelo.
+
+- No início do episódio vemos uma representação do nosso Sistema Solar, mas sem o Sol e faltando dois planetas (Mercúrio e Plutão).
+
+## Censura
+- A parte que a Princesa Jujuba apaga com uma borracha o cérebro com os Limãograbs, foi censurada no Brasil.
+
+- Tambem é censurada a parte que o mini limão descasca por inteiro.
+
+## Referências Culturais
+- No momento em que Jake pula da janela do castelo doce, sua transformação é uma referência clara a Dumbo.
+
+- O Tittlecard é inspirado em uma cena do episódio dos Simpsons "Bart VS. Ação de Graças" (sétimo episódio da segunda temporada), Pendleton assistia Os Simpsons em sua infância, provavelmente por isso fez esta referência.
+
+- João Limão poderia ser uma referência a John Lennon; em um episódio dos Simpsons chamado "The Bart of War" Bart e Milhouse vão à casa de Flandres e encontram refrigerantes com base nos nomes de The Beatles e bebem um chamado "John Lemon." (Lembrando que esta referência é com o nome do João Limão em inglês).

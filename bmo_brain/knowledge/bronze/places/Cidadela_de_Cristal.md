@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Cidadela de Cristal"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cidadela_de_Cristal"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cidadela_de_Cristal"
 ---
+
+> Cidadela de Cristal é um lugar de Hora de Aventura.
 
 # Cidadela de Cristal
 
@@ -17,3 +19,6 @@ Um dos jeitos de acessar a dimensão é cometendo um crime cósmico. Alguns exem
 Lich comete um Crime Cósmico matando o mestre dos desejos Prismo , e é levado para a Cidadela de Cristal, onde ele solta todos os criminosos perigosos. A Cidadela é arrasada pelo Lich, já que a habilidade dos Guardiões de destruir vidas não afeta Lich. Finn e Jake são indiretamente responsáveis ​​pela destruição, dando ao Lich a oportunidade de continuar seu propósito.
 
 Assim , o lugar foi completamente destruído, muitos prisioneiros morreram ou fugiram. Entre eles, um grupo de fugitivos escapa por uma fenda espacial junto com Martin. Não se sabe o paradeiro deles. Muitas das superfícies da prisão derreteram e o líquido restante gravitou para o centro, formando um mar enorme. Os Guardiões foram erradicados pela praga de Lich e pelos prisioneiros que fugiram.
+
+## Curiosidades
+- De acordo com o storyboard original, o verdadeiro pai de Finn foi preso ilegalmente na Cidadela, onde ele luta contra os criminosos até hoje. Essa trama foi descartada. Além disso, a Cidadela foi inicialmente descrita de forma um pouco diferente no storyboard de " O Lich " (páginas 142 a 145). [ 1 ]

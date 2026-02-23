@@ -1,0 +1,11 @@
+{
+  "id": "AT_ITEM_panquecas_de_toucinho_comida",
+  "tipo": "objeto",
+  "nome": "Panquecas de Toucinho (Comida)",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Panquecas_de_Toucinho_(Comida)",
+  "sections": {
+    "descricao": "# Panquecas de Toucinho (Comida)\n\nAs Panquecas de Toucinho é uma comida que Jake preparou em Pegando um Foguinho .",
+    "ingredientes": "- Bacon.\n\n- Panquecas."
+  },
+  "source_file": "Panquecas_de_Toucinho_Comida.md"
+}

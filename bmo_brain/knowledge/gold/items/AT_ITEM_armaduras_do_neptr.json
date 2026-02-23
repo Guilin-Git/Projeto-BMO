@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_armaduras_do_neptr",
+  "tipo": "objeto",
+  "nome": "Armaduras do Neptr",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_armaduras_do_neptr_descricao",
+      "text": "[Objeto: Armaduras do Neptr]\nDescricao:\n# Armaduras do Neptr",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_armaduras_do_neptr",
+        "nome": "Armaduras do Neptr",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_armaduras_do_neptr_aparicoes",
+      "text": "[Objeto: Armaduras do Neptr]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_armaduras_do_neptr",
+        "nome": "Armaduras do Neptr",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_armaduras_do_neptr_aparencia",
+      "text": "[Objeto: Armaduras do Neptr]\nAparencia:\nAs armaduras do Neptr são duas armaduras que protegem do fogo. Elas são feitas de alumínio e gesso (conforme referenciado na música cantada por Neptr ) e foram montadas a partir de vários objetos, tendo um aspecto robótico. A armadura do Jake é menor do que a do Finn e a cabeça da armadura do Finn é o Neptr.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_armaduras_do_neptr",
+        "nome": "Armaduras do Neptr",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_armaduras_do_neptr_curiosidade",
+      "text": "[Objeto: Armaduras do Neptr]\nCuriosidade:\n- A armadura de Finn é baseada na armadura Mark I do Homem de Ferro.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_armaduras_do_neptr",
+        "nome": "Armaduras do Neptr",
+        "secao": "curiosidade"
+      }
+    }
+  ]
+}

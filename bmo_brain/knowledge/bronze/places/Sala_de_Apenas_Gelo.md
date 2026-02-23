@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Sala de Apenas Gelo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Sala_de_Apenas_Gelo"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Sala_de_Apenas_Gelo"
 ---
+
+> Sala de Apenas Gelo é um lugar de Hora de Aventura.
 
 # Sala de Apenas Gelo
 

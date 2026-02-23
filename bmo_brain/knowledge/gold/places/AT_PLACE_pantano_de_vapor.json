@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_pantano_de_vapor",
+  "tipo": "lugar",
+  "nome": "Pântano de Vapor",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_pantano_de_vapor_descricao",
+      "text": "[Lugar: Pântano de Vapor]\nDescricao:\n# Pântano de Vapor\n\nO Pântano de Vapor é um lugar visto pela primeira vez em \" O Pretendente \". É um lugar habitado por muitas criaturas como caranguejos mutantes, insetos gigantes e outras criaturas . Um item raro, a Pedra da Alma , foi mantido como um tesouro por um dos monstros aqui, A Besta .\n\nEmbora seja considerado um pântano, os Pântano de Vapor é desértico e tem o vapor que sai das rochas em forma de vulcão. Além disso, parece ser os restos de uma cidade antiga, provavelmente um resultado da Guerra dos Cogumelos .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_pantano_de_vapor",
+        "nome": "Pântano de Vapor",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

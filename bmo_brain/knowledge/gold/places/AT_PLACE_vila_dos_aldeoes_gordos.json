@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_vila_dos_aldeoes_gordos",
+  "tipo": "lugar",
+  "nome": "Vila dos Aldeões Gordos",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_vila_dos_aldeoes_gordos_descricao",
+      "text": "[Lugar: Vila dos Aldeões Gordos]\nDescricao:\n# Vila dos Aldeões Gordos\n\nA Vila dos Aldeões Gordos aparece em \" O Monstro \". Seus habitantes estavam à beira de morrer de fome porque a Princesa Caroço continuou comendo suas colheitas. Eles são baixos e vestem roupas rasgadas. A vila tem um moinho de vento em uma colina e campos de cultivo. Depois, A Princesa Caroço dá sanduíches aos moradores, e ela retorna para A Terra do Caroço",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vila_dos_aldeoes_gordos",
+        "nome": "Vila dos Aldeões Gordos",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_vila_dos_aldeoes_gordos_moinho_de_vento",
+      "text": "[Lugar: Vila dos Aldeões Gordos]\nMoinho_De_Vento:\nO Moinho de vento da vila é onde A Princesa Caroço se esconde depois que ela leva as colheitas. No interior é o que parece ter uma máquina de lavar, um forno, um telefone velho em cima de uma geladeira, um sofá com uma cama retrátil, algumas telas da televisão com alto-falantes, e que parece ser uma pilha de ossos espalhados.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_vila_dos_aldeoes_gordos",
+        "nome": "Vila dos Aldeões Gordos",
+        "secao": "moinho_de_vento"
+      }
+    }
+  ]
+}

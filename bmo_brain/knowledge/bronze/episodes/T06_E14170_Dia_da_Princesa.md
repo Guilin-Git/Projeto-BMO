@@ -1,16 +1,56 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 14170
 nome: "Dia da Princesa"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Dia_da_Princesa"
 data_exibicao: "06/04/2015"
 diretor: "Elizabeth Ito (supervising) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Dia_da_Princesa"
 ---
 
 # Dia da Princesa
 
 **Temporada 6 — Episódio 14170**
+
+## Descrição
+" O Dia da Princesa " é o 14º episódio da 6ª temporada de Hora de Aventura . É o 170 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+- Elizabeth Ito (supervising)
+
+- Nick Jennings (art)
+
+
+### História
+
+- Kent Osborne
+
+- Pendleton Ward
+
+- Jack Pendarvis
+
+- Adam Muto
+
+
+### Escritor
+
+- Somvilay Xayaphone
+
+- Seo Kim
 
 ## Sinopse
 É o Dia das Princesas em Ooo e Princesa Caroço e Marceline se unem para fazer pegadinhas com a Princesa Café da Manhã .
@@ -25,7 +65,107 @@ Um dos guardas reportar a Princesa Café da Manhã o que está acontecendo, por 
 As duas ouvem a música que Marceline roubou da Princesa. Caroço pergunta à Marceline se elas são completamente más, já que elas fizeram coisas ruins. Marceline diz a ela que mocinhos podem fazer coisas ruins, por isso realmente não importa. As duas revelam que elas estão chateadas ao roubar o CD da Café da Manhã e decide enviá-lo para ela e inesperadamente o carro segui em direção a um penhasco, mas ambas flutuam (Com Marceline apoiando Princesa Coroço) e o carro cai no chão e explode. A Princesa Strudel toma posse como governadora do Reino Café da Manhã com todas as outras Princesas comemorando e celebra o Dia das Princesas.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Marceline
+
 - Princesa Caroço
+
 - Princesa Café da Manhã
+
+
+### Menores:
+
+- Princesa Jujuba
+
+- Princesa Músculos
+
+- Princesa Geleca
+
+- Princesa Trapo
+
+- Princesa Cotovelo
+
+- Princesa da Selva
+
+- Princesa Amendoim
+
+- Princesa Roxa
+
+- Princesa Anjo Espacial
+
+- Princesa Laranja
+
+- Princesa Embrião
+
+- Princesa Princesa Princesa
+
+- Princesa Frutinhas
+
+- Princesa Cachorro Quente
+
+- Princesa Esmeralda
+
+- Princesa Anel de Casamento
+
+- Princesa Esqueleto
+
+- Princesa Strudel
+
+- Princesa Tartaruga
+
+- Princesa Velha Senhora
+
+- Princesa de Fogo
+
+- Canelinha
+
+- Princesa Negócios (mencionada)
+
+- Caracol
+
+## Curiosidades
+- Esta é a primeira vez que a Princesa de Fogo aparece na 6ª temporada.
+
+- Esta é a primeira vez que Marceline e Princesa Caroço interagem entre sí.
+
+- É desconhecido porque Marceline está presente no evento porque, mesmo sendo da realeza de Ooo, no caso sendo a Rainha dos Vampiros, ela não é tecnicamente uma princesa.
+
+- Este episódio marca a primeira aparição maior da Princesa Café da Manhã.
+
+- É revelado que a Princesa Café da Manhã tem outra irmã, a Princesa Strudel .
+
+- Princesa Caroço só pode flutuar até uma determinada altura, foi por isso que Marceline teve que segura-la quando estavam altas demais.
+
+- O que aconteceu com a Princesa Café da Manhã depois de ser enviada ao deserto permanece desconhecido.
+
+- É revelado que a Princesa Geleca pode criar ovos dentro dela.
+
+- Princesa Caroço chama a Princesa Café da Manhã de "Princesa Bafo de Ovo".
+
+- É revelado que Marceline não consegue engolir cores que não sejam vermelhas, se ela beber ela passa mal.
+
+- Esse é o segundo episódio com mais aparições de personagens, o primeiro é Jake, the Brick
+
+- Neste episódio mostra que os guardas do Reino Café da Manhã são garrafas de melado. Sendo como os Guardas Bananas do Reino Doce.
+
+- Princesa Café da Manhã reclama que há princesas falsas a solta por ai.
+
+- Neste episódio é revelado que as princesas trocam mercadorias entre si, havendo um comercio entre os Reinos.
+
+## Erros
+- Os giros sobre a mudança da porta esquerda quando a Princesa Café da Manhã e quando os guardas chegam para tirar a Princesa Caroço .
+
+- Durante a cena em que Princesa Caroço e Princesa Café da Manhã estão discutindo, Princesa Café da Manhã é vista de pé em 5 panquecas, mas quando os guardas entram há apenas 4 panquecas.
+
+- Marceline estava no sol e não se feriu(Vampiros são vulneráveis ao sol).
+
+## Censura
+- É censurado quando a Princesa Caroço chama a Princesa Café da Manhã de "Princesa Bafo de Ovo".
+
+- A parte que o Canelinha sussurra que a Princesa Café da Manhã tem "bafo de ovo" foi cortada.
+
+- É censurada a parte que a Princesa Caroço chuta um guarda de [xarope e Marceline fala para continuar.
+
+- É censurado quando a Marceline e a Princesa Caroço olham a Princesa Café da Manhã caída debaixo do carro.

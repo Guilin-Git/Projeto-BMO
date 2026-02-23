@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 10114
 nome: "Amiguinho"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Amiguinho"
 data_exibicao: "22/08/2013"
 diretor: "Adam Muto Nick Jennings"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward Andy Ristaino"
 codigo_producao: "1014-114"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Amiguinho"
 ---
 
 # Amiguinho
 
 **Temporada 5 — Episódio 10114**
+
+## Descrição
+" Amiguinho " é o 10º episódio da 5ª temporada de Hora de Aventura . É o 114º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 O chapéu de Finn ganha vida enquanto ele e Jake estão distraídos e começa a assustar os cidadãos do Reino Doce .
@@ -46,15 +73,60 @@ Finn lamenta, dizendo que o Amiguinho só sabia fazer aquilo, então ele perde p
 Finn diz a Jake que precisa de um novo chapéu, então Jake diz que eles vão tirar o pelo de urso polar mal.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Amiguinho
+
 - Antigo Bruxo Adormecido Da Vida
+
 - Guardiões de Chiclete
 
+
 ### Secundários
+
 - BMO
+
 - Rei Gelado (mencionado)
+
 - Pai do Mago (mencionado)
+
 - Mãe do Mago (mencionada)
+
+## Curiosidades
+- Se o Amiguinho passar por uma comida, vira cocô.
+
+- O Reino Doce estava sendo atacado, mas a Princesa Jujuba não apareceu.
+
+- A pessoa doce que o Amiguinho possuiu ficou com uma forma fisica similar a de Susana Forte.
+
+- Neste episódio a Antiga Maga Adormecida é o Antigo Bruxo Adormecido.
+
+- Quando finn e jake saem da lagoa,finn não esta vestido,mas quando são vistos correndo ele esta de roupa.
+
+- Este episódio compartilha o mesmo nome de um episódio de Clarêncio O Otimista.
+
+## Referências Culturais
+- Após Amiguinho possuir o homem na pista, em seguida, caminha até o cavalo e o soca. Isso lembra muito uma cena em Blazing Saddles em que Mongo, interpretado por Alex Karras, soca um cavalo.
+
+- Quando Amiguinho possuiu o Guarda Chiclete ele mostrou novos poderes; como a criação de um laser que faz  uma grande explosão como visto em algumas séries diferentes e filmes, por exemplo Nausicaä e Dragon Ball Z.
+
+- Quando Amiguinho possui alguém pode parecer que a possessão de um headcrab, uma criatura do Half-Life, um jogo de videogame.
+
+- A cena em que Jake persegue o Amiguinho pela mesa faz referência a um jogo da cobrinha atrás da maçã.
+
+## Conexões de Episódio
+- Quando Finn tira seu chapéu, repara-se que seu cabelo cresceu desde que ele o cortou em "Davey."
+
+- No jantar, a caixa de leite tem uma Phil Face. Desenhando um Phil Face e  molhando-o com leite de inseto são os dois primeiros passos para entrar na Noitosfera, como visto em " Veio da Noitosfera " e " A Monstrinha do Papai ." A mesma caixa de leite com a Phil Face foi visto em " Ninguém Te Ouvindo ."
+
+- O Antigo Bruxo Adormecido Da Vida deve ter sido aprendiz de Bufo ,pois a sua magia é muito parecida com a que o Finn usou para acordar Jake e acabou dando vida a uma pedra no episódio Bruxo .
+
+## Censura
+- Foi censurada no Brasil a parte que Jake diz: "Seu cabelo é tão pequeno que até parece um pêssego".
+
+- Uma outra parte do episódio foi censurada, em que Finn e Jake estão comendo linguiças com leite por ser considerado uma referência sexual, mas foi censurado apenas na sua primeira exibição.

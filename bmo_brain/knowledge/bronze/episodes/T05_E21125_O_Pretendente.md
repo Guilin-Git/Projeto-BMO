@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 21125
 nome: "O Pretendente"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Pretendente"
 data_exibicao: "11 de novembro de 2013"
 diretor: "Nate Cash (supervisão) Nick Jennings (arte)"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward Steve Little Jesse Moynihan"
 codigo_producao: "1014-130"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Pretendente"
 ---
 
 # O Pretendente
 
 **Temporada 5 — Episódio 21125**
+
+## Descrição
+" O Pretendente " é o 21º episódio da 5ª temporada de Hora de Aventura . É o 125º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Mordomo Menta arruma um pretendente para a Princesa Jujuba , Braco . Mas Braco tem problemas em conquistar o coração da princesa.
@@ -36,34 +63,96 @@ Braco pergunta ao Mordomo Menta se ele agora é um "ímã do amor". Mordomo Ment
 Mordomo Mente aparece e pergunta onde está Braco. Princesa Jujuba explica que ela sabia Braco não poderia ser feliz sem ela, para que ela lhe edificou uma robô-esposa. Mordomo Menta respondeu com raiva, dizendo que "você devia ter dado ela a mim!" em seguido deu um tapa na Jujuba.
 
 ## Personagens
+
 ### Principais
+
 - Princesa Jujuba
+
 - Mordomo Menta
+
 - Braco
 
+
 ### Secundários
+
 - Finn
+
 - Jake
+
 - Povo Doce
+
 - Jujubô
+
 - Jardineiros
+
 - Manhã
+
 - Ciência
+
 - Guardiões de Chiclete
+
 - Canelinha
+
 - Senhor Bolinho
+
 - Chet
+
 - Jovens Marshmallows
+
 - Mágico Doce
+
 - Choco Fruta
+
 - Garota Pirulito
+
 - Pretendentes
+
 - Ogdoad
+
 - Loghan
+
 - Hobus
+
 - Phil
+
 - Anja da Guarda
+
 - Leão
+
 - O Caracol
+
 - A Besta
+
 - Monstros do Pântano de Vapor
+
+## Curiosidades
+- Canelinha foi possuído neste episódio.
+
+- A Prisão de Âmbar diminuiu de tamanho como a árvore começa a regredir.
+
+- Nesse episodio Braco explica para Mordomo Menta que sua família espera centenas de anos para cortejar a Princesa Jujuba , abrindo a possibilidade da princesa ser mais velha do que aparenta. Porém também há possibilidade de os antigos pretendentes estarem esperando para cortejar antigos membros da realeza, desde antes do governo da Princesa Jujuba .
+
+- Braco se assemelha á um Guarda Banana , levantando a possibilidade que sua família seja parte Banana.
+
+- Não se sabe se a Princesa Jujuba sentia sentimentos por Braco , já que no final ela derramou uma lágrima e o chamou de "meu amor".
+
+- O Guardião Chiclete chamou o Mordomo Menta de Senhor das Trevas, mostrando que eles estão cientes de suas ações.
+
+- As figuras esculpidas na parede atrás do caixão do avô de Braco aparecem semelhante à Princesa Jujuba.
+
+- O Guardião de Chiclete chama o Mordomo Menta de Mordomo Amendoim.
+
+- Neste episódio pode ter a noção da idade da Princesa Jujuba , quando os Pretendentes dizem que já estão na fila a 80, 100 e 300 anos.
+
+- A Anja da Guarda pode ser vista na segunda vez que aparece o Mordomo Menta na Prisão de Âmbar.
+
+- Na estante de Braco há um capacete semelhante ao de Boba Fett.
+
+- O local que Mordomo Menta faz o ritual é o mesmo local da prisão do Lich.
+
+- O personagem Phil aparece em uma das gaiolas no laboratório da Princesa Jujuba .
+
+## Censura
+- Quando Braco transformou-se em monstro, Mordomo Menta diz: "quero me casar com você". Em inglês Mordomo Menta fala: "quero ter seus bebês".
+
+- Quando Braco sai do poço de lava com o rosto queimado foi censurado, mas antigamente não era censurado.

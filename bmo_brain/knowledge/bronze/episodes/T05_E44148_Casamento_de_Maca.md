@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 44148
 nome: "Casamento de Maçã"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Casamento_de_Ma%C3%A7%C3%A3"
 data_exibicao: "21/04/2014"
 diretor: "Nate Cash (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Tom Herpich Steve Wolfhard Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Casamento_de_Ma%C3%A7%C3%A3"
 ---
 
 # Casamento de Maçã
 
 **Temporada 5 — Episódio 44148**
+
+## Descrição
+" Casamento de Maçã " é o 44º episódio da 5ª temporada de Hora de Aventura . É o 148 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Dona Tromba e Senhor Porco vão se casar, e a Princesa Caroço tenta destruir o casamento.
@@ -41,3 +65,105 @@ Sr. Porco aponta que o rei disse que Dona Tromba poderia realizar a sua própria
 Princesa Jujuba, que foi assistir esses processos sobre CCTV do Reino Doce , começa a chorar e diz que os Guardas Banana para deixá-los ir todos, já que ela apenas "não pode ficar brava com algo tão fofo." Os Guardas Banana liberam todos, bem como os convidados do casamento, até os criminosos reais no Reino Doce mas Dona Tromba e Sr. Porco permanecem atrás na cadeia, e a Princesa Jujuba continua observando os dois.
 
 Dona Tromba diz: "Parece que nós temos todo o lugar para nós, se e que você entende." Sr. Porco diz: "Espere, você não acha que pode haver câmeras aqui em baixo?" Dona Tromba responde: "Eu espero que sim". A Princesa Jujuba que vigiava pelas câmeras faz uma careta. e assim termina o episódio.
+
+## Personagens
+- Finn
+
+- Jake
+
+- Dona Tromba
+
+- Sr. Porco
+
+- Princesa Caroço
+
+- BMO
+
+- Guarda Banana
+
+- Mãe da Dona Tromba
+
+- Rei de Ooo
+
+- Ex-maridos da Dona Tromba Wyatt Randy Danny
+
+- Lady Íris
+
+- Filhotes de Jake e Lady Jake Jr. Charlie Viola T.V. Kim Kil Whan
+
+- Princesa Jujuba
+
+- Povo Doce Mordomo Menta Canelinha
+
+- Caracol
+
+- Esquilo(no storyboard)
+
+- Wyatt
+
+- Randy
+
+- Danny
+
+- Jake Jr.
+
+- Charlie
+
+- Viola
+
+- T.V.
+
+- Kim Kil Whan
+
+- Mordomo Menta
+
+- Canelinha
+
+## Curiosidades
+- Este episódio revela que Dona Tromba teve três ex-maridos: Randy, Danny, e Wyatt (um rinoceronte , um javali e um leão-marinho, respectivamente).
+
+- Este episódio foi sugerido pela primeira vez na San Diego Comic- Con 2013 por Kent Osborne e Adam Muto .
+
+- Nos previews, os olhos da Princesa Caroço são censurados por uma barra preta, aparentemente para esconder sua identidade.
+
+- Neste episódio Charlie, Viola, e Kim Kil Whan aparecem crescidos.
+
+- A arte promocional tem várias referências a episódios anteriores. Canelinha ainda vive no Reino de Fogo , onde ele se mudou a partir do episódio " Earth & Water ". BMO supostamente foi convidado para o casamento pela Bolha/Ar como visto na arte promocional, que ele fez amizade no episódio " BMO Perdido ".
+
+- Dona Tromba não acredita que a Princesa Jujuba tem autoridade para presidir o casamento.
+
+- Princesa Jujuba tem algum ressentimento em relação ao "verdadeiro" Rei de Ooo.
+
+- Este é o primeiro episódio em que Princesa Jujuba foi interpretada como antagonista.
+
+- No final do episódio, os Guardas Banana , por engano; libertam os criminosos do Reino Doce .
+
+- Princesa Jujuba acha fofo o relacionamento da Dona Tromba e do Sr. Porco, porém em Sonho de Amor ela achava nojento o amor deles.
+
+- No cartão de título é possível ver Wyatt segurando uma foto que provavelmente foi tirada após o casamento dele com a Dona Tromba .
+
+- No storyboard a Princesa Jujuba acha um esquilo tomando banho enquanto olhava o Dirigivel do Rei de Ooo, porém foi cortado do episódio esta parte e mais alguns storyboards.
+
+- O Canelinha ir até a floresta com a cidra, provavelmente foi inspirado por uma das histórias da Edição 4 , em que o Canelinha tira seu suor para colocar na cidra.
+
+- O site que o Rei de Ooo fala ("Kingofoo.com) leva ao site americano do Cartoon Network.
+
+- Esse foi um dos episódios mais censurados no Brasil.
+
+- O episódio foi tão censurado no Brasil, que ficou o tempo de duração ficou pequeno parecendo de uma curta.
+
+- Canelinha ainda vive no Reino de Fogo , onde ele se mudou a partir do episódio " Earth & Water ".
+
+- BMO supostamente foi convidado para o casamento pela Bolha/Ar como visto na arte promocional, que ele fez amizade no episódio " BMO Perdido ".
+
+## Erros
+- Na dublagem brasileira; Rei de Ooo não grita " KingofOoo.Tumblr.com " quando escapa da prisão.
+
+- Esse Episódio foi traduzido no Brasil antes do episódio Encontro Para Brincar, O Poço, James e O Refri, porém estes são os episódios de número 40, 41, 42 e 43 da 5ª temporada
+
+## Censura
+- É censurado o beijo de língua da Dona Tromba e do Sr. Porco e da Mãe da Dona Tromba e Wyatt.
+
+- É censurado a parte onde a Princesa Caroço fica esbarrando em Finn para entrar na festa e diz "Ai meu Glob, Finn! Você está tocando no meu corpo feminino!".
+
+- O final também é censurado, só indo até a parte em que Dona Tromba diz que eles estão sozinhos.

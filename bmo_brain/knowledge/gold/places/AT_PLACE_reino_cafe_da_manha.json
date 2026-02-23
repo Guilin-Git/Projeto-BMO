@@ -1,0 +1,38 @@
+{
+  "id": "AT_PLACE_reino_cafe_da_manha",
+  "tipo": "lugar",
+  "nome": "Reino Café da Manhã",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_reino_cafe_da_manha_descricao",
+      "text": "[Lugar: Reino Café da Manhã]\nDescricao:\n# Reino Café da Manhã\n\nReino Café da Manhã é um reino governado pela Princesa Café da Manhã e pela Princesa Torrada . Lá vivem os cidadãos de Café da Manhã. Teve um papel maior em \" O Dia da Princesa \".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_cafe_da_manha",
+        "nome": "Reino Café da Manhã",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_reino_cafe_da_manha_aparencia",
+      "text": "[Lugar: Reino Café da Manhã]\nAparencia:\nA aparência do castelo do Reino Café da Manhã é de um rio de café, com pontes de bacon para uma ilha de ovo com pedaços de bolo e um prato em cima ao lado de um bule de chá jorrando café no rio.\n\nEsse reino parece que era um lugar de escavação. Se você notar no episódio \" Batedor \" verá que há uma cantina de almoço (muito parecida com aquelas que se vê em construção ou em parques), e um caminhão ainda com carga, perto de um orelhão telefônico.\n\nO Reino Café da Manhã tem uma sala com mesas de ovos com café e biscoitos em cima. Nessa mesma sala se encontram mesas de ovos e cadeiras de torradas. Também se encontra um telão e um palco de panqueca. O quarto da Princesa Café da Manhã tem sua cama, um retrato de uma galinha, um closet, uma comoda verde e o piso branco e rosa.\n\nLá também há um spa, como visto em \" Consertamos um Caminhão \".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_cafe_da_manha",
+        "nome": "Reino Café da Manhã",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_reino_cafe_da_manha_curiosidades",
+      "text": "[Lugar: Reino Café da Manhã]\nCuriosidades:\n- No episódio \"O Dia da Princesa\" mostra que os guardas do Reino Café da Manhã são garrafas de melado. Assim como os guardas bananas do Reino Doce.\n\n- Esse reino fica no meio do deserto. Porém isso não é problema para a Princesa Café da Manhã por ela ter um carro como visto em \"O Dia da Princesa\".\n\n- Seu castelo parece ser bem maior do que antes, tendo diversas salas e sendo bem alto em \"O Dia da Princesa\".\n\n- O Reino foi sede do Dia das Princesas",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_cafe_da_manha",
+        "nome": "Reino Café da Manhã",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "AT_S10E2268",
+  "tipo": "episodio",
+  "nome": "BMO Vendedor",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/BMO_Vendedor",
+  "sections": {
+    "informacoes": "### Temporada\n\n### Episódio\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+    "creditos": "### Diretor\n\n### Escritor",
+    "sinopse": "BMO e Rei Gelado pegam a estrada como vendedores de porta em porta e se deparam com uma oportunidade irresistível.",
+    "curiosidades": "- Este episódio apresenta uma transição de título pela primeira vez desde a segunda temporada.\n\n- Perto da casa de Dona Tromba , há uma escultura em uma árvore de um coração com \"TT + W\", esculpido dentro. Isso provavelmente foi feito por Wyatt . Tree Trunks é o nome da Dona Tromba em inglês, por isso a abreviação é TT.\n\n- Há um poster faltando para Crunchy colado na casa de Dona Tromba, prenunciando a revelação de que Crunchy é o primo chicle da Princesa Jujuba, revelado em \" Princesa Jujuba Jujuba \", e desapareceu do Reino dos Doces."
+  },
+  "source_file": "T10_E2268_BMO_Vendedor.md",
+  "season": 10,
+  "episode": 2268,
+  "episode_id": "S10E2268",
+  "diretor": "Diana Lafyatis",
+  "codigo_producao": "1054-273",
+  "data_exibicao": "06/03/2018",
+  "characters_main": [
+    "Finn Mertens",
+    "Jake",
+    "BMO",
+    "Rei Gelado",
+    "Gumbald"
+  ],
+  "characters_secondary": [
+    "Sr. Porco",
+    "Dona Tromba",
+    "Princesa Caroço",
+    "Caracol"
+  ]
+}

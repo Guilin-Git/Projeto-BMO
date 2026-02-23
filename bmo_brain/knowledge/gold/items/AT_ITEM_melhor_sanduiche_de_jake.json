@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_melhor_sanduiche_de_jake",
+  "tipo": "objeto",
+  "nome": "Melhor Sanduíche de Jake",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_melhor_sanduiche_de_jake_descricao",
+      "text": "[Objeto: Melhor Sanduíche de Jake]\nDescricao:\n# Melhor Sanduíche de Jake",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_melhor_sanduiche_de_jake",
+        "nome": "Melhor Sanduíche de Jake",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_melhor_sanduiche_de_jake_aparicoes",
+      "text": "[Objeto: Melhor Sanduíche de Jake]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_melhor_sanduiche_de_jake",
+        "nome": "Melhor Sanduíche de Jake",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_melhor_sanduiche_de_jake_receita",
+      "text": "[Objeto: Melhor Sanduíche de Jake]\nReceita:\nJake precisou da ajuda do Reino da Criação para fazer o sanduíche e ele usou os seguintes ingredientes:\n\n- Queijo\n\n- Picles (que ganhou de Prismo )\n\n- Ovos\n\n- Passarinho da Janela\n\n- Pepinos\n\n- Rodelas de Tomate\n\n- Rodelas de Cebola\n\n- Carne preparada com alecrim e tomilho\n\n- Lágrimas\n\n- Alma de Lagosta",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_melhor_sanduiche_de_jake",
+        "nome": "Melhor Sanduíche de Jake",
+        "secao": "receita"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_melhor_sanduiche_de_jake_curiosidades",
+      "text": "[Objeto: Melhor Sanduíche de Jake]\nCuriosidades:\n- Jake se referiu a seu sanduíche como \" Mi hijo \" e \" Meu amor \".",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_melhor_sanduiche_de_jake",
+        "nome": "Melhor Sanduíche de Jake",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

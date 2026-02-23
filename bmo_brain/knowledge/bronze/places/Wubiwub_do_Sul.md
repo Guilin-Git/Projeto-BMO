@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Wubiwub do Sul"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Wubiwub_do_Sul"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Wubiwub_do_Sul"
 ---
+
+> Wubiwub do Sul é um lugar de Hora de Aventura.
 
 # Wubiwub do Sul
 

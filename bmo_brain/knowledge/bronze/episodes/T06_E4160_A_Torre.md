@@ -1,15 +1,30 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 4160
 nome: "A Torre"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/A_Torre"
 diretor: "Andres Salaff (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto Tom Herpich Steve Wolfhard"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/A_Torre"
 ---
 
 # A Torre
 
 **Temporada 6 — Episódio 4160**
+
+## Descrição
+" A Torre " é o 4
+º episódio da 6ª temporada de Hora de Aventura . É o 160 episódio no total.
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn não gosta de nenhum dos braços que as princesas lhe fazem, por isso ele constrói uma torre para o espaço para encontrar seu pai e arrancar o braço dele por vingança.
@@ -28,8 +43,78 @@ Finn então acorda no que parece ser uma nave espacial e vai para a próxima sal
 Finn volta para casa, com o braço telecinético, e diz a Jake que ele se acalmou. Jake diz que é bom e pergunta se Finn quer fazer as honras de derrubar a torre. Finn diz que ele faria e remove uma prancha de madeira, perto da base da torre, que, em seguida, cai para os lados, destruindo uma grande parte do Reino Doce , para o choque de Finn e Jake. O episódio termina com a Princesa Jujuba gritando "AHHH! MEU BRAÇO!!"
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Carroll
+
+
+### Menores:
+
+- BMO
+
+- Pinguins
+
+- Guardas Banana
+
+- Princesa Cachorro Quente
+
+- Fawn
+
+- Caracol
+
+
+### Mencionados:
+
+- Martin
+
+- Homem Banana
+
+## Músicas
+- Bebê Está Construindo uma Torre
+
+## Curiosidades
+- BMO reaparece desde " Casamento de Maçã ".
+
+- Finn ganha um braço de magia, uma espécie de braço-fantasma extremamente poderoso.
+
+- O "braço fantasma" do Finn provavelmente é baseado no fenômeno real da síndrome do membro fantasma, em que um amputado continua a sentir dor e outras sensações de um membro perdido, como se ele ainda estivesse ligada ao seu corpo.
+
+- No final do episódio, a Princesa Jujuba machuca o braço quando a torre cai sobre o Reino Doce. Desconhece-se o colapso da torre no Reino Doce , já que causou mais lesões ou até mortes.
+
+- A voz de Finn é mais profunda do que a do episódio anterior.
+
+- Finn ganha braços que aparentam ser da Princesa Jujuba, Princesa Geleca e Princesa Cachorro Quente.
+
+- Finn usou alguns pedaços do Reino Gelado e do Reino de Fogo para fazer a Torre.
+
+- Como revelado nesse episódio o braço direito de Finn era o favorito dele.
+
+- Desconhece-se o colapso da torre no Reino Doce , já que causou mais lesões ou até mortes.
+
+## Referências Culturais
+- A Torre deve ser baseada na Torre de Babel, porque na Torre de Babel os homens queriam chegar ao céu e nessa Finn quer chegar ao espaço.
+
+- A manifestação de poderes junto ao braço de Finn se parece muito com o DNA Akira encontrado em Tetsuo do mangá/anime Akira.
+
+- O veado perdido e sozinho mostrado no episódio pode ser uma referência a Bambi.
+
+- Os blocos que Finn usa na Torre são uma referência à Minecraft. Quando lá é construída uma torre bastante alta, é comum usar todos os materiais disponíveis e dos mais estranhos possíveis. Além disso os danos em deixados em partes dos cenários por falta desses blocos também é uma característica do jogo.
+
+- Carroll pode ser uma referência a Carrie, de O Incrível Mundo de Gumball, pois sua aparência e comportamento são muito parecidos com os de Carroll.
+
+## Censuras
+- Quando Jake mostra os braços que outras Princesas fizeram pro Finn.
+
+- Parte da música de Finn é cortada, onde ele especifica como vai arrancar o braço de seu pai.
+
+- Dois segundos onde o Finn começa a "Alucinar" exatamente falando quando ele olha para a suas mãos, antes de dar o close.
+
+## Erros
+- Quando Finn vai falar com Jake em uma parte do episódio, sua sombra tem dois braços.

@@ -1,14 +1,28 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 25224
 nome: "Feitiço da Flauta"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Feiti%C3%A7o_da_Flauta"
 data_exibicao: "18/07/2016"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Feiti%C3%A7o_da_Flauta"
 ---
 
 # Feitiço da Flauta
 
 **Temporada 7 — Episódio 25224**
+
+## Descrição
+"Feitiço da Flauta" é o vigésimo quinto episódio da oitava temporada de Hora de Aventura. É o ducentésimo vigésimo quarto episódio ao todo.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Jake descobre que Finn tem tido encontros clandestinos com Uma Maga Poderosa . Mas o que será eles estão fazendo?
@@ -29,8 +43,47 @@ De manhã, a Feiticeira Caçadora leva os dois a uma fonte mágica para beber, p
 Depois de "esfaquear" a si mesmo, Finn acorda de seu sonho de 7 segundos (o sonho foi de 7 segundos do ponto de vista de Jake) com imunidade elétrica. Com isso, o trio sai em busca do javali. Depois que a Feiticeira Caçadora incapacitou o animal, Finn arranca uma das presas.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Maga Caçadora
+
 - Guerreiro do Sonho
+
+
+### Menores
+
+- Lady Íris
+
+- BMO
+
+- Neptr
+
+- Maja (em coma)
+
+- Elefante Psíquico de Guerra Pré-Histórico
+
+- Shelby
+
+- Jamaica
+
+- Chocolate
+
+- T.V.
+
+- Morte
+
+- Caracol
+
+## Curiosidades
+- É revelado que a Maja ainda está em coma após o Elefante Psíquico de Guerra Pré-Histórico atingir ela em " Alguma Coisa Grande " e ele diz que ainda não tem certa quando ela acordará.
+
+- Maga Caçadora beija Finn neste episódio.
+
+- Esse relacionamento ainda existe na série de Fiona e Cake, que se passa anos depois, além disso, eles se relacionam em diversas realidades paralelas.
+
+- Finn bebe da água de um lago mágica que quem bebe dorme e tem pesadelos mais quando acorda estára imune a eletricidade e ele está com esse poder agora.

@@ -1,0 +1,3859 @@
+[
+  {
+    "id": "AT_CHAR_bmo",
+    "tipo": "personagem",
+    "nome": "BMO",
+    "file": "characters/AT_CHAR_bmo.json",
+    "chunks": 17
+  },
+  {
+    "id": "AT_CHAR_finn",
+    "tipo": "personagem",
+    "nome": "Finn",
+    "file": "characters/AT_CHAR_finn.json",
+    "chunks": 35
+  },
+  {
+    "id": "AT_CHAR_gunter",
+    "tipo": "personagem",
+    "nome": "Gunter",
+    "file": "characters/AT_CHAR_gunter.json",
+    "chunks": 26
+  },
+  {
+    "id": "AT_CHAR_jake",
+    "tipo": "personagem",
+    "nome": "Jake",
+    "file": "characters/AT_CHAR_jake.json",
+    "chunks": 20
+  },
+  {
+    "id": "AT_CHAR_lich",
+    "tipo": "personagem",
+    "nome": "Lich",
+    "file": "characters/AT_CHAR_lich.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_CHAR_marceline",
+    "tipo": "personagem",
+    "nome": "Marceline",
+    "file": "characters/AT_CHAR_marceline.json",
+    "chunks": 27
+  },
+  {
+    "id": "AT_CHAR_princesa_de_fogo",
+    "tipo": "personagem",
+    "nome": "Princesa de Fogo",
+    "file": "characters/AT_CHAR_princesa_de_fogo.json",
+    "chunks": 41
+  },
+  {
+    "id": "AT_CHAR_princesa_jujuba",
+    "tipo": "personagem",
+    "nome": "Princesa Jujuba",
+    "file": "characters/AT_CHAR_princesa_jujuba.json",
+    "chunks": 18
+  },
+  {
+    "id": "AT_CHAR_rei_gelado",
+    "tipo": "personagem",
+    "nome": "Rei Gelado",
+    "file": "characters/AT_CHAR_rei_gelado.json",
+    "chunks": 22
+  },
+  {
+    "id": "AT_S01E001",
+    "tipo": "episodio",
+    "nome": "Pânico na Festa do Pijama",
+    "file": "episodes/AT_S01E001.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E002",
+    "tipo": "episodio",
+    "nome": "Problemas na Terra do Caroço",
+    "file": "episodes/AT_S01E002.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E003",
+    "tipo": "episodio",
+    "nome": "Prisioneiras do Amor",
+    "file": "episodes/AT_S01E003.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E004",
+    "tipo": "episodio",
+    "nome": "Dona Tromba",
+    "file": "episodes/AT_S01E004.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E005",
+    "tipo": "episodio",
+    "nome": "O Enquirídio!",
+    "file": "episodes/AT_S01E005.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S01E006",
+    "tipo": "episodio",
+    "nome": "Zig-Zag",
+    "file": "episodes/AT_S01E006.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S01E007",
+    "tipo": "episodio",
+    "nome": "Ricardio, o Coração",
+    "file": "episodes/AT_S01E007.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_S01E008",
+    "tipo": "episodio",
+    "nome": "Hora de Negócios",
+    "file": "episodes/AT_S01E008.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S01E009",
+    "tipo": "episodio",
+    "nome": "Minhas Duas Pessoas Prediletas",
+    "file": "episodes/AT_S01E009.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S01E010",
+    "tipo": "episodio",
+    "nome": "Lembranças da Montanha Boom Boom",
+    "file": "episodes/AT_S01E010.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E011",
+    "tipo": "episodio",
+    "nome": "Bruxo",
+    "file": "episodes/AT_S01E011.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S01E012",
+    "tipo": "episodio",
+    "nome": "Despejados!",
+    "file": "episodes/AT_S01E012.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E013",
+    "tipo": "episodio",
+    "nome": "Cidade dos Ladrões",
+    "file": "episodes/AT_S01E013.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S01E014",
+    "tipo": "episodio",
+    "nome": "O Jardim da Bruxa",
+    "file": "episodes/AT_S01E014.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E015",
+    "tipo": "episodio",
+    "nome": "O Que é Vida?",
+    "file": "episodes/AT_S01E015.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S01E016",
+    "tipo": "episodio",
+    "nome": "Oceanos de Medo",
+    "file": "episodes/AT_S01E016.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E017",
+    "tipo": "episodio",
+    "nome": "Quando os Sinos de Casamento Derretem",
+    "file": "episodes/AT_S01E017.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S01E018",
+    "tipo": "episodio",
+    "nome": "Masmorra",
+    "file": "episodes/AT_S01E018.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E019",
+    "tipo": "episodio",
+    "nome": "O Duque",
+    "file": "episodes/AT_S01E019.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E020",
+    "tipo": "episodio",
+    "nome": "Cidades das Aberrações",
+    "file": "episodes/AT_S01E020.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S01E021",
+    "tipo": "episodio",
+    "nome": "Donny",
+    "file": "episodes/AT_S01E021.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E022",
+    "tipo": "episodio",
+    "nome": "Criado",
+    "file": "episodes/AT_S01E022.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S01E023",
+    "tipo": "episodio",
+    "nome": "Sonho de Dia Chuvoso",
+    "file": "episodes/AT_S01E023.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S01E024",
+    "tipo": "episodio",
+    "nome": "O Que Vocês Fizeram?",
+    "file": "episodes/AT_S01E024.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S01E025",
+    "tipo": "episodio",
+    "nome": "O Herói Dele",
+    "file": "episodes/AT_S01E025.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S01E026",
+    "tipo": "episodio",
+    "nome": "Mói-Tripa",
+    "file": "episodes/AT_S01E026.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S02E1036",
+    "tipo": "episodio",
+    "nome": "Para Cortar os Cabelos de Uma Mulher",
+    "file": "episodes/AT_S02E1036.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S02E1137",
+    "tipo": "episodio",
+    "nome": "A Câmara das Lâminas Congeladas",
+    "file": "episodes/AT_S02E1137.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S02E1238",
+    "tipo": "episodio",
+    "nome": "Os Pais Dela",
+    "file": "episodes/AT_S02E1238.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E127",
+    "tipo": "episodio",
+    "nome": "Veio da Noitosfera",
+    "file": "episodes/AT_S02E127.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S02E1339",
+    "tipo": "episodio",
+    "nome": "Os Feijões",
+    "file": "episodes/AT_S02E1339.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S02E1440",
+    "tipo": "episodio",
+    "nome": "O Rei Silencioso",
+    "file": "episodes/AT_S02E1440.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E1541",
+    "tipo": "episodio",
+    "nome": "Você de Verdade",
+    "file": "episodes/AT_S02E1541.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S02E1642",
+    "tipo": "episodio",
+    "nome": "Guardiões do Brilho do Sol",
+    "file": "episodes/AT_S02E1642.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E1743",
+    "tipo": "episodio",
+    "nome": "Morte em Botão",
+    "file": "episodes/AT_S02E1743.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E1844",
+    "tipo": "episodio",
+    "nome": "Susana Forte",
+    "file": "episodes/AT_S02E1844.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E1945",
+    "tipo": "episodio",
+    "nome": "Trem Misterioso",
+    "file": "episodes/AT_S02E1945.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E2046",
+    "tipo": "episodio",
+    "nome": "Vem Comigo",
+    "file": "episodes/AT_S02E2046.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S02E2147",
+    "tipo": "episodio",
+    "nome": "Barriga da Besta",
+    "file": "episodes/AT_S02E2147.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E2248",
+    "tipo": "episodio",
+    "nome": "O Limite",
+    "file": "episodes/AT_S02E2248.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S02E228",
+    "tipo": "episodio",
+    "nome": "Os Olhos",
+    "file": "episodes/AT_S02E228.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S02E2349",
+    "tipo": "episodio",
+    "nome": "Cineastas",
+    "file": "episodes/AT_S02E2349.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S02E2450",
+    "tipo": "episodio",
+    "nome": "Folia Mortal",
+    "file": "episodes/AT_S02E2450.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S02E2551",
+    "tipo": "episodio",
+    "nome": "Recuo Mortal",
+    "file": "episodes/AT_S02E2551.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E2652",
+    "tipo": "episodio",
+    "nome": "Assinatura de Calor",
+    "file": "episodes/AT_S02E2652.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S02E329",
+    "tipo": "episodio",
+    "nome": "Lealdade ao Rei",
+    "file": "episodes/AT_S02E329.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S02E430",
+    "tipo": "episodio",
+    "nome": "Sangue Sob a Pele",
+    "file": "episodes/AT_S02E430.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S02E531",
+    "tipo": "episodio",
+    "nome": "Contando Histórias",
+    "file": "episodes/AT_S02E531.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S02E632",
+    "tipo": "episodio",
+    "nome": "Amor Lento",
+    "file": "episodes/AT_S02E632.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E733",
+    "tipo": "episodio",
+    "nome": "Incansável",
+    "file": "episodes/AT_S02E733.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E834",
+    "tipo": "episodio",
+    "nome": "Cristais Têm Poder",
+    "file": "episodes/AT_S02E834.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S02E935",
+    "tipo": "episodio",
+    "nome": "As Outras Tortas",
+    "file": "episodes/AT_S02E935.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S03E1062",
+    "tipo": "episodio",
+    "nome": "O Que Faltava",
+    "file": "episodes/AT_S03E1062.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S03E1163",
+    "tipo": "episodio",
+    "nome": "Ladrão de Maçãs",
+    "file": "episodes/AT_S03E1163.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S03E1264",
+    "tipo": "episodio",
+    "nome": "Sustos",
+    "file": "episodes/AT_S03E1264.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S03E1365",
+    "tipo": "episodio",
+    "nome": "De Mal a Pior",
+    "file": "episodes/AT_S03E1365.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S03E1466",
+    "tipo": "episodio",
+    "nome": "Bonitopia",
+    "file": "episodes/AT_S03E1466.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S03E153",
+    "tipo": "episodio",
+    "nome": "Vitória Sobre a Fofura",
+    "file": "episodes/AT_S03E153.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S03E1567",
+    "tipo": "episodio",
+    "nome": "Ninguém Pode te Ouvir",
+    "file": "episodes/AT_S03E1567.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S03E1668",
+    "tipo": "episodio",
+    "nome": "Jake vs. Me-Mow",
+    "file": "episodes/AT_S03E1668.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S03E1769",
+    "tipo": "episodio",
+    "nome": "Obrigado",
+    "file": "episodes/AT_S03E1769.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S03E1870",
+    "tipo": "episodio",
+    "nome": "A Nova Fronteira",
+    "file": "episodes/AT_S03E1870.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S03E1971",
+    "tipo": "episodio",
+    "nome": "Segredos de Natal: Parte I",
+    "file": "episodes/AT_S03E1971.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S03E2072",
+    "tipo": "episodio",
+    "nome": "Segredos de Natal: Parte II",
+    "file": "episodes/AT_S03E2072.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S03E2173",
+    "tipo": "episodio",
+    "nome": "O Armário da Marceline",
+    "file": "episodes/AT_S03E2173.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S03E2274",
+    "tipo": "episodio",
+    "nome": "Pedro Papel",
+    "file": "episodes/AT_S03E2274.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S03E2375",
+    "tipo": "episodio",
+    "nome": "Outro Jeito",
+    "file": "episodes/AT_S03E2375.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S03E2476",
+    "tipo": "episodio",
+    "nome": "Princesa Fantasma",
+    "file": "episodes/AT_S03E2476.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S03E254",
+    "tipo": "episodio",
+    "nome": "Morituri Te Salutamus",
+    "file": "episodes/AT_S03E254.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S03E2577",
+    "tipo": "episodio",
+    "nome": "A Masmorra do Papai",
+    "file": "episodes/AT_S03E2577.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S03E2678",
+    "tipo": "episodio",
+    "nome": "Incêndio",
+    "file": "episodes/AT_S03E2678.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S03E355",
+    "tipo": "episodio",
+    "nome": "Memória de Uma Memória",
+    "file": "episodes/AT_S03E355.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S03E456",
+    "tipo": "episodio",
+    "nome": "Batedor",
+    "file": "episodes/AT_S03E456.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S03E557",
+    "tipo": "episodio",
+    "nome": "Jovem Demais",
+    "file": "episodes/AT_S03E557.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S03E658",
+    "tipo": "episodio",
+    "nome": "O Monstro",
+    "file": "episodes/AT_S03E658.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S03E759",
+    "tipo": "episodio",
+    "nome": "Parados",
+    "file": "episodes/AT_S03E759.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S03E860",
+    "tipo": "episodio",
+    "nome": "Batalha dos Magos",
+    "file": "episodes/AT_S03E860.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S03E961",
+    "tipo": "episodio",
+    "nome": "Fionna e Cake",
+    "file": "episodes/AT_S03E961.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S04E1088",
+    "tipo": "episodio",
+    "nome": "Goliad",
+    "file": "episodes/AT_S04E1088.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S04E1189",
+    "tipo": "episodio",
+    "nome": "Além Deste Plano Terrestre",
+    "file": "episodes/AT_S04E1189.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S04E1290",
+    "tipo": "episodio",
+    "nome": "Te Peguei!",
+    "file": "episodes/AT_S04E1290.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S04E1391",
+    "tipo": "episodio",
+    "nome": "Princesa Biscoito",
+    "file": "episodes/AT_S04E1391.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S04E1492",
+    "tipo": "episodio",
+    "nome": "Guerra de Cartas",
+    "file": "episodes/AT_S04E1492.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S04E1593",
+    "tipo": "episodio",
+    "nome": "Filhos de Marte",
+    "file": "episodes/AT_S04E1593.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S04E1694",
+    "tipo": "episodio",
+    "nome": "Pegando um Foguinho",
+    "file": "episodes/AT_S04E1694.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S04E1795",
+    "tipo": "episodio",
+    "nome": "BMO Noire",
+    "file": "episodes/AT_S04E1795.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S04E179",
+    "tipo": "episodio",
+    "nome": "Quente Demais",
+    "file": "episodes/AT_S04E179.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S04E1896",
+    "tipo": "episodio",
+    "nome": "Rei Minhoca",
+    "file": "episodes/AT_S04E1896.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S04E1997",
+    "tipo": "episodio",
+    "nome": "Lady & Jujuba",
+    "file": "episodes/AT_S04E1997.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S04E2098",
+    "tipo": "episodio",
+    "nome": "Você Me Fez",
+    "file": "episodes/AT_S04E2098.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S04E2199",
+    "tipo": "episodio",
+    "nome": "Quem Ganha",
+    "file": "episodes/AT_S04E2199.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S04E22100",
+    "tipo": "episodio",
+    "nome": "Ponto de Ignição",
+    "file": "episodes/AT_S04E22100.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S04E23101",
+    "tipo": "episodio",
+    "nome": "O Fácil Difícil",
+    "file": "episodes/AT_S04E23101.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S04E24102",
+    "tipo": "episodio",
+    "nome": "Reino de Gunters",
+    "file": "episodes/AT_S04E24102.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S04E25103",
+    "tipo": "episodio",
+    "nome": "Me Lembro de Você",
+    "file": "episodes/AT_S04E25103.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S04E26104",
+    "tipo": "episodio",
+    "nome": "O Lich",
+    "file": "episodes/AT_S04E26104.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S04E280",
+    "tipo": "episodio",
+    "nome": "Cinco Historinhas",
+    "file": "episodes/AT_S04E280.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S04E381",
+    "tipo": "episodio",
+    "nome": "Teia de Estranhos",
+    "file": "episodes/AT_S04E381.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S04E482",
+    "tipo": "episodio",
+    "nome": "Sonho de Amor",
+    "file": "episodes/AT_S04E482.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S04E583",
+    "tipo": "episodio",
+    "nome": "Retorno a Noitosfera",
+    "file": "episodes/AT_S04E583.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S04E684",
+    "tipo": "episodio",
+    "nome": "A Monstrinha do Papai",
+    "file": "episodes/AT_S04E684.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S04E785",
+    "tipo": "episodio",
+    "nome": "Seguindo Seus Passos",
+    "file": "episodes/AT_S04E785.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S04E886",
+    "tipo": "episodio",
+    "nome": "Lobo do Abraço",
+    "file": "episodes/AT_S04E886.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S04E987",
+    "tipo": "episodio",
+    "nome": "Esposa Princesa Monstro",
+    "file": "episodes/AT_S04E987.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E10114",
+    "tipo": "episodio",
+    "nome": "Amiguinho",
+    "file": "episodes/AT_S05E10114.json",
+    "chunks": 12
+  },
+  {
+    "id": "AT_S05E1105",
+    "tipo": "episodio",
+    "nome": "Finn, o Humano",
+    "file": "episodes/AT_S05E1105.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E11115",
+    "tipo": "episodio",
+    "nome": "Menininho Mau",
+    "file": "episodes/AT_S05E11115.json",
+    "chunks": 13
+  },
+  {
+    "id": "AT_S05E12116",
+    "tipo": "episodio",
+    "nome": "Caverna dos Ossos",
+    "file": "episodes/AT_S05E12116.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E13117",
+    "tipo": "episodio",
+    "nome": "O Grande Homem Pássaro",
+    "file": "episodes/AT_S05E13117.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S05E14118",
+    "tipo": "episodio",
+    "nome": "Simon & Marcy",
+    "file": "episodes/AT_S05E14118.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E15119",
+    "tipo": "episodio",
+    "nome": "Erro é Erro",
+    "file": "episodes/AT_S05E15119.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S05E16120",
+    "tipo": "episodio",
+    "nome": "Puhoy",
+    "file": "episodes/AT_S05E16120.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E17121",
+    "tipo": "episodio",
+    "nome": "BMO Perdido",
+    "file": "episodes/AT_S05E17121.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E18122",
+    "tipo": "episodio",
+    "nome": "Festinha de Princesas",
+    "file": "episodes/AT_S05E18122.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E19123",
+    "tipo": "episodio",
+    "nome": "James Baxter, o Cavalo",
+    "file": "episodes/AT_S05E19123.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E20124",
+    "tipo": "episodio",
+    "nome": "Silêncio!",
+    "file": "episodes/AT_S05E20124.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S05E2106",
+    "tipo": "episodio",
+    "nome": "Jake, o Cão",
+    "file": "episodes/AT_S05E2106.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E21125",
+    "tipo": "episodio",
+    "nome": "O Pretendente",
+    "file": "episodes/AT_S05E21125.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E22126",
+    "tipo": "episodio",
+    "nome": "Acabou a Festa, Isla de Señorita",
+    "file": "episodes/AT_S05E22126.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S05E23127",
+    "tipo": "episodio",
+    "nome": "Um Último Serviço",
+    "file": "episodes/AT_S05E23127.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E24128",
+    "tipo": "episodio",
+    "nome": "Mais Outras Cinco Historinhas",
+    "file": "episodes/AT_S05E24128.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S05E25129",
+    "tipo": "episodio",
+    "nome": "Ruas Doces",
+    "file": "episodes/AT_S05E25129.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E26130",
+    "tipo": "episodio",
+    "nome": "Só Magos, Tolos",
+    "file": "episodes/AT_S05E26130.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E27131",
+    "tipo": "episodio",
+    "nome": "Traje de Jake",
+    "file": "episodes/AT_S05E27131.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E28132",
+    "tipo": "episodio",
+    "nome": "Ser Mais",
+    "file": "episodes/AT_S05E28132.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E29133",
+    "tipo": "episodio",
+    "nome": "A Bruxa do Céu",
+    "file": "episodes/AT_S05E29133.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E30134",
+    "tipo": "episodio",
+    "nome": "Frio e Fogo",
+    "file": "episodes/AT_S05E30134.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E3107",
+    "tipo": "episodio",
+    "nome": "Mais Cinco Historinhas",
+    "file": "episodes/AT_S05E3107.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E31135",
+    "tipo": "episodio",
+    "nome": "Velha Demais",
+    "file": "episodes/AT_S05E31135.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E32136",
+    "tipo": "episodio",
+    "nome": "Terra e Água",
+    "file": "episodes/AT_S05E32136.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E33137",
+    "tipo": "episodio",
+    "nome": "Sanduíche do Tempo",
+    "file": "episodes/AT_S05E33137.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E34138",
+    "tipo": "episodio",
+    "nome": "O Cofre",
+    "file": "episodes/AT_S05E34138.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E35139",
+    "tipo": "episodio",
+    "nome": "Jogos de Amor",
+    "file": "episodes/AT_S05E35139.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E36140",
+    "tipo": "episodio",
+    "nome": "Trem Masmorra",
+    "file": "episodes/AT_S05E36140.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E37141",
+    "tipo": "episodio",
+    "nome": "O Príncipe das Caixas",
+    "file": "episodes/AT_S05E37141.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E38142",
+    "tipo": "episodio",
+    "nome": "Fome de Vermelho",
+    "file": "episodes/AT_S05E38142.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E39143",
+    "tipo": "episodio",
+    "nome": "Consertamos um Caminhão",
+    "file": "episodes/AT_S05E39143.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E40144",
+    "tipo": "episodio",
+    "nome": "Encontro pra Brincar",
+    "file": "episodes/AT_S05E40144.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E4108",
+    "tipo": "episodio",
+    "nome": "Subindo Na Árvore",
+    "file": "episodes/AT_S05E4108.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S05E41145",
+    "tipo": "episodio",
+    "nome": "O Poço",
+    "file": "episodes/AT_S05E41145.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S05E42146",
+    "tipo": "episodio",
+    "nome": "James",
+    "file": "episodes/AT_S05E42146.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E43147",
+    "tipo": "episodio",
+    "nome": "O Refri",
+    "file": "episodes/AT_S05E43147.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E44148",
+    "tipo": "episodio",
+    "nome": "Casamento de Maçã",
+    "file": "episodes/AT_S05E44148.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S05E45149",
+    "tipo": "episodio",
+    "nome": "Espada de Grama",
+    "file": "episodes/AT_S05E45149.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S05E46150",
+    "tipo": "episodio",
+    "nome": "Chicletão",
+    "file": "episodes/AT_S05E46150.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E47151",
+    "tipo": "episodio",
+    "nome": "O Trono Vermelho",
+    "file": "episodes/AT_S05E47151.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E48152",
+    "tipo": "episodio",
+    "nome": "Betty",
+    "file": "episodes/AT_S05E48152.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S05E49153",
+    "tipo": "episodio",
+    "nome": "Péssima Hora",
+    "file": "episodes/AT_S05E49153.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S05E50154",
+    "tipo": "episodio",
+    "nome": "Lemonhope: Parte I",
+    "file": "episodes/AT_S05E50154.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E5109",
+    "tipo": "episodio",
+    "nome": "Todos os Baixinhos",
+    "file": "episodes/AT_S05E5109.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E51155",
+    "tipo": "episodio",
+    "nome": "Lemonhope: Parte II",
+    "file": "episodes/AT_S05E51155.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E52156",
+    "tipo": "episodio",
+    "nome": "Lista do Que Fazer Antes de Morrer do Billy",
+    "file": "episodes/AT_S05E52156.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E6110",
+    "tipo": "episodio",
+    "nome": "Jake, o Pai",
+    "file": "episodes/AT_S05E6110.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S05E7111",
+    "tipo": "episodio",
+    "nome": "Davey",
+    "file": "episodes/AT_S05E7111.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S05E8112",
+    "tipo": "episodio",
+    "nome": "Masmorra do Mistério",
+    "file": "episodes/AT_S05E8112.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S05E9113",
+    "tipo": "episodio",
+    "nome": "A Culpa é Toda Sua",
+    "file": "episodes/AT_S05E9113.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E10166",
+    "tipo": "episodio",
+    "nome": "Alguma Coisa Grande",
+    "file": "episodes/AT_S06E10166.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S06E11167",
+    "tipo": "episodio",
+    "nome": "Irmãozinho",
+    "file": "episodes/AT_S06E11167.json",
+    "chunks": 12
+  },
+  {
+    "id": "AT_S06E1157",
+    "tipo": "episodio",
+    "nome": "Acorda",
+    "file": "episodes/AT_S06E1157.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S06E12168",
+    "tipo": "episodio",
+    "nome": "Ocarina",
+    "file": "episodes/AT_S06E12168.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E13169",
+    "tipo": "episodio",
+    "nome": "Obrigado Pelas Maçãs, Giuseppe!",
+    "file": "episodes/AT_S06E13169.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S06E14170",
+    "tipo": "episodio",
+    "nome": "Dia da Princesa",
+    "file": "episodes/AT_S06E14170.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E15171",
+    "tipo": "episodio",
+    "nome": "Nêmesis",
+    "file": "episodes/AT_S06E15171.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E16172",
+    "tipo": "episodio",
+    "nome": "Joshua e Margaret",
+    "file": "episodes/AT_S06E16172.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S06E17173",
+    "tipo": "episodio",
+    "nome": "Mosca Fantasma",
+    "file": "episodes/AT_S06E17173.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E18174",
+    "tipo": "episodio",
+    "nome": "Tudo é Jake",
+    "file": "episodes/AT_S06E18174.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S06E19175",
+    "tipo": "episodio",
+    "nome": "É Você?",
+    "file": "episodes/AT_S06E19175.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E20176",
+    "tipo": "episodio",
+    "nome": "Jake, o Tijolo",
+    "file": "episodes/AT_S06E20176.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E21177",
+    "tipo": "episodio",
+    "nome": "Dentista",
+    "file": "episodes/AT_S06E21177.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S06E2158",
+    "tipo": "episodio",
+    "nome": "Fuga da Cidadela",
+    "file": "episodes/AT_S06E2158.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S06E22178",
+    "tipo": "episodio",
+    "nome": "O Resfriador",
+    "file": "episodes/AT_S06E22178.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E23179",
+    "tipo": "episodio",
+    "nome": "A Guerra do Pijama",
+    "file": "episodes/AT_S06E23179.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S06E24180",
+    "tipo": "episodio",
+    "nome": "Evergreen",
+    "file": "episodes/AT_S06E24180.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S06E25181",
+    "tipo": "episodio",
+    "nome": "Plano Astral",
+    "file": "episodes/AT_S06E25181.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E26182",
+    "tipo": "episodio",
+    "nome": "Estrelas Douradas",
+    "file": "episodes/AT_S06E26182.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E27183",
+    "tipo": "episodio",
+    "nome": "A Visita",
+    "file": "episodes/AT_S06E27183.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S06E28184",
+    "tipo": "episodio",
+    "nome": "A Montanha",
+    "file": "episodes/AT_S06E28184.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E29185",
+    "tipo": "episodio",
+    "nome": "Roxo Escuro",
+    "file": "episodes/AT_S06E29185.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E30186",
+    "tipo": "episodio",
+    "nome": "O Diário",
+    "file": "episodes/AT_S06E30186.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E31187",
+    "tipo": "episodio",
+    "nome": "Nozes e Chuva",
+    "file": "episodes/AT_S06E31187.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E3159",
+    "tipo": "episodio",
+    "nome": "James II",
+    "file": "episodes/AT_S06E3159.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E32188",
+    "tipo": "episodio",
+    "nome": "Amigos Para Sempre",
+    "file": "episodes/AT_S06E32188.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S06E33189",
+    "tipo": "episodio",
+    "nome": "Jermaine",
+    "file": "episodes/AT_S06E33189.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S06E34190",
+    "tipo": "episodio",
+    "nome": "Chips e Sorvete",
+    "file": "episodes/AT_S06E34190.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S06E35191",
+    "tipo": "episodio",
+    "nome": "Historinhas",
+    "file": "episodes/AT_S06E35191.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E36192",
+    "tipo": "episodio",
+    "nome": "Amor Cósmico",
+    "file": "episodes/AT_S06E36192.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S06E37193",
+    "tipo": "episodio",
+    "nome": "Zoando no Parque Aquático",
+    "file": "episodes/AT_S06E37193.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E38194",
+    "tipo": "episodio",
+    "nome": "Você Esqueceu As Boias",
+    "file": "episodes/AT_S06E38194.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S06E39195",
+    "tipo": "episodio",
+    "nome": "Fofura",
+    "file": "episodes/AT_S06E39195.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S06E40196",
+    "tipo": "episodio",
+    "nome": "Orgalorg",
+    "file": "episodes/AT_S06E40196.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E41197",
+    "tipo": "episodio",
+    "nome": "Em Fuga",
+    "file": "episodes/AT_S06E41197.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S06E4160",
+    "tipo": "episodio",
+    "nome": "A Torre",
+    "file": "episodes/AT_S06E4160.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S06E42198",
+    "tipo": "episodio",
+    "nome": "Grande Destruição",
+    "file": "episodes/AT_S06E42198.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E43199",
+    "tipo": "episodio",
+    "nome": "O Cometa",
+    "file": "episodes/AT_S06E43199.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S06E5161",
+    "tipo": "episodio",
+    "nome": "Cara Triste",
+    "file": "episodes/AT_S06E5161.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S06E6162",
+    "tipo": "episodio",
+    "nome": "Breezinha",
+    "file": "episodes/AT_S06E6162.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E7163",
+    "tipo": "episodio",
+    "nome": "Cadeia Alimentar",
+    "file": "episodes/AT_S06E7163.json",
+    "chunks": 11
+  },
+  {
+    "id": "AT_S06E8164",
+    "tipo": "episodio",
+    "nome": "Móveis e Carne",
+    "file": "episodes/AT_S06E8164.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S06E9165",
+    "tipo": "episodio",
+    "nome": "O Príncipe Que Queria Tudo",
+    "file": "episodes/AT_S06E9165.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S07E10209",
+    "tipo": "episodio",
+    "nome": "Estaca Zero",
+    "file": "episodes/AT_S07E10209.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S07E11210",
+    "tipo": "episodio",
+    "nome": "Estaca Zero",
+    "file": "episodes/AT_S07E11210.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S07E1200",
+    "tipo": "episodio",
+    "nome": "Bonnie & Neddy",
+    "file": "episodes/AT_S07E1200.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S07E12211",
+    "tipo": "episodio",
+    "nome": "Estaca Zero",
+    "file": "episodes/AT_S07E12211.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S07E13212",
+    "tipo": "episodio",
+    "nome": "Estaca Zero",
+    "file": "episodes/AT_S07E13212.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S07E14213",
+    "tipo": "episodio",
+    "nome": "Quanto Mais Moe Dentro, Mais Conhecimento: Parte I",
+    "file": "episodes/AT_S07E14213.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S07E15214",
+    "tipo": "episodio",
+    "nome": "Quanto Mais Moe Dentro, Mais Conhecimento: Parte II",
+    "file": "episodes/AT_S07E15214.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S07E16215",
+    "tipo": "episodio",
+    "nome": "Chuvas de Verão",
+    "file": "episodes/AT_S07E16215.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S07E17216",
+    "tipo": "episodio",
+    "nome": "Rostinho de Anjo",
+    "file": "episodes/AT_S07E17216.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S07E18217",
+    "tipo": "episodio",
+    "nome": "Presidente Botinho Desaparecido!",
+    "file": "episodes/AT_S07E18217.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S07E19218",
+    "tipo": "episodio",
+    "nome": "Meninas de Olhos Vazios",
+    "file": "episodes/AT_S07E19218.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S07E20219",
+    "tipo": "episodio",
+    "nome": "Ondas Ruins",
+    "file": "episodes/AT_S07E20219.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S07E21220",
+    "tipo": "episodio",
+    "nome": "Resgate de Rei",
+    "file": "episodes/AT_S07E21220.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S07E2201",
+    "tipo": "episodio",
+    "nome": "Verminhos",
+    "file": "episodes/AT_S07E2201.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S07E22221",
+    "tipo": "episodio",
+    "nome": "Pilantras",
+    "file": "episodes/AT_S07E22221.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S07E23222",
+    "tipo": "episodio",
+    "nome": "Mistura de Realidades",
+    "file": "episodes/AT_S07E23222.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S07E24223",
+    "tipo": "episodio",
+    "nome": "O Salão de Saída",
+    "file": "episodes/AT_S07E24223.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S07E25224",
+    "tipo": "episodio",
+    "nome": "Feitiço da Flauta",
+    "file": "episodes/AT_S07E25224.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S07E26225",
+    "tipo": "episodio",
+    "nome": "A Fina Linha Amarela",
+    "file": "episodes/AT_S07E26225.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S07E3202",
+    "tipo": "episodio",
+    "nome": "Cerejinha",
+    "file": "episodes/AT_S07E3202.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S07E4203",
+    "tipo": "episodio",
+    "nome": "Mamãe Disse",
+    "file": "episodes/AT_S07E4203.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S07E5204",
+    "tipo": "episodio",
+    "nome": "Futebol",
+    "file": "episodes/AT_S07E5204.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S07E6205",
+    "tipo": "episodio",
+    "nome": "Estaca Zero",
+    "file": "episodes/AT_S07E6205.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S07E7206",
+    "tipo": "episodio",
+    "nome": "Estaca Zero",
+    "file": "episodes/AT_S07E7206.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S07E8207",
+    "tipo": "episodio",
+    "nome": "Estaca Zero",
+    "file": "episodes/AT_S07E8207.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S07E9208",
+    "tipo": "episodio",
+    "nome": "Estaca Zero",
+    "file": "episodes/AT_S07E9208.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S08E10235",
+    "tipo": "episodio",
+    "nome": "Buraco Musical",
+    "file": "episodes/AT_S08E10235.json",
+    "chunks": 10
+  },
+  {
+    "id": "AT_S08E11236",
+    "tipo": "episodio",
+    "nome": "Guerra de Cartas com Pai e Filha",
+    "file": "episodes/AT_S08E11236.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S08E12237",
+    "tipo": "episodio",
+    "nome": "Pré-Início",
+    "file": "episodes/AT_S08E12237.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S08E1226",
+    "tipo": "episodio",
+    "nome": "Coroa Quebrada",
+    "file": "episodes/AT_S08E1226.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S08E13238",
+    "tipo": "episodio",
+    "nome": "Re-Início",
+    "file": "episodes/AT_S08E13238.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S08E14239",
+    "tipo": "episodio",
+    "nome": "Duas Espadas",
+    "file": "episodes/AT_S08E14239.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S08E15240",
+    "tipo": "episodio",
+    "nome": "Nunca Causar Dano ou Mal",
+    "file": "episodes/AT_S08E15240.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S08E16241",
+    "tipo": "episodio",
+    "nome": "Rodas",
+    "file": "episodes/AT_S08E16241.json",
+    "chunks": 9
+  },
+  {
+    "id": "AT_S08E17242",
+    "tipo": "episodio",
+    "nome": "Grande Estranheza",
+    "file": "episodes/AT_S08E17242.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S08E18243",
+    "tipo": "episodio",
+    "nome": "Cavalo e Bola",
+    "file": "episodes/AT_S08E18243.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S08E19244",
+    "tipo": "episodio",
+    "nome": "O Poder das Jujubas",
+    "file": "episodes/AT_S08E19244.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S08E20245",
+    "tipo": "episodio",
+    "nome": "Ilhas",
+    "file": "episodes/AT_S08E20245.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S08E21246",
+    "tipo": "episodio",
+    "nome": "Ilhas",
+    "file": "episodes/AT_S08E21246.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S08E22247",
+    "tipo": "episodio",
+    "nome": "Ilhas",
+    "file": "episodes/AT_S08E22247.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S08E2227",
+    "tipo": "episodio",
+    "nome": "Não Olhe",
+    "file": "episodes/AT_S08E2227.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S08E23248",
+    "tipo": "episodio",
+    "nome": "Ilhas",
+    "file": "episodes/AT_S08E23248.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S08E24249",
+    "tipo": "episodio",
+    "nome": "Ilhas",
+    "file": "episodes/AT_S08E24249.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S08E25250",
+    "tipo": "episodio",
+    "nome": "Ilhas",
+    "file": "episodes/AT_S08E25250.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S08E26251",
+    "tipo": "episodio",
+    "nome": "Ilhas",
+    "file": "episodes/AT_S08E26251.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S08E27252",
+    "tipo": "episodio",
+    "nome": "Ilhas",
+    "file": "episodes/AT_S08E27252.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S08E3228",
+    "tipo": "episodio",
+    "nome": "Além da Gruta",
+    "file": "episodes/AT_S08E3228.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S08E4229",
+    "tipo": "episodio",
+    "nome": "Lady Íris da Dimensão Cristal",
+    "file": "episodes/AT_S08E4229.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S08E5230",
+    "tipo": "episodio",
+    "nome": "Eu Sou Uma Espada",
+    "file": "episodes/AT_S08E5230.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S08E6231",
+    "tipo": "episodio",
+    "nome": "Canelita",
+    "file": "episodes/AT_S08E6231.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S08E7232",
+    "tipo": "episodio",
+    "nome": "Homem Normal",
+    "file": "episodes/AT_S08E7232.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S08E8233",
+    "tipo": "episodio",
+    "nome": "Elemental",
+    "file": "episodes/AT_S08E8233.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S08E9234",
+    "tipo": "episodio",
+    "nome": "Cinco Tabelinhas",
+    "file": "episodes/AT_S08E9234.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S09E10262",
+    "tipo": "episodio",
+    "nome": "Abstrato",
+    "file": "episodes/AT_S09E10262.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S09E11263",
+    "tipo": "episodio",
+    "nome": "Papear",
+    "file": "episodes/AT_S09E11263.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S09E12264",
+    "tipo": "episodio",
+    "nome": "Fionna e Cake e Fionna",
+    "file": "episodes/AT_S09E12264.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S09E1253",
+    "tipo": "episodio",
+    "nome": "Orbe",
+    "file": "episodes/AT_S09E1253.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S09E13265",
+    "tipo": "episodio",
+    "nome": "Sussurros",
+    "file": "episodes/AT_S09E13265.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S09E14266",
+    "tipo": "episodio",
+    "nome": "Três Baldes",
+    "file": "episodes/AT_S09E14266.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S09E2254",
+    "tipo": "episodio",
+    "nome": "Elementos",
+    "file": "episodes/AT_S09E2254.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S09E3255",
+    "tipo": "episodio",
+    "nome": "Elementos",
+    "file": "episodes/AT_S09E3255.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S09E4256",
+    "tipo": "episodio",
+    "nome": "Elementos",
+    "file": "episodes/AT_S09E4256.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S09E5257",
+    "tipo": "episodio",
+    "nome": "Elementos",
+    "file": "episodes/AT_S09E5257.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S09E6258",
+    "tipo": "episodio",
+    "nome": "Elementos",
+    "file": "episodes/AT_S09E6258.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S09E7259",
+    "tipo": "episodio",
+    "nome": "Elementos",
+    "file": "episodes/AT_S09E7259.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S09E8260",
+    "tipo": "episodio",
+    "nome": "Elementos",
+    "file": "episodes/AT_S09E8260.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S09E9261",
+    "tipo": "episodio",
+    "nome": "Elementos",
+    "file": "episodes/AT_S09E9261.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_S10E001",
+    "tipo": "episodio",
+    "nome": "BMO",
+    "file": "episodes/AT_S10E001.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S10E001",
+    "tipo": "episodio",
+    "nome": "Primavera",
+    "file": "episodes/AT_S10E001.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S10E001",
+    "tipo": "episodio",
+    "nome": "Tudo Bem Sem Rato",
+    "file": "episodes/AT_S10E001.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S10E002",
+    "tipo": "episodio",
+    "nome": "Obsidiana",
+    "file": "episodes/AT_S10E002.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E002",
+    "tipo": "episodio",
+    "nome": "Verão",
+    "file": "episodes/AT_S10E002.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E002",
+    "tipo": "episodio",
+    "nome": "Você Viu a Bagunça dos Bolinhos?",
+    "file": "episodes/AT_S10E002.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E003",
+    "tipo": "episodio",
+    "nome": "Juntos Novamente",
+    "file": "episodes/AT_S10E003.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S10E003",
+    "tipo": "episodio",
+    "nome": "Outono",
+    "file": "episodes/AT_S10E003.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S10E003",
+    "tipo": "episodio",
+    "nome": "Porquinha, Você Gosta de Maçãs?",
+    "file": "episodes/AT_S10E003.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S10E004",
+    "tipo": "episodio",
+    "nome": "Cidade dos Magos",
+    "file": "episodes/AT_S10E004.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E004",
+    "tipo": "episodio",
+    "nome": "Inverno",
+    "file": "episodes/AT_S10E004.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E004",
+    "tipo": "episodio",
+    "nome": "Presente do Ceifador",
+    "file": "episodes/AT_S10E004.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E005",
+    "tipo": "episodio",
+    "nome": "Primavera, Outra Vez",
+    "file": "episodes/AT_S10E005.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S10E10276",
+    "tipo": "episodio",
+    "nome": "Jake, Filho das Estrelas",
+    "file": "episodes/AT_S10E10276.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S10E11277",
+    "tipo": "episodio",
+    "nome": "Templo de Marte",
+    "file": "episodes/AT_S10E11277.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S10E12278",
+    "tipo": "episodio",
+    "nome": "Gumbaldia",
+    "file": "episodes/AT_S10E12278.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E1267",
+    "tipo": "episodio",
+    "nome": "A Caçada Selvagem",
+    "file": "episodes/AT_S10E1267.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E13279",
+    "tipo": "episodio",
+    "nome": "Diamantes e Limões",
+    "file": "episodes/AT_S10E13279.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S10E14280",
+    "tipo": "episodio",
+    "nome": "Venha Comigo",
+    "file": "episodes/AT_S10E14280.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S10E2268",
+    "tipo": "episodio",
+    "nome": "BMO Vendedor",
+    "file": "episodes/AT_S10E2268.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_S10E3269",
+    "tipo": "episodio",
+    "nome": "Filho do Urso Rapper",
+    "file": "episodes/AT_S10E3269.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_S10E4270",
+    "tipo": "episodio",
+    "nome": "Bonnibel Jujuba",
+    "file": "episodes/AT_S10E4270.json",
+    "chunks": 8
+  },
+  {
+    "id": "AT_S10E5271",
+    "tipo": "episodio",
+    "nome": "Dezessete",
+    "file": "episodes/AT_S10E5271.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_S10E6272",
+    "tipo": "episodio",
+    "nome": "Anel de Fogo",
+    "file": "episodes/AT_S10E6272.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E7273",
+    "tipo": "episodio",
+    "nome": "Marcy & Hunson",
+    "file": "episodes/AT_S10E7273.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E8274",
+    "tipo": "episodio",
+    "nome": "A Primeira Investigação",
+    "file": "episodes/AT_S10E8274.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_S10E9275",
+    "tipo": "episodio",
+    "nome": "Blenanas",
+    "file": "episodes/AT_S10E9275.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_abajur",
+    "tipo": "objeto",
+    "nome": "Abajur",
+    "file": "items/AT_ITEM_abajur.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_amuleto_da_noitosfera",
+    "tipo": "objeto",
+    "nome": "Amuleto da Noitosfera",
+    "file": "items/AT_ITEM_amuleto_da_noitosfera.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_antidoto_dos_carocos",
+    "tipo": "objeto",
+    "nome": "Antídoto dos Caroços",
+    "file": "items/AT_ITEM_antidoto_dos_carocos.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_armadura_magica_de_zeldron",
+    "tipo": "objeto",
+    "nome": "Armadura Mágica de Zeldron",
+    "file": "items/AT_ITEM_armadura_magica_de_zeldron.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_armaduras_do_neptr",
+    "tipo": "objeto",
+    "nome": "Armaduras do Neptr",
+    "file": "items/AT_ITEM_armaduras_do_neptr.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_assinatura_de_calor_filme",
+    "tipo": "objeto",
+    "nome": "Assinatura de Calor (Filme)",
+    "file": "items/AT_ITEM_assinatura_de_calor_filme.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_baixomachado",
+    "tipo": "objeto",
+    "nome": "Baixo-Machado",
+    "file": "items/AT_ITEM_baixomachado.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_bateria_do_rei_gelado",
+    "tipo": "objeto",
+    "nome": "Bateria do Rei Gelado",
+    "file": "items/AT_ITEM_bateria_do_rei_gelado.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_bebe",
+    "tipo": "objeto",
+    "nome": "Bebe",
+    "file": "items/AT_ITEM_bebe.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_bebida_doce",
+    "tipo": "objeto",
+    "nome": "Bebida Doce",
+    "file": "items/AT_ITEM_bebida_doce.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_bmo",
+    "tipo": "objeto",
+    "nome": "BMO",
+    "file": "items/AT_ITEM_bmo.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_ITEM_bomba",
+    "tipo": "objeto",
+    "nome": "Bomba",
+    "file": "items/AT_ITEM_bomba.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_bomba_da_guerra_dos_cogumelos",
+    "tipo": "objeto",
+    "nome": "Bomba da Guerra dos Cogumelos",
+    "file": "items/AT_ITEM_bomba_da_guerra_dos_cogumelos.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_burlaula_bolaola",
+    "tipo": "objeto",
+    "nome": "Burla-ula Bola-ola",
+    "file": "items/AT_ITEM_burlaula_bolaola.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_camara_antigravitacional",
+    "tipo": "objeto",
+    "nome": "Câmara Anti-gravitacional",
+    "file": "items/AT_ITEM_camara_antigravitacional.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_camisa_de_rock",
+    "tipo": "objeto",
+    "nome": "Camisa de Rock",
+    "file": "items/AT_ITEM_camisa_de_rock.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_camisa_de_rock_da_princesa_jujuba",
+    "tipo": "objeto",
+    "nome": "Camisa de Rock da Princesa Jujuba",
+    "file": "items/AT_ITEM_camisa_de_rock_da_princesa_jujuba.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_caneca_do_jake",
+    "tipo": "objeto",
+    "nome": "Caneca do Jake",
+    "file": "items/AT_ITEM_caneca_do_jake.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_carneiro_de_porcelana",
+    "tipo": "objeto",
+    "nome": "Carneiro de Porcelana",
+    "file": "items/AT_ITEM_carneiro_de_porcelana.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_castelo_de_kompy",
+    "tipo": "objeto",
+    "nome": "Castelo de Kompy",
+    "file": "items/AT_ITEM_castelo_de_kompy.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_catapulta_de_virilha",
+    "tipo": "objeto",
+    "nome": "Catapulta de Virilha",
+    "file": "items/AT_ITEM_catapulta_de_virilha.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_celular_da_marceline",
+    "tipo": "objeto",
+    "nome": "Celular da Marceline",
+    "file": "items/AT_ITEM_celular_da_marceline.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_chapeu_de_finn",
+    "tipo": "objeto",
+    "nome": "Chapéu de Finn",
+    "file": "items/AT_ITEM_chapeu_de_finn.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_chapeu_de_fionna",
+    "tipo": "objeto",
+    "nome": "Chapéu de Fionna",
+    "file": "items/AT_ITEM_chapeu_de_fionna.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_cmo",
+    "tipo": "objeto",
+    "nome": "CMO",
+    "file": "items/AT_ITEM_cmo.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_colher_da_prosperidade",
+    "tipo": "objeto",
+    "nome": "Colher da Prosperidade",
+    "file": "items/AT_ITEM_colher_da_prosperidade.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_cometa_catalisador",
+    "tipo": "objeto",
+    "nome": "Cometa Catalisador",
+    "file": "items/AT_ITEM_cometa_catalisador.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_coracao_de_demonio",
+    "tipo": "objeto",
+    "nome": "Coração de Demônio",
+    "file": "items/AT_ITEM_coracao_de_demonio.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_coroa_da_princesa_jujuba",
+    "tipo": "objeto",
+    "nome": "Coroa da Princesa Jujuba",
+    "file": "items/AT_ITEM_coroa_da_princesa_jujuba.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_coroa_do_rei_gelado",
+    "tipo": "objeto",
+    "nome": "Coroa do Rei Gelado",
+    "file": "items/AT_ITEM_coroa_do_rei_gelado.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_cristal_do_futuro",
+    "tipo": "objeto",
+    "nome": "Cristal do Futuro",
+    "file": "items/AT_ITEM_cristal_do_futuro.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_cristal_do_padeiro",
+    "tipo": "objeto",
+    "nome": "Cristal do Padeiro",
+    "file": "items/AT_ITEM_cristal_do_padeiro.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_daniel_gatao",
+    "tipo": "objeto",
+    "nome": "Daniel Gatão",
+    "file": "items/AT_ITEM_daniel_gatao.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_diario_da_marceline",
+    "tipo": "objeto",
+    "nome": "Diário da Marceline",
+    "file": "items/AT_ITEM_diario_da_marceline.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_diario_do_rei_gelado",
+    "tipo": "objeto",
+    "nome": "Diário do Rei Gelado",
+    "file": "items/AT_ITEM_diario_do_rei_gelado.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_dirigivel_do_rei_de_ooo",
+    "tipo": "objeto",
+    "nome": "Dirigível do Rei de Ooo",
+    "file": "items/AT_ITEM_dirigivel_do_rei_de_ooo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_dmo",
+    "tipo": "objeto",
+    "nome": "DMO",
+    "file": "items/AT_ITEM_dmo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_drones",
+    "tipo": "objeto",
+    "nome": "Drones",
+    "file": "items/AT_ITEM_drones.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_esferas_de_desejo",
+    "tipo": "objeto",
+    "nome": "Esferas de Desejo",
+    "file": "items/AT_ITEM_esferas_de_desejo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_espada_com_o_cabo_de_raiz",
+    "tipo": "objeto",
+    "nome": "Espada Com o Cabo de Raiz",
+    "file": "items/AT_ITEM_espada_com_o_cabo_de_raiz.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_ITEM_espada_da_noite",
+    "tipo": "objeto",
+    "nome": "Espada da Noite",
+    "file": "items/AT_ITEM_espada_da_noite.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_espada_de_grama",
+    "tipo": "objeto",
+    "nome": "Espada de Grama",
+    "file": "items/AT_ITEM_espada_de_grama.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_ITEM_espada_de_sangue_de_demonio",
+    "tipo": "objeto",
+    "nome": "Espada de Sangue de Demônio",
+    "file": "items/AT_ITEM_espada_de_sangue_de_demonio.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_espada_de_som",
+    "tipo": "objeto",
+    "nome": "Espada de Som",
+    "file": "items/AT_ITEM_espada_de_som.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_espada_do_rei_da_luta",
+    "tipo": "objeto",
+    "nome": "Espada do Rei da Luta",
+    "file": "items/AT_ITEM_espada_do_rei_da_luta.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_espada_dourada",
+    "tipo": "objeto",
+    "nome": "Espada Dourada",
+    "file": "items/AT_ITEM_espada_dourada.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_ITEM_espada_especial",
+    "tipo": "objeto",
+    "nome": "Espada Especial",
+    "file": "items/AT_ITEM_espada_especial.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_espada_finn",
+    "tipo": "objeto",
+    "nome": "Espada Finn",
+    "file": "items/AT_ITEM_espada_finn.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_espada_flamejante",
+    "tipo": "objeto",
+    "nome": "Espada Flamejante",
+    "file": "items/AT_ITEM_espada_flamejante.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_espada_gigante_suprema_movida_a_laser",
+    "tipo": "objeto",
+    "nome": "Espada Gigante Suprema Movida a Laser",
+    "file": "items/AT_ITEM_espada_gigante_suprema_movida_a_laser.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_espada_prateada",
+    "tipo": "objeto",
+    "nome": "Espada Prateada",
+    "file": "items/AT_ITEM_espada_prateada.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_espada_relampago",
+    "tipo": "objeto",
+    "nome": "Espada Relâmpago",
+    "file": "items/AT_ITEM_espada_relampago.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_espada_tubarao",
+    "tipo": "objeto",
+    "nome": "Espada Tubarão",
+    "file": "items/AT_ITEM_espada_tubarao.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_espadas_do_finn",
+    "tipo": "objeto",
+    "nome": "Espadas do Finn",
+    "file": "items/AT_ITEM_espadas_do_finn.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_ITEM_espingarda_de_bastao_doce",
+    "tipo": "objeto",
+    "nome": "Espingarda de Bastão Doce",
+    "file": "items/AT_ITEM_espingarda_de_bastao_doce.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_finnsbolinhos",
+    "tipo": "objeto",
+    "nome": "Finnsbolinhos",
+    "file": "items/AT_ITEM_finnsbolinhos.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_fionna_and_cake_omnibus",
+    "tipo": "objeto",
+    "nome": "Fionna and Cake Omnibus",
+    "file": "items/AT_ITEM_fionna_and_cake_omnibus.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_flauta_de_finn",
+    "tipo": "objeto",
+    "nome": "Flauta de Finn",
+    "file": "items/AT_ITEM_flauta_de_finn.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_flor_magica",
+    "tipo": "objeto",
+    "nome": "Flor Mágica",
+    "file": "items/AT_ITEM_flor_magica.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_florete",
+    "tipo": "objeto",
+    "nome": "Florete",
+    "file": "items/AT_ITEM_florete.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_fogos_de_artificio_liquidos",
+    "tipo": "objeto",
+    "nome": "Fogos de Artifício Líquidos",
+    "file": "items/AT_ITEM_fogos_de_artificio_liquidos.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_foguete_do_homem_banana",
+    "tipo": "objeto",
+    "nome": "Foguete do Homem Banana",
+    "file": "items/AT_ITEM_foguete_do_homem_banana.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_forno_doce",
+    "tipo": "objeto",
+    "nome": "Forno Doce",
+    "file": "items/AT_ITEM_forno_doce.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_ITEM_garrafa_bumerangue",
+    "tipo": "objeto",
+    "nome": "Garrafa Bumerangue",
+    "file": "items/AT_ITEM_garrafa_bumerangue.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_gigantes_de_fogo_adormecidos",
+    "tipo": "objeto",
+    "nome": "Gigantes de Fogo Adormecidos",
+    "file": "items/AT_ITEM_gigantes_de_fogo_adormecidos.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_guardioes_do_brilho_do_sol_jogo",
+    "tipo": "objeto",
+    "nome": "Guardiões do Brilho do Sol (Jogo)",
+    "file": "items/AT_ITEM_guardioes_do_brilho_do_sol_jogo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_guerra_de_cartas_jogo",
+    "tipo": "objeto",
+    "nome": "Guerra de Cartas (Jogo)",
+    "file": "items/AT_ITEM_guerra_de_cartas_jogo.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_guillermo",
+    "tipo": "objeto",
+    "nome": "Guillermo",
+    "file": "items/AT_ITEM_guillermo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_hambo",
+    "tipo": "objeto",
+    "nome": "Hambo",
+    "file": "items/AT_ITEM_hambo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_helicopteros_doces",
+    "tipo": "objeto",
+    "nome": "Helicópteros Doces",
+    "file": "items/AT_ITEM_helicopteros_doces.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_iriscopia",
+    "tipo": "objeto",
+    "nome": "Iriscópia",
+    "file": "items/AT_ITEM_iriscopia.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_jj",
+    "tipo": "objeto",
+    "nome": "JJ",
+    "file": "items/AT_ITEM_jj.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_jogos_mentais",
+    "tipo": "objeto",
+    "nome": "Jogos Mentais",
+    "file": "items/AT_ITEM_jogos_mentais.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_lagrimas_do_ciclope",
+    "tipo": "objeto",
+    "nome": "Lágrimas do Ciclope",
+    "file": "items/AT_ITEM_lagrimas_do_ciclope.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_leite_de_inseto",
+    "tipo": "objeto",
+    "nome": "Leite de Inseto",
+    "file": "items/AT_ITEM_leite_de_inseto.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_limaozito",
+    "tipo": "objeto",
+    "nome": "Limãozito",
+    "file": "items/AT_ITEM_limaozito.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_livro_da_princesa_caroco",
+    "tipo": "objeto",
+    "nome": "Livro da Princesa Caroço",
+    "file": "items/AT_ITEM_livro_da_princesa_caroco.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_livro_de_fionna_e_cake",
+    "tipo": "objeto",
+    "nome": "Livro de Fionna e Cake",
+    "file": "items/AT_ITEM_livro_de_fionna_e_cake.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_livro_de_regras_reais",
+    "tipo": "objeto",
+    "nome": "Livro de Regras Reais",
+    "file": "items/AT_ITEM_livro_de_regras_reais.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_luvas_da_maquina_do_tempo",
+    "tipo": "objeto",
+    "nome": "Luvas da Máquina do Tempo",
+    "file": "items/AT_ITEM_luvas_da_maquina_do_tempo.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_maca_gema_de_cristal",
+    "tipo": "objeto",
+    "nome": "Maçã Gema de Cristal",
+    "file": "items/AT_ITEM_maca_gema_de_cristal.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_manopla_do_heroi",
+    "tipo": "objeto",
+    "nome": "Manopla do Herói",
+    "file": "items/AT_ITEM_manopla_do_heroi.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_manto_de_chamas",
+    "tipo": "objeto",
+    "nome": "Manto de Chamas",
+    "file": "items/AT_ITEM_manto_de_chamas.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_maquina_da_imaginacao",
+    "tipo": "objeto",
+    "nome": "Máquina da Imaginação",
+    "file": "items/AT_ITEM_maquina_da_imaginacao.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_maquina_de_pegadinha",
+    "tipo": "objeto",
+    "nome": "Máquina de Pegadinha",
+    "file": "items/AT_ITEM_maquina_de_pegadinha.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_maquina_do_tempo",
+    "tipo": "objeto",
+    "nome": "Máquina do Tempo",
+    "file": "items/AT_ITEM_maquina_do_tempo.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_maquina_do_tempo_quadrinhos",
+    "tipo": "objeto",
+    "nome": "Máquina do Tempo (Quadrinhos)",
+    "file": "items/AT_ITEM_maquina_do_tempo_quadrinhos.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_ITEM_melhor_sanduiche_de_jake",
+    "tipo": "objeto",
+    "nome": "Melhor Sanduíche de Jake",
+    "file": "items/AT_ITEM_melhor_sanduiche_de_jake.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_meninos_super_bonzinhos",
+    "tipo": "objeto",
+    "nome": "Meninos Super Bonzinhos",
+    "file": "items/AT_ITEM_meninos_super_bonzinhos.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_mmo",
+    "tipo": "objeto",
+    "nome": "MMO",
+    "file": "items/AT_ITEM_mmo.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_mochila_de_carga",
+    "tipo": "objeto",
+    "nome": "Mochila de Carga",
+    "file": "items/AT_ITEM_mochila_de_carga.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_mochila_de_finn",
+    "tipo": "objeto",
+    "nome": "Mochila de Finn",
+    "file": "items/AT_ITEM_mochila_de_finn.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_mochila_de_jake",
+    "tipo": "objeto",
+    "nome": "Mochila de Jake",
+    "file": "items/AT_ITEM_mochila_de_jake.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu",
+    "tipo": "objeto",
+    "nome": "Ninjas do Gelo: A Arte do Gelítsu",
+    "file": "items/AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_nothung",
+    "tipo": "objeto",
+    "nome": "Nothung",
+    "file": "items/AT_ITEM_nothung.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_o_enquiridio_livro",
+    "tipo": "objeto",
+    "nome": "O Enquirídio (Livro)",
+    "file": "items/AT_ITEM_o_enquiridio_livro.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_ocarina_objeto",
+    "tipo": "objeto",
+    "nome": "Ocarina (Objeto)",
+    "file": "items/AT_ITEM_ocarina_objeto.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_oculos_de_nerdicon",
+    "tipo": "objeto",
+    "nome": "Óculos de Nerdicon",
+    "file": "items/AT_ITEM_oculos_de_nerdicon.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_olho_de_cristal",
+    "tipo": "objeto",
+    "nome": "Olho de Cristal",
+    "file": "items/AT_ITEM_olho_de_cristal.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_olho_de_desejo_demoniaco",
+    "tipo": "objeto",
+    "nome": "Olho de Desejo Demoníaco",
+    "file": "items/AT_ITEM_olho_de_desejo_demoniaco.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_panquecas_de_toucinho_comida",
+    "tipo": "objeto",
+    "nome": "Panquecas de Toucinho (Comida)",
+    "file": "items/AT_ITEM_panquecas_de_toucinho_comida.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_pedra_da_alma",
+    "tipo": "objeto",
+    "nome": "Pedra da Alma",
+    "file": "items/AT_ITEM_pedra_da_alma.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_phil_face",
+    "tipo": "objeto",
+    "nome": "PHIL FACE",
+    "file": "items/AT_ITEM_phil_face.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_piano_eletrico",
+    "tipo": "objeto",
+    "nome": "Piano Elétrico",
+    "file": "items/AT_ITEM_piano_eletrico.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_planta_princesa",
+    "tipo": "objeto",
+    "nome": "Planta Princesa",
+    "file": "items/AT_ITEM_planta_princesa.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_pocao_de_congelamento_a",
+    "tipo": "objeto",
+    "nome": "Poção de Congelamento A",
+    "file": "items/AT_ITEM_pocao_de_congelamento_a.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_pocao_de_descongelamento_a",
+    "tipo": "objeto",
+    "nome": "Poção de Descongelamento A",
+    "file": "items/AT_ITEM_pocao_de_descongelamento_a.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_pocao_de_pele_de_pedra",
+    "tipo": "objeto",
+    "nome": "Poção de Pele de Pedra",
+    "file": "items/AT_ITEM_pocao_de_pele_de_pedra.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_pocao_paralisadora",
+    "tipo": "objeto",
+    "nome": "Poção Paralisadora",
+    "file": "items/AT_ITEM_pocao_paralisadora.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_predefinicaoartefatosobjetos",
+    "tipo": "objeto",
+    "nome": "Predefinição:Artefatos/Objetos",
+    "file": "items/AT_ITEM_predefinicaoartefatosobjetos.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_pro_football_1861",
+    "tipo": "objeto",
+    "nome": "Pro Football 1861",
+    "file": "items/AT_ITEM_pro_football_1861.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_queijo_derretido",
+    "tipo": "objeto",
+    "nome": "Queijo Derretido",
+    "file": "items/AT_ITEM_queijo_derretido.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_revista_ble",
+    "tipo": "objeto",
+    "nome": "Revista Ble",
+    "file": "items/AT_ITEM_revista_ble.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_rituais_misticos_e_sua_importancia_no_espacotempo",
+    "tipo": "objeto",
+    "nome": "Rituais Místicos e sua Importância no Espaço-Tempo",
+    "file": "items/AT_ITEM_rituais_misticos_e_sua_importancia_no_espacotempo.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_ITEM_robo_dos_executivos",
+    "tipo": "objeto",
+    "nome": "Robô dos Executivos",
+    "file": "items/AT_ITEM_robo_dos_executivos.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_ITEM_roupa_de_alaude",
+    "tipo": "objeto",
+    "nome": "Roupa de alaúde",
+    "file": "items/AT_ITEM_roupa_de_alaude.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_skate_do_bmo",
+    "tipo": "objeto",
+    "nome": "Skate do BMO",
+    "file": "items/AT_ITEM_skate_do_bmo.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_smo",
+    "tipo": "objeto",
+    "nome": "SMO",
+    "file": "items/AT_ITEM_smo.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_soprador_de_bolhas_multidimensionais",
+    "tipo": "objeto",
+    "nome": "Soprador de Bolhas Multidimensionais",
+    "file": "items/AT_ITEM_soprador_de_bolhas_multidimensionais.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_soro_desmortizador",
+    "tipo": "objeto",
+    "nome": "Soro Desmortizador",
+    "file": "items/AT_ITEM_soro_desmortizador.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_super_porp",
+    "tipo": "objeto",
+    "nome": "Super Porp",
+    "file": "items/AT_ITEM_super_porp.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_surpresa_gatabada",
+    "tipo": "objeto",
+    "nome": "Surpresa Gatábada",
+    "file": "items/AT_ITEM_surpresa_gatabada.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_telefone_da_princesa_caroco",
+    "tipo": "objeto",
+    "nome": "Telefone da Princesa Caroço",
+    "file": "items/AT_ITEM_telefone_da_princesa_caroco.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_ITEM_templo_das_metaforas",
+    "tipo": "objeto",
+    "nome": "Templo das Metáforas",
+    "file": "items/AT_ITEM_templo_das_metaforas.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_the_adventure_time_encyclopædia",
+    "tipo": "objeto",
+    "nome": "The Adventure Time Encyclopædia",
+    "file": "items/AT_ITEM_the_adventure_time_encyclopædia.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_torta_de_maca_alimento",
+    "tipo": "objeto",
+    "nome": "Torta de Maçã (Alimento)",
+    "file": "items/AT_ITEM_torta_de_maca_alimento.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_tortas_reais",
+    "tipo": "objeto",
+    "nome": "Tortas Reais",
+    "file": "items/AT_ITEM_tortas_reais.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_tunicas_de_mago",
+    "tipo": "objeto",
+    "nome": "Túnicas de Mago",
+    "file": "items/AT_ITEM_tunicas_de_mago.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_varinha_aranha",
+    "tipo": "objeto",
+    "nome": "Varinha Aranha",
+    "file": "items/AT_ITEM_varinha_aranha.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_varinha_canhao_de_pensamentos",
+    "tipo": "objeto",
+    "nome": "Varinha Canhão de Pensamentos",
+    "file": "items/AT_ITEM_varinha_canhao_de_pensamentos.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_varinha_magica_the_wand",
+    "tipo": "objeto",
+    "nome": "Varinha Mágica (The Wand)",
+    "file": "items/AT_ITEM_varinha_magica_the_wand.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_ITEM_viola_do_jake",
+    "tipo": "objeto",
+    "nome": "Viola do Jake",
+    "file": "items/AT_ITEM_viola_do_jake.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_ITEM_violao_de_fogo",
+    "tipo": "objeto",
+    "nome": "Violão de Fogo",
+    "file": "items/AT_ITEM_violao_de_fogo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_apartamento_do_james",
+    "tipo": "lugar",
+    "nome": "Apartamento do James",
+    "file": "places/AT_PLACE_apartamento_do_james.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_arena_de_luta",
+    "tipo": "lugar",
+    "nome": "Arena de Luta",
+    "file": "places/AT_PLACE_arena_de_luta.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_biblioteca",
+    "tipo": "lugar",
+    "nome": "Biblioteca",
+    "file": "places/AT_PLACE_biblioteca.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_bonitopia_local",
+    "tipo": "lugar",
+    "nome": "Bonitopia (Local)",
+    "file": "places/AT_PLACE_bonitopia_local.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_cabana_de_gumbald",
+    "tipo": "lugar",
+    "nome": "Cabana de Gumbald",
+    "file": "places/AT_PLACE_cabana_de_gumbald.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_calabouco_doce",
+    "tipo": "lugar",
+    "nome": "Calabouço Doce",
+    "file": "places/AT_PLACE_calabouco_doce.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_caminho_do_fedor",
+    "tipo": "lugar",
+    "nome": "Caminho Do Fedor",
+    "file": "places/AT_PLACE_caminho_do_fedor.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_caminho_sem_cabelo",
+    "tipo": "lugar",
+    "nome": "Caminho Sem Cabelo",
+    "file": "places/AT_PLACE_caminho_sem_cabelo.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_casa_da_dona_tromba",
+    "tipo": "lugar",
+    "nome": "Casa da Dona Tromba",
+    "file": "places/AT_PLACE_casa_da_dona_tromba.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_casa_da_lady_iris",
+    "tipo": "lugar",
+    "nome": "Casa da Lady Íris",
+    "file": "places/AT_PLACE_casa_da_lady_iris.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_casa_da_maja",
+    "tipo": "lugar",
+    "nome": "Casa da Maja",
+    "file": "places/AT_PLACE_casa_da_maja.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_casa_da_princesa_de_fogo",
+    "tipo": "lugar",
+    "nome": "Casa da Princesa de Fogo",
+    "file": "places/AT_PLACE_casa_da_princesa_de_fogo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_casa_de_joshua_e_margaret",
+    "tipo": "lugar",
+    "nome": "Casa de Joshua e Margaret",
+    "file": "places/AT_PLACE_casa_de_joshua_e_margaret.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_casa_de_marceline",
+    "tipo": "lugar",
+    "nome": "Casa de Marceline",
+    "file": "places/AT_PLACE_casa_de_marceline.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_casa_do_ash",
+    "tipo": "lugar",
+    "nome": "Casa do Ash",
+    "file": "places/AT_PLACE_casa_do_ash.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_casa_do_homem_banana",
+    "tipo": "lugar",
+    "nome": "Casa do Homem Banana",
+    "file": "places/AT_PLACE_casa_do_homem_banana.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_casa_do_kim_kil_whan",
+    "tipo": "lugar",
+    "nome": "Casa do Kim Kil Whan",
+    "file": "places/AT_PLACE_casa_do_kim_kil_whan.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_casa_do_magico",
+    "tipo": "lugar",
+    "nome": "Casa do Mágico",
+    "file": "places/AT_PLACE_casa_do_magico.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_casa_na_arvore",
+    "tipo": "lugar",
+    "nome": "Casa na Árvore",
+    "file": "places/AT_PLACE_casa_na_arvore.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_PLACE_castelo_da_morte",
+    "tipo": "lugar",
+    "nome": "Castelo da Morte",
+    "file": "places/AT_PLACE_castelo_da_morte.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_castelo_da_princesa_jujuba",
+    "tipo": "lugar",
+    "nome": "Castelo da Princesa Jujuba",
+    "file": "places/AT_PLACE_castelo_da_princesa_jujuba.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_castelo_limaograb",
+    "tipo": "lugar",
+    "nome": "Castelo Limãograb",
+    "file": "places/AT_PLACE_castelo_limaograb.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_caverna_de_marceline",
+    "tipo": "lugar",
+    "nome": "Caverna de Marceline",
+    "file": "places/AT_PLACE_caverna_de_marceline.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_caverna_de_ossos_local",
+    "tipo": "lugar",
+    "nome": "Caverna de Ossos (Local)",
+    "file": "places/AT_PLACE_caverna_de_ossos_local.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_caverna_do_caracol",
+    "tipo": "lugar",
+    "nome": "Caverna do Caracol",
+    "file": "places/AT_PLACE_caverna_do_caracol.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_caverna_dos_espelhos",
+    "tipo": "lugar",
+    "nome": "Caverna dos Espelhos",
+    "file": "places/AT_PLACE_caverna_dos_espelhos.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_caverna_misteriosa",
+    "tipo": "lugar",
+    "nome": "Caverna Misteriosa",
+    "file": "places/AT_PLACE_caverna_misteriosa.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_caverna_subterranea",
+    "tipo": "lugar",
+    "nome": "Caverna Subterrânea",
+    "file": "places/AT_PLACE_caverna_subterranea.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_cemiterio",
+    "tipo": "lugar",
+    "nome": "Cemitério",
+    "file": "places/AT_PLACE_cemiterio.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_cidade_dos_ladroes_local",
+    "tipo": "lugar",
+    "nome": "Cidade dos Ladrões (Local)",
+    "file": "places/AT_PLACE_cidade_dos_ladroes_local.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_cidade_dos_magos",
+    "tipo": "lugar",
+    "nome": "Cidade dos Magos",
+    "file": "places/AT_PLACE_cidade_dos_magos.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_cidade_jake",
+    "tipo": "lugar",
+    "nome": "Cidade Jake",
+    "file": "places/AT_PLACE_cidade_jake.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_cidadela_de_cristal",
+    "tipo": "lugar",
+    "nome": "Cidadela de Cristal",
+    "file": "places/AT_PLACE_cidadela_de_cristal.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_covil_do_lich",
+    "tipo": "lugar",
+    "nome": "Covil do Lich",
+    "file": "places/AT_PLACE_covil_do_lich.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_deserto_da_morte",
+    "tipo": "lugar",
+    "nome": "Deserto da Morte",
+    "file": "places/AT_PLACE_deserto_da_morte.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_desertos",
+    "tipo": "lugar",
+    "nome": "Desertos",
+    "file": "places/AT_PLACE_desertos.json",
+    "chunks": 6
+  },
+  {
+    "id": "AT_PLACE_dimensao_cristal",
+    "tipo": "lugar",
+    "nome": "Dimensão Cristal",
+    "file": "places/AT_PLACE_dimensao_cristal.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_fabrica_super_porp",
+    "tipo": "lugar",
+    "nome": "Fábrica Super Porp",
+    "file": "places/AT_PLACE_fabrica_super_porp.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_faculdade_de_minhocas",
+    "tipo": "lugar",
+    "nome": "Faculdade de Minhocas",
+    "file": "places/AT_PLACE_faculdade_de_minhocas.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_farmacia_doce",
+    "tipo": "lugar",
+    "nome": "Farmácia Doce",
+    "file": "places/AT_PLACE_farmacia_doce.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_farmworld",
+    "tipo": "lugar",
+    "nome": "Farmworld",
+    "file": "places/AT_PLACE_farmworld.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_floresta_algodao_doce",
+    "tipo": "lugar",
+    "nome": "Floresta Algodão Doce",
+    "file": "places/AT_PLACE_floresta_algodao_doce.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_floresta_assustadora",
+    "tipo": "lugar",
+    "nome": "Floresta Assustadora",
+    "file": "places/AT_PLACE_floresta_assustadora.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_floresta_das_arvores",
+    "tipo": "lugar",
+    "nome": "Floresta das Árvores",
+    "file": "places/AT_PLACE_floresta_das_arvores.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_floresta_do_mal",
+    "tipo": "lugar",
+    "nome": "Floresta do Mal",
+    "file": "places/AT_PLACE_floresta_do_mal.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_gumbaldia_local",
+    "tipo": "lugar",
+    "nome": "Gumbaldia (Local)",
+    "file": "places/AT_PLACE_gumbaldia_local.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_PLACE_hotel_irado",
+    "tipo": "lugar",
+    "nome": "Hotel Irado",
+    "file": "places/AT_PLACE_hotel_irado.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_instituto_do_som",
+    "tipo": "lugar",
+    "nome": "Instituto do Som",
+    "file": "places/AT_PLACE_instituto_do_som.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_jardim_da_bruxa_local",
+    "tipo": "lugar",
+    "nome": "Jardim da Bruxa (Local)",
+    "file": "places/AT_PLACE_jardim_da_bruxa_local.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_labirinto",
+    "tipo": "lugar",
+    "nome": "Labirinto",
+    "file": "places/AT_PLACE_labirinto.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_lago_caramelo",
+    "tipo": "lugar",
+    "nome": "Lago Caramelo",
+    "file": "places/AT_PLACE_lago_caramelo.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_lendaria_fenda_do_billy",
+    "tipo": "lugar",
+    "nome": "Lendária Fenda do Billy",
+    "file": "places/AT_PLACE_lendaria_fenda_do_billy.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_marte",
+    "tipo": "lugar",
+    "nome": "Marte",
+    "file": "places/AT_PLACE_marte.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_masmorra_do_misterio_local",
+    "tipo": "lugar",
+    "nome": "Masmorra do Mistério (Local)",
+    "file": "places/AT_PLACE_masmorra_do_misterio_local.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_masmorra_do_olho_de_cristal",
+    "tipo": "lugar",
+    "nome": "Masmorra do Olho de Cristal",
+    "file": "places/AT_PLACE_masmorra_do_olho_de_cristal.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_mini_reino",
+    "tipo": "lugar",
+    "nome": "Mini Reino",
+    "file": "places/AT_PLACE_mini_reino.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_mo_company",
+    "tipo": "lugar",
+    "nome": "MO Company",
+    "file": "places/AT_PLACE_mo_company.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_PLACE_montanha_de_matthew",
+    "tipo": "lugar",
+    "nome": "Montanha de Matthew",
+    "file": "places/AT_PLACE_montanha_de_matthew.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_monte_cragdor",
+    "tipo": "lugar",
+    "nome": "Monte Cragdor",
+    "file": "places/AT_PLACE_monte_cragdor.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_multiverso",
+    "tipo": "lugar",
+    "nome": "Multiverso",
+    "file": "places/AT_PLACE_multiverso.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_PLACE_mundo_dos_mortos",
+    "tipo": "lugar",
+    "nome": "Mundo dos Mortos",
+    "file": "places/AT_PLACE_mundo_dos_mortos.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_PLACE_mundo_espiritual",
+    "tipo": "lugar",
+    "nome": "Mundo Espiritual",
+    "file": "places/AT_PLACE_mundo_espiritual.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_mundo_travesseiro",
+    "tipo": "lugar",
+    "nome": "Mundo Travesseiro",
+    "file": "places/AT_PLACE_mundo_travesseiro.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_noitosfera",
+    "tipo": "lugar",
+    "nome": "Noitosfera",
+    "file": "places/AT_PLACE_noitosfera.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_o_rio_do_esquecimento",
+    "tipo": "lugar",
+    "nome": "O Rio do Esquecimento",
+    "file": "places/AT_PLACE_o_rio_do_esquecimento.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_orfanato_doce",
+    "tipo": "lugar",
+    "nome": "Orfanato Doce",
+    "file": "places/AT_PLACE_orfanato_doce.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_palacio_das_nozes",
+    "tipo": "lugar",
+    "nome": "Palácio das Nozes",
+    "file": "places/AT_PLACE_palacio_das_nozes.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_pantano_de_vapor",
+    "tipo": "lugar",
+    "nome": "Pântano de Vapor",
+    "file": "places/AT_PLACE_pantano_de_vapor.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_parque_aquatico",
+    "tipo": "lugar",
+    "nome": "Parque Aquático",
+    "file": "places/AT_PLACE_parque_aquatico.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_passagem_das_rochas_vermelhas",
+    "tipo": "lugar",
+    "nome": "Passagem das Rochas Vermelhas",
+    "file": "places/AT_PLACE_passagem_das_rochas_vermelhas.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_pizza_sassys",
+    "tipo": "lugar",
+    "nome": "Pizza Sassy's",
+    "file": "places/AT_PLACE_pizza_sassys.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_plano_astral",
+    "tipo": "lugar",
+    "nome": "Plano Astral",
+    "file": "places/AT_PLACE_plano_astral.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_ponto_da_arvore_do_amor",
+    "tipo": "lugar",
+    "nome": "Ponto da Árvore do Amor",
+    "file": "places/AT_PLACE_ponto_da_arvore_do_amor.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_pre_escola_do_reino_doce",
+    "tipo": "lugar",
+    "nome": "Pré Escola do Reino Doce",
+    "file": "places/AT_PLACE_pre_escola_do_reino_doce.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_quarto_303",
+    "tipo": "lugar",
+    "nome": "Quarto 303",
+    "file": "places/AT_PLACE_quarto_303.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_reino_cachorro_quente",
+    "tipo": "lugar",
+    "nome": "Reino Cachorro Quente",
+    "file": "places/AT_PLACE_reino_cachorro_quente.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_reino_cafe_da_manha",
+    "tipo": "lugar",
+    "nome": "Reino Café da Manhã",
+    "file": "places/AT_PLACE_reino_cafe_da_manha.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_reino_caixa",
+    "tipo": "lugar",
+    "nome": "Reino Caixa",
+    "file": "places/AT_PLACE_reino_caixa.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_reino_das_nuvens",
+    "tipo": "lugar",
+    "nome": "Reino das Nuvens",
+    "file": "places/AT_PLACE_reino_das_nuvens.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_reino_de_fogo",
+    "tipo": "lugar",
+    "nome": "Reino de Fogo",
+    "file": "places/AT_PLACE_reino_de_fogo.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_reino_de_vidro",
+    "tipo": "lugar",
+    "nome": "Reino de Vidro",
+    "file": "places/AT_PLACE_reino_de_vidro.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_reino_do_deserto",
+    "tipo": "lugar",
+    "nome": "Reino do Deserto",
+    "file": "places/AT_PLACE_reino_do_deserto.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_reino_doce",
+    "tipo": "lugar",
+    "nome": "Reino Doce",
+    "file": "places/AT_PLACE_reino_doce.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_reino_enorme",
+    "tipo": "lugar",
+    "nome": "Reino Enorme",
+    "file": "places/AT_PLACE_reino_enorme.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_reino_frutinhas",
+    "tipo": "lugar",
+    "nome": "Reino Frutinhas",
+    "file": "places/AT_PLACE_reino_frutinhas.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_reino_gelado",
+    "tipo": "lugar",
+    "nome": "Reino Gelado",
+    "file": "places/AT_PLACE_reino_gelado.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_reino_geleca",
+    "tipo": "lugar",
+    "nome": "Reino Geleca",
+    "file": "places/AT_PLACE_reino_geleca.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_reino_goblin",
+    "tipo": "lugar",
+    "nome": "Reino Goblin",
+    "file": "places/AT_PLACE_reino_goblin.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_reino_lagarto",
+    "tipo": "lugar",
+    "nome": "Reino Lagarto",
+    "file": "places/AT_PLACE_reino_lagarto.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_reino_musculos",
+    "tipo": "lugar",
+    "nome": "Reino Músculos",
+    "file": "places/AT_PLACE_reino_musculos.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_rio_acido",
+    "tipo": "lugar",
+    "nome": "Rio Ácido",
+    "file": "places/AT_PLACE_rio_acido.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_sala_de_apenas_gelo",
+    "tipo": "lugar",
+    "nome": "Sala de Apenas Gelo",
+    "file": "places/AT_PLACE_sala_de_apenas_gelo.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_sala_do_tempo",
+    "tipo": "lugar",
+    "nome": "Sala do Tempo",
+    "file": "places/AT_PLACE_sala_do_tempo.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_sala_secreta_do_reino_doce",
+    "tipo": "lugar",
+    "nome": "Sala Secreta do Reino Doce",
+    "file": "places/AT_PLACE_sala_secreta_do_reino_doce.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_senhorita_ilha",
+    "tipo": "lugar",
+    "nome": "Senhorita Ilha",
+    "file": "places/AT_PLACE_senhorita_ilha.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_PLACE_sol",
+    "tipo": "lugar",
+    "nome": "Sol",
+    "file": "places/AT_PLACE_sol.json",
+    "chunks": 5
+  },
+  {
+    "id": "AT_PLACE_squeezemart",
+    "tipo": "lugar",
+    "nome": "Squeez-E-Mart",
+    "file": "places/AT_PLACE_squeezemart.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_tartaruga_gigante",
+    "tipo": "lugar",
+    "nome": "Tartaruga Gigante",
+    "file": "places/AT_PLACE_tartaruga_gigante.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_taverna_doce",
+    "tipo": "lugar",
+    "nome": "Taverna Doce",
+    "file": "places/AT_PLACE_taverna_doce.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_terra",
+    "tipo": "lugar",
+    "nome": "Terra",
+    "file": "places/AT_PLACE_terra.json",
+    "chunks": 7
+  },
+  {
+    "id": "AT_PLACE_terra_da_grama",
+    "tipo": "lugar",
+    "nome": "Terra da Grama",
+    "file": "places/AT_PLACE_terra_da_grama.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_terra_de_ooo",
+    "tipo": "lugar",
+    "nome": "Terra de Ooo",
+    "file": "places/AT_PLACE_terra_de_ooo.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_terra_do_caroco",
+    "tipo": "lugar",
+    "nome": "Terra do Caroço",
+    "file": "places/AT_PLACE_terra_do_caroco.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_terra_dos_mortos",
+    "tipo": "lugar",
+    "nome": "Terra dos Mortos",
+    "file": "places/AT_PLACE_terra_dos_mortos.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_trem_masmorra_local",
+    "tipo": "lugar",
+    "nome": "Trem Masmorra (Local)",
+    "file": "places/AT_PLACE_trem_masmorra_local.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_vila_das_velhinhas",
+    "tipo": "lugar",
+    "nome": "Vila das Velhinhas",
+    "file": "places/AT_PLACE_vila_das_velhinhas.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_vila_dos_aldeoes_gordos",
+    "tipo": "lugar",
+    "nome": "Vila dos Aldeões Gordos",
+    "file": "places/AT_PLACE_vila_dos_aldeoes_gordos.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_vila_dos_cogumelos",
+    "tipo": "lugar",
+    "nome": "Vila dos Cogumelos",
+    "file": "places/AT_PLACE_vila_dos_cogumelos.json",
+    "chunks": 2
+  },
+  {
+    "id": "AT_PLACE_vila_dos_magos",
+    "tipo": "lugar",
+    "nome": "Vila dos Magos",
+    "file": "places/AT_PLACE_vila_dos_magos.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_vila_espeto",
+    "tipo": "lugar",
+    "nome": "Vila Espeto",
+    "file": "places/AT_PLACE_vila_espeto.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_vila_macia",
+    "tipo": "lugar",
+    "nome": "Vila Macia",
+    "file": "places/AT_PLACE_vila_macia.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_vila_marauder",
+    "tipo": "lugar",
+    "nome": "Vila Marauder",
+    "file": "places/AT_PLACE_vila_marauder.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_vila_vegetal",
+    "tipo": "lugar",
+    "nome": "Vila Vegetal",
+    "file": "places/AT_PLACE_vila_vegetal.json",
+    "chunks": 4
+  },
+  {
+    "id": "AT_PLACE_vilarejo_dos_pequenos_aldeoes",
+    "tipo": "lugar",
+    "nome": "Vilarejo dos Pequenos Aldeões",
+    "file": "places/AT_PLACE_vilarejo_dos_pequenos_aldeoes.json",
+    "chunks": 3
+  },
+  {
+    "id": "AT_PLACE_wubiwub_do_sul",
+    "tipo": "lugar",
+    "nome": "Wubiwub do Sul",
+    "file": "places/AT_PLACE_wubiwub_do_sul.json",
+    "chunks": 1
+  },
+  {
+    "id": "AT_PLACE_zonas_de_imaginacao",
+    "tipo": "lugar",
+    "nome": "Zonas de Imaginação",
+    "file": "places/AT_PLACE_zonas_de_imaginacao.json",
+    "chunks": 3
+  }
+]

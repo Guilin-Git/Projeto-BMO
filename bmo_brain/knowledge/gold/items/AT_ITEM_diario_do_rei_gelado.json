@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_diario_do_rei_gelado",
+  "tipo": "objeto",
+  "nome": "Diário do Rei Gelado",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_diario_do_rei_gelado_descricao",
+      "text": "[Objeto: Diário do Rei Gelado]\nDescricao:\n# Diário do Rei Gelado\n\nO Diário do Rei Gelado apareceu em \" A Câmara das Lâminas Congeladas \" quando Jake pegou-o debaixo da cama do Rei Gelado e tentou convencer Finn á deixar lê-lo mais para achar a \"prova\" de que o Rei Gelado ia sequestrar uma princesa, mas realmente só queria lê-lo por si mesmo. Está escrito também sobre sua vida como Simon Petrikov.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_diario_do_rei_gelado",
+        "nome": "Diário do Rei Gelado",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_diario_do_rei_gelado_aparicoes",
+      "text": "[Objeto: Diário do Rei Gelado]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_diario_do_rei_gelado",
+        "nome": "Diário do Rei Gelado",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_diario_do_rei_gelado_aparencia",
+      "text": "[Objeto: Diário do Rei Gelado]\nAparencia:\nÉ um diário rosa que tem um botão de ouro de tranca ligado a ele e uma fita vermelha marcada em uma das páginas. A capa do livro tem um adesivo de borboleta e um papel colado que diz: \"KEEP OUT!\" (FIQUE FORA!) em letras vermelhas, enquanto na parte de trás, tem uma imagem de Gunter e um adesivo de um arco-íris, contendo as cores rosa, azul, verde e amarelo.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_diario_do_rei_gelado",
+        "nome": "Diário do Rei Gelado",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

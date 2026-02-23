@@ -1,0 +1,13 @@
+{
+  "id": "AT_ITEM_maquina_do_tempo",
+  "tipo": "objeto",
+  "nome": "Máquina do Tempo",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/M%C3%A1quina_do_Tempo",
+  "sections": {
+    "descricao": "# Máquina do Tempo",
+    "aparicoes": "### Primeira Aparição",
+    "sobre": "Ela pode fazer pessoas voltarem do tempo a partir de suas partículas, como fez com as criaturinhas no começo do episódio. A Princesa Caroço achava que ela podia voltar no tempo, para que Brad a amasse de novo. A Princesa Caroço também teletransporta as partículas de Johnnie e pensa que ele voltou a Taverna Doce .",
+    "curiosidades": "- Segundo a Princesa Jujuba só pode se tocar nela com luvas especiais.\n\n- Provavelmente quem é transportado nessa máquina vai para uma dimensão paralela, já que no final do episódio Johnnie aparece naquela dimensão.\n\n- Existe um objeto com poderes similares e que também é criado pela Jujuba nas HQ'S."
+  },
+  "source_file": "Maquina_do_Tempo.md"
+}

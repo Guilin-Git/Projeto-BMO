@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Fábrica Super Porp"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/F%C3%A1brica_Super_Porp"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/F%C3%A1brica_Super_Porp"
 ---
+
+> Fábrica Super Porp é um lugar de Hora de Aventura.
 
 # Fábrica Super Porp
 

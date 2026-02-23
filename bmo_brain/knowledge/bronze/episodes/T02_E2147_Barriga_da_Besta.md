@@ -1,15 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 2147
 nome: "Barriga da Besta"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Barriga_da_Besta"
 diretor: "Larry Leichliter"
 codigo_producao: "1002-047"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Barriga_da_Besta"
 ---
 
 # Barriga da Besta
 
 **Temporada 2 — Episódio 2147**
+
+## Descrição
+" Barriga da Besta " é o 21º episódio da 2ª temporada de Hora de Aventura . É o quadragésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
+
+- Kent Osborne
+
+- Somvilay Xayaphone
 
 ## Sinopse
 Finn e Jake entram na barriga de uma besta e descobrem que ursos festeiros estão festejando lá.Os heróis vão tentar tirar os ursos de lá.
@@ -24,3 +46,30 @@ Após a atender algumas exigências de festa com ele por algumas horas, Finn dá
 Enquanto apreciam a vista da boca aberta do monstro, Finn involuntariamente faz um comentário sobre como a única maneira que o monstro pode matar os ursos, com certeza seria para ele engolir "alguma lava do vulcão". Ao ouvir isso, o monstro abre caminho para o vulcão mais próximo, enquanto Finn e Jake correm para convencer os ursos à saírem fora o mais rápido possível. Depois de chamar a atenção dos Ursos Festeiros com uma musica melancólica sobre o "marrom", os dois convencer os ursos do perigo eminente, eles correm da lava, a sua fuga precipitada a única maneira possível de sair: "atrás" do monstro.
 
 A cena salta para o Finn tratando dos ursos com queimaduras e informando Rei da Festa que seu clã está agora livre para a festa do lado de fora. Esta última oferta é recebida com descontentamento dos ursos, e Rei responde que, para sobreviver, seu povo precisa de um "clube de festa legal para festejar", e que "aquela barriga era tudo de bom". Finn cochicha com o Rei e assim defini um acordo com o monstro que eles vão substituir os fogos de artifício por "lazers coloridos". O Monstro engoli os ursos deixandos em seu estômago, Finn acha tudo isso muito estranho e deixa o local mais rápido possivel.
+
+## Personagens
+- Finn
+
+- Jake
+
+- Monstro
+
+- Ursos Festeiros Rei da Festa Ursito
+
+- Caracol
+
+- Rei da Festa
+
+- Ursito
+
+## Músicas
+- Ursos (karaokê)
+
+- Não Há Lágrimas Que Bastem
+
+## Curiosidades
+- Rei da Festa foi baseado em Pat McHale , diretor criativo anterior de Hora de Aventura e "braço-direito do Pendleton Ward".
+
+- As exigências da festa do Rei requerem beber energéticos sabor mel, break dance em uma esteira no chão, lutando ao mesmo tempo que está sendo levantado e apoiado por outra pessoa, comer panquecas, e cantando em um karaokê.
+
+- A mesma música do cartão titulo toca na barriga do monstro assim que começa a festa

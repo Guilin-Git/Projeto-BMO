@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_fogos_de_artificio_liquidos",
+  "tipo": "objeto",
+  "nome": "Fogos de Artifício Líquidos",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_fogos_de_artificio_liquidos_descricao",
+      "text": "[Objeto: Fogos de Artifício Líquidos]\nDescricao:\n# Fogos de Artifício Líquidos\n\nFogos de Artifício Líquido são pirotecnia que faz chover colorido, pintura como líquido. Princesa Jujuba criou no episódio \" Incêndio \". Eles foram acendidos pela primeira vez no início do episódio e só foram acendidos de novo acidentalmente pela Princesa de Fogo ao final do episódio. A chuva subseqüente levou ela à desmaiar.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_fogos_de_artificio_liquidos",
+        "nome": "Fogos de Artifício Líquidos",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_fogos_de_artificio_liquidos_aparicoes",
+      "text": "[Objeto: Fogos de Artifício Líquidos]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_fogos_de_artificio_liquidos",
+        "nome": "Fogos de Artifício Líquidos",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_fogos_de_artificio_liquidos_curiosidade",
+      "text": "[Objeto: Fogos de Artifício Líquidos]\nCuriosidade:\n- Durante a segunda vez que os Fogos de Artifício Líquido foram acesas (eram cinco foguetes em vez de três), choveu mais rápido do que a primeira vez.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_fogos_de_artificio_liquidos",
+        "nome": "Fogos de Artifício Líquidos",
+        "secao": "curiosidade"
+      }
+    }
+  ]
+}

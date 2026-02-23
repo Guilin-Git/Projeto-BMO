@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 8112
 nome: "Masmorra do Mistério"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Masmorra_do_Mist%C3%A9rio"
 data_exibicao: "26/08/2013"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-113"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Masmorra_do_Mist%C3%A9rio"
 ---
 
 # Masmorra do Mistério
 
 **Temporada 5 — Episódio 8112**
+
+## Descrição
+" Masmorra do Mistério " é o 8º episódio da 5ª temporada de Hora de Aventura . É o 112º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Limãograb , Rei Gelado , Dona Tromba , Shelby e Neptr devem trabalhar juntos para escaparem de uma masmorra.
@@ -34,22 +61,64 @@ Em seguida, é revelado que atrás da porta há o Antigo Bruxo Dormindo que dá 
 Finn e Jake depois são vistos nas planícies, seguindo o cheiro da Dona Tromba tinha feito anteriormente. O Bruxo, sai da grama rapidamente, seguindo por todo o grupo. O Rei Gelado, saindo de lá, senta em uma das planícies junto a Rojotor, que tentando animá-lo, diz que seus personagens podem ser reais na sua Zona da Imaginação. Encantado, Rei Gelado consegue falar com Fionna, sem saber que na verdade é Rojotor falando. Finn, Jake, e Shelby conversam sobre tudo isso, dizendo se tem alguém mais triste que o Rei Gelado e Shelby responde, "eu, vendo isso!". O episódio termina.
 
 ## Personagens
+
 ### Principais
+
 - Rei Gelado
+
 - Conde de Limãograb
+
 - Shelby
+
 - Neptr
+
 - Dona Tromba
 
+
 ### Secundários
+
 - Antigo Mago Adormecido da Vida
+
 - Fionna and Cake Omnibus
+
 - Finn
+
 - Jake
+
 - BMO (mencionado)
+
 - Fionna (na zona de imaginação do Rei Gelado)
+
 - Cake (mencionada)
+
 - Marshall Lee (mencionado)
+
 - Peixe Monstro
+
 - Monstro de Três Olhos
+
 - Caracol
+
+## Curiosidades
+- Nesse episódio, Rojotor chama o Rei Gelado de "Papi". No final, Finn e Jake não ligam para o Rojotor com ele.
+
+- É revelado que BMO pode hackear qualquer coisa.
+
+- Quando o Rojotor salva a Dona Tromba é possível ouvir uma parte da trilha sonora de " Lobo do Abraço ".
+
+- Dona Tromba chama Neptr de "Néctar" e Conde de Limãograb de "Limãozudo".
+
+- Finn e Jake podem ser vistos nas hieróglifos do cartão de título.
+
+- Rei Gelado parece não se lembrar de Neptr, nem da aparência de BMO, porque achou que Neptr fosse BMO.
+
+## Referências Culturais
+- Das imagens que aparecem no computador principal, algumas são reconhecíveis como por exemplo: O Olho de Horus, um homem com uma espada em seu abdômen, uma mão pegando uma chave e uma ampulheta.
+
+## Conexões de Episódios
+- Rei Gelado apareceu sem barba como em " Lealdade ao Rei ".
+
+- A Zona da Imaginação de " O Que é Vida? " é vista novamente.
+
+## Censura
+- É censurada a parte que Limãograb diz "Aceitável!" enquanto come a torta da boca do rato.

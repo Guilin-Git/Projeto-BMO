@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_nothung",
+  "tipo": "objeto",
+  "nome": "Nothung",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_nothung_descricao",
+      "text": "[Objeto: Nothung]\nDescricao:\n# Nothung",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_nothung",
+        "nome": "Nothung",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_nothung_aparicoes",
+      "text": "[Objeto: Nothung]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_nothung",
+        "nome": "Nothung",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_nothung_etimologia",
+      "text": "[Objeto: Nothung]\nEtimologia:\nO nome \"Nothung\" (Notung no alemão moderno = \"Criança Necessitada\") vem do ciclo do anel de Richard Wagner, em que é a espada do herói Siegfried. O nome foi inventado por Wagner, substituindo os nomes para a espada do herói encontrado em fontes de Wagner, a Norse Edda e Völsungasaga (Gram = \"ira\") e no  alemão medieval Nibelungenlied (Balmung = \"destruição\").",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_nothung",
+        "nome": "Nothung",
+        "secao": "etimologia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_nothung_aparencia",
+      "text": "[Objeto: Nothung]\nAparencia:\nEle tem uma lâmina de aço afiada com símbolos na base. A guarda-mão em forma de oval é de ouro com uma jóia azul-turquesa. A empunhadura é coberta por uma tira de couro e o pomo tem um crânio pequeno com uma linha vermelha que gira em sua testa. Billy tem a capacidade de chamá-la, gritando seu nome.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_nothung",
+        "nome": "Nothung",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

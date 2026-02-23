@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Dimensão Cristal"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Dimens%C3%A3o_Cristal"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Dimens%C3%A3o_Cristal"
 ---
+
+> Dimensão Cristal é um lugar de Hora de Aventura.
 
 # Dimensão Cristal
 

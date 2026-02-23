@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 886
 nome: "Lobo do Abraço"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Lobo_do_Abra%C3%A7o"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-084"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Lobo_do_Abra%C3%A7o"
 ---
 
 # Lobo do Abraço
 
 **Temporada 4 — Episódio 886**
+
+## Descrição
+" Lobo do Abraço " é o 8º episódio da 4ª temporada de Hora de Aventura . É o octagésimo sexto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn descobre um Lobo do Abraço e passa por uma terrível transformação.
@@ -29,3 +50,59 @@ Mais tarde naquela noite, Finn e Jake estão em casa. Como Finn está sentado, J
 Na manhã seguinte, Finn acorda em um córrego no Reino Doce com Jake sobre ele. Finn pergunta o que aconteceu quando Jake responde: "Você abraçou todo mundo!" Várias pessoas doces estão na ponte sobre o córrego e estão gritando com Finn, com um pequeno sorvete homem verde dizendo "Nós somos loucos, mas nós não vamos ir para lá..." depois que o povo doces parar de gritar. Finn, em seguida, pede desculpas aos doces e pedidos para que eles prendê-lo no Calabouço Doce . Eles trancá-lo no calabouço enquanto Jake e algumas pessoas doces formam uma multidão para ir atrás do Abraço do Abraço Alfa. Canelinha é encarregado de manter Finn preso.
 
 Depois que saem, a lua aparece, e Finn se transforma em um Lobo do Abraço novamente. Finn pede ao Canelinha, se ele quer um abraço, e ele responde: "Eu não posso, cara". Finn então pergunta: "Nem um pouco?" Então Canelinha responde: "SIM!" e inicia a abertura da jaula. Depois de abrir a porta, Finn salta e dá ao Canelinha um enorme abraço, machucando-o. A cena corta para a multidão encontrar o lobo alfa, onde ocorreu o incidente. Jake diz: "Sinto o cheiro de alguém que está sendo abraçada agora", e vê um veado sendo abraçado pelo lobo. Jake e a multidão começam a gritar. O Lobo do Abraço então confronta a multidão como Jake pede desculpas a Finn por ele. De repente, Finn aparece e pula sobre o lobo alfa, e começa a abraçar-la. Os dois se abraçam, até que ambos começaram a brilhar e a luz irrompe de seus abraços. O rescaldo revela que os abraços dos dois lobos abraço era a cura como Finn está de volta ao normal e o abraço lobo alfa se transformou em uma mulher humanoide . Jake percebe a beleza da garota e pergunta: "Posso ganhar um abraço?" então Finn chama com raiva para fora da grosseria de Jake. O episódio termina com a mulher se transformando em uma Árvore Tenebrosa assustando Jake.
+
+## Personagens
+- Finn
+
+- Jake
+
+- Dama Bonita (Lobo do Abraço Alpha)
+
+
+### Menores
+
+- BMO
+
+- Povo Doce Gominha Adolescente Pai da Gominha Adolescente Senhor Bolinho Canelinha Princesa Jujuba Doutor Sorvete (cameo) Refri (Personagem) (cameo)
+
+- Árvore Tenebrosa
+
+- Caracol
+
+- CMO
+
+- Gominha Adolescente
+
+- Pai da Gominha Adolescente
+
+- Senhor Bolinho
+
+- Canelinha
+
+- Princesa Jujuba
+
+- Doutor Sorvete (cameo)
+
+- Refri (Personagem) (cameo)
+
+## Curiosidades
+- Princesa Jujuba faz uma pequena aparição neste episódio, correndo atrás de um gato, quando Finn está no rio do Reino Doce e Jake vai falar com ele.
+
+- Quando Jake pega um livro para procurar sobre o Lobos do Abraço, é intitulado Bestiarium Vocabulum que significa "Monografia das Bestas".
+
+- O jogo de videogame que Jake joga neste episódio é chamado "Portender Defender".
+
+- Após Finn quebrar a maldição sobre ele e o Lobo do Abraço Alfa, a música do cartão de título toca.
+
+- No final do episódio, quando Jake está gritando depois da Dama Bonita se transforma em outra Árvore Tenebrosa , pode-se ver que Jake está faltando um dente.
+
+- Mesmo que Pai da Gominha Adolescente faz disparos com o som de sua boca, a Espingarda de Bastão Doce dele pode causar danos reais.
+
+- A Espingarda de Bastão Doce faz buracos em formato de coração
+
+## Erros
+- Há erros de continuidade em relação aos discos de vinil no chão da sala da Gominha Adolescente .
+
+- Apesar de o buraco do cano da Espingarda de Bastão Doce ser redonda, seus disparos fazem buracos em formato de coração.
+
+- A Mamãe Doce e seu bebê desaparecem do Calabouço Doce quando Jake começa a falar, embora poderia ter deixado fora da tela.

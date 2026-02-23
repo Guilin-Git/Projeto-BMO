@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 9234
 nome: "Cinco Tabelinhas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cinco_Tabelinhas"
 data_exibicao: "12/09/2016"
 diretor: "Elizabeth Ito"
 roteiro: "Kent Osborne Adam Muto Ashly Burch"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cinco_Tabelinhas"
 ---
 
 # Cinco Tabelinhas
 
 **Temporada 8 — Episódio 9234**
+
+## Descrição
+"Cinco Tabelinhas" é o nono episódio da oitava temporada de Hora de Aventura. É o duzentos e trinta e quatro episódios no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Fionna e Cake vai a uma aventura culinária para empurrar a arte de bolo para um nível totalmente novo.
@@ -31,15 +55,60 @@ No Reino do Gelo, a Rainha do Gelo lê para seus pinguins a história do Preside
 Depois que Ice King termina sua história, ele pergunta a Gunter quais são os temas das histórias. Quando Gunter adivinha errado, Rei Gelado informa aos pinguins que era sobre mesas. A mesa do café da manhã onde Cake serviu panquecas para Fionna, a Tabela Periódica para Gumball, o sumário que Flame Prince queimou e a colher de mesa que Marshall Lee segurava. O Rei Gelado não conhece o tema da mesa para a história da Rainha Gelada, então ele evita explicar essa história e quase exclama que chamará esses contos de "cinza-[bles]", mas muda de ideia para chamá-los de "Mesas". Enquanto Ice King vai pela tangente sobre sua nova estrutura de história, um Cuber fora de forma desliga sua TV e, infelizmente, diz que nunca será capaz de olhar para as mesas da mesma maneira denovo.
 
 ## Personagens
+
 ### Principais
+
 - Rei Gelado
+
 - Fionna
+
 - Cake
+
 - Príncipe Chiclete
+
 - Butterscotch Butler
+
 - Marshall Lee
+
 - Príncipe Caroço
+
 - Príncipe de Fogo
+
 - Príncipe Tartaruga
+
 - Rainha Gelada
+
 - Cuber
+
+
+### Menores
+
+- Flynn
+
+- Gunter
+
+- Jacques
+
+- Ice president
+
+- Caracol
+
+## Curiosidades
+- Esse é o 4° episódio de Fionna & Cake da série.
+
+- Esse episódio marca os papéis da primeira fala do Príncipe de Fogo e Príncipe Tartaruga .
+
+- Rainha Gelada retorna desde o primeiro episódio de Fionna & Cake com o episódio titular .
+
+- É revelado que a Rainha Gelada também têm sua própria ficção, e o nome dos personagens que ela criou se chamam Flynn, O Ser Humano; Jacques, O Guaxinim e Presidente Gelado . Sem contar também que o personagem dela, Presidente Gelado; tinha escrito uma outra ficção.
+
+- Esse episódio pela primeira vez apresentou o personagem do gênero oposto do Mordomo Menta, Governanta Caramelo.
+
+- É revelado que nesse episódio Rei Gelado foi quem originou as 5 histórinhas onde Cuber baseou-se em 1.000 anos no futuro.
+
+## Conexões de Episódios
+- Esse episódio marca o retorno do Rainha Gelada depois de sua ausência nos dois episódios anteriores Fionna & Cake.
+
+- Este é o quarto episódio da saga Fionna & Cake, seguindo " Fionna e Cake ", " Garotinho Mal ," da 3ª e 5ª Temporada, e da 6ª em " O Príncipe que Queria Tudo ."
+
+- Rei Gelado refere-se a Princesa Caroço como "trambolho", no paralelo de Cuber chamando-a de "trambolho" também em " Cinco Historinhas ".

@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_reino_das_nuvens",
+  "tipo": "lugar",
+  "nome": "Reino das Nuvens",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_reino_das_nuvens_descricao",
+      "text": "[Lugar: Reino das Nuvens]\nDescricao:\n# Reino das Nuvens\n\nO Reino das Nuvens é um reino em Hora de Aventura . É habitado por pessoas altas feitas de nuvem, mas não se sabe quem é o governante ou se tem um. Finn e Lady Íris são vistos indo lá para uma festa no episódio \" Minhas Duas Pessoas Favoritas \". Ele também fazem uma aparição no episódio \" Despejados \", quando Finn e Jake tentam encontrar uma casa. Esta cena se passa em uma casa em forma de nuvem, aparentemente na casa de \"um homem nuvem e sua linda donzela\". No episódio \" Incansável \", duas mulheres de água levam Jake para uma festa no Reino das Nuvens, onde ele encontra o Deus da Festa . Parece que a festa é uma grande parte da cultura do Reino Nuvem, similar ao Reino Doce .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_das_nuvens",
+        "nome": "Reino das Nuvens",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

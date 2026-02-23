@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 6162
 nome: "Breezinha"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Breezinha"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Breezinha"
 ---
 
 # Breezinha
 
 **Temporada 6 — Episódio 6162**
+
+## Descrição
+" Breezinha " é o 6º episódio da 6ª temporada de Hora de Aventura . É o centésimo sexagésimo segundo episódio no total.
 
 ## Sinopse
 Com uma abelha interessada na flor do seu braço, Finn decide afogar as mágoas em festas e princesas.
@@ -40,26 +44,104 @@ A cena muda para Finn estar com dançando com a Princesa Caroço . Ela diz a ele
 Há muitos vaga-lumes voando e, de repente, a sombra de Breezinha aparece. Ela começa a cantar, a voz ajudando a flor crescer. Finn começa a cantar junto, e se vira para Breezinha. Ele a vê como a Princesa Jujuba, chamando-o para o seu dever. Assim que os dois estavam acabando de cantar, a flor do braço de Finn cresce em uma árvore e explode. Rasgando a casca restante, Finn vê um novo braço coberto de mel, e limpa-lo para ver que um braço idêntico ao original está de volta. Finn começa a dançar de alegria, acordando a Princesa Caroço que felicita Finn sobre seu braço. Finn percebe Breezinha e sua flor cai sobre sua cabeça. O episódio termina com Breezinha beijando a flor.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Breezinha
 
+
 ### Secundários
+
 - Jake
+
 - Princesa Lagarto
+
 - Guardião do Reino Lagarto
+
 - Princesa Jujuba
+
 - Gangue dos Cães
+
 - Princesa Trapo
+
 - Princesa Cara Quadriculada
+
 - Princesa Caroço
+
 - Princesa Frutinhas
+
 - Princesa Geleca
+
 - Princesa Café da Manhã
+
 - Princesa Esmeralda
+
 - Princesa Músculos
+
 - Princesa Caranguejo
+
 - Princesa Yogurt Frio
+
 - Doutora Princesa
+
 - Sr. Cremoso
+
 - Caracol
+
+
+### Outros
+
+- Princesa de Fogo (Mencionada)
+
+- Martin (Mencionado)
+
+## Música
+- Perdido Nas Trevas/Amor
+
+## Curiosidades
+- " Breezinha foi um episódio profundamente pessoal, baseado em coisas que aconteceram comigo na minha vida. Espero que as pessoas encontrem transcendência e beleza nisso ." Esse episódio é baseado em acontecimentos da vida do artista de storyboard Jesse Moynihan . Segundo ele, esse é um episódio muito especial. [ 2 ]
+
+- A palavra "virgem" foi usada pela primeira vez sem uma palavra de substituição ao seu lado, como foi em " Cidade dos Ladrões ". Esse episódio foi muito censurado no Brasil.
+
+- Neste episódio a Princesa Lagarto ganhou um redesign.
+
+- Breezinha é semelhante a abelha do tema dos créditos e a abelha da logo de Bravest Warriors , outra série de Pendleton Ward .
+
+- Esse foi o primeiro episódio de Hora de Aventura a estrear na nova grade de um novo episódio de Hora de Aventura todas as quintas as 19h no Cartoon Network EUA.
+
+- Esse episódio foi muito censurado no Brasil.
+
+
+### Conexão dos Episódios
+
+- Finn tenta esquecer a pétala da sua flor caindo guardando-a no seu "cofre", como ele fez com Shoko em " Sustos ".
+
+- As garotas de bíquini de " Silêncio! " aparecem fora da Casa na Árvore .
+
+- A espada que a Princesa Jujuba segura no final do episódio é um foreshadowing da futura espada que Finn ganha em " É Você? "
+
+
+### Referências Culturais
+
+- Finn diz a Doutora Princesa que está bebendo suco de picles "pelos eletrólitos" para sua flor não murchar. Isso é uma referência ao filme Idiocracia . No filme, as pessoas começaram a regar as plantas com energéticos "porque eles tem eletrólitos".
+
+- A forma de abelha rainha de Breezinha é semelhante ao Pokémon Vespiqueen.
+
+- Na festa, a Princesa Jujuba toca um disco de Mother 13, uma banda fictícia do programa de rádio de Tom Scharpling The Best Show on WFMU .
+
+
+### Censuras
+
+- Após Princesa Caranguejo esbarrar na Princesa Caroço é censurada a frase " Você não é meu homem! Sei que todos vocês invejam meus caroços! "
+
+- É censurado Breezinha tocando na flor do Finn e dizendo '' Sim, ela está ótima!''
+
+- É censurado a Princesa Lagarto mostrando a língua em empolgação antes de beijar Finn.
+
+- É censurado quando o Homem Abelha chama Finn de "tubo de carne", dizendo que a relação dos dois é nojenta.
+
+- A cena onde Breezinha chama Finn para ser o seu "zangão" é censurada.
+
+- A cena da Princesa Caroço beijando Finn foi censurada em massa em diversos países por conter um subtexto sexual extremamente explícito. Veja aqui a cena completa .

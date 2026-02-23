@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_limaozito",
+  "tipo": "objeto",
+  "nome": "Limãozito",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_limaozito_descricao",
+      "text": "[Objeto: Limãozito]\nDescricao:\n# Limãozito",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_limaozito",
+        "nome": "Limãozito",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_limaozito_informacoes",
+      "text": "[Objeto: Limãozito]\nInformacoes:\n### Nome\n\n### Espécie\n\n### Ocupação\n\n### Parentes",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_limaozito",
+        "nome": "Limãozito",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_limaozito_detalhes",
+      "text": "[Objeto: Limãozito]\nDetalhes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_limaozito",
+        "nome": "Limãozito",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_limaozito_historia",
+      "text": "[Objeto: Limãozito]\nHistoria:\nEle é um boneco limão que é filho dos Condes, quando ele senta em sua cadeira Limãograb 2 quer que ele vai dormir e Limãograb que ele vai dançar, eles brigam, quando Limãograb 2 vai pegar um chapéu de dormir, o Limãograb original começa a colocá-lo para dançar. Isso causa raiva em Limãograb 2 que acaba jogando Limãozito no chão, quebrando sua cabeça, causando com que Limãograb devore seu irmão.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_limaozito",
+        "nome": "Limãozito",
+        "secao": "historia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_limaozito_curiosidades",
+      "text": "[Objeto: Limãozito]\nCuriosidades:\n- Em \" A Montanha \" o chamaram de Limãozinho .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_limaozito",
+        "nome": "Limãozito",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

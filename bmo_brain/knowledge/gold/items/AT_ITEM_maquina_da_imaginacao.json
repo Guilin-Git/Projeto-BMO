@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_maquina_da_imaginacao",
+  "tipo": "objeto",
+  "nome": "Máquina da Imaginação",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_maquina_da_imaginacao_descricao",
+      "text": "[Objeto: Máquina da Imaginação]\nDescricao:\n# Máquina da Imaginação\n\nA Máquina da Imaginação era um painel de controle imaginário usado por Jake no episódio \" Sonho de Dia Chuvoso \". Ele a imaginou para desligar sua imaginação, de modo que ele e Finn não fossem mortos por ela. No entanto, desde que ele desligou sua imaginação, ele ficou muito chato. Além disso, desde que sua imaginação não existisse, sua máquina de imaginação deixou de existir também.\n\nNo entanto, Finn entrou em sua própria Zona de Imaginação e imaginou a Máquina da Imaginação perdida e retornou a imaginação de Jake.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_da_imaginacao",
+        "nome": "Máquina da Imaginação",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maquina_da_imaginacao_aparicoes",
+      "text": "[Objeto: Máquina da Imaginação]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maquina_da_imaginacao",
+        "nome": "Máquina da Imaginação",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_telefone_da_princesa_caroco",
+  "tipo": "objeto",
+  "nome": "Telefone da Princesa Caroço",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_telefone_da_princesa_caroco_descricao",
+      "text": "[Objeto: Telefone da Princesa Caroço]\nDescricao:\n# Telefone da Princesa Caroço\n\nO Telefone da Princesa Caroço apareceu pela primeira vez em \" Problemas na Terra do Caroço \". Princesa Caroço pega o telefone também em \" Lealdade ao Rei \", quando ela chama a Princesa Amendoim para contar a ela sobre o Rei Maneiro. Em \" Assinatura de Calor \", Princesa Caroço conversa com Melissa sobre o quão bem ela está fazendo tudo por conta própria. Em \" Sustos \", ela o usa como uma lanterna quando as luzes se apagam. Em \" Te Peguei! \", Ela tem um novo telefone preto, que ela usa para entrar em contato com a Princesa Tartaruga .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_telefone_da_princesa_caroco",
+        "nome": "Telefone da Princesa Caroço",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_telefone_da_princesa_caroco_aparicoes",
+      "text": "[Objeto: Telefone da Princesa Caroço]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_telefone_da_princesa_caroco",
+        "nome": "Telefone da Princesa Caroço",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

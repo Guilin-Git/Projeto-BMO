@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_calabouco_doce",
+  "tipo": "lugar",
+  "nome": "Calabouço Doce",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_calabouco_doce_descricao",
+      "text": "[Lugar: Calabouço Doce]\nDescricao:\n# Calabouço Doce\n\nO Calabouço Doce faz sua primeira aparição no episódio \" O Que Vocês Fizeram? \" Ele tem várias entradas secretas, com uma parede que fala guardando um deles.\n\nEm \" Jovem Demais \", Conde Lemongrab gostava de enviar cidadãos do Reino doce para o calabouço por períodos que variam de três horas a um milhão de anos para uma variedade de infrações, inclusive a brincadeira, onde Princesa Jujuba e Finn colocaram molho de pimenta na comida dele.\n\nEm \" Lobo do Abraço \", Canelinha foi designado para vigiar Finn enquanto ele estava preso, mas ele deixou Finn sair, a fim de receber um abraço dele.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_calabouco_doce",
+        "nome": "Calabouço Doce",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

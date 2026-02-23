@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 2274
 nome: "Pedro Papel"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Pedro_Papel_(Epis%C3%B3dio)"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-075"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Pedro_Papel_(Epis%C3%B3dio)"
 ---
 
 # Pedro Papel
 
 **Temporada 3 — Episódio 2274**
+
+## Descrição
+" Pedro Papel (Episódio) " é o 22º episódio da 3ª temporada de Hora de Aventura . É o 74º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Enredo
 Finn e Jake estão andando pela Biblioteca que pertence à Princesa Tartaruga enquanto seguram um livro absurdamente grande em cima de suas costas. Após colocá-lo sobre uma mesa, o livro revela-se uma história integral de Iriscórnios intitulado " Iriscópia ". Finn rapidamente fica aborrecido porque Jake fica muito centrado no livro e procura algo divertido para fazer, como uma outra aventura, mas Jake rejeita isso como nada mais do que Finn jogando "faz de conta"...
@@ -36,5 +57,57 @@ Os dois deixam a biblioteca, e Jake confessa ter lido apenas um parágrafo no Í
 
 Finn comenta de que há pessoas de sol para lutar, Jake, após ter sido confirmado que é tudo inventado por Finn , decide cooperar e foge para longe com ele.
 
+## Personagens
+- Finn
+
+- Jake
+
+- Paginados
+
+- Pedro Papel
+
+- Mofos
+
+- Mofino
+
+## Secundários
+- Povo Tartaruga
+
+- Princesa Tartaruga
+
+- Backrubbers
+
+- Fantasma do Cai Bola (na forma viva)
+
+- Caracol
+
+- Lady Íris (Mencionada)
+
 ## Curiosidades
+- Jake disse que ele estava lendo o mesmo parágrafo do Iriscópia por uns 11 minutos, que é o tempo de um episódio.
+
+- Uma coroa semelhante à do Rei Gelado é visto na capa de um livro que cai sobre Jake.
+
+- O cartão de título é inspirado nas obras de MC Escher, particularmente House of Stairs.
+
+- Em uma das imagens do livro Iriscópia, há um pequeno pedaço de papel saindo de entre as páginas que se lê "S.A. VIII.XVIII.XII". Estes números estão escondidos em vários episódios e revelaram-se a data do casamento (18 de agosto, 2012) do artista de fundo Santino Lascano.
+
+- Da mesma forma, Finn passa por alguns livros com os números 8, 18, 20 e 12 escritos sobre suas colunas, que, quando juntos, dão 2012/08/18. Também na prateleira são os livros intitulados "Carne" e "Diccionario de los Muertos," Espanhol para "carne" e "Dicionário dos Mortos".
+
+- Parte da biblioteca parece estar enterrado numa vegetação densa.
+
+- Na lombada do livro "CITIES", tem uma imagem de um edifício que se parece com o Empire State Building .
+
+- O sistema de governo dos mofos se trata de uma monarquia eletiva, em que o rei é eleito por meio de eleições democráticas para assumir o poder até a sua morte, tal como ocorre no Camboja.
+
+- O covil dos mofos,  nas paredes pode ser visto cristais similares ao do episódio Cristais tem Poder
+
 Finn se refere a Jake como fera.
+
+## Referências culturais
+- A comemoração dos cavaleiros papéis quando os mofos são expulsos de um ataque aos livros, é uma referência a famosa frase do Imperador César : Veni, Vidi, Vici (Vim, Vi, Venci).
+
+## Erros
+- Jake disse que ele estava lendo o mesmo parágrafo, mais uma vez, mas as páginas parecem mudar.
+
+- Os olhos de dois Mofos parecem estar fora do lugar quando um deles diz: "Você ganhou esta batalha".

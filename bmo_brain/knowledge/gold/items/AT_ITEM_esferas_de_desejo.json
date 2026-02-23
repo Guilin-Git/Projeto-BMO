@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_esferas_de_desejo",
+  "tipo": "objeto",
+  "nome": "Esferas de Desejo",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_esferas_de_desejo_descricao",
+      "text": "[Objeto: Esferas de Desejo]\nDescricao:\n# Esferas de Desejo\n\nAo longo da série, quando os personagens desejam coisas, esses desejos são mostrados em bolas laranja como esferas de desejo (por exemplo, em \" Ricardio, o Coração \" o desejo do Finn de a Princesa Jujuba beijá-lo é mostrado desta forma).",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_esferas_de_desejo",
+        "nome": "Esferas de Desejo",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_esferas_de_desejo_aparicoes",
+      "text": "[Objeto: Esferas de Desejo]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_esferas_de_desejo",
+        "nome": "Esferas de Desejo",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_esferas_de_desejo_curiosidades",
+      "text": "[Objeto: Esferas de Desejo]\nCuriosidades:\n- As Esferas de Desejo podem ser uma referência ás sete esferas do dragão em Dragon Ball, que realizam qualquer desejo, mesmo que no caso elas não precisem ser reunidas para se ganhar o desejo, e se ganha um por pessoa.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_esferas_de_desejo",
+        "nome": "Esferas de Desejo",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

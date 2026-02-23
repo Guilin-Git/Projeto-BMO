@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_mmo",
+  "tipo": "objeto",
+  "nome": "MMO",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_mmo_descricao",
+      "text": "[Objeto: MMO]\nDescricao:\n# MMO",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mmo",
+        "nome": "MMO",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_mmo_informacoes",
+      "text": "[Objeto: MMO]\nInformacoes:\n### Nome\n\n### Espécie\n\n### Ocupação\n\n### Parentes",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mmo",
+        "nome": "MMO",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_mmo_detalhes",
+      "text": "[Objeto: MMO]\nDetalhes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mmo",
+        "nome": "MMO",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_mmo_aparencia",
+      "text": "[Objeto: MMO]\nAparencia:\nEle é idêntico a BMO , exceto o tamanho, as letras em sua lateral e que ele não tem botões.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mmo",
+        "nome": "MMO",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_mmo_sobre",
+      "text": "[Objeto: MMO]\nSobre:\nEle é o ajudante de Moe, ele carrega Moe para onde ele quiser. Ele é um dos maiores MO'S, ele fica muito feliz ao ver BMO.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mmo",
+        "nome": "MMO",
+        "secao": "sobre"
+      }
+    }
+  ]
+}

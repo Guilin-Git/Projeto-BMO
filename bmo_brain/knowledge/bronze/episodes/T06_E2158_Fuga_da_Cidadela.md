@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 2158
 nome: "Fuga da Cidadela"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Fuga_da_Cidadela"
 data_exibicao: "21/04/2014"
 diretor: "Adam Muto (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Fuga_da_Cidadela"
 ---
 
 # Fuga da Cidadela
 
 **Temporada 6 — Episódio 2158**
+
+## Descrição
+" Fuga da Cidadela " é o 2
+º episódio da 6
+ª temporada de Hora de Aventura . É o 158º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake seguem o Lich até a Cidadela de Cristal, onde Finn conhece seu pai perdido há muito tempo.
@@ -33,9 +56,99 @@ Jake diz a Finn para deixá-lo ir que não vale a pena, chamando Martin um perde
 Mais tarde, Dona Tromba e Sr. Porco estam sentado em sua casa, quando fora de Finn e Jake tocam campainha, interrompendo uma conversa de Dona Tromba, dizendo: "Eu acho que nós deveríamos ter um-". O casal vê fora da sua porta um Lich bebê em um cesto. Dona Tromba parece animada e implica que esta adição súbita de sua família muda seu sentimento sobre o que ela estava prestes a dizer e o bebe diz: "Olá".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Lich
+
 - Martin
+
 - Guardião da Cidadela
+
+
+### Menores
+
+- Starchy
+
+- Shelby
+
+- Dona Tromba
+
+- Sr. Porco
+
+- Conjurador de Portais
+
+- Caracol
+
+## Curiosidades
+- É a continuação de Acorda , por isso estreou no mesmo dia; tanto no Brasil quanto nos Estados Unidos.
+
+- Starchy está no Cartão de Título montado em uma forma de locomotiva a vapor 4-2-0.
+
+- Finn perde seu braço nesse episódio.
+
+- Nesse episódio o Lich revive.
+
+- A Espada da Grama , junto com o braço de Finn são removidos. Finn perdendo seu braço
+
+- Dona Tromba pensava em se divorciar do Sr. Porco até que eles têm o seu bebê "entregue".
+
+- Atualmente, o Lich virou filho "adotivo" da Dona Tromba e o Sr. Porco.
+
+- É a segunda vez que se tem um trem no title card, a primeira foi em " Trem Misterioso ."
+
+## Referências Culturais
+- A transformação e a mutação da Espada da Grama consumindo o braço de Finn é Referência a Akira semelhante ao poder despertado de Tetsuo do filme de animação japonês de 1988 Akira.
+
+- No momento em que Dona Tromba ia pedir o divórcio do casamento com Senhor Porco, eles recebem em sua casa um bebê que veio de outro planeta (ele estava na Cidadela). Uma referência ao momento em que Jonathan e Marta Kent encontram Kal-El (Super-Homem).
+
+- Quando o Lich sai da prisão de cristal e tudo escurece, é uma referência ao filme Harry Potter e o Enigma do Princípe, quando Dumbledore e Harry saem em busca do Horcrux medalhão; e a ilha de cristal que Finn e Jake estão se assemelha a ilha que Harry e Dumbledore ficam presos.
+
+## Conexões de Episódios
+- Finn perde seu braço direito para a Espada de Grama, e finalmente cumpre o destino de Finn de perder seu braço, como visto várias vezes: Sua visão de si mesmo em " Folia Mortal " Em seu homólogo Farmworld O braço de travesseiro em " Puhoy " Sobre o futuro de cristal no " O Trem Masmorra " Em seu reflexo no espelho em " O Rei Minhoca " Em sua vida anterior Shoko como revelado em " O Cofre "
+
+- A música tocada no cartão de título é a mesma de " O Lich ", " Finn o Humano " e " Jake, o Cão ".
+
+- Finn disse que o Lich havia enganado ele novamente, ele se refere aos acontecimentos do episódio " O Lich ".
+
+- Sua visão de si mesmo em " Folia Mortal "
+
+- Em seu homólogo Farmworld
+
+- O braço de travesseiro em " Puhoy "
+
+- Sobre o futuro de cristal no " O Trem Masmorra "
+
+- Em seu reflexo no espelho em " O Rei Minhoca "
+
+- Em sua vida anterior Shoko como revelado em " O Cofre "
+
+## Censuras
+- Censurado Martin dizendo "Passa na coxa da galinha" se referindo e apontando ao seu osso exposto.
+
+- Censurada a fala "I Mean, You Know me, I'm A Funny Guy!" do Martin e "What?" do Finn logo em seguida.
+
+- "But Heey, Daddy's Back!" "Daddy and Baby, or I Should Say, Babby and Dad" é mais uma das falas censuradas.
+
+- Censurada a perna de Martin se "Ajeitando"
+
+- Censurada também a parte que Martin diz "Tenho Que Ir Ao Mercado" e Lich explodindo e Finn Perguntando "O Quê?".
+
+- Lich rindo e dizendo "Você está sozinho Garoto!"
+
+- Censurada parte da transformação do Lich.
+
+- Censurado Martin dizendo pra Minhoca Anciã cortar logo, porque Finn se move muito rápido.
+
+- Finn dizendo pra Martin parar.
+
+- Parte da perda do braço do Finn e Martin dizendo "Nojento" e "Pé na Tábua" mas o "Pé na Tábua" agora é transmitido.
+
+## Erros
+- Apesar da bota de Martin ser danificada, nas cenas seguintes ela está em perfeito estado.
+
+- Na hora em que Martin é atingido na perna pela criatura, e Finn começa dizer "Ah não!' várias vezes, Finn está sem sua Espada de Grama.

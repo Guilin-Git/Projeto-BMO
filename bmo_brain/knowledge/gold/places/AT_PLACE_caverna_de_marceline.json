@@ -1,0 +1,48 @@
+{
+  "id": "AT_PLACE_caverna_de_marceline",
+  "tipo": "lugar",
+  "nome": "Caverna de Marceline",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_caverna_de_marceline_descricao",
+      "text": "[Lugar: Caverna de Marceline]\nDescricao:\n# Caverna de Marceline\n\nSe localizando na Passagem das Roxas Vermelhas , a Caverna de Marceline é habitada por Marceline e seu poodle-zumbi, Schwabl . É uma das muitas localizações em Terra de Ooo pertencentes a Marceline.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_de_marceline",
+        "nome": "Caverna de Marceline",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_caverna_de_marceline_aparencia",
+      "text": "[Lugar: Caverna de Marceline]\nAparencia:\nA Caverna de Marceline tem a aparência que se poderia esperar de uma verdadeira caverna: um local úmido, pouco iluminado, com estalagmites, estalactites e várias outras formações rochosas. A Casa de Marceline está dentro da caverna e possui uma varanda com vista para uma lagoa dentro da mesma. Uma das suas entradas está sobre uma antiga estrada/ponte que foi destruída e inutilizada após a Guerra dos Cogumelos .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_de_marceline",
+        "nome": "Caverna de Marceline",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_caverna_de_marceline_curiosidades",
+      "text": "[Lugar: Caverna de Marceline]\nCuriosidades:\n- A ponte antes de entrar na caverna (mostrado na abertura) é muito parecido com a ponte do episódio Simon & Marceline até tem o carro que caiu.\n\n- A ponte no episódio Simon & Marceline está sobre o Rio de Londres que está seco.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_de_marceline",
+        "nome": "Caverna de Marceline",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_caverna_de_marceline_aparicoes",
+      "text": "[Lugar: Caverna de Marceline]\nAparicoes:\n- \" Tema de Abertura \"\n\n- \" Despejados \"\n\n- \" Veio da Noitosfera \"\n\n- \" Vem Comigo \"\n\n- \" Assinatura de Calor \"\n\n- \" Me Lembro de Você \"\n\n- \" Memória de Uma Memória \"\n\n- \" O Que Faltava \"\n\n- \" O Armário da Marceline \"\n\n- \" Simon & Marceline \"",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_de_marceline",
+        "nome": "Caverna de Marceline",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

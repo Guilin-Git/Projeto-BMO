@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_caverna_dos_espelhos",
+  "tipo": "lugar",
+  "nome": "Caverna dos Espelhos",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_caverna_dos_espelhos_descricao",
+      "text": "[Lugar: Caverna dos Espelhos]\nDescricao:\n# Caverna dos Espelhos\n\nA Caverna dos Espelhos é um local que aparece em \" Te Peguei! \". Se alguém atravessar os espelhos vai para uma sala onde aparecem muitas sombras.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_dos_espelhos",
+        "nome": "Caverna dos Espelhos",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_caverna_dos_espelhos_aparencia",
+      "text": "[Lugar: Caverna dos Espelhos]\nAparencia:\nÉ uma caverna comum com espelhos, que traz ilusões do que você deseja, e os reflexos se tornam uma coisa maligna quando se sai dos espelhos.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caverna_dos_espelhos",
+        "nome": "Caverna dos Espelhos",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

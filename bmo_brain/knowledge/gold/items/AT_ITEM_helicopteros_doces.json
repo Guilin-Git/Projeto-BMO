@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_helicopteros_doces",
+  "tipo": "objeto",
+  "nome": "Helicópteros Doces",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_helicopteros_doces_descricao",
+      "text": "[Objeto: Helicópteros Doces]\nDescricao:\n# Helicópteros Doces\n\nOs Helicópteros Doces aparecem em \" Princesa Biscoito \". Eles são usados para transportar oficiais armados da lei do Reino Doce para e de situações hostis.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_helicopteros_doces",
+        "nome": "Helicópteros Doces",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_helicopteros_doces_aparicoes",
+      "text": "[Objeto: Helicópteros Doces]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_helicopteros_doces",
+        "nome": "Helicópteros Doces",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_helicopteros_doces_aparencia",
+      "text": "[Objeto: Helicópteros Doces]\nAparencia:\nHelicópteros doces são principalmente rosa e polvilhados. Eles têm rotores em tandem . Eles também têm faróis e trem de pouso. Como muitos helicópteros de rotor em tandem da vida real, eles são transportas de tropas que podem transportar até três pessoas, incluindo o piloto.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_helicopteros_doces",
+        "nome": "Helicópteros Doces",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

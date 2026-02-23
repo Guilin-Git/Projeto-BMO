@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 20
 nome: "Cidades das Aberrações"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cidades_das_Aberra%C3%A7%C3%B5es"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cidades_das_Aberra%C3%A7%C3%B5es"
 ---
 
 # Cidades das Aberrações
 
 **Temporada 1 — Episódio 20**
+
+## Descrição
+" Cidades das Aberrações " é o 20º episódio da 1ª temporada de Hora de Aventura . É o vigésimo episódio no total.
 
 ## Sinopse
 Depois de um homem mágico transformar Finn em um pé gigante, ele e Jake, com um bando de aberrações semelhantes a partes de corpo, procuram o Mágico para tentar para fazê-los voltar ao normal.
@@ -22,13 +26,62 @@ Enquanto Jake está investigando um mau cheiro ao redor da ponte, uma cabeça ve
 O Mágico, disfarçado novamente como o homem misterioso, aparece mais uma vez pedindo comida. Tudo o que vêem através do seu truque, então ele tira seu disfarce. Eles lutam por pouco tempo, enquanto Finn tenta descobrir a 'lição de vida' que eles deveriam aprender. Depois de conseguir imobilizá-lo para baixo, Finn grita que ele nunca deveria ter dado a ele o cubo de açúcar e que ele é apenas um idiota. O Mágico diz que eles finalmente descobriram a lição, e transforma todos de volta ao normal, e foge em um portal. Todo mundo (além de Finn e Jake) decidem ficar juntos para serem mais fortes. Jake decide que a lição é não dar o seu açúcar para mendigos e, posteriormente, Finn fica com raiva de Jake, por não tentar ajudá-lo a obter o seu corpo de volta. Jake admite para Finn que ele sempre quis ser um pé também, mas Finn diz que ele poderia ser um pé a qualquer hora que ele queria, e que ele viu se transformou em um pé duas vezes ontem. O episódio, então conclui-se com Jake dizendo que é complicado, e que Finn vai entender quando for mais velho.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Mágico
+
 - Gork
+
 - Gorflax
+
 - Kim
+
 - Trudy
+
 - Wee Wee
+
 - Zap
+
+- Monstro de Duas Cabeças
+
+- O Caracol
+
+## Curiosidades
+- No início do episódio, uma nuvem é mostrada que tem a forma de um porco.
+
+- Quando todas as aberrações são transformados de volta para suas formas normais, Trudy substitui o lugar de Finn quando ele sai.
+
+- Finn nunca sorriu como um pé , até inventar o super aberrações.
+
+- O Caracol aparace na ponte na cena em que os moradores da cidade em chamas o jogam de lá.
+
+- Jake diz que sabe quando Finn esta prestes a chorar "como se fosse uma relação mãe e filha".
+
+- Por mais que Finn tenha perguntado qual foi a lição que o mágico quis passar, aparentemente ele apenas era um ser contra a bondade e transformou todos que foram bondosos em aberrações por isso. Finn conclui dizendo que odeia aquele mágico.
+
+- É revelado que Jake sempre quis ser um pé, embora Finn disse que viu Jake se transformar em pé duas vezes, nunca foi mostrado na série.
+
+
+### Conexões Episódio
+
+- Finn canta Auto-Tune novamente neste episódio da canção "Um garoto chamado Finn", que foi ouvido pela primeira vez em "Zig Zag". Finn canta em Auto-Tune novamente durante a cena em que estabelece em depressão.
+
+
+### Referência Culturais
+
+- No inicio do episódio , Finn diz: "Hambone" quebrar!"Hambone é uma forma de dança que envolve batendo o corpo no lugar de instrumentos de ritmo.
+
+
+### Notas de produção
+
+- Esse episódio foi originalmente intitulado "Trabalho em Equipe" e "Bons Amigos".
+
+
+### Erros
+
+- Quando a bunda de Jake infla e ele diz: "Vamos. Chutar a minha bunda."o nariz é branco em vez de preto.

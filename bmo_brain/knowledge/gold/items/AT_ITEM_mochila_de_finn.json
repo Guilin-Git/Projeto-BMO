@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_mochila_de_finn",
+  "tipo": "objeto",
+  "nome": "Mochila de Finn",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_mochila_de_finn_descricao",
+      "text": "[Objeto: Mochila de Finn]\nDescricao:\n# Mochila de Finn",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mochila_de_finn",
+        "nome": "Mochila de Finn",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_mochila_de_finn_aparencia",
+      "text": "[Objeto: Mochila de Finn]\nAparencia:\nÉ uma Mochila com dois tipos de verde,tem um botão preto.É redonda, parece ter um grande espaço, pois Finn carrega nela vários objetos.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mochila_de_finn",
+        "nome": "Mochila de Finn",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_mochila_de_finn_curiosidades",
+      "text": "[Objeto: Mochila de Finn]\nCuriosidades:\n- A mochila de Finn já foi danificada de muitas formas, queimada, rasgada, arranhada, esmagada. Ela também já foi destruida em \" Folia Mortal \". E substituída por uma nova em \" Recuo Mortal \", costurada pelas princesas (Em especial Princesa Trapo).\n\n- A existente uma lista de objetos que Finn guarda na sua mochila,a maioria já dos objetos foi retirados da mochila:Espada,Livro do Herói(Enchiridion),Binóculos,Guarrafa D'água,Casacos,Sementes,Flauta Mágica,O cabelo da princesa jujuba,Escova de dentes,Cachorro quente com queijo,Torta de maçã da Dona Tromba,Tesouros enconstrados no Reino de Terra de Ooo,Um telefone-celular,Dezoito diamantes das masmorras,Treze esmeraldas do Reino de Fogo,Quarenta e duas flechas,Um saco de pó mágico,Um toca-fitas de músicas,Um mini macarrão,Um kit de conserto do BMO,Duas lanternas,Um relógio e um caderno de anotações.Obs:no total desses objetos são 24.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mochila_de_finn",
+        "nome": "Mochila de Finn",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_mochila_de_finn_personagens_levados_dentro_da_mochila",
+      "text": "[Objeto: Mochila de Finn]\nPersonagens_Levados_Dentro_Da_Mochila:\n- Jake\n\n- O Caracol\n\n- Marceline (Em forma de morcego)\n\n- Penny\n\n- Entre outros",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_mochila_de_finn",
+        "nome": "Mochila de Finn",
+        "secao": "personagens_levados_dentro_da_mochila"
+      }
+    }
+  ]
+}

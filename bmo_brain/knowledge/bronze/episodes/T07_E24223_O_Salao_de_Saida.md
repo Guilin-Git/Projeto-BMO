@@ -1,14 +1,28 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 24223
 nome: "O Salão de Saída"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Sal%C3%A3o_de_Sa%C3%ADda"
 data_exibicao: "04/07/16"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Sal%C3%A3o_de_Sa%C3%ADda"
 ---
 
 # O Salão de Saída
 
 **Temporada 7 — Episódio 24223**
+
+## Descrição
+" O Salão de Saída " é um episódio que está sendo produzido para a sétima temporada de Hora de Aventura.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Encurralado e sozinho, Finn deve desvendar o enigma de uma caverna estranha sem saída.
@@ -27,6 +41,30 @@ Finn entra na caverna, com os pés sujos evitando por pouco à pisar em uma plac
 Finn rompe-se para uma corrida. Em sua cabeça, durante isso, ouve-se a voz da Princesa Jujuba, e ela diz "Depressa Finn. No centro da concha encontra-se menor a porta da corno cópia". Finn corre mais rápido e pausas para fora do solo, espalhando destroços do subsolo na face de Jake. Finn salta para Jake e calorosamente o abraça. Ele gira em torno de Jake. Jake ri e diz "Deve ter sido uma caverna e tanto". Finn responde: "Você não faz ideia".
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
+
+### Menores
+
+- BMO
+
+- Princesa de Fogo (mencionada)
+
+- Flambo (mencionado)
+
+- Caracol
+
+## Curiosidades
+- Perto do final do episódio " O Trem Masmorra ", Finn mostra para Jake o futuro em uma esfera, que mostra uma cena deles a lavar os pratos com Finn de olhos fechados, o que provavelmente deve ter sido após o momento que Finn era a forçado a fechar os olhos.
+
+## Conexões de Episódios
+- O trem Masmorra é visto novamente pela primeira vez desde a sua estreia com o episódio titular .
+
+- Jake menciona para Finn menciona o termino dele com a Princesa de Fogo em " Frio e Fogo ".
+
+- A caverna que aparece nesse episódio é a mesma que Finn e Jake pretendiam ir no episódio " O Trem Masmorra "

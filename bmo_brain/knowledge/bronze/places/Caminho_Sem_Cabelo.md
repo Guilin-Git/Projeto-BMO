@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Caminho Sem Cabelo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Caminho_Sem_Cabelo"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Caminho_Sem_Cabelo"
 ---
+
+> Caminho Sem Cabelo é um lugar de Hora de Aventura.
 
 # Caminho Sem Cabelo
 

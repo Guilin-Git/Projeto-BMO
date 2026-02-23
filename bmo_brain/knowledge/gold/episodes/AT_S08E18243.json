@@ -1,0 +1,92 @@
+{
+  "id": "AT_S08E18243",
+  "tipo": "episodio",
+  "nome": "Cavalo e Bola",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S08E18243_meta",
+      "text": "[Episódio: Cavalo e Bola (Temporada 8, Ep 18243)]\nDiretor: -\nRoteiro: Seo Kim\nPersonagens Principais: Finn, Jake, BMO, James Baxter, Shelby, Princesa Trapo",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E18243",
+        "temporada": 8,
+        "numero_ep": 18243,
+        "nome": "Cavalo e Bola",
+        "characters_main": "Finn|Jake|BMO|James Baxter|Shelby|Princesa Trapo",
+        "characters_secondary": "Morcego (flashback)|Cavalos (flashback)|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E18243_sinopse",
+      "text": "[Episódio: Cavalo e Bola (Temporada 8, Ep 18243)]\nSinopse: Quando um desastre ocorre com James Baxter , Finn e Jake se unem para ajudá-lo.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E18243",
+        "temporada": 8,
+        "numero_ep": 18243,
+        "nome": "Cavalo e Bola",
+        "characters_main": "Finn|Jake|BMO|James Baxter|Shelby|Princesa Trapo",
+        "characters_secondary": "Morcego (flashback)|Cavalos (flashback)|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E18243_informacoes",
+      "text": "[Episódio: Cavalo e Bola (Temporada 8, Ep 18243)]\nInformacoes:\n### Temporada\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E18243",
+        "temporada": 8,
+        "numero_ep": 18243,
+        "nome": "Cavalo e Bola",
+        "characters_main": "Finn|Jake|BMO|James Baxter|Shelby|Princesa Trapo",
+        "characters_secondary": "Morcego (flashback)|Cavalos (flashback)|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E18243_creditos",
+      "text": "[Episódio: Cavalo e Bola (Temporada 8, Ep 18243)]\nCreditos:\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E18243",
+        "temporada": 8,
+        "numero_ep": 18243,
+        "nome": "Cavalo e Bola",
+        "characters_main": "Finn|Jake|BMO|James Baxter|Shelby|Princesa Trapo",
+        "characters_secondary": "Morcego (flashback)|Cavalos (flashback)|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E18243_curiosidades",
+      "text": "[Episódio: Cavalo e Bola (Temporada 8, Ep 18243)]\nCuriosidades:\n- James Baxter faz sua segunda aparição importante na série.\n\n- Nesse episódio é revelado que o nome James Baxter surgiu de um jeito errado de falar \"games\" e \"bookstore\".\n\n- É revelado que existe uma cidade de cavalos.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E18243",
+        "temporada": 8,
+        "numero_ep": 18243,
+        "nome": "Cavalo e Bola",
+        "characters_main": "Finn|Jake|BMO|James Baxter|Shelby|Princesa Trapo",
+        "characters_secondary": "Morcego (flashback)|Cavalos (flashback)|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E18243_conexoes_de_episodios",
+      "text": "[Episódio: Cavalo e Bola (Temporada 8, Ep 18243)]\nConexoes_De_Episodios:\n- Ferro-Velho de Terra de Ooo é revisto desde \" Chicletão \".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E18243",
+        "temporada": 8,
+        "numero_ep": 18243,
+        "nome": "Cavalo e Bola",
+        "characters_main": "Finn|Jake|BMO|James Baxter|Shelby|Princesa Trapo",
+        "characters_secondary": "Morcego (flashback)|Cavalos (flashback)|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "AT_PLACE_lendaria_fenda_do_billy",
+  "tipo": "lugar",
+  "nome": "Lendária Fenda do Billy",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_lendaria_fenda_do_billy_descricao",
+      "text": "[Lugar: Lendária Fenda do Billy]\nDescricao:\n# Lendária Fenda do Billy\n\nÉ a Caverna onde o Billy morava, lá é parecido com a Casa na Árvore já que tem muitos tesouros. lá também morava o parceiro de billy",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_lendaria_fenda_do_billy",
+        "nome": "Lendária Fenda do Billy",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_lendaria_fenda_do_billy_como_entrar",
+      "text": "[Lugar: Lendária Fenda do Billy]\nComo_Entrar:\nPara entrar na caverna tem que mexer na espada do Billy que está no chão, quando mexê-lá a porta da caverna aparece.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_lendaria_fenda_do_billy",
+        "nome": "Lendária Fenda do Billy",
+        "secao": "como_entrar"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_lendaria_fenda_do_billy_aparicoes",
+      "text": "[Lugar: Lendária Fenda do Billy]\nAparicoes:\n- \" O Herói Dele \"\n\n- \" O Lich \"\n\n- \" Lista do Que Fazer Antes de Morrer do Billy \"",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_lendaria_fenda_do_billy",
+        "nome": "Lendária Fenda do Billy",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_lendaria_fenda_do_billy_curiosidades",
+      "text": "[Lugar: Lendária Fenda do Billy]\nCuriosidades:\n- Em O Lich a caverna estava aberta, pode ser que o Lich tinha matado e possuído o Billy a pouco tempo.\n\n- Na casa só tem tesouros, o esqueleto do antigo parceiro do Billy e a cama do Billy (que é uma televisão gigante quebrada).\n\n- A TV que Billy usa de cama era menor em O Herói Dele .\n\n- Em \" Lista do Que Fazer Antes de Morrer do Billy \" ela havia sido invadida por fadas.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_lendaria_fenda_do_billy",
+        "nome": "Lendária Fenda do Billy",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 24102
 nome: "Reino de Gunters"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_de_Gunters"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Adam Muto Kent Osborne Pendleton Ward"
 codigo_producao: "1008-102"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_de_Gunters"
 ---
 
 # Reino de Gunters
 
 **Temporada 4 — Episódio 24102**
+
+## Descrição
+" Reino de Gunters " é o 24º episódio da 4ª temporada de Hora de Aventura . É o centésimo segundo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Gunter tenta dominar toda Ooo , junto com o Gatinho rosa enquanto o Rei Gelado não está por perto.
@@ -31,11 +52,52 @@ Finn liga para a Princesa Jujuba dizendo que há um exército de falsos Gunters 
 Finn promete que não vai ficar fora das garrafas, mas como Finn terminou a frase não há mais garrafas, e mostra que as garrafas foram reduzidos a uma pilha de cacos de vidro. Gunter chama seu exército para atacar Finn, Jake e a princesa Jujuba. Finn tenta atacar Gunter, mas Gunter utiliza o olho para fazer seu exército cuspir espadas e ataque. Princesa Jujuba diz que tem um terceiro plano, o que era para fazer garrafas de vidro quebrado (para sempre) . Gunter vem para contar os três que ela vai matar o Guardião Chiclete, se eles não lhe dar quaisquer garrafas. Princesa Jujuba diz a ela para esperar, mas Gunter decide quebrar o Guardião, como Gunter bate no vidro e faz uma rachadura, Rei Gelado, machucado, vem e vê Gunter com seu Olho de Desejo Demoníaco . O Rei então pune Gunter esguichando água para ele. Rei Gelado ordena-lo para devolver o Olho e, como Gunter faz isso, seu exército e desaparece. Finn pergunta porque o Rei Gelado esta danificado, e ele responde que ele entrou em algum clube louco na Cidade dos Magos e não sabe como ele sobreviveu. Ele está prestes a dizer-lhes, mas (lembrando que é um segredo ), apenas diz: "Só magos tolos, aguantam a pressão".
 
 ## Personagens
+
 ### Principais
+
 - Gunter
+
 - Gatinho
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Clones do Gunter
+
 - Rei Gelado
+
+
+### Menores
+
+- Mago da Floresta
+
+- Bufo
+
+- Mago Laser
+
+- Guarda Banana
+
+- Guardiões de Chiclete
+
+- Maga Caçadora
+
+## Curiosidades
+- Gatinho revelou que tem um poder. Ele levita enquanto solta um raio que destrói tudo que está perto dele. Gunter usou isso para destruir a muralha do Reino Doce .
+
+- Neste episódio Rei Gelado mostrou que a senha da cidade dos magos é "magos bolados". Em inglês ele disse "magos mandam".
+
+- No Cartão de Título, podemos ver Jake no balcão.
+
+- Caracol em Reino de Gunters Na cena em que Finn e Jake estão na cama acordando e varios Gunters avançam neles para domina-los e possível ver por um segundo que três dos clones verdes de Gunter mudam de forma e ficam parecidos com o Finn mas isto ocorre em um piscar de olhos.
+
+- No momento em que Gunter abre a geladeira e quebra as garrafas, é possível ver o Caracol dentro da geladeira.
+
+- Quando o Rei Gelado entra na loja de itens mágicos, é possível ver "O Grande Olho" de Sauron do Senhor dos Anéis na mesa atras dos magos que conversam.
+
+## Conexões de Episódio
+- O Olho Demoníaco dos Desejos, de " Quando os Sinos de Casamento Derretem " reaparece nesse episódio.
+
+- O Bufo reaparece desde o episódio " Bruxo ".

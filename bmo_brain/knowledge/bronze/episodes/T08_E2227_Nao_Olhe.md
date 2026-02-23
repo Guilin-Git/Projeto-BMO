@@ -1,16 +1,42 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 2227
 nome: "Não Olhe"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/N%C3%A3o_Olhe"
 data_exibicao: "08/08/2016"
 diretor: "Elizabeth Ito"
 roteiro: "Kent Osborne Jack PendarvisDylan HaggertyAdam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/N%C3%A3o_Olhe"
 ---
 
 # Não Olhe
 
 **Temporada 8 — Episódio 2227**
+
+## Descrição
+"Não Olhe" é o segundo episódio da oitava temporada de Hora de Aventura. É o ducentésimo vigésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Jack PendarvisDylan HaggertyAdam Muto
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake descobrem um tesouro com um preço terrível no topo da Montanha Morta.
@@ -35,7 +61,58 @@ Uma vez em casa, Jake reúne a Princesa Jujuba, Amido, Shelby e Rei Gelado (todo
 Finn então coloca os olhos mágicos no microondas inanimado Neptr, fazendo com que eles cresçam em um verde brilhante. Todos na sala voltam ao normal, até mesmo Neptr, que abre para revelar uma torta com os olhos cozidos neles. Finn declara que Neptr salvou o dia e lidera os outros cantando o nome de Neptr, levando-o para fora. BMO de repente cai do céu e pousa na torta dos olhos, dizendo que acabou de ter o sonho mais maravilhoso.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Neptr
+
+
+### Menores
+
+- Princesa Jujuba
+
+- Rei Gelado
+
+- Starchy
+
+- Shelby
+
+- BMO
+
+- Princesa Tartaruga
+
+- Mordomo Menta
+
+- Caracol
+
+## Curiosidades
+
+### Referências Culturais
+
+- O cartão-de-titúlo é uma homenagem a pintura "All is Vanity." ou "Tudo é Vaidade." de Charles Allen Gilbert's em 1892. A pintura claramente lembra o formato de uma caveira.
+
+- O livro que Finn está segurando no início do episódio é intitulado "The Legend of Dead Mountain". É provável que isso seja uma referência à série de jogos da Nintendo The Legend of Zelda , que tem uma montanha chamada "Montanha da Morte." Eles também carregam escudos de espelho que também é um item muito usado usado no jogo ( The Legend of Zelda).
+
+- A pintura claramente lembra o formato de uma caveira.
+
+- Eles também carregam escudos de espelho que também é um item muito usado usado no jogo ( The Legend of Zelda).
+
+- Depois de se transformar, BMO chama a si mesmo de "menino de verdade", fazendo referência ao conto de fadas Pinóquio.
+
+
+### Sobre o episódio
+
+- A forma de monstro do Finn lembra Martin , talvez essa seja visão que Finn ele tem dele.
+
+- A Princesa Tartaruga tem cabelo loiro novamente depois de tingir de preto em " Meninas de Olhos Vazios (episódio)".
+
+- Rei Gelado vira Simon nesse episódio, porem ainda com a mente do Rei Gelado.
+
+
+### Erros
+
+- Depois de ver o aviso no livro, Finn vira a página para trás em vez de para frente.

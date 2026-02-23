@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 17216
 nome: "Rostinho de Anjo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Rostinho_de_Anjo"
 data_exibicao: "11/01/2016"
 diretor: "Elizabeth Ito"
 roteiro: "Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Rostinho_de_Anjo"
 ---
 
 # Rostinho de Anjo
 
 **Temporada 7 — Episódio 17216**
+
+## Descrição
+" Rostinho de Anjo " é o 17º episódio da 7ª temporada de Hora de Aventura . É o ducentésimo décimo sexto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 BMO convence seus amigos para jogarem um jogo de roleplay de Cowboy.
@@ -35,7 +56,36 @@ Jake aparece e pergunta se Finn está bem, o que surpreende Me-Mow, que se sente
 No masmorra doce, Me-Mow é colocado em uma cela normal, mas é dada uma célula caso atualizado pendurado livre-claro em uma prisão mais segura. Me-Mow grita vingança quandos eles saiem de lá. Finn pergunta para BMO se ele tirou todos os cartazes, apenas como um cidadão doces se aproxima dele para capturá-lo. BMO assusta-lo, afirmando que já o capturou.
 
 ## Personagens
+
 ### Principais
+
 - BMO
+
 - Jake
+
 - Me-Mow
+
+
+### Menores
+
+- Finn
+
+- Neptr
+
+- Sr. Raposo
+
+- Homem Cacto
+
+- Porcos
+
+- Caracol
+
+## Curiosidades
+- Me-Mow cresceu drasticamente desde sua última aparição em " Jake vs. Me-Mow ".
+
+- Enquanto Jake e BMO caminham pelo deserto, é possivel ver o braço da Estátua da Liberdade (segurando uma tocha) saindo de debaixo da areia. Isso mostra que aquela região provavelmente (ou não) era a cidade de Nova York.
+
+## Conexões de Episódios
+- Me-Mow reaparece desde " Jake vs. Me-Mow ".
+
+- O Bolinho do Finn, anteriormente visto em " Seguindo Seus Passos " e " The Mountain ", fazem outra aparição.

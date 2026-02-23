@@ -1,0 +1,58 @@
+{
+  "id": "AT_PLACE_mo_company",
+  "tipo": "lugar",
+  "nome": "MO Company",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_mo_company_descricao",
+      "text": "[Lugar: MO Company]\nDescricao:\n# MO Company\n\nA MO Company é uma fábrica humana construída antes da Guerra dos Cogumelos por Moseph \"Moe\" Mastro Giovanni e onde todos os MOs foram criados, incluindo BMO .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_mo_company",
+        "nome": "MO Company",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_mo_company_informacoes",
+      "text": "[Lugar: MO Company]\nInformacoes:\n### Localização\n\n### Dono\n\n### Tipo\n\n### Residentes\n\n### Estado Atual",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_mo_company",
+        "nome": "MO Company",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_mo_company_detalhes",
+      "text": "[Lugar: MO Company]\nDetalhes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_mo_company",
+        "nome": "MO Company",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_mo_company_transporte",
+      "text": "[Lugar: MO Company]\nTransporte:\nOs trilhos eléctricos são o principal modo de transporte ao redor da instalação. Eles são fixados aos carros ferroviários que podem ser operados por MOs. Há trilhos em diversos pontos entrelaçados entre si e laço de formas estranhas, por razões desconhecidas.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_mo_company",
+        "nome": "MO Company",
+        "secao": "transporte"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_mo_company_habitacao_de_mos",
+      "text": "[Lugar: MO Company]\nHabitacao_De_Mos:\nMOs parecem viver em uma cidade tubular gigante, muito abaixo da superfície da fábrica aparentemente arruinado. Moe também reside aqui. Uma grande variedade de MOs são vistos aqui, como DMO , QMOs, OVM, OMA e ♥MO . Moe que os distingue dos \"valentões\" da superfície (tais como os seguranças SMOs ), o que implica que eles são mais amigáveis.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_mo_company",
+        "nome": "MO Company",
+        "secao": "habitacao_de_mos"
+      }
+    }
+  ]
+}

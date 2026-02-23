@@ -1,0 +1,86 @@
+{
+  "id": "AT_S08E17242",
+  "tipo": "episodio",
+  "nome": "Grande Estranheza",
+  "total_chunks": 6,
+  "chunks": [
+    {
+      "chunk_id": "AT_S08E17242_meta",
+      "text": "[Episódio: Grande Estranheza (Temporada 8, Ep 17242)]\nDiretor: -\nRoteiro: Pendleton Ward",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E17242",
+        "temporada": 8,
+        "numero_ep": 17242,
+        "nome": "Grande Estranheza",
+        "characters_secondary": "Finn|Jake|BMO|Dona Tromba|Sr. Porco|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E17242_sinopse",
+      "text": "[Episódio: Grande Estranheza (Temporada 8, Ep 17242)]\nSinopse: Um encontro de outro mundo coloca a Dona Tromba numa trilha que leva a uma conspiração no Reino Doce .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E17242",
+        "temporada": 8,
+        "numero_ep": 17242,
+        "nome": "Grande Estranheza",
+        "characters_secondary": "Finn|Jake|BMO|Dona Tromba|Sr. Porco|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E17242_informacoes",
+      "text": "[Episódio: Grande Estranheza (Temporada 8, Ep 17242)]\nInformacoes:\n### Temporada\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E17242",
+        "temporada": 8,
+        "numero_ep": 17242,
+        "nome": "Grande Estranheza",
+        "characters_secondary": "Finn|Jake|BMO|Dona Tromba|Sr. Porco|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E17242_creditos",
+      "text": "[Episódio: Grande Estranheza (Temporada 8, Ep 17242)]\nCreditos:\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E17242",
+        "temporada": 8,
+        "numero_ep": 17242,
+        "nome": "Grande Estranheza",
+        "characters_secondary": "Finn|Jake|BMO|Dona Tromba|Sr. Porco|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E17242_curiosidades",
+      "text": "[Episódio: Grande Estranheza (Temporada 8, Ep 17242)]\nCuriosidades:\n- Curiosamente, cada um dos foguetes da Princesa Jujuba tem um estilo diferente de \"vestuário\", representando as diferentes roupas que ela usou ao longo da série.\n\n- Há um gráfico populacional no quadro-negro da Princesa Jujuba que parece mostrar uma população. A enorme queda na população em torno do século 21 é provavelmente o resultado da guerra dos cogumelos.\n\n- Este é o terceiro (e último) episódio em que Finn e Jake não têm nenhum diálogo quandos que eles aparecem, sendo a primeira vez \" Sky Witch \", e o segundo sendo \" Sad Face \".\n\n- É mostrado que Dona Tromba tem uma pintura de Finn pendurada em seu quarto.\n\n- Confirma-se que Dona Tromba possui vários relacionamentos ao mesmo tempo, sendo casada ​​duas vezes, o que poderia implicar que esse personagem é poliamoroso.\n\n- Os alienígenas que visitam Dona Tromba são a representação mais comum de alienígenas na cultura pop, com pele cinza, grandes olhos negros e cabeças grandes.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E17242",
+        "temporada": 8,
+        "numero_ep": 17242,
+        "nome": "Grande Estranheza",
+        "characters_secondary": "Finn|Jake|BMO|Dona Tromba|Sr. Porco|Caracol",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S08E17242_conexoes_de_episodios",
+      "text": "[Episódio: Grande Estranheza (Temporada 8, Ep 17242)]\nConexoes_De_Episodios:\n- Os docinhos dos foguetes podem ser as pequenas criaturas que a Princesa Jujuba estava trabalhando em \" O Lich \".\n\n- No episódio \" Casamento de Maçã \", quando Dona Tromba e os convidados do casamento são mandados para a masmorra pela Princesa Jujuba , ondas telepáticas se projetam na cabeça de Dona Tromba e seus olhos se dilatam quando ela anuncia: \"O cemitério dos elefantes está me chamando agora. Ok, segure seus cavalos, eu estou indo.\" Isso pode ter sido os alienígenas se comunicando com Dona Tromba . Isso seria irônico, considerando que um dos alienígenas é seu \"marido\" e ela se casa com uma pessoa diferente naquela noite.\n\n- Dona Tromba confessa à Princesa Jujuba que elas nunca serão amigas, mas que ela irá ajudá-la em seu dever de estabelecer um novo reino de doces em planetas habitados. Essa hostilidade pode ser por causa dos eventos ocorridos durante \" Casamento de Maçã \"",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S08E17242",
+        "temporada": 8,
+        "numero_ep": 17242,
+        "nome": "Grande Estranheza",
+        "characters_secondary": "Finn|Jake|BMO|Dona Tromba|Sr. Porco|Caracol",
+        "secao": "conexoes_de_episodios"
+      }
+    }
+  ]
+}

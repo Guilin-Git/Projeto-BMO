@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_robo_dos_executivos",
+  "tipo": "objeto",
+  "nome": "Robô dos Executivos",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_robo_dos_executivos_descricao",
+      "text": "[Objeto: Robô dos Executivos]\nDescricao:\n# Robô dos Executivos",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_robo_dos_executivos",
+        "nome": "Robô dos Executivos",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_robo_dos_executivos_aparicoes",
+      "text": "[Objeto: Robô dos Executivos]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_robo_dos_executivos",
+        "nome": "Robô dos Executivos",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_robo_dos_executivos_aparencia",
+      "text": "[Objeto: Robô dos Executivos]\nAparencia:\nTem um chapéu igual o de Finn com um \"rosto\" onde pode se ver os controladores, tem uma espécie de mochila atrás de suas costas. Usa uma camisa azul com um tubo que suga pessoas para uma bola transparente onde elas ficam. Tem três pernas robóticos.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_robo_dos_executivos",
+        "nome": "Robô dos Executivos",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_robo_dos_executivos_sobre",
+      "text": "[Objeto: Robô dos Executivos]\nSobre:\nOs Executivos usaram para proteger o Povo Felpudo, guardando dentro de sua bola transparente. Foi destruido por Jake após aumentar seu tamanho dentro dele até fazê-lo explodir.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_robo_dos_executivos",
+        "nome": "Robô dos Executivos",
+        "secao": "sobre"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_robo_dos_executivos_curiosidades",
+      "text": "[Objeto: Robô dos Executivos]\nCuriosidades:\n- O robô é semelhante a Finn .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_robo_dos_executivos",
+        "nome": "Robô dos Executivos",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

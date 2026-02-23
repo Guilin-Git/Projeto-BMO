@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Caverna Subterrânea"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_Subterr%C3%A2nea"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_Subterr%C3%A2nea"
 ---
+
+> Caverna Subterrânea é um lugar de Hora de Aventura.
 
 # Caverna Subterrânea
 

@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_cabana_de_gumbald",
+  "tipo": "lugar",
+  "nome": "Cabana de Gumbald",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_cabana_de_gumbald_descricao",
+      "text": "[Lugar: Cabana de Gumbald]\nDescricao:\n# Cabana de Gumbald\n\nA Cabana de Gumbald é uma pequena casa construída por Gumbald as margens do Lago Caramelo .\n\nApós ser deposta do trono, Princesa Jujuba e Mordomo Menta se mudam para a cabana e começam a renová-la. Eles vivem no lugar até ele ser destruído em \" A Nuvem Negra \", onde a princesa recuperou sua posição como governante do Reino Doce .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_cabana_de_gumbald",
+        "nome": "Cabana de Gumbald",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

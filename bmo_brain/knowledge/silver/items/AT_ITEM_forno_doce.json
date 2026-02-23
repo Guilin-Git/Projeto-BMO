@@ -1,0 +1,10 @@
+{
+  "id": "AT_ITEM_forno_doce",
+  "tipo": "objeto",
+  "nome": "Forno Doce",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Forno_Doce",
+  "sections": {
+    "descricao": "# Forno Doce\n\nForno Doce é um antigo forno mágico apagado há anos e reativado pelo principe de fogo. foi usado por Principe Chiclete pra forjar a Espada Especial ."
+  },
+  "source_file": "Forno_Doce.md"
+}

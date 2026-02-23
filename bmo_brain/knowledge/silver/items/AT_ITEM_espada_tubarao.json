@@ -1,0 +1,13 @@
+{
+  "id": "AT_ITEM_espada_tubarao",
+  "tipo": "objeto",
+  "nome": "Espada Tubarão",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Tubar%C3%A3o",
+  "sections": {
+    "descricao": "# Espada Tubarão",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "É uma espada com a forma de um Tubarão Marrom.",
+    "curiosidades": "- É o primeiro ataque que se libera no jogo Quebre a Minhoca .\n\n- Seu cabo é semelhante á da espada que aparece entrelaçando-se na palavra \"Adventure Time\" na abertura da serie"
+  },
+  "source_file": "Espada_Tubarao.md"
+}

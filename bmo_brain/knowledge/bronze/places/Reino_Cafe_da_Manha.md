@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Reino Café da Manhã"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_Caf%C3%A9_da_Manh%C3%A3"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Reino_Caf%C3%A9_da_Manh%C3%A3"
 ---
+
+> Reino Café da Manhã é um lugar de Hora de Aventura.
 
 # Reino Café da Manhã
 
@@ -17,3 +19,12 @@ Esse reino parece que era um lugar de escavação. Se você notar no episódio "
 O Reino Café da Manhã tem uma sala com mesas de ovos com café e biscoitos em cima. Nessa mesma sala se encontram mesas de ovos e cadeiras de torradas. Também se encontra um telão e um palco de panqueca. O quarto da Princesa Café da Manhã tem sua cama, um retrato de uma galinha, um closet, uma comoda verde e o piso branco e rosa.
 
 Lá também há um spa, como visto em " Consertamos um Caminhão ".
+
+## Curiosidades
+- No episódio "O Dia da Princesa" mostra que os guardas do Reino Café da Manhã são garrafas de melado. Assim como os guardas bananas do Reino Doce.
+
+- Esse reino fica no meio do deserto. Porém isso não é problema para a Princesa Café da Manhã por ela ter um carro como visto em "O Dia da Princesa".
+
+- Seu castelo parece ser bem maior do que antes, tendo diversas salas e sendo bem alto em "O Dia da Princesa".
+
+- O Reino foi sede do Dia das Princesas

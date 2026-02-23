@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Caminho Do Fedor"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Caminho_Do_Fedor"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Caminho_Do_Fedor"
 ---
+
+> Caminho Do Fedor é um lugar de Hora de Aventura.
 
 # Caminho Do Fedor
 

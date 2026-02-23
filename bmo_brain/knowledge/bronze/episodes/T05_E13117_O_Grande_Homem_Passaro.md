@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 13117
 nome: "O Grande Homem Pássaro"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Grande_Homem_P%C3%A1ssaro"
 data_exibicao: "09/09/2013"
 diretor: "Nate Cash Nick Jennings"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward Jesse Moynihan"
 codigo_producao: "1014-117"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Grande_Homem_P%C3%A1ssaro"
 ---
 
 # O Grande Homem Pássaro
 
 **Temporada 5 — Episódio 13117**
+
+## Descrição
+" O Grande Homem Pássaro " é o 13º episódio da 5ª temporada de Hora de Aventura . É o 117º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake saem em busca do Homem Pássaro. Depois que ele os encontra, descobrem que ele é Xergiok , o rei dos goblins que sofreu umas mudanças.
@@ -34,15 +61,51 @@ Xergiok transfere a perna ferida na perna de Jake que ele possa ter a capacidade
 Do alto do castelo, os dois goblins assistem Xergiok afundar na água em tristeza, mas, eventualmente, tornar-se feliz, jogando na água. Lá, o ex-Rei encontra uma sereia e exclama que ela é sua namorada a partir de agora, para a surpresa de Finn e Jake.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Xergiok (Grande Homem Pássaro)
+
 - Pássaros Grandes
 
+
 ### Secundários
+
 - Goblins
+
 - Princesa Jujuba
+
 - Sereias
+
 - Sussurro (mencionado)
+
 - Descol-Irís (mencionada)
+
+## Música
+- " Poder Verdadeiro "
+
+## Curiosidades
+- Xergiok faz sua segunda aparição, e ele tem uma voz diferente e esta mais fraco e velho e está como ele diz mais bacana.
+
+- No titlecard do episódio é mostrado o mago que "supostamente" teria roubado os olhos de Xergiok.
+
+- Foi revelado que Jake tinha uma "ex-namorada" antes da Lady Íris que lhe ensinou a ler em Braille.
+
+- Jake afirmou ter sido um ano e pouco desde o seu primeiro encontro com Xergiok, embora o episódio foi ao ar mais perto de cerca de 2 anos depois de " O Rei Silêncioso ". Isto é provavelmente porque os episódios são produzidos um ano antes da data de exibição.
+
+- Finn joga o Holo-Medalhão longe que nem ele fez em " As Outras Tortas ".
+
+## Referência Cultural
+- A ideia de pássaros gigantes resgatando pessoas em perigo é uma vaga referência as águias salvando Bilbo, Gandalf e sua trupe de anões em " O Hobbit: Uma Jornada Inesperada", e do resgate de Frodo e Sam em Mordor.
+
+## Erros
+- No final do episódio Finn devolve os olhos de Xergiok à sua barba, mas nas cenas seguintes os olhos não estão lá.
+
+- Quando Caramelo troca de perna com Xergiok ele se mostra só andar e conseguir se segurar com uma perna mas quando eles chegam no Reino Goblin ele se segura perfeitamente com as duas pernas mas na sua próxima cena ele só se segura com uma perna igual na caverna.
+
+## Censura
+- A cena em que Xergiok fala sobre como era antigamente com uma memória dele batendo no bumbum de um goblin foi cortada no Brasil.

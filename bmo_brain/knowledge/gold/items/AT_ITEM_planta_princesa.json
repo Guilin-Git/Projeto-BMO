@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_planta_princesa",
+  "tipo": "objeto",
+  "nome": "Planta Princesa",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_planta_princesa_descricao",
+      "text": "[Objeto: Planta Princesa]\nDescricao:\n# Planta Princesa\n\nA Planta Princesa é um tipo de planta visto no episódio \" Morte em Botão \". Assemelha-se a um lírio branco, exceto que ele tem uma pétala ao redor da flor. Quando Princesa Jujuba atribui ao Finn e Jake cuidar dela, eles acidentalmente matam a planta, alimentando-a com pizza e refrigerantes, ao invés de água pura. Também puxando-o para fora do vaso e, acidentalmente, queimando-a. Eles tiveram que ir para a Terra dos Mortos para recuperar sua alma da Morte . Quando a princesa Jujuba come o bulbo de flor, ela muda o penteado de ser, em linha reta e na altura do joelho, para um curto e ondulado.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_planta_princesa",
+        "nome": "Planta Princesa",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_planta_princesa_aparencia",
+      "text": "[Objeto: Planta Princesa]\nAparencia:\nPlanta Princesa é uma planta regular com flores semelhantes a um lírio, com pétalas brancas, um estigma de laranja, e um caule verde, e é um pequeno pote verde com um ziguezague amarelo e alças.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_planta_princesa",
+        "nome": "Planta Princesa",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_planta_princesa_curiosidades",
+      "text": "[Objeto: Planta Princesa]\nCuriosidades:\n- Foi revelado pelo storyboard de \" Morte em Botão \", que planta princesa foi originalmente chamado de \" Halo Lily \" ( Lírio Resplandecente ).",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_planta_princesa",
+        "nome": "Planta Princesa",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Faculdade de Minhocas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Faculdade_de_Minhocas"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Faculdade_de_Minhocas"
 ---
+
+> Faculdade de Minhocas é um lugar de Hora de Aventura.
 
 # Faculdade de Minhocas
 
@@ -11,3 +13,6 @@ A Faculdade de Minhocas é uma Faculdade feita para Minhocas, alojada dentro uma
 
 ## Aparência
 O colégio parece uma sala de aula pequena. A lousa do professor é uma folha de papel colada na parede e as carteiras dos estudantes são esculpidas na maçã. O "pódio" do professor é a ponta de borracha de um lápis. A mesa do professor é um dado. Sementes de maçã podem ser vistas no teto da sala de aula e tambem é possivel ver alguns ¨estantes¨ com livros nelas.
+
+## Curiosidades
+- No Calendário na parede está escrito "Avril", que é Abril, em francês.

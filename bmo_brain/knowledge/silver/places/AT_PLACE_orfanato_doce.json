@@ -1,0 +1,11 @@
+{
+  "id": "AT_PLACE_orfanato_doce",
+  "tipo": "lugar",
+  "nome": "Orfanato Doce",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Orfanato_Doce",
+  "sections": {
+    "descricao": "# Orfanato Doce\n\nO Orfanato dos Doces é o orfanato em que o Bebelício morava quando ele era criança junto com outras cianças doces.",
+    "curiosidades": "- Não se sabe como ele é por fora.\n\n- Pode se ver uma criança parecida com o Mordomo Menta , não si sabe que era ele como criança."
+  },
+  "source_file": "Orfanato_Doce.md"
+}

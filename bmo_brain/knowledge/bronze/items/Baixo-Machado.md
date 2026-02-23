@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Baixo-Machado"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Baixo-Machado"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Baixo-Machado"
 ---
+
+> Baixo-Machado é um objeto/item de Hora de Aventura.
 
 # Baixo-Machado
 
@@ -16,8 +18,34 @@ Em " Obsidian ", Marceline o usa enquanto canta " Acordei ", no passado e no pre
 ## Aparência
 Ele é um totalmente vermelho (exceto em " Criado ", onde as bordas são prata) machado de batalha de dupla face. O estoque de cabeça foi mais provavelmente adicionado por Marceline, juntamente com as cabeças de máquina, dois de cada lado. Os captadores, também adicionados por Marceline, parecem ser as bobinas únicas de fabricação desconhecida. O corpo tem apenas dois botões (para volume e tom).
 
+## Músicas tocadas no baixo
+- " Música dos Pescadores "
+
+- " Cadê Minhas Batatinhas "
+
+- " Sou Seu Problema "
+
+- " Minhas Melhores Amigas Deste Mundo "
+
+- " Lembrar de Você "
+
+- " Tudo Permanece "
+
+- " According to Our New Arrival "
+
+- " Francis Forever "
+
+- " Dançar Lento "
+
+- " Música da Escova "
+
+- " Acordei "
+
 ## Curiosidades
 - Em " Criado ", as extremidades de lâminas eram de prata; no entanto, em " Veio da Noitosfera ", eles estavam vermelhos.
+
 - Em "Veio da Noitosfera" o baixo-machado é referido como tanto um baixo e uma guitarra.
+
 - De alguma forma, o Baixo-Machado pode ser claramente ouvido quando Marceline canta a " Cadê Minhas Batatinhas " mesmo que não esteja conectado a um amplificador. Isso também pode ser observado em episódios posteriores, incluindo " O Que Faltava ". Isso é mais provável que o baixo seja encantado.
+
 - Além do Baixo-Machado, Marceline já tocou outros três instrumentos, sendo os outros três em " Despejados! ", " Assinatura de Calor " e " Mais Outras Cinco Historinhas "

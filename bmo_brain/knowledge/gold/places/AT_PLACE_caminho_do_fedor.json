@@ -1,0 +1,18 @@
+{
+  "id": "AT_PLACE_caminho_do_fedor",
+  "tipo": "lugar",
+  "nome": "Caminho Do Fedor",
+  "total_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_caminho_do_fedor_descricao",
+      "text": "[Lugar: Caminho Do Fedor]\nDescricao:\n# Caminho Do Fedor\n\nCaminho do Fedor é um caminho que amaldiçoa o viajante a cheirar mal para sempre. O Toco o descreve como ''Ou o caminho da direita o Caminho do Fedor, tu vai feder pra sempre!'' Assim como o outro caminho , não é explorada através; apenas a sua entrada é vista. O Toco sugere que Finn escolha ele dizendo \"Escuta só mane! O Caminho do Fedor não é tão ruim .\"",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_caminho_do_fedor",
+        "nome": "Caminho Do Fedor",
+        "secao": "descricao"
+      }
+    }
+  ]
+}

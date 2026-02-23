@@ -5,8 +5,10 @@ tipo_objeto: "Item Mágico de Desejo"
 dono: "Rei Gelado"
 primeira_aparicao: "", Quando os Sinos de Casamento Derretem, ""
 ultima_aparicao: "", Blenanas, ""
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Olho_de_Desejo_Demon%C3%ADaco"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Olho_de_Desejo_Demon%C3%ADaco"
 ---
+
+> Olho de Desejo Demoníaco é um objeto/item de Hora de Aventura.
 
 # Olho de Desejo Demoníaco
 
@@ -17,9 +19,21 @@ Em " Reino de Gunters ", Gunter usou o olho para criar clones dele, de forma que
 
 Mais tarde em "Blenanas", Rei Gelado usa ele para chegar junto com Finn até a sede das revistas Ble.
 
+## Aparições
+
+### Primeira Aparição
+
+
+### Última Aparição
+
 ## Aparência
 Ele é um amuleto, todo feito de ouro. Ele tem uma corrente de ouro. O amuleto grudado na corrente é redondo e dentro tem um olho verde. Quando quem usa ele deseja algo, o amuleto brilha.
 
 ## Curiosidades
 - Um desses pode ser comprado na Cidade dos Magos .
+
 - Ele tem aparência diferente em " Quando os Sinos de Casamento Derretem " e " Reino de Gunters ".
+
+- É todo feito de Ouro.
+
+- Consome um pouco da sua alma a cada vez usado

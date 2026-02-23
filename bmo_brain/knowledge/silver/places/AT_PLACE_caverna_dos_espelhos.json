@@ -1,0 +1,11 @@
+{
+  "id": "AT_PLACE_caverna_dos_espelhos",
+  "tipo": "lugar",
+  "nome": "Caverna dos Espelhos",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Caverna_dos_Espelhos",
+  "sections": {
+    "descricao": "# Caverna dos Espelhos\n\nA Caverna dos Espelhos é um local que aparece em \" Te Peguei! \". Se alguém atravessar os espelhos vai para uma sala onde aparecem muitas sombras.",
+    "aparencia": "É uma caverna comum com espelhos, que traz ilusões do que você deseja, e os reflexos se tornam uma coisa maligna quando se sai dos espelhos."
+  },
+  "source_file": "Caverna_dos_Espelhos.md"
+}

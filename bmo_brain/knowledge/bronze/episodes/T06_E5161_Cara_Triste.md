@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 5161
 nome: "Cara Triste"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cara_Triste"
 data_exibicao: "12/05/2014"
 diretor: "Adam Muto (supervisor) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cara_Triste"
 ---
 
 # Cara Triste
 
 **Temporada 6 — Episódio 5161**
+
+## Descrição
+" Cara Triste " é o 5
+º episódio da 6
+ª temporada de Hora de Aventura . É o 161º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Uma vez por mês, enquanto Jake está dormindo, sua cauda se estende para fora da casa na árvore para ir trabalhar como palhaço em um circo de insetos.
@@ -35,7 +58,72 @@ Ele então começa a mudar a sua música para mais tipo de hip hop, mas o toca-d
 São escapou do circo, mas devido ao fato de que Nariz Triste é rabo de Jake e estava apenas se esticando, suas trilhas ainda estavam no circo, e por isso o Ringmaster puxa-lo de volta. Ele começa a esbofeteá-lo e uma das formigas que estava batendo-lhe colocar as mãos sobre a boca, o que muda a expressão de triste para feliz. Eles lhe perguntam por que ele está feliz, mas ele apenas espera e, assim que o primeiro raio de luz solar atinge a ele, ele começa a desfazer todo o seu alongamento, e, finalmente, chega até Jake, que acorda com um estalo. Finn percebe Jake e não diz nada que ele não saiba, mas o episódio termina com Neptr e BMO rindo.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Nariz Triste/Calda de Jake
+
 - Ringmaster
+
 - Goralina
+
+
+### Menores:
+
+- Finn
+
+- BMO
+
+- Neptr
+
+- Caracol
+
+- Formigas
+
+## Curiosidades
+- Parece que a voz de Neptr mudou nesse episódio. Não se sabe se o personagem tem um substituto de voz ou se a voz utilizada era antes a de Andy Milonakis foi colocada através do filtro.
+
+- Esse episódio teve alguns efeitos sonoros especiais.
+
+- É revelado que a Calda de Jake guarda algumas de suas coisas no sofá.
+
+- O Caracol neste episodio tem um papel maior que o normal, ele é um dos trabalhadores do circo e pula dando mortais e caindo num balde d'água.
+
+- Nem Finn nem Jake falam nada durante todo o episódio. É a primeira vez que Finn não fala em um episódio. É a quarta vez que Jake não fala. As outras foram em " Veio da Noitosfera ", Fionna e Cake e " O Pretendente ".
+
+- É revelado que Finn bebe café, ou algo parecido com café como bebida de manhã.
+
+- A partir desse episódio as esteiras de Neptr mudam para o lado de seu rosto.
+
+- Quando o show começa e possível ver na plateia alguém bebendo leite de inseto.
+
+- Este foi o último episódio a ser exibido em uma segunda-feira nos EUA, antes da troca para as quintas-feiras.
+
+- É a primeira vez que Finn não fala em um episódio.
+
+- É a quarta vez que Jake não fala. As outras foram em " Veio da Noitosfera ", Fionna e Cake e " O Pretendente ".
+
+## Referências Culturais
+- A cena em que Goralina é exibida em meio ao palco é uma possível referência a clássica cena do filme King Kong sendo exibido no teatro.
+
+- O circo de insetos é uma referência à Vida de Inseto da Pixar.
+
+- Nariz Triste retrata a Experiência Kuleshov . Técnica essa utilizada por muitos atores e diretores de cinema como Buster Keaton, Hithcock e outros. O efeito Kuleshov consiste em uma edição de vídeo demonstrando um rosto sem expressões intercalado a imagens que atribuam significado ao espectador.
+
+- O semblante sempre triste de Nariz Triste, é uma referência ao clássico humorista americano Buster Keaton . Keaton ficou conhecido como O homem que nunca ri . Keaton percebeu que ao não modificar sua expressão, o espectador projetaria suas aspirações sentimentais, sensoriais e morais.
+
+## Erros
+- Nos previews, a voz de Neptr não foi executada através do filtro auto-tune.
+
+- As esteiras de Neptr estão viradas para o lado de seu rosto.
+
+- Nesse episódio Jake não parece ter um limite para se esticar como em " O Limite ".
+
+## Censura
+- É censurado quando um dos Insetos da platéia joga uma caixa de Leite de Inseto e acerta o Olho da Goralina que fica roxo.
+
+- É censurado Também quando Nariz Triste faz uma dança com uma forma que se parece com um bumbum.
+
+- É censurado quando o esquilo "come" a plateia formiga.
+
+- Houve censura quando Jake lambe a tinta de sua cauda.

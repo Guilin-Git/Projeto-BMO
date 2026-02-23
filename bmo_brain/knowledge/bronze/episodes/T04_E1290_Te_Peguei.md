@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 1290
 nome: "Te Peguei!"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Te_Peguei!"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-090"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Te_Peguei!"
 ---
 
 # Te Peguei!
 
 **Temporada 4 — Episódio 1290**
+
+## Descrição
+" Te Peguei! " é o 12º episódio da 4ª temporada de Hora de Aventura . É o nonagésimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Princesa Caroço decide escrever um livro sobre a suposta paixão que Finn tem por ela.
@@ -27,8 +48,55 @@ Dentro da caverna, eles encontram um portal. Finn e Jake estão focados no porta
 Mais tarde, quando o trio está na Casa na Árvore , Princesa Caroço percebe Finn sentado sozinho do lado de fora. Ela pergunta ao Jake que ele está fazendo lá fora, e ele diz que Finn gosta de ir lá fora depois de uma aventura. Princesa Caroço então entende sobre os caroços no interior e percebe que Finn é o belo um com seus "caroços por dentro". Inspirada , ela chama Princesa Tartaruga para lhe dizer que seu livro será concluído em breve. Quando terminou, ela apresenta o manuscrito a Tartaruga. Apesar de não ser o que ela esperava, Princesa Tartaruga adora e decide publicar e qualificá-la " Eu escrevi um livro ". Caroço retorna casa na árvore vestindo um saco de papel marrom e revela para Finn e Jake que ela foi lá só para fazer a pesquisa sobre o seu livro. Gritando que Finn é "quente", Princesa voa em direção à janela em uma corrida. Jake grita atrás dela, que está usando saco de lixo como roupa. Enquanto flutuando para fora da janela para trás, Princesa Caroço responde: " Te peguei!" mais uma vez, dizendo que o título do episódio.
 
 ## Personagens
+
 ### Principais
+
 - Princesa Caroço
 
+- Princesa Tartaruga
+
+- Jake
+
+- Finn
+
+
 ### Secundários
+
 - BMO
+
+- Finns do Espelho
+
+- Gunter
+
+- Pinguins
+
+- Caracol
+
+- Ricardio (numa foto)
+
+## Curiosidades
+- Se revela que Finn sempre depois de uma aventura senta para pensar.
+
+- É revelado que a Princesa Caroço usa uma sacola do Squeez-E-Mart como roupa às vezes.
+
+- Este é um dos episódios com mais referências sexuais, junto com " Jogos de Amor " , " Todos os Baixinhos " e " Péssima Hora "
+
+- Princesa Caroço ainda pode ter uma queda por Finn , mostrada por interações de Finn com a princesa ao longo do dia.
+
+- Na mesa da Princesa Caroço há uma pasta com uma imagem do Ricardio nela.
+
+- Princesa Caroço e a Princesa Tartaruga repetem a frase "Oi, miga" frequentemente durante o episódio, o que pode mostrar que elas têm uma grande amizade.
+
+## Erros
+- Quando Finn está sentado do lado de fora, a flor perto dele é amarela. Mas quando ele corre de volta para dentro, a flor é vermelha.​​
+
+- Depois que a Princesa Caroço joga uma torta de frutas no Billy Urubu, a torta azul que ela estava segurando na mão direita desaparece.
+
+- No texto do livro da "Princesa Caroço", uma instância do nome "Finn" está escrita como "Fin".
+
+- Quando a Princesa Tartaruga está de pé à frente de um registro ao lado da árvore onde a Princesa Caroço usa para manter as suas coisas , o logo está em um lugar diferente quando veem o Finn.
+
+- No inicio do episódio, a tabela da Caroço usa está em ângulo obtuso, mas quando o episódio avança, ele fica em um ângulo reto.
+
+## Censura
+- É censurado quando o Finn do Espelho tira a camisa, mas antigamente não era censurado.

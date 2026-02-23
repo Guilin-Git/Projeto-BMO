@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 2
 nome: "Problemas na Terra do Caroço"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Problemas_na_Terra_do_Caro%C3%A7o"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Problemas_na_Terra_do_Caro%C3%A7o"
 ---
 
 # Problemas na Terra do Caroço
 
 **Temporada 1 — Episódio 2**
+
+## Descrição
+" Problemas na Terra do Caroço " é o 2º episódio da 1ª temporada de Hora de Aventura . É o segundo episódio no total.
 
 ## Sinopse
 Após a Princesa Caroço morder Jake ele começa a ficar encaroçado. Finn viaja a Terra do Caroço para encontrar uma cura.
@@ -24,7 +28,59 @@ Os guardiões do antídoto o dão a Finn, que pede para encaroçarem ele para po
 Jake pede a bola, mas Finn não dá e eles começam a discutir, Finn joga a bola e Jake senta acidentalmente. Jake consegue voltar ao normal, ao cair Finn volta ao normal quando acorda. No final, eles também dançam a última música do baile com Princesa Caroço.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Caroço
+
+
+### Menores
+
+- Princesa Jujuba
+
+- Melissa
+
+- Brad
+
+- Rei Caroço e Rainha Caroço
+
+- Lenny
+
+- Monty
+
+- Glasses
+
+- Sapo
+
+- Princesa Cachorro Quente
+
+- Encaroçados
+
+## Curiosidades
+- A senha para entrar na Terra do Caroço é "TANTO FAZ 2009!".
+
+- Devido a alguns diálogos usados na dublagem original, esse episódio foi fortemente censurado na Austrália.
+
+- O carro de Melissa é um Bentley Azure conversível de 1999. Na placa de trás do carro de Melissa está escrito SXY-LMP ( Sexy Lump = Caroço sexy).
+
+- É o primeiro episódio que a Princesa Jujuba tem uma aparição secundária.
+
+- A posição dos holofotes no Baile Semanal de Pré-formatura é uma referência ao logo usado pela 20th Century Studios de 1994 à 2010.
+
+- Esse foi o primeiro episódio a mencionar Grob Gob Glob Grod , além de ser sua única menção na 1ª Temporada .
+
+- Na placa de trás do carro de Melissa está escrito SXY-LMP ( Sexy Lump = Caroço sexy).
+
+
+### Notas de Produção
+
+- Este episódio se tornou disponível no iTunes gratuitamente, duas semanas antes de sua exibição oficial.
+
+
+### Erros
+
+- O tamanho da Princesa Caroço mudou várias vezes durante o episódio: quando morde a perna de Jake ela é do seu tamanho, mas quando ela fala que seus pais são idiotas, ela é maior do que ele.

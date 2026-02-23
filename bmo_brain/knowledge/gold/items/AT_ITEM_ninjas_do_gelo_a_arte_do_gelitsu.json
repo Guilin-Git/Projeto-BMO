@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu",
+  "tipo": "objeto",
+  "nome": "Ninjas do Gelo: A Arte do Gelítsu",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu_descricao",
+      "text": "[Objeto: Ninjas do Gelo: A Arte do Gelítsu]\nDescricao:\n# Ninjas do Gelo: A Arte do Gelítsu\n\nNinjas do Gelo: A Arte do Gelítsu é um livro que é mantido dentro de um esconderijo secreto dentro do castelo do Rei Gelado . Rei Gelado possui a primeira edição. É um manual que ensina vários gelo ou qualquer tipo de ataques baseados no neve, mais usados ​​para criar armas de mão de gelo.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu",
+        "nome": "Ninjas do Gelo: A Arte do Gelítsu",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu_aparicoes",
+      "text": "[Objeto: Ninjas do Gelo: A Arte do Gelítsu]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu",
+        "nome": "Ninjas do Gelo: A Arte do Gelítsu",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu_curiosidades",
+      "text": "[Objeto: Ninjas do Gelo: A Arte do Gelítsu]\nCuriosidades:\n- Suas técnicas possivelmente são as de Evergreen",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_ninjas_do_gelo_a_arte_do_gelitsu",
+        "nome": "Ninjas do Gelo: A Arte do Gelítsu",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

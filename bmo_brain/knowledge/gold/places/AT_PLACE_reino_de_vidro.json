@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_reino_de_vidro",
+  "tipo": "lugar",
+  "nome": "Reino de Vidro",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_reino_de_vidro_descricao",
+      "text": "[Lugar: Reino de Vidro]\nDescricao:\n# Reino de Vidro\n\nO Reino de Vidro é um reino visto em \" Obsidiana \".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_de_vidro",
+        "nome": "Reino de Vidro",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_reino_de_vidro_sobre",
+      "text": "[Lugar: Reino de Vidro]\nSobre:\nAlguns séculos atrás, o reino foi atacado pelo dragão Larvo , onde os habitantes do reino chamaram Princesa Jujuba para ajudar a expulsá-lo. No entanto, Marceline , que estava furiosa por ela não estar mais dando atenção ao relacionamento das duas, cantou uma música angustiada terminando o namoro com ela. O dragão, que era sensível a música, acabou sendo neutralizado e preso em uma caverna, e Marceline foi tida como uma heroína pelo reino.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_reino_de_vidro",
+        "nome": "Reino de Vidro",
+        "secao": "sobre"
+      }
+    }
+  ]
+}

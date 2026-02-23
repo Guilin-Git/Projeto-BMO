@@ -1,14 +1,28 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 21220
 nome: "Resgate de Rei"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Resgate_de_Rei"
 data_exibicao: "08/03/16"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Resgate_de_Rei"
 ---
 
 # Resgate de Rei
 
 **Temporada 7 — Episódio 21220**
+
+## Descrição
+" Resgate de Rei " é o 21º episódio da 7ª temporada de Hora de Aventura . É o ducentésimo vigésimo segundo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Rei Gelado sofre uma perda dolorosa e cabe a Finn e Jake encontrar o culpado.
@@ -22,10 +36,40 @@ A cena muda rapidamente para uma caverna escura, onde alguem está fazendo coisa
 
 Finn e Jake perdem as raposas de vista, então vêem o rei gelado se aproximando com uma aparencia mais normal. Ele diz que fica assim quando esta muito distante de sua coroa. Eles resolvem seguir o fio do telefone de lata de estanho que encontram presa em uma árvore, onde supostamente levaria ao lugar onde a pessoa que organizou tudo isso estaria. Mas Jake acaba partindo o fio quando ele resolve puxar para ver se conseguiria encontra-los. Então Finn percebe que o nariz do rei gelado cresce de volta na direção em que a coroa dele está e usam como bussola para chegar ao local. Eles chegam até uma caverna cercada por lava. Rei gelado não pode atravessar sem seus poderes, mas recusa a ajuda de Finn e Jake pois quer salvar Gunter sozinho. Então ele consegue atravessar a lava se queimando o pouco. Encontrando a Betty dentro da caverna, que está com sua coroa e o Gunter. Rei gelado fica animado mas ela acaba sumindo deixando a coroa e Gunter para trás. Mas algo parece diferente na coroa. Rei gelado fica feliz por rever Gunter, e Finn e Jake emocionados com reencontro.
 
+## Censura
+- No Brasil foi censurado a parte em que Rei Gelado, Finn e Jake falam "peido", no original eles falam a gíria "pooting" que é exatamente isso, "peido" ou "peidar na face de alguém".
+
+## Curiosidades
+- Betty parece ter aprendido a usar magia.
+
+- Originalmente o episódio se chamaria (em Inglês) "A King's Ransom" mas foi mudado apenas pra "King's Ransom"
+
+- Na cena em que a Betty segura Gunter pela segunda vez, é possível ver Orgalorg refletindo sobre seus olhos.
+
+- Talvez Betty possa ter transferido os poderes de Orgalorg para coroa, ou vice-versa.
+
+## Conexões de Episódios
+- Betty ainda está sob a loucura do chapéu do Mágico após acidente do episódio " Você Esqueceu as Boias ".
+
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Rei Gelado
+
 - Betty
+
 - Gunter
+
+
+### Menores:
+
+- Sr. Raposo
+
+- Raposas
+
+- Caracol

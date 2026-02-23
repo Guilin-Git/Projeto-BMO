@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Pântano de Vapor"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/P%C3%A2ntano_de_Vapor"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/P%C3%A2ntano_de_Vapor"
 ---
+
+> Pântano de Vapor é um lugar de Hora de Aventura.
 
 # Pântano de Vapor
 

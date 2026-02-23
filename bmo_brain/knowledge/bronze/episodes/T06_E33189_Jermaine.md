@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 33189
 nome: "Jermaine"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Jermaine_(Epis%C3%B3dio)"
 diretor: "Andres Salaff (supervisor) Nick Jennings & Sandra Lee (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Jesse Moynihan Adam Muto"
 codigo_producao: "1025-192"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Jermaine_(Epis%C3%B3dio)"
 ---
 
 # Jermaine
 
 **Temporada 6 — Episódio 33189**
+
+## Descrição
+" Jermaine " é o 33º episódio da 6ª temporada de Hora de Aventura . É o centésimo octagésimo quinto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Após um encontro assustador em um sonho, Finn e Jake decidem se reconectar com seu irmão recluso.
@@ -31,14 +52,72 @@ Após a luta, Jermaine começa a ficar com raiva e revela seu ciúme em direçã
 Uma vez que a casa foi queimada, a cena muda para o dia e os demônios se foram. Jake sugere que eles provavelmente já se foram, porque seu material foi queimado no fogo, dando-lhes nenhuma razão para ficar para obtê-lo de volta. O alarme do relógio de Jermaine toca, e ele corre para o alçapão para encontrar Bryce que já estava rastejando para fora segurando o poster. Apesar de Bryce está constantemente ameaçando Jermaine anteriormente, Jermaine e Bryce parece está completamente normais. Eles caminham juntos fora para dentro da floresta, com Jermaine incomodando Bryce por ser cínico e pessimista sobre a vida. Finn e Jake olham para eles a partir das ruínas de casas e o episódio termina.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Demônios da Sombra
+
 - Jermaine
+
 - Bryce
 
+
 ### Secundários
+
 - Lady Íris
+
 - BMO
+
 - Caracol
+
+
+### Mencionados ou em fotos
+
+- Jake Jr .
+
+- T.V .
+
+- Viola
+
+- Kim Kil Whan
+
+- Charlie
+
+- Joshua
+
+- Margaret
+
+## Curiosidades
+- Esse é o primeiro episódio que Jermaine aparece em "carne e osso".
+
+- Esse episódio estreou na América Latina antes dos Estados Unidos.
+
+- Provavelmente Jermaine nunca apareceu em outros episódios antes porque ele tinha muita "responsabilidades"; como por exemplo, cuidar dos pertences de seu pai Joshua , proteger a casa dos Demônios e de Bryce .
+
+- Jermaine recebe uma ligeira reformulação neste episódio. Ele não tem lábios e os dentes estão perfeitamente alinhados.
+
+- Depois da máquina de Finn explodir, o arpão ligado a ela tinha voado para fora através do telhado. Mais tarde ao ver Finn e Jake indo para a casa de Jermaine, uma lesma gigante está com o arpão gigante empalado em sua parte traseira.
+
+- Este episódio revela que Jermaine vivia na casa de seus pais, mesmo após as suas mortes.
+
+- No sonho de Jake quando Jermaine está vestido de urso; tem imagens de lápides com as letras "J" e "M." Este é provavelmente uma refêrencia a Joshua e Margaret , seus dois pais falecidos.
+
+- Nesse episódio é mostrado o Jake como o único destro, enquanto Jermaine e Finn estavam comendo com a mão esquerda.
+
+
+### Referências Culturais
+
+- A espada gigante que Jake tinha pegado, e sem querer tinha cortado uma mesa com ela é uma referência à Cloud Strife's Buster Sword de Final Fantasy VII
+
+- Jermaine pegando um aspirador de pó e aspirando um dos demônios é uma referência à Ghostbusters (Os Caça-Fantasmas)
+
+
+### Conexões de Episódios
+
+- O corredor de " Memória de Uma Memória " é mostrado, e a cozinha que Kee-Oth estava preso em " O Poço " é visto também
+
+- Quando Jake encontra Jermaine no sonho ele se refere a vez que se encontraram nos sonhos em " Cristais tem Poder ".

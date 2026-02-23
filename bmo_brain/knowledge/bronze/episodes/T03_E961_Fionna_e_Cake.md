@@ -1,28 +1,123 @@
 ---
+tipo: "episodio"
 temporada: 3
 numero_ep: 961
 nome: "Fionna e Cake"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Fionna_e_Cake"
 data_exibicao: "21/05/12"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Fionna_e_Cake"
 ---
 
 # Fionna e Cake
 
 **Temporada 3 — Episódio 961**
 
+## Descrição
+" Fionna e Cake " é o 9º episódio da 3ª temporada de Hora de Aventura . É o sexagésimo primeiro (61º) episódio no total. É o primeiro episódio de gêneros trocados da série.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
+
 ## Enredo
-O episódio começa no Reino Doce , Fionna e Cake estão no salão real junto com o Chiclete , chutando algumas Geleinhas para o teto enfeitando o local, Fionna pergunta a Príncipe Chiclete se as Geleinhas estão vivas e ele disse que não. Cake tem um mal pressentimento até chegar a Rainha Gelada e Rainha Gelada se transformou-se em um monstro de gelo e foi em direção ao Príncipe Chiclete então no conflito surge uma nuvem de gelo, impedindo Fionna e Cake de visualizarem a situação.   
-Aos poucos a nuvem sai e tudo volta ao normal, "Rainha Gelada sumiu"!   
-Então Chiclete convida Fionna para passar o dia com ele, ao chegarem em um campo, ele apresenta o Lord Monocronicórnio á ela e Cake , Chiclete à presenteia para Fionna um buquê de flores, porém a Espada de Cristal estava lá e Fionna fica maravilhada com seu presente e eles saem em seu encontro.   
-No passeio, eles fazem muitas coisas de jovens, brincam, se divertem. No final do passeio, eles estão no Lord Monocronicórnio voando no céu e Príncipe Chiclete começou a cantar uma música chamada Oh! Fionna Ao entardecer Chiclete pede Fionna a ir ao baile com ele como sua namorada.  
-A noite chega e eles se encontram no baile, Príncipe Chiclete chama Fionna ao seu quarto e começa tirar a camisa! Ela se surpreende, era Rainha Gelada que se passava por ele. Umas gotas de água gelada caem no ombro de Fionna, ela olha no teto e vê o verdadeiro Chiclete congelado. Rainha Gelada ataca-a, Fionna cai e lembra do presente de Chiclete, a espada de cristal. Fionna corre até sua bolsa e pega a espada, mas, para sua surpresa, a espada fica azul e prende as mãos de Fionna. Rainha Gelado se pergunta se ela "gostou da [sua] espada de gelo".   
+O episódio começa no Reino Doce , Fionna e Cake estão no salão real junto com o Chiclete , chutando algumas Geleinhas para o teto enfeitando o local, Fionna pergunta a Príncipe Chiclete se as Geleinhas estão vivas e ele disse que não. Cake tem um mal pressentimento até chegar a Rainha Gelada e Rainha Gelada se transformou-se em um monstro de gelo e foi em direção ao Príncipe Chiclete então no conflito surge uma nuvem de gelo, impedindo Fionna e Cake de visualizarem a situação. 
+Aos poucos a nuvem sai e tudo volta ao normal, "Rainha Gelada sumiu"! 
+Então Chiclete convida Fionna para passar o dia com ele, ao chegarem em um campo, ele apresenta o Lord Monocronicórnio á ela e Cake , Chiclete à presenteia para Fionna um buquê de flores, porém a Espada de Cristal estava lá e Fionna fica maravilhada com seu presente e eles saem em seu encontro. 
+No passeio, eles fazem muitas coisas de jovens, brincam, se divertem. No final do passeio, eles estão no Lord Monocronicórnio voando no céu e Príncipe Chiclete começou a cantar uma música chamada Oh! Fionna Ao entardecer Chiclete pede Fionna a ir ao baile com ele como sua namorada. 
+A noite chega e eles se encontram no baile, Príncipe Chiclete chama Fionna ao seu quarto e começa tirar a camisa! Ela se surpreende, era Rainha Gelada que se passava por ele. Umas gotas de água gelada caem no ombro de Fionna, ela olha no teto e vê o verdadeiro Chiclete congelado. Rainha Gelada ataca-a, Fionna cai e lembra do presente de Chiclete, a espada de cristal. Fionna corre até sua bolsa e pega a espada, mas, para sua surpresa, a espada fica azul e prende as mãos de Fionna. Rainha Gelado se pergunta se ela "gostou da [sua] espada de gelo". 
  Rainha Gelada á lança para o alto com neve, ela se pendura no gelo onde o verdadeiro Chiclete estava quebra o gelo e a algema, derrubando o gelo em cima da Rainha. Nesse momento a Cake entra e acha que Chiclete estava atacando Fionna, se enganou, ela pega a tiara da Rainha Gelada e ataca-á novamente. Fionna tira a tiara de Cake, dizendo: Não, pode pegar a loucura dela! Príncipe Chiclete pediu a Fionna em namoro, mas ela se recusou, e diz que: "A razão de eu ter tantos amigos e nenhum namorado é que eu não quero namorar nenhum deles, e eu vou saber o que quero quando ele aparecer na minha frente". E então disse que alguém que ela daria tudo pra namorar era o Rei Gelado, e Cake concordou, e até o Lord Monocromicórnio (estranho). Então é revelado que era apenas uma história de fã contada por Rei Gelado, obrigando Finn e Jake a ouvirem, congelados.
 
 ## Personagens
+
 ### Principais
+
 - Fionna
+
 - Cake
+
 - Príncipe Chiclete
+
 - Rainha Gelada
+
+
+### Menores
+
+- Finn
+
+- Jake
+
+- Rei Gelado
+
+- BMO
+
+- Lord Monocromicórnio
+
+- Gunter
+
+- Povo Doce Rapaz da Bola de Jujuba Sra. Bastão de Caramelo Geleinhas Senhorita Canelinha Biscoito de Gengibre Rebecca
+
+- Marshall Lee
+
+- Príncipe Caroço
+
+- Rapaz da Bola de Jujuba
+
+- Sra. Bastão de Caramelo
+
+- Geleinhas
+
+- Senhorita Canelinha
+
+- Biscoito de Gengibre Rebecca
+
+## Curiosidades
+- Este episódio não foi lançado na França/Bélgica, como não havia ninguém para fazer as vozes dos novos personagens trocados de gênero.
+
+- Natasha Allegri pensou em Marshall Lee ter algumas falas nesse episódio, mas foi cortado devido á limitações de tempo.
+
+- A série de Fionna e Cake fez tanto sucesso que estreou em quadrinhos .
+
+- Na capa do livro está o Rei Gelado beijando Fionna .
+
+- Natasha Allegri fez uma versão de gênero trocado da Princesa de Fogo também, o Príncipe de Fogo , mas ele não apareceu no episódio porque a Princesa não havia aparecido na série ainda.
+
+- No proArt feito por Rebecca Sugar , ela troca os sexos dela e de Adam Muto .
+
+- Nesse episódio, é mostrado que o Rei Gelado sabe que a coroa tem o tornado louco, expressado na fala de Fionna quando Cake coloca a coroa da Rainha Gelada: "Não, pode pegar a loucura dela! ".
+
+- O Caracol pode ser visto no início do episódio no teto do castelo junto com os docinhos que estavam grudados lá, porém ele não está possuído pelo Lich .
+
+## Referências Culturais
+- A cena em que Fionna e Cake passeiam com Príncipe Chiclete e o Lord Monocromicórnio enquanto eles cantam, faz referência a uma cena de Aladdin da Disney.
+
+- O vestido do baile da Fionna e quase uma cópia do vestido da Princesa Serenety de Sailor Moon.
+
+- Antes da revelação final de envolvimento do Rei Gelado nesta fã ficção, ele tinha seus pensamentos falando de sua "grandeza", dando os elementos de ambos auto inserção e ele próprio ser um personagem Mary Sue.
+
+## Censura
+- A cena em que o Chiclete dá erva de gato à Cake foi inicialmente cortada no Brasil, mas hoje em dia não é mais censurada.
+
+- Três cenas que não foram censuradas nas primeiras exibições do episódio são censurados agora. A cena em que Fionna e Chiclete estão no quarto e ele desabotoa a camisa foi censurada por causa dos fins sexuais no Brasil junto com a Austrália. A cena em que Lord Monocromicórnio se comunica com Cake através do código morse e logo após o rabo de Cake fica arrepiado foi censurada. Quando Fionna diz "Claro, mas vai ficar com o traseiro doendo, não que eu esteja pensando no seu traseiro" foi cortada a segunta metade da frase.
+
+- A cena em que Fionna e Chiclete estão no quarto e ele desabotoa a camisa foi censurada por causa dos fins sexuais no Brasil junto com a Austrália.
+
+- A cena em que Lord Monocromicórnio se comunica com Cake através do código morse e logo após o rabo de Cake fica arrepiado foi censurada.
+
+- Quando Fionna diz "Claro, mas vai ficar com o traseiro doendo, não que eu esteja pensando no seu traseiro" foi cortada a segunta metade da frase.

@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 41197
 nome: "Em Fuga"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Em_Fuga"
 data_exibicao: "31/08/2015"
 diretor: "Elizabeth Ito (supervisando) Nick Jennings & Sandra Lee (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
 codigo_producao: "1025-201"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Em_Fuga"
 ---
 
 # Em Fuga
 
 **Temporada 6 — Episódio 41197**
+
+## Descrição
+" Em Fuga " é o 41º episódio da 6ª temporada de Hora de Aventura . É o centésimo nonagésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Martin luta pela liberdade em um planeta estranho.
@@ -22,3 +49,22 @@ O episódio se inicia com três coalas alienígenas observando prisioneiros alie
 Martin, seu parceiro coala (Martin Dois) e a mariposa vão até a cidade, Martin vende a mariposa e vai embora. Martin e Martin Dois vão até um bar e Martin pede uma caneca de gosma alienígena, o vendedor reconhece que Martin é um dos prisioneiros e avisa aos guardas que estavam no estabelecimento, Martin foge do bar com manobras e vai até o castelo, a rainha dos alienígenas ordena os guardas á pegarem o "líder rebelde " (Martin).
 
 Martin se esconde em um barril de tomate e ouve um alienígena dizer que irá levar os barris para fora da cidade á noite, Martin é cercado pelos guardas e joga Martin 2 para o salvar, os guardas prestam atenção em Martin 2 e travam uma luta com ele, nesta luta é revelado que Martin 2 é o tal líder rebelde, e que ele é bastante velho, Martin foge para o castelo e emboça o dinheiro presente nele, ele encontra a mariposa e a usa para ir ao espaço, ele termina o episódio com a mariposa espacial, na boca dela, com todo o dinheiro do castelo.
+
+## Personagens
+- Martin
+
+- Aliens
+
+- Martin 2
+
+- Mariposa Espacial
+
+## Curiosidades
+- Jake não aparece nem é mencionado desde " Você Esqueceu As Boias ", diferente de Finn , que mesmo sem aparecer no episódio foi mencionado por Martin por Martin 2 ter a cabeça semelhante ao seu chapéu.
+
+- Enquanto Martin está escapando andando pelas cabeças dos prisioneiros, aparece uma figura semelhante á Princesa Caroço, embora tenha mais caroços, um tamanho diferente e uma joia triangular na testa.
+
+
+### Referências Culturais
+
+- As moedas "rúpias" mencionadas por Martin é a mesma moeda utilizada na Índia, e no jogo "Legend of Zelda".

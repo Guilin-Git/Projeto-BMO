@@ -1,0 +1,11 @@
+{
+  "id": "AT_ITEM_mochila_de_jake",
+  "tipo": "objeto",
+  "nome": "Mochila de Jake",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Mochila_de_Jake",
+  "sections": {
+    "descricao": "# Mochila de Jake",
+    "aparicoes": "### Primeira Aparição"
+  },
+  "source_file": "Mochila_de_Jake.md"
+}

@@ -1,22 +1,99 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 482
 nome: "Sonho de Amor"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Sonho_de_Amor"
 diretor: "Larry Leichliter"
 codigo_producao: "1008-080"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Sonho_de_Amor"
 ---
 
 # Sonho de Amor
 
 **Temporada 4 — Episódio 482**
 
+## Descrição
+" Sonho de Amor " é o 4º episódio da 4ª temporada de Hora de Aventura . É o oitavo segundo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
+
 ## Sinopse
 A Dona Tromba namora o Sr. Porco , mas todos se sentem incomodados quando eles começam a demonstrar afeição em público.
 
+## História
+Finn e Jake estão se divertindo rolando morro abaixo, eles riem alegremente como chegar ao fundo. Finn diz Jake sobre todas as coisas que eles estavam indo para fazer que incluíam: obter uma Torta de Maçã a partir da Dona Tromba e ouvir o concerto de Princesa Jujuba . Eles correm para a Casa da Dona Tromba para comer a torta de maçã. Eles acham Dona Tromba no jardim de rosas na frente de sua casa quando eles chegam. Eles começam a falar com Dona Tromba quando Sr. Porco , que foi visto pela última vez na 3ª temporada, inesperadamente aparece e explica como ele nunca saiu após os eventos do episódio " O Ladrão das Maçãs ". Depois de desajeitadamente falando com Dona Tromba, o Porco admite seu amor por ela para Finn e Jake, mas rapidamente fica envergonhado com isso. Finn convence o Porco para confessar seus sentimentos. Porco, em seguida, faz um discurso de amor dramática após Dona Tromba anda fora de sua casa. Dona Tromba responde alegando que ela se sente da mesma maneira. Eles então se abraçam. Finn e Jake, em seguida, perguntar se ela iria fazer uma torta de maçã para o concerto da Princesa Jujuba.
+
+A cena então muda para o concerto da Princesa Jujuba onde ela está tocando o Piano Elétrico . Durante o concerto, Jake andava impaciente nas arquibancadas esperando por Dona Tromba para trazê-la de torta de maçã que ela prometeu assar. No entanto, quando Dona Tromba e o Sr. Porco finalmente chegaram, ela revelou que ela estava muito distraída pelo Porco para fazer qualquer tortas. Este por sua vez, perturba o Jake. Dona Tromba, em seguida, começa a beijar o Porco e todos os espectadores do concerto estão revoltados com a sua demonstração de afeto público. Princesa Jujuba torna-se chateada com a sua exibição e afirma que ela não pode tocar olhando para eles. Para evitar que o concerto acabe, Finn divide os dois, mas que lentamente se aproximam uns dos outros como a música continua e começam a se beijar novamente. Isso enfureceu a Jujuba e a maioria dos espectadores até a Princesa diz a Canelinha para impedi-los de beijar, mas em vez disso, ele simplesmente pára o show e diz a todos para sairem. Finn, em seguida, faz com que os dois amantes prometem manter o seu amor escondido e eles concordam.
+
+A cena então muda para uma montagem de várias tentativas fracassadas do Sr. Porco e Dona Tromba que tentam esconder o seu afeto um pelo outro. Eles tentaram lugares como a Casa Na Árvore de Finn e Jake, dentro de um berço no Reino Doce , dentro de um livro na Biblioteca , e dentro de um sanduíche do Finn. Depois de encontrar os dois amantes em seu sanduíche, Finn continua a explicar por que eles não podem ficar juntos e devem se esforçar mais para ser secreto. A cena então muda para uma unidade no filme.
+
+O filme estava indo bem até Dona Tromba e Sr. Porco lançaram uma enorme silhueta deles se beijando. Todo mundo vendo a tela torna-se aborrecido e irritado. Finn decide que tem que parar ali mesmo. Ele divide-los e sugere várias opções para eles, mas eles continuam aparecendo com desculpas para as suas sugestões, como não querem esconder o seu afeto, ser carinhoso dentro de casa da Dona Tromba ou recorrer para o casamento. Finn e Jake decidem então separá-los, o que resultou nas outras pessoas na unidade através de torcer por sua dissolução.
+
+O Sr. Porco e Jake acabam na velha Taverna Doce . Porco explica a Jake que ele não sabe o que fazer com sua vida sem Dona Tromba. Jake lhe pergunta sobre onde vive e Porco explica que ele é sem-teto. Ao mesmo tempo, Finn e Dona Tromba estão na Casa da Dona Tromba . Finn sugere que Dona Tromba deve fazer uma torta de maçã para distrair sua mente do Porco. Dona Tromba e Sr. Porco, em seguida, começam a cantar a música " Sonho de Amor ", que era sobre o seu amor um pelo outro. Após a canção, Jake e Finn, que estão emocionados com a música e o amor dos dois, falam respectivamente, para ir encontrar um ao outro, porque eles se amam. Eles correm em direção ao outro, perto do Reino Doce e beijam dramaticamente, finalmente felizes juntos. O episódio termina com vários espectadores tornando-se revoltado com a sua demonstração de carinho. Finn, segurando uma torta de maçã, comenta sobre como o relacionamento da Dona Tromba e o Sr. Porco é bom. Jake vê a torta de maçã e pegá-lo da mão de Finn. Jake torna-se animado e disse: "Torta de maçã, eu estive esperando para beijá-lo durante o dia todo." Jake então beija-la, sujando o seu rosto.
+
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Dona Tromba
+
 - Sr. Porco
+
+
+### Menores
+
+- Pessoas Doces Princesa Jujuba Jam Jam Homem Biscoito Princesa Jujuba
+
+- Princesa Tartaruga
+
+- Lady Íris
+
+- BMO
+
+- Canelinha
+
+- Princesa Jujuba
+
+- Jam Jam
+
+- Homem Biscoito
+
+## Caracol
+Na América latina ele aparece perto de Dona Tromba e Sr. Porco depois do concerto da Princesa Jujuba e em outros lugares aparece na música " Sonho de Amor " na parte do Sr. Porco
+
+## Curiosidades
+- O Caracol aparece duas vezes (foi a primeira na América Latina) nesse episódio: ao lado do Sr. Porco e Dona Tromba (na América Latina) e no chão ao lado de Sr. Porco na Taverna Doce durante seu solo de música.
+
+- O livro que Princesa Tartaruga ia ler se chama "Princess Stuff" que traduzido para português é Coisas de Princesas.
+
+- Durante a canção " Sonho de Amor ", Dona Tromba corta as maçãs para a torta em fatias paralelas, o que não é a normal para fazer uma torta.
+
+## Conexão dos Episódios
+- Sr. Porco diz que ele só vai voltar a devorar criminosos. Está é uma referência a " O Ladrão das Maçãs ", onde Finn e Jake , e Dona Tromba quase foram comidos por ele.
+
+- O bar aonde Jake arrasta Sr. Porco é o mesmo bar no episódio " O Ladrão das Maçãs ".
+
+- No concerto da Princesa Jujuba o BMO é visto gravando o show com uma câmera em sua cabeça assim como em " Os Cineastas ".
+
+- Finn e Jake vão a uma unidade de cinema como em " Vem Comigo ".
+
+- Durante o show da Princesa Jujuba , na versão estadunidense, Finn foi cantando no seu auto tune de voz, que foi visto pela última vez em " Outro Jeito ". Ele canta com sua voz normal na versão brasileira.
+
+## Erros
+- Em algumas partes Dona Tromba e Sr. Porco estão bem pequenos.

@@ -1,16 +1,48 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 18217
 nome: "Presidente Botinho Desaparecido!"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Presidente_Botinho_Desaparecido!"
 data_exibicao: "22/02/16"
 diretor: "Andres Salaff"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Presidente_Botinho_Desaparecido!"
 ---
 
 # Presidente Botinho Desaparecido!
 
 **Temporada 7 — Episódio 18217**
+
+## Descrição
+" Presidente Botinho Desaparecido! " é o 18º episódio da 7ª temporada de Hora de Aventura . É o ducentésimo décimo nono episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Kent Osborne
+
+- Pendleton Ward
+
+- Jack Pendarvis
+
+- Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Finn e Jake tentam encontrar o Presidente Golfinho antes que o Vice Presidente Baiacu tome controle.
@@ -37,12 +69,39 @@ Finn suspeita que Baiacu é responsável pelo desaparecimento do presidente. Hom
 Jake se preocupa com paradeiro do Homem Banana e como o oxigênio está ficando baixo no submarino. Finn e Jake ganha uma cara cheia de água à medida que rir-lo e desfrutar a companhia do outro, enquanto Homen Banana e Cybil estão perto da superfície, apreciando o pôr do sol.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - BMO
+
 - Rei Gelado
+
 - Homem Banana
+
 - Presidente Golfinho
+
 - Vice Presidente Baiacu
+
 - Cybil
+
+
+### Menores
+
+- Princesa Jujuba
+
+- Marceline
+
+- Starchy
+
+- Crocante
+
+- Gumdrop Lass
+
+## Conexões de Episódios
+- Presidente Botinho faz sua aparição formal neste episódio, após terem sido previamente visto na tela do BMO para uma chamada de vídeo para Jake em " Pegando um Foguinho ".
+
+- Homem Banana faz sua primeira grande aparição principal desde " Consertamos um Caminhão ", e ainda está ansioso sobre sua amizade com Finn e Jake .

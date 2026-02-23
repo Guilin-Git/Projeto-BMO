@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_casa_da_maja",
+  "tipo": "lugar",
+  "nome": "Casa da Maja",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_casa_da_maja_descricao",
+      "text": "[Lugar: Casa da Maja]\nDescricao:\n# Casa da Maja\n\nCasa da Maja é um local que aparece em \" A Bruxa do Céu \". É a casa de Maja e seu Corvelho . Suas paredes são revestidas com armaduras, cabeças montados de várias criaturas, e retratos de pessoas desconhecidas. O papel de parede descascando, teias de aranha, e danos estruturais sugerem que Maja não se preocupou em limpá-lo em um longo tempo.\n\nA casa só pode ser acessado por saltar através de um portal, que está disfarçada como uma lagoa. Todas as paredes da sala de estar tem uma porta que leva a outra sala, até mesmo a base do lustre leva a um quarto. A sala de lixo está cheio de caixas e outros objetos. Sua casa também tem uma sala de caldeirão onde ela inventa poções.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_da_maja",
+        "nome": "Casa da Maja",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_casa_da_maja_curiosidades",
+      "text": "[Lugar: Casa da Maja]\nCuriosidades:\n- O fato de que a casa está flutuando no céu poderia ser a razão de Maja ser chamada Bruxa do Céu.\n\n- A sala de lixo contém um grande retrato da Shoko mutada. Ele também contém um modelo em escala de um carro Ford.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_casa_da_maja",
+        "nome": "Casa da Maja",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

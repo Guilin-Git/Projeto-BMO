@@ -1,0 +1,14 @@
+{
+  "id": "AT_ITEM_bebe",
+  "tipo": "objeto",
+  "nome": "Bebe",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Bebe",
+  "sections": {
+    "descricao": "# Bebe",
+    "informacoes": "### Nome\n\n### Sexo\n\n### Espécie\n\n### Ocupação\n\n### Moradia",
+    "detalhes": "### Primeira Aparição",
+    "personalidade": "De acordo com BMO, ele grita com senhoras e é considerado por BMO como \"Babaca nascido de uma mãe\".",
+    "curiosidades": "- BMO disse que ele é dono da \"Baby's\", uma boate no centro."
+  },
+  "source_file": "Bebe.md"
+}

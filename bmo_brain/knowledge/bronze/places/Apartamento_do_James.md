@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Apartamento do James"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Apartamento_do_James"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Apartamento_do_James"
 ---
+
+> Apartamento do James é um lugar de Hora de Aventura.
 
 # Apartamento do James
 

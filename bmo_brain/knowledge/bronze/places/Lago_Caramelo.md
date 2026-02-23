@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Lago Caramelo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Lago_Caramelo"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Lago_Caramelo"
 ---
+
+> Lago Caramelo é um lugar de Hora de Aventura.
 
 # Lago Caramelo
 

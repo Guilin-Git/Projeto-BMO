@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 10
 numero_ep: 13279
 nome: "Diamantes e Limões"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Diamantes_e_Lim%C3%B5es"
 data_exibicao: "25 de agosto de 2018"
 diretor: "Adam Muto"
 codigo_producao: "????-289"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Diamantes_e_Lim%C3%B5es"
 ---
 
 # Diamantes e Limões
 
 **Temporada 10 — Episódio 13279**
+
+## Descrição
+Diamantes e Limões é um episódio extra/especial de Hora de Aventura , que foi ao ar entre os episódios da 10ª temporada " Gumbaldia " e " Venha Comigo ", porém não contribuí em nada na história, sendo apenas um episódio extra que foi lançado perto desses episódios da nona temporada. É o episódio duzentos e setenta e nove no total.
+
+## Informações
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
 
 ## Sinopse
 Finn e seu amigos experimentam contratempos e triunfos criativos em uma fantástica nova visão de Ooo.
@@ -27,6 +48,78 @@ Finn vai para Dona Tromba e Sr. Porco onde eles estão jogando cartas, e ele ped
 Lemongrab acorda e descobre que seu limoeiro cresceu, mas quando ele pega uma, descobre que são realmente maçãs. Quando ele cai na derrota, Dona Tromba aparece para pegar as maçãs. Voltamos a Finn, que está mostrando a Jake as coisas que ele conseguiu em sua jornada, enquanto lança o fogo de artifício no teto da caverna. Tendo julgado Jake por jogar todos os diamantes fora, Finn chega a uma conclusão filosófica sobre o tema do trabalho duro e como a beleza está na ação em si, que nos leva a repetir ações para capturar essa beleza repetidamente.
 
 ## Personagens
-### Principais
+
+### Personagens principais
+
 - Finn
+
 - Limãograb
+
+
+### Personagens menores
+
+- Jake
+
+- Marceline
+
+- Princesa Jujuba
+
+- Princesa Caroço
+
+- Rei Gelado
+
+- Gunter
+
+- Guardião Chiclete
+
+- Dona Tromba
+
+- Sr. Porco
+
+- Mordomo Menta
+
+- Enderman
+
+- Golem de Neve (apenas na abertura)
+
+- Fionna (apenas na abertura)
+
+- Cake (apenas na abertura)
+
+- Rei de Fogo (apenas na abertura)
+
+- Rei da Festa (apenas na abertura)
+
+- Doutora Princesa (apenas na abertura)
+
+- Lady Íris (apenas na abertura)
+
+- Charlie (apenas na abertura)
+
+- T.V. (apenas na abertura)
+
+- Viola (apenas na abertura)
+
+- Kim Kil Whan (apenas na abertura)
+
+- Jake Jr. (apenas na abertura)
+
+- BMO (apenas na abertura)
+
+- Homem Banana (apenas na abertura)
+
+- Guarda Banana (apenas na abertura)
+
+- Canelinha (apenas na abertura)
+
+## Curiosidades
+- Logo após a música ser tocada na sequência de abertura , Fionna e Cake substituem brevemente Finn e Jake .
+
+
+### Erros
+
+- No episódio, Limãograb 3 é visto tentando cultivar um limão. No entanto, a partir do lançamento deste episódio, não há limões no Minecraft .
+
+- Na casa da Dona Tromba tem 2 abóboras no canto inferior esquerdo, mais 2 abóboras também no canto inferior esquerdo e em cima de 1 das abóboras também do canto inferior esquerdo não tem nada. Aí o Finn entra na casa da Dona Tromba, e continua tudo do jeito que tava. Mas quando muda o ângulo da câmera, aparece o Caracol do nada em cima da abóbora que não tinha nada em cima, 2 abóboras sumiram e onde também tinham 2 abóboras só apareceu 1. Mas depois, quando a câmera volta, tudo também volta ao normal.
+
+- No jogo Minecraft , o Enderman é ferido pela água, mas o do episódio fica na chuva sem problemas.

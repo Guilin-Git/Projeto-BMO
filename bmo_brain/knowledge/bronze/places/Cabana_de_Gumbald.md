@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Cabana de Gumbald"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cabana_de_Gumbald"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cabana_de_Gumbald"
 ---
+
+> Cabana de Gumbald é um lugar de Hora de Aventura.
 
 # Cabana de Gumbald
 

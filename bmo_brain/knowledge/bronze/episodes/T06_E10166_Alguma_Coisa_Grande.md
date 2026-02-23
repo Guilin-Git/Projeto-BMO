@@ -1,16 +1,34 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 10166
 nome: "Alguma Coisa Grande"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Alguma_Coisa_Grande"
 data_exibicao: "03/07/2014"
 diretor: "Andres Salaff (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Jesse Moynihan Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Alguma_Coisa_Grande"
 ---
 
 # Alguma Coisa Grande
 
 **Temporada 6 — Episódio 10166**
+
+## Descrição
+" Alguma Coisa Grande " é o 10º episódio da 6ª temporada de Hora de Aventura . É o 166 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
 
 ## Sinopse
 Maja tenta invadir o Reino Doce com um poderoso ancião (Darren) , a fim de conquistá-lo, obtendo bastante poder vindo dos bons sentimentos.
@@ -35,9 +53,91 @@ Seguindo sua dica, ele vaga por alguns lugares, dorme em uma caverna, acorda, es
 O episódio acaba com o desfecho de uma folha rosa derrubada pelo elefante, pois, ao decolar, ele balança uma árvore rosada do Reino Doce. Seu ato atrapalha os planos de vida da folha. Ela diz que não esperava que acontecesse aquilo. Logo em seguida aparece uma lagarta e diz que irá comê-la.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Princesa Jujuba
+
 - Maja
+
 - Darren
+
 - Elefante Psíquico de Guerra Pré-Histórico
+
+
+### Menores:
+
+- Jake
+
+- Rei Gelado
+
+- Princesa Xadrezinho Guardas Xadrezinhos
+
+- Guardas Banana
+
+- Crocante
+
+- Mordomo Menta
+
+- Coronel Milho Doce
+
+- Cisne
+
+- Refri
+
+- Caracol
+
+- Guardas Xadrezinhos
+
+## Curiosidades
+- É possível que a Princesa Xadrezinho tenha um reino, pois é mostrado seus cidadãos (que são iguais a ela porém menores) trabalhando na tecnologia do escudo para deter Darren e Maja.
+
+- A Princesa Xadrezinho é um tipo de princesa da tecnologia, isso é revelado no episódio.
+
+- Este episódio era um pedaço do que era para ser o início do filme cancelado de Hora de Aventura.
+
+- Este episódio também só foi escrito por Jesse Moynihan .
+
+- No preview, é possível ver que Finn ganhou uma nova espada.
+
+- Não se sabe como o Rei Gelado pegou sua coroa de volta depois dos acontecimentos de " O Príncipe Que Queria Tudo "
+
+- O Cisne da Princesa Jujuba ganhou um redesign.
+
+- Foi a primeira vez que a Princesa Xadrezinho falou.
+
+- O Refri está morto neste episódio, e esse episódio é dedicado a ele.
+
+- É revelado que o Sol é mais antigo que o Elefante Psíquico de Guerra Pré-Histórico . E que tem sua própria consciência.
+
+- As últimas palavras de Darren antes de morrer foram: "Obrigado!", significando que ele queria morrer.
+
+## Conexões de Episódios
+- Este episódio foi prenunciado no final da " A Bruxa do Céu " e ainda mostrou um clipe do final do episódio no preview.
+
+- O Cisne da Princesa Jujuba de " Masmorra " faz sua segunda aparição.
+
+- No cartão de título, vemos a esquerda dois doces em uma vara e uma serpente. Essas coisas são da Camisa de Rock que apareceu nos episódios " O Que Faltava " e em " A Bruxa do Céu ".
+
+- O Elefante Psíquico de Guerra Pré-Histórico de " O Limite " e " Móveis e Carnes " apareceu de novo.
+
+- Crocante explodiu de medo, e isso foi dito pela Princesa Jujuba em " Pânico na Festa do Pijama ". Mas no final do episódio está escrito que ele está se recuperando bem.
+
+- A Espada Prateada de Finn volta desde " Parados ".
+
+- A Espada Prateada que Finn usou nesse episodio é a mesma espada que ele usa no episodio "Morituri Te Salutamus".
+
+## Censuras
+- O primeiro close no Refri .
+
+- Parte da conversa de Maja com o Darren
+
+- Parte do "xaveco" do Coronel Milho Doce pra Jujuba é cortada.
+
+- Quando os tiros dos canhões despedaçam os monstros "cor-de-rosa".
+
+- Os doces caindo no chão queimados.
+
+- Quando o Coronel Milho Doce grita "nãããããããããão".

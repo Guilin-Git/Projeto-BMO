@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_maca_gema_de_cristal",
+  "tipo": "objeto",
+  "nome": "Maçã Gema de Cristal",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_maca_gema_de_cristal_descricao",
+      "text": "[Objeto: Maçã Gema de Cristal]\nDescricao:\n# Maçã Gema de Cristal\n\nA Maçã Gema de Cristal é uma maçã especial que Dona Tromba realmente desejava provar. A Maçã apareceu no episódio \" Dona Tromba \", localizada no meio de uma árvore em forma de cogumelo, nas profundezas da Floresta do Mal , e protegida\n\npelo Guardião Cristal . Quem come (ou leva uma mordida) da Maçã Gema de Cristal é teletransportado para a Dimensão Cristal e dado poder supremo sobre os homens de cristal até que a gema deixa o corpo. Na dimensão princip ã , onde a Maça cresce, ela pode aparecer aos espectadores que o consumo da mesma entre em combustão espontaneamente, especialmente quando os espectadores não têm o conhecimento do poder que possui ou da Dimensão Cristal a partir do qual se trata.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maca_gema_de_cristal",
+        "nome": "Maçã Gema de Cristal",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maca_gema_de_cristal_aparicoes",
+      "text": "[Objeto: Maçã Gema de Cristal]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maca_gema_de_cristal",
+        "nome": "Maçã Gema de Cristal",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maca_gema_de_cristal_aparencia",
+      "text": "[Objeto: Maçã Gema de Cristal]\nAparencia:\nA Maçã Gema de Cristal parece ser uma maçã regular, só que é cristalizada, tornando o visual maçã como um rubi. As folhas parecem ser normais e comestíveis.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maca_gema_de_cristal",
+        "nome": "Maçã Gema de Cristal",
+        "secao": "aparencia"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_maca_gema_de_cristal_curiosidades",
+      "text": "[Objeto: Maçã Gema de Cristal]\nCuriosidades:\n- Parece que quando as pessoas comem elas ficam obcecadas com o poder de cristal e são transportadas para a dimensão de Cristal.\n\n- A maçã não parece ser digerida, parece ficar no estômago da Dona Tromba por muito tempo.\n\n- A Maçã é vista no episódio \" Masmorra \" com o Stanley .\n\n- Em \" Dona Tromba (Episódio) \", vê-se que Dona Tromba só leva uma mordida da maçã gema de Cristal antes de ser transportada para a Dimensão Cristal deixando a maioria da Maçã ainda pendurado na árvore. No episódio \" Cristais Têm Poder \", no entanto, é mostrado no flashback que ela comeu toda a maçã. Além disso, após ela sair de seu corpo, esta completa.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_maca_gema_de_cristal",
+        "nome": "Maçã Gema de Cristal",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

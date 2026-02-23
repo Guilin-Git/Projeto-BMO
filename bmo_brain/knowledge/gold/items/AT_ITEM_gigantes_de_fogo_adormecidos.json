@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_gigantes_de_fogo_adormecidos",
+  "tipo": "objeto",
+  "nome": "Gigantes de Fogo Adormecidos",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_gigantes_de_fogo_adormecidos_descricao",
+      "text": "[Objeto: Gigantes de Fogo Adormecidos]\nDescricao:\n# Gigantes de Fogo Adormecidos\n\nOs Gigantes de Fogo Adormecidos são máquinas que alimentam o Reino de Fogo.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_gigantes_de_fogo_adormecidos",
+        "nome": "Gigantes de Fogo Adormecidos",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_gigantes_de_fogo_adormecidos_aparicoes",
+      "text": "[Objeto: Gigantes de Fogo Adormecidos]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_gigantes_de_fogo_adormecidos",
+        "nome": "Gigantes de Fogo Adormecidos",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_gigantes_de_fogo_adormecidos_curiosidades",
+      "text": "[Objeto: Gigantes de Fogo Adormecidos]\nCuriosidades:\n- Eles possuem uma música dedicada a eles.\n\n- Eles aparentam ter alguma intervenção tecnológica devido a peça energética em seu interior.\n\n- No final do episódio \"The More You Moe, the Moe You Know\" da sétima temporada aparecem sendo construídos por Moe .",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_gigantes_de_fogo_adormecidos",
+        "nome": "Gigantes de Fogo Adormecidos",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

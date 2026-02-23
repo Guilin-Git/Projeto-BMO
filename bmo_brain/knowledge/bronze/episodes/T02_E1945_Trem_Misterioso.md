@@ -1,17 +1,54 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 1945
 nome: "Trem Misterioso"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Trem_Misterioso"
 data_exibicao: "30 de janeiro de 2012"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Kent Osborne Patrick McHale Pendleton Ward"
 codigo_producao: "1002-043"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Trem_Misterioso"
 ---
 
 # Trem Misterioso
 
 **Temporada 2 — Episódio 1945**
+
+## Descrição
+" Trem Misterioso " é o 19º episódio da 2ª temporada de Hora de Aventura . É o quadragésimo quinto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Kent Osborne
+
+- Patrick McHale
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Somvilay Xayaphone
 
 ## Sinopse
 Em um passeio de trem até o presente de aniversário de Finn , ele e Jake são empurradas para um quem-fez-isso em alta velocidade, onde os suspeitos são assassinados um por um por, por alguém.
@@ -28,9 +65,54 @@ Devido a isso, Finn percebe que deve ter sido o Bilheteiro assustador, que já h
 Finn e Jake riam da situação mas, com o painel de controle quebrado, o trem se aproxima de uma área de pista inacabada na borda de um penhasco, e cai em uma gigante de gelatina, onde Finn e Jake se juntam ao resto dos doces para a festa de aniversário. Enquanto come bolo, Jake pede Finn qual foi a parte que mais gostou, e Finn diz a ele que era o trem que estava caindo na gelatina. Ele então comenta que ele deve ter tomado um planejamento cuidadoso para executar; Jake responde dizendo que essa situação não foi planejada e se não fosse a gelatina, eles teriam morrido horrivelmente. O episódio termina com a música misteriosa enquanto Finn olha para os trilhos sabotados.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake /Bilheteiro
 
+
 ### Secundários
+
 - Povo Doce Coronel Milho Doce Bastão de Caramelo Dr. Rosquinha Gominho Verde Gominha 1 Gominha 2 Dr. Sorvete Sr. Sorvete Garota Pirulito Abacaxi Chocolate Caracol
+
+- Coronel Milho Doce
+
+- Bastão de Caramelo
+
+- Dr. Rosquinha
+
+- Gominho Verde
+
+- Gominha 1
+
+- Gominha 2
+
+- Dr. Sorvete
+
+- Sr. Sorvete
+
+- Garota Pirulito
+
+- Abacaxi
+
+- Chocolate
+
+- Caracol
+
+## Curiosidades
+- Finn fala um palavrão pela primeira vez que é interrompido pelo apito do trem, "filha da...".
+
+- Na dublagem inglesa Finn diz uma palavra em espanhol, na Espanha Finn disse a palavra em inglês. A palavra era " Suspect numero uno " e " Suspecho number one " e no Brasil foi apenas " Suspeito numero um ".
+
+- Quando o Bilheteiro aparece e Jake está lendo a "revista", pode-se ver um pôster com um disco-voador escrito "Tome cuidado com os OVNIs"
+
+- Foi o primeiro aniversário de Finn mostrado na série
+
+- Na Batalha do bilheteiro e Finn, pode percebe-se que o bilheteiro fica preocupado quando solta o vagão.
+
+## Erros
+- Quando o bilheteiro está fugindo do Finn e ele desengata o vagão conectado a locomotiva, aparece apenas um vagão sendo desengatado, quando na verdade eram dois vagões.
+
+- Na cena em que Jake estava lendo a revista, e o bilheteiro aparece, de acordo com o que Jake diz, alguns passageiros pintam uma parte dele escondidos, mas isso não pode ficar claro se Jake também não esticou uma de suas partes para eles (sem ser a cena do flashback).

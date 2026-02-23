@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 1189
 nome: "Além Deste Plano Terrestre"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Al%C3%A9m_Deste_Plano_Terreno"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-089"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Al%C3%A9m_Deste_Plano_Terreno"
 ---
 
 # Além Deste Plano Terrestre
 
 **Temporada 4 — Episódio 1189**
+
+## Descrição
+" Além Deste Plano Terreno " é o 11º episódio da 4ª temporada de Hora de Aventura . É o octagésimo nono episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Finn descobre um cordeiro de porcelona que o leva para um mundo espiritual, e apenas o Rei Gelado pode ajudalo
@@ -28,14 +49,38 @@ No porão da casa do Rei Gelado, Finn fecha o buraco espírito, porque ele coloc
 
 Rei Gelado retorna para a Casa na árvore usando uma camada de gelo como armadura, e Jake, que ainda estava jogando, se levanta e defende o cordeiro do Rei Gelado, que diz que ele tem que esmagá-lo porque Finn está dentro dele. Jake destrói rapidamente a armadura de gelo em dois socos e tira seu manto, envergonhando o Rei e causando-lhe a viagem para o cordeiro. O rosto de Rei Gelado agora aparece na parte de trás da cabeça do cordeiro. Preso no Mundo Espiritual com Finn e capaz de ser realmente tocado pelas criaturas brutas, Rei Gelado tem um ataque, toma Chapéu de Finn e usa-lo como uma camisa, e acaba lamentando no chão novamente, acenando com o braço para trás e para frente. Finn percebe que os movimentos do Rei Gelado estão afetando a estática na tela de televisão que passa, e percebe que eles podem ter efeitos sutis sobre o plano material. Finn e Rei Gelado trabalham juntos, levitando folhas e restos do chão e girando-os em torno de correntes de ar, para mudar o cordeiro fora do banco que repousa, quebrando-o no chão. Finn e Rei Gelado retornam imediatamente de volta para o plano material como as quebras de cordeiro, e as folhas caem no chão como Jake envolve Finn em um abraço. Jake então varre os pedaços de cordeiro, dizendo que eles deveriam liberar ele no "banheiro sagrado". Ambos riem , mas Rei Gelado agarra os dois e dá-lhes tanto um abraço indesejado, gargalhando histericamente.
 
+## Músicas
+- Três Arainhas
+
+- Canção da Alegria
+
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Rei Gelado
+
 - Espíritos
 
+
 ### Secundários
+
 - Jake
+
 - BMO
+
 - Caracol
+
 - Gunter
+
+## Curiosidades
+- Rei Gelado descreve a tela da televisão como "alguém está nos observando".
+
+- Imediatamente após Finn é transportado para o Mundo Espiritual , o portal para o porão do castelo do Rei Gelado pode ser visto na parte superior da Caverna Misteriosa .
+
+- O crânio sobre uma mesa ao lado da TV se parece com que aparece no início do Tema de Abertura , exceto que ele não tem espinhos saindo do topo.
+
+## Erros
+- Rei Gelado afirma que não pode tocar nos espiritos, mas um espirito parecido como uma lesma sobe nele.

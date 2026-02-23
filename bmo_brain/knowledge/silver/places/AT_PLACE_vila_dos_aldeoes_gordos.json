@@ -1,0 +1,11 @@
+{
+  "id": "AT_PLACE_vila_dos_aldeoes_gordos",
+  "tipo": "lugar",
+  "nome": "Vila dos Aldeões Gordos",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Vila_dos_Alde%C3%B5es_Gordos",
+  "sections": {
+    "descricao": "# Vila dos Aldeões Gordos\n\nA Vila dos Aldeões Gordos aparece em \" O Monstro \". Seus habitantes estavam à beira de morrer de fome porque a Princesa Caroço continuou comendo suas colheitas. Eles são baixos e vestem roupas rasgadas. A vila tem um moinho de vento em uma colina e campos de cultivo. Depois, A Princesa Caroço dá sanduíches aos moradores, e ela retorna para A Terra do Caroço",
+    "moinho_de_vento": "O Moinho de vento da vila é onde A Princesa Caroço se esconde depois que ela leva as colheitas. No interior é o que parece ter uma máquina de lavar, um forno, um telefone velho em cima de uma geladeira, um sofá com uma cama retrátil, algumas telas da televisão com alto-falantes, e que parece ser uma pilha de ossos espalhados."
+  },
+  "source_file": "Vila_dos_Aldeoes_Gordos.md"
+}

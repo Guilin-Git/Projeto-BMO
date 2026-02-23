@@ -1,17 +1,46 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 11115
 nome: "Menininho Mau"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Menininho_Mau"
 data_exibicao: "29 de Julho de 2013"
 diretor: "Larry Leichliter"
 roteiro: "Patrick McHale Adam Muto Kent Osborne Rebecca Sugar Pendleton Ward"
 codigo_producao: "1014-110"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Menininho_Mau"
 ---
 
 # Menininho Mau
 
 **Temporada 5 — Episódio 11115**
+
+## Descrição
+" Menininho Mau " é o 11º episódio da 5ª temporada de Hora de Aventura . É o centésimo décimo quinto episódio no total. É o segundo episódio de gêneros trocados da série.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Adam Muto Kent Osborne Rebecca Sugar Pendleton Ward
+
+
+### Escritor
 
 ## Sinopse
 As princesas estão cansadas das histórias loucas do Rei Gelado de Fionna e Cake, então Marceline faz uma visita a ele para mostrar como se faz uma boa história.
@@ -44,28 +73,109 @@ Assustado, Marshall Lee senta-se e admite que ele não estava realmente morrendo
 Marceline termina a sua história, com todas as princesas concordando que era uma história muito melhor do que a versão do Rei Gelado. O Rei afirma que não era tão bom quanto a sua, exigindo que todas saiam. Em seguida, ele vagueia nas profundezas de seu castelo para uma porta selada com uma fechadura em forma de chapéu de Fionna. Dentro da sala são pilhas e pilhas de livros ao redor de esculturas de gelo de gigantes de Fionna e Cake. O Rei Gelado termina o episódio, afirmando "Eu sei que vocês estão lá fora em algum lugar. Eu só não descobri como, mas acreditem em mim, eu vou ... Eu vou ..."
 
 ## Personagens
+
 ### Principais
+
 - Fionna
+
 - Cake
+
 - Marshall Lee
+
 - Marceline
+
 - Rei Gelado
+
 - Princesas Princesa Frutinhas Princesa Geleca Princesa Tartaruga Princesa Torrada
 
+- Princesa Frutinhas
+
+- Princesa Geleca
+
+- Princesa Tartaruga
+
+- Princesa Torrada
+
+
 ### Secundários
+
 - Príncipe Médico
+
 - Gunter
+
 - Príncipe Chiclete
+
 - Senhorita Canelinha
+
 - BMO
+
 - Príncipe Caroço
+
 - Príncipe Músculos
+
 - Povo Doce
+
 - Senhor Tromba
+
 - Sra. Porca
+
 - Minhoca
+
 - Carrascas
+
 - Borboletas Esqueleto
+
 - Esqueletos
+
 - Caracol
+
 - Guardião de Chiclete
+
+## Músicas
+- " Garotinha Boa "
+
+- " Garotinho Mal "
+
+## Curiosidades
+- É a primeira vez que Marceline salva princesas do Rei Gelado .﻿ Antes de contar sua história, ela destranca suas jaulas enquanto está invisível.
+
+- É a primeira vez que Finn e Jake não aparecem.
+
+- É o primeiro episódio em que Finn não aparece.
+
+- Provavelmente o Rei Gelado sabe que o Enquirídio pode transportar alguém para outra dimensão já que na história dele ele saiu do livro para o mundo de Fionna e Cake.
+
+- É a segunda vez com troca de gêneros, o primeiro é em " Fionna e Cake ".
+
+- Nesse episodio mostra que Simon/Rei Gelado ainda se lembra um pouco de seu passado, já que na sua história aparece o Enquirídio.
+
+- No comercial deste episódio o Rei Gelado e Gunter estão como fantoches.
+
+- Ao final do episódio Simon se dirige a mais uma sala secreta onde na mesma se encontra uma escultura de gelo em tamanho enorme de Fionna e Cake.
+
+## Conexões de episódios
+- Príncipe Chiclete e Marshall Lee demonstram o mesmo relacionamento demonstrado por Princesa Jujuba e Marceline em " O Que Faltava ".
+
+- É o segundo episódio de gêneros trocados, sendo o primeiro " Fionna e Cake ".
+
+## Erros
+- O Príncipe Chiclete foi chamado de Príncipe Jujuba no comercial desse episódio. No entanto, no episódio ele é chamado de Chiclete corretamente.
+
+- A introdução desse episódio foi a introdução normal de Hora de Aventura, ao invés da introdução especial de Fionna e Cake.
+
+- No final quando a historia termina e Rei Gelado fala com Marceline Sua gema do meio fica maior que o normal
+
+- Nesse episódio Rei Gelado aparece gordo, como em Eu Me Lembro de Você .
+
+- A dubladora de Fionna não é a mesma.
+
+- Na hora em que Marshall deixa sua guitarra no chão ela some depois que dança com Cake
+
+## Censuras
+- A parte de Cake da música "Garotinha Boa" foi cortada em toda a América Latina, por ser uma cena explícita (ela aumenta seu bumbum, dança e também canta a música com referências ao seu bumbum).
+
+- A cena em que Marshall Lee mostra que tinha vários bolinhos de creme em sua camisa depois de contar que estava fingindo morrer também foi cortada.
+
+- Também o Marshall Lee dizendo "acho que esse é o fim pra mim" também foi cortado.
+
+- A parte onde Marshall Lee diz que era filho de um demônio e o rei dos vampiros foi cortada.

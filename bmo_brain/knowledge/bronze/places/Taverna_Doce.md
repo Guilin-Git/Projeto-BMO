@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Taverna Doce"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Taverna_Doce"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Taverna_Doce"
 ---
+
+> Taverna Doce é um lugar de Hora de Aventura.
 
 # Taverna Doce
 
@@ -12,3 +14,6 @@ A Taverna Doce é um bar nos becos do Reino Doce . É dirigido pelo Garçom da T
 Jake antes dele ser herói, costumava vir para a Taverna, roubando bolsas e leiloando bicicletas em um edifício no bairro. Finn se pergunta se a Princesa Jujuba sabe sobre este lugar. Querendo ou não ela se faz de desconhecida.
 
 A Taverna Doce aparece novamente em " Sonho de Amor ". Jake e Sr. Porco entram no bar depois de Dona Tromba e o Porco são forçados a se separar. Sr. Porco expressa publicamente seus sentimentos lá com sua canção " Sonho de Amor ".
+
+## Curiosidades
+- O Caracol faz duas aparições neste lugar, uma atrás do Homem Biscoito em " Ladrão de Maçãs , e outra no chão, ao lado do Sr. Porco em " Sonho de Amor ".

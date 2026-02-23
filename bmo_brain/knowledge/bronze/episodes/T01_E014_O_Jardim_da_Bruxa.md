@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 14
 nome: "O Jardim da Bruxa"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Jardim_da_Bruxa"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Jardim_da_Bruxa"
 ---
 
 # O Jardim da Bruxa
 
 **Temporada 1 — Episódio 14**
+
+## Descrição
+" O Jardim da Bruxa " é o 14º episódio da 1ª temporada de Hora de Aventura . É o décimo quarto episódio no total.
 
 ## Sinopse
 Sem perceber, Jake come uma rosquinha de uma bruxa , e ela tira seus poderes mágicos. O único jeito de recuperá-los é deixando o orgulho e preguiça de lado, coisa que ele não está desposto a fazer.
@@ -18,3 +22,30 @@ Enquanto Finn e Jake estão perseguindo um sapo segurando uma coroa, o sapo pass
 Finn tenta ajudar Jake a conseguir seus poderes de volta, mas agora que Jake é impotente, ele é mais preguiçoso do que antes. Ele se lembra de quando era um filhote, ele rolava em uma poça de lama, e ele chega à conclusão de que ele conseguiu seus poderes a partir dessa mesma poça. Finn decide ajudá-lo a encontrar a poça e foram para fora para encontrar algumas poças de lama. Quando eles começam sua jornada, Jake torna-se muito preguiçoso, fazendo o Finn levá-lo para a poça de lama. Eles chegam no Rio de Lixo, onde se vê uma poça de lama do outro lado. Finn começa a nadar através do rio para alcançá-lo, mas Jake decide que é muito difícil para tentar chegar ao outro lado, graças desmotivação de seu subconsciente. Finn faz uma catapulta para obter Jake para o outro poça de lama, mas a poça de lama é inútil, e Jake ainda é impotente. De repente, a Sereia do Rio aparece do rio de lixo e sequestra Finn (após uma batalha), levando-o para o seu ninho e deixá-lo como comida para seus filhotes. Finn é incapaz de lutar, porque ele foi nocauteado por ataque da sereia do Rio.
 
 Jake tenta resgatar Finn, mas é preguiçoso demais para subir na árvore e até pede ajuda para chegar até lá. Sem escolha, Jake decide voltar para a bruxa e pedir desculpas a ela. A bruxa permite Jake a entrar em seu jardim, mas ela se recusa a aceitar as desculpas do Jake, porque ele tomou muito tempo. Agora, a bruxa faz Jake fazer coisas humilhantes, como dançar com o seu subconsciente com flores em sua cueca. Mas então, o subconsciente morre, como ele era o subconsciente do lado mágico de Jake. Triste que seu subconsciente está morto e seu melhor amigo vai ser comido por pássaros gigantes, Jake começa a chorar sobre o que vai acontecer com ele. A bruxa, plantando bolinhos, murmura: "Que esta seja uma lição para você, bolinhos". Pensando que Jake aprendeu a lição, a Feiticeira dá Jake seus poderes de volta e restaura seu corpo normal, enquanto seu subconsciente volta à vida. Jake então bate na bengala da bruxa, leva outro de rosca, e quando a bruxa pergunta se Jake aprendeu sua lição, ele responde simplesmente: "Não". Jake retorna ao ninho da sereia e empurra a sereia volta para no rio de lixo, então afugenta os pássaros. Quando Finn pergunta a Jake se ele tem seus poderes de volta pedindo desculpas, Jake mente e diz que ele encontrou a poça de lama verdadeira.
+
+## Personagens
+- Finn
+
+- Jake
+
+- Bruxa
+
+- Gary, a Sereia do Rio
+
+- Caracol
+
+## Curiosidades
+- A parte externa do jardim da bruxa tem uma aparência cara do monstro, com duas janelas para os olhos, um nariz e uma boca ramo feito de duas raízes.
+
+- O Rio de Lixo é mostrado sob as ruínas de uma grande auto estrada elevada.
+
+- O corpo de bebê que Jake tem nesse episódio é o corpo do bebê Finn.
+
+- A bruxa usa a palavra mágica "Razzmafu" anteriormente utilizado no episódio " Bruxo ". Quando o feitiço aparece usando teletransporte.
+
+- Jake rouba rosquinha da Bruxa sem perceber, assim como ele roubou as botas, mas não percebeu no episódio " Cidade dos Ladrões ".
+
+- Esse episódio originalmente chamava "Jardim da Bruxa
+
+## Censura
+- A parte em que Gary, a Sereia do Rio fala "Qual de vocês, mortais, quer cruzar com tudo isso aqui?" foi cortada na Austrália por ser uma evidente referência sexual, porém foi mostrada livremente no Brasil.

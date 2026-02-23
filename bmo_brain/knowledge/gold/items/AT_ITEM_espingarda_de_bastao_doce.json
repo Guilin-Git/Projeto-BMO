@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_espingarda_de_bastao_doce",
+  "tipo": "objeto",
+  "nome": "Espingarda de Bastão Doce",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_espingarda_de_bastao_doce_descricao",
+      "text": "[Objeto: Espingarda de Bastão Doce]\nDescricao:\n# Espingarda de Bastão Doce\n\nA Espingarda de Bastão Doce é uma arma usada pelo Povo Doce . Funciona como uma arma de fogo. No episódio \" Lobo do Abraço \" o Pai da Gominha Adolescente usa um para manter Finn (tranformado em um Lobo do Abraço ) longe de sua filha. Ele faz com que os ruídos da arma com a boca, mesmo que, na verdade, dispare.\n\nEm \" Princesa Biscoito \" os Guardas Bananas que estão nos Helicópteros Doces carregam armas parecidas. Eles não dispararam, no entanto, assim não se sabe se eles são espingardas.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espingarda_de_bastao_doce",
+        "nome": "Espingarda de Bastão Doce",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espingarda_de_bastao_doce_aparicoes",
+      "text": "[Objeto: Espingarda de Bastão Doce]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espingarda_de_bastao_doce",
+        "nome": "Espingarda de Bastão Doce",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

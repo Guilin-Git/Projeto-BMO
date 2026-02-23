@@ -1,0 +1,58 @@
+{
+  "id": "AT_ITEM_bebe",
+  "tipo": "objeto",
+  "nome": "Bebe",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_bebe_descricao",
+      "text": "[Objeto: Bebe]\nDescricao:\n# Bebe",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bebe",
+        "nome": "Bebe",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bebe_informacoes",
+      "text": "[Objeto: Bebe]\nInformacoes:\n### Nome\n\n### Sexo\n\n### Espécie\n\n### Ocupação\n\n### Moradia",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bebe",
+        "nome": "Bebe",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bebe_detalhes",
+      "text": "[Objeto: Bebe]\nDetalhes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bebe",
+        "nome": "Bebe",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bebe_personalidade",
+      "text": "[Objeto: Bebe]\nPersonalidade:\nDe acordo com BMO, ele grita com senhoras e é considerado por BMO como \"Babaca nascido de uma mãe\".",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bebe",
+        "nome": "Bebe",
+        "secao": "personalidade"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_bebe_curiosidades",
+      "text": "[Objeto: Bebe]\nCuriosidades:\n- BMO disse que ele é dono da \"Baby's\", uma boate no centro.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_bebe",
+        "nome": "Bebe",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

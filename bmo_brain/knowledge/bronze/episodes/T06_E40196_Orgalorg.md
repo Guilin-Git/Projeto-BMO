@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 40196
 nome: "Orgalorg"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Orgalorg_(Epis%C3%B3dio)"
 data_exibicao: "24/08/2015"
 diretor: "Andres Salaff (supervisão) Nick Jennings & Sandra Lee (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Orgalorg_(Epis%C3%B3dio)"
 ---
 
 # Orgalorg
 
 **Temporada 6 — Episódio 40196**
+
+## Descrição
+" Orgalorg " é o 40º episódio da 6ª temporada de Hora de Aventura . É o centésimo nonagésimo sexto episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Após sofrer um acidente numa corrida de morsas, Gunter começa a ter estranhas visões.
@@ -29,7 +53,43 @@ De volta à Terra, Gunter parece sair fora do transe que o levou a construir os 
 Rei Gelado acorda e repreende Gunter pela bagunça no chão. O Rei percebe cérebro exposto de Gunter, ele empurra-lo de volta em sua cabeça e cobre com um embrulho de pano cor de rosa. Rei Gelado mostra um espelho para Gunter, como ele olha, e na mente de Gunter seu reflexo parece se transformar em Orgalorg.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Gunter (Orgalorg)
+
 - Rei Gelado
+
 - Alienígenas
+
+- Princesa Caroço
+
+- Grob Gob Glob Grod (flashback)
+
+- Abraham Lincoln (flashback)
+
+- Boneco de Neve Mão
+
+- Pinguins
+
+- Guntelina
+
+- Morsas
+
+- Gatinho
+
+- Caracol
+
+## Curiosidades
+- Neste episódio, Gunter descobre que é na verdade um monstro conquistador de planetas chamado Orgalorg que foi exilado na Terra por Grob Gob Glob Grod ; e que a gravidade diminuiu sua aparência e intelecto e o fez ter a forma de um pinguim e se esquecer de tudo.
+
+- É revelado que Gunter (Orgalorg) tem bilhões de anos e pode ser o personagem mais velho da série.
+
+- Foi afirmado por Jesse Moynihan que Orgalorg foi originalmente planejado para ser o vilão para um filme de TV que foi abandonado.
+
+## Conexões de Episódios
+- Rei Gelado parece ter comprado uma nova bateria desde que a sua antiga que foi destruída em " Amigos Pra Sempre ."
+
+- Hunson Abadeer tinha razão em " Veio da Noitosfera " ao dizer que Gunter era a criatura mais malvada que ele já conheceu, devido a sua verdadeira identidade como Orgalorg. E isso é realmente confirmado nesse episódio.
+
+- Este episódio também confirmou o por que de "Gunter" ( como a Mulher Pássaro ) aparecer no sonho de Finn em " Amor Cósmico ", devido à sua ligação ao lado de Finn , Martin e Docinho para o conflito envolvendo o cometa.

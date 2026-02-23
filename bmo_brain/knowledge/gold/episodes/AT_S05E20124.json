@@ -1,0 +1,107 @@
+{
+  "id": "AT_S05E20124",
+  "tipo": "episodio",
+  "nome": "Silêncio!",
+  "total_chunks": 7,
+  "chunks": [
+    {
+      "chunk_id": "AT_S05E20124_meta",
+      "text": "[Episódio: Silêncio! (Temporada 5, Ep 20124)]\nDiretor: Elizabeth Ito (supervisão) Nick Jennings (arte)\nRoteiro: Patrick McHale Kent Osborne Pendleton Ward\nPersonagens Principais: Finn, Jake, BMO, Meninas de Biquini",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S05E20124",
+        "temporada": 5,
+        "numero_ep": 20124,
+        "nome": "Silêncio!",
+        "characters_main": "Finn|Jake|BMO|Meninas de Biquini",
+        "characters_secondary": "Caracol|Deus da Festa|Aranha|Ratos|Homem na parede",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S05E20124_sinopse",
+      "text": "[Episódio: Silêncio! (Temporada 5, Ep 20124)]\nSinopse: Finn e Jake fazem um jogo de silêncio, se comunicando apenas por cartazes já escritos, em quanto isso BMO acha que não são eles de verdade, o que causa uma serie de problemas.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S05E20124",
+        "temporada": 5,
+        "numero_ep": 20124,
+        "nome": "Silêncio!",
+        "characters_main": "Finn|Jake|BMO|Meninas de Biquini",
+        "characters_secondary": "Caracol|Deus da Festa|Aranha|Ratos|Homem na parede",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S05E20124_enredo_1",
+      "text": "[Episódio: Silêncio! (Temporada 5, Ep 20124)]\nEnredo Parte 1:\nFinn e Jake decidem fazer um jogo de quem fala primeiro , usando placas como seu único meio de comunicação, apostando que quem falar primeiro será muito chateado . Eles comem o café da manhã na cozinha, onde eles encontram BMO, que interpreta sua canção favorita para eles. BMO se assusta quando eles não falam, e acha que eles não são os verdadeiros Finn e Jake, então ele se esconde em um buraco na parede, continuando a tocar sua música favorita para se acalmar. Finn e Jake em seguida, tentam se comunicar com BMO de muitas maneiras (como Jake entrar no buraco da parede e encontrar várias criaturas por lá).\n\nEnquanto isso, BMO tinha convidado algumas Meninas de Biquini para dançar, mas elas acabam a se aglomerar na porta da Casa na Árvore . As meninas de biquini começam a voar em cima da casa, onde elas ouvem BMO tocando sua música favorita. Finn e Jake tentam uma última vez para tentar falar com BMO usando machados para derrubar a parede da cozinha, mas eles acabam criando uma fenda no muro que se estende até o teto, derrubando as meninas de biquini. BMO aparece e grita para elas atacarem Finn e Jake. Enquanto as meninas batem fracamente em Finn e Jake, Jake grita de dor, sinalizando que ele perdeu o jogo. BMO então percebe que Finn e Jake eram verdadeiros o tempo todo. Os dois tentam explicar o que aconteceu, mas BMO interrompe e diz que não se importa e convidá-los para a festa. Finn, Jake, BMO e as Meninas de Biquini começam a dançar, e se aterrisa o Deus da Festa através de seu telhado para juntar-se dentro.\n\nO episódio termina com uma dedicatória ao falecido recentemente storyboarder de Hora de Aventura: Armen Mirzaian .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S05E20124",
+        "temporada": 5,
+        "numero_ep": 20124,
+        "nome": "Silêncio!",
+        "characters_main": "Finn|Jake|BMO|Meninas de Biquini",
+        "characters_secondary": "Caracol|Deus da Festa|Aranha|Ratos|Homem na parede",
+        "secao": "enredo",
+        "parte": 1
+      }
+    },
+    {
+      "chunk_id": "AT_S05E20124_informacoes",
+      "text": "[Episódio: Silêncio! (Temporada 5, Ep 20124)]\nInformacoes:\n### Temporada\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S05E20124",
+        "temporada": 5,
+        "numero_ep": 20124,
+        "nome": "Silêncio!",
+        "characters_main": "Finn|Jake|BMO|Meninas de Biquini",
+        "characters_secondary": "Caracol|Deus da Festa|Aranha|Ratos|Homem na parede",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S05E20124_creditos",
+      "text": "[Episódio: Silêncio! (Temporada 5, Ep 20124)]\nCreditos:\n### Diretor\n\n### História\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S05E20124",
+        "temporada": 5,
+        "numero_ep": 20124,
+        "nome": "Silêncio!",
+        "characters_main": "Finn|Jake|BMO|Meninas de Biquini",
+        "characters_secondary": "Caracol|Deus da Festa|Aranha|Ratos|Homem na parede",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S05E20124_proibicao_na_america_latina",
+      "text": "[Episódio: Silêncio! (Temporada 5, Ep 20124)]\nProibicao_Na_America_Latina:\nO episódio foi completamente banido na America Latina, talvez alguns desses motivos fossem: Garotas de bikini, algumas conotações sexuais e ect. Nos Estados Unidos o episódio foi ao ar sem nenhum problema, e nenhuma censura, já no Brasil Hora de Aventura tinha a classificação de \"não recomendado para menores de 12 anos\" o que já era o suficiente para um episódio como esse, mas decidiram banir completamente o mesmo.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S05E20124",
+        "temporada": 5,
+        "numero_ep": 20124,
+        "nome": "Silêncio!",
+        "characters_main": "Finn|Jake|BMO|Meninas de Biquini",
+        "characters_secondary": "Caracol|Deus da Festa|Aranha|Ratos|Homem na parede",
+        "secao": "proibicao_na_america_latina"
+      }
+    },
+    {
+      "chunk_id": "AT_S05E20124_curiosidades",
+      "text": "[Episódio: Silêncio! (Temporada 5, Ep 20124)]\nCuriosidades:\n- \" Silêncio! \" entra na lista de episódios completamente banidos de Hora de Aventura , não só na America Latina, mas tambem como em diversos outros paises da Europa e Ásia.\n\n- É revelado que nesse episódio que BMO pode cheirar. Ele parece ser atraído por cheiro de equipamentos tecnológicos.\n\n- As placas de Finn continha todas as letras maiúsculas, enquanto as de Jake eram minúsculas.\n\n- As primeiras exibições desse episódio nos Estados Unidos tinha \"Armen Mirzaian (1977-2013) Aw C'mon!\" com uma foto dele no final. Mais tarde o Cartoon Network retirou a foto.\n\n- Armen Mirzaian foi um artista de storyboard. Graduou-se no Instituto de Artes da Califórnia, com um BFA em animação de personagens. Em Hora de Aventura, ele escreveu quatro episódios e sete storyboards. Ele morreu em um acidente de carro, em Sun Valley, em fevereiro de 2013.\n\n- O episódio é uma homenagem a Armen, como \"um minuto de silêncio\".\n\n- Se revela que dentro das paredes da casa da árvore tem, ratos, aranhas, um escritor e até mesmo um sacórfago e varias outras coisas talvez.\n\n- Nas legendas do cartaz de Finn , o nome de BMO aparece como sua pronuncia, \"BMO\".\n\n- A parte que Jake quebra a parede com o machado, e olha de um jeito estranho para o lado, é uma referência ao filme \"Iluminado\".\n\n- Ele parece ser atraído por cheiro de equipamentos tecnológicos.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S05E20124",
+        "temporada": 5,
+        "numero_ep": 20124,
+        "nome": "Silêncio!",
+        "characters_main": "Finn|Jake|BMO|Meninas de Biquini",
+        "characters_secondary": "Caracol|Deus da Festa|Aranha|Ratos|Homem na parede",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

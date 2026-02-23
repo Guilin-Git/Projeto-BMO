@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 51155
 nome: "Lemonhope: Parte II"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Lemonhope_Segunda_Parte"
 data_exibicao: "10/03/2014"
 diretor: "Nate Cash (supervisora) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Tom Herpich Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Lemonhope_Segunda_Parte"
 ---
 
 # Lemonhope: Parte II
 
 **Temporada 5 — Episódio 51155**
+
+## Descrição
+" Lemonhope Segunda Parte " é o 51º episódio da 5ª temporada de Hora de Aventura . É o centésimo quinquagésimo quinto episódio no total. Esse episódio é a continuação de " Lemonhope Primeira Parte ".
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Embora Lemonhope encontra refúgio do deserto com caçador de monstros Phlannel Boxingday , ele pode não ser capaz de escapar dos fantasmas de seu passado.
@@ -29,16 +50,52 @@ Mais tarde, a Princesa Jujuba está costurando Limãograb trás junto de vários
 Um Lemonhope idoso retorna ao Castelo Limãograb, embora seja agora desprovido de vida e em ruínas. Velha Casa na Árvore de Finn é igualmente abandonado como ele passa, e a árvore agora se estende além das nuvens e no céu. Em seguida, passa ao longo de uma paisagem nua e encontra um Reino Doce futurista, mas ninguém está lá. Ele faz lentamente seu caminho para o castelo abandonado Lemongrab, onde ele encontra o quarto que a Princesa Jujuba havia preparado para ele intocada. Ele sobe na cama e sorri e fecha os olhos.
 
 ## Personagens
+
 ### Principais
+
 - Lemonhope
+
 - Phlannel Boxingday
+
 - Limãograb
+
 - Limãograb 2
+
 - Princesa Jujuba
 
+
 ### Secundários
+
 - Finn
+
 - Povo Limão
+
 - Bola de Banha
+
 - Limãograb 3
+
 - Caracol
+
+## Curiosidades
+- Quando Phlannel mostra o tesouro do Grennlard pode ser vista uma coroa parecida ou igual a do Rei Gelado.
+
+- Limãograb e Limãograb 2 morreram nesse episódio.
+
+- O Pássaro que aparece é bem parecido com os Pássaros de " O Grande Homem Pássaro ".
+
+- Tanto em Lemonhope Primeira Parte, quanto na segunda parte, o cartão de título mostra Lemonhope olhando para uma cidade. A diferença é que na primeira parte Lemonhope está com um sorriso. Já na segunda parte, ele está com uma cara triste observando o Castelo Limãograb.
+
+- Aparentemente, cada detalhe de sonho de Lemonhope tem um significado, por exemplo as asas de Lemonhope no terceiro sonho dele representam o que ele chama de liberdade.
+
+- Na canção da Princesa Jujuba , mostra que o futuro do Lemonhope é mesmo futuro do episódio " Histórinhas ", e a prova disso, é a Casa na Àrvore ter crescido ( como mostrado em " Histórinhas ").
+
+## Censuras
+- Censuraram a parte em que o Lemongrab explode (no SBT não foi censurado, ou foi só na sua primeira exibição).
+
+## Erros
+- Ao começar a conversar com Lemonhope, Limãograb tem dois olhos de ponto, mas depois, seus olhos voltam ao normal.
+
+## Músicas
+- Pobrezinho Lemonhope
+
+- Jovem Lemonhope

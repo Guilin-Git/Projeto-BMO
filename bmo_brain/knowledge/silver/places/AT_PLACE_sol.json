@@ -1,0 +1,19 @@
+{
+  "id": "AT_PLACE_sol",
+  "tipo": "lugar",
+  "nome": "Sol",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Sol",
+  "sections": {
+    "descricao": "# Sol\n\nO Sol é uma estrela do Sistema Solar que aparece em praticamente todos os episódios de Hora de Aventura .",
+    "informacoes": "### Localização\n\n### Tipo\n\n### Estado Atual",
+    "detalhes": "### Primeira Aparição\n\n### Última Aparição",
+    "sobre": "Em algum momento depois da Guerra dos Cogumelos o Sol se expandiu e devorou Mercúrio, afastando Vênus mais próximo a Terra e a tornando o segundo planeta mais próximo do Sol, e consequentemente, Marte .\n\nBilhões de anos depois, a estrela se expande cada vez mais devorando outros planetas do Sistema Solar, e então, acaba explodindo. Em Betty A Morte cita que Rei Gelado sobreviveria a esse acontecimento, porém Rei Gelado volta a ser mortal em Venha Comigo , então presumidamente isso nunca aconteceu.",
+    "curiosidades": "- O Rei de Terra de Ooo se autoproclama o \"dono do Sol\"."
+  },
+  "source_file": "Sol.md",
+  "tipo_lugar": "Estrela",
+  "localizacao": "Sistema Solar",
+  "status": "Destruído, (Futuramente)",
+  "primeira_aparicao": ", Piloto, \", \", O Enquirídio!, ",
+  "ultima_aparicao": ", Venha Comigo, "
+}

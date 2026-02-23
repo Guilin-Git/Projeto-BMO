@@ -1,14 +1,28 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 14239
 nome: "Duas Espadas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Duas_Espadas"
 data_exibicao: "06/03/2017"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Duas_Espadas"
 ---
 
 # Duas Espadas
 
 **Temporada 8 — Episódio 14239**
+
+## Descrição
+" Duas Espadas "  é o décimo quarto episódio da oitava temporada de Hora de Aventura. É o ducentésimo trigésimo nono episódio ao todo.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Finn e Jake se deparam com um misterioso ser, só que ele parece familiar.
@@ -29,7 +43,46 @@ No hospital, a Princesa Jujuba diz a Finn que "Homem de Grama" não é "uma real
 Mais tarde naquela noite, "Homem de Grama" é exibido dormindo no telhado gramado da casa na árvore, seus dedos se movendo em um movimento de bateria em seu baú. Aparece uma fraca imagem do Demônio de Grama, seus tentáculos se movendo no mesmo ritmo, e brevemente zumbi uma canção sobre a espera antes de desaparecer.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Samambaia
+
+
+### Menores
+
+- Princesa Jujuba
+
+- Guardas Bananas
+
+- Susana Forte
+
+- Chicletão
+
+- Enfermeira Bolinho
+
+- BMO
+
+- Demônio de Grama
+
+- Princesa Ladra (flashback)
+
+- Dona Tromba (capa de disco)
+
+- Randy (capa de disco)
+
+- Caracol
+
+## Curiosidades
+- Finn ganha seu braço robótico que têm sido um prenúncio desde " Folia Mortal ".
+
+- Dona Tromba e seu ex-marido Randy aparecem na capa de um álbum de uma gravação.
+
+## Conexões de Episódios
+- Esse episódio continua os eventos de Re-Início .
+
+- O pesadelo de Finn em " Espada de Grama " acaba se tornando realidade, porém, se resulta no Fern .

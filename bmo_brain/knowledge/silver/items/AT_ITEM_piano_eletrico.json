@@ -1,0 +1,12 @@
+{
+  "id": "AT_ITEM_piano_eletrico",
+  "tipo": "objeto",
+  "nome": "Piano Elétrico",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Piano_El%C3%A9trico",
+  "sections": {
+    "descricao": "# Piano Elétrico\n\nPrincesa Jujuba tocou seu Piano Elétrico em seu concerto no episódio \" Sonho de Amor \". Em vez de toca-lo com os dedos, ela bate as teclas com uma régua e um martelo de reflexos.",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "O Piano Elétrico tem duas fileiras de teclas. Suas teclas pretas não estão em um padrão como os de um piano regular. Ele tem muitos mostradores e botões. É preto com peças rosas e verdes. O stand é rosa com listras rosa claro e pode ser dobrado para facilitar o transporte."
+  },
+  "source_file": "Piano_Eletrico.md"
+}

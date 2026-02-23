@@ -1,0 +1,11 @@
+{
+  "id": "AT_ITEM_espada_prateada",
+  "tipo": "objeto",
+  "nome": "Espada Prateada",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Espada_Prateada",
+  "sections": {
+    "descricao": "# Espada Prateada",
+    "aparencia": "Ela é prata como sugere seu nome. Mas no episódio \"Alguma Coisa Grande\", pode se notar que ela tem uma leve semelhança com uma Katana (Espada Ninja)."
+  },
+  "source_file": "Espada_Prateada.md"
+}

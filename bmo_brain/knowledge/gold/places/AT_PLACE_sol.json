@@ -1,0 +1,58 @@
+{
+  "id": "AT_PLACE_sol",
+  "tipo": "lugar",
+  "nome": "Sol",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_sol_descricao",
+      "text": "[Lugar: Sol]\nDescricao:\n# Sol\n\nO Sol é uma estrela do Sistema Solar que aparece em praticamente todos os episódios de Hora de Aventura .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_sol",
+        "nome": "Sol",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_sol_informacoes",
+      "text": "[Lugar: Sol]\nInformacoes:\n### Localização\n\n### Tipo\n\n### Estado Atual",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_sol",
+        "nome": "Sol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_sol_detalhes",
+      "text": "[Lugar: Sol]\nDetalhes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_sol",
+        "nome": "Sol",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_sol_sobre",
+      "text": "[Lugar: Sol]\nSobre:\nEm algum momento depois da Guerra dos Cogumelos o Sol se expandiu e devorou Mercúrio, afastando Vênus mais próximo a Terra e a tornando o segundo planeta mais próximo do Sol, e consequentemente, Marte .\n\nBilhões de anos depois, a estrela se expande cada vez mais devorando outros planetas do Sistema Solar, e então, acaba explodindo. Em Betty A Morte cita que Rei Gelado sobreviveria a esse acontecimento, porém Rei Gelado volta a ser mortal em Venha Comigo , então presumidamente isso nunca aconteceu.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_sol",
+        "nome": "Sol",
+        "secao": "sobre"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_sol_curiosidades",
+      "text": "[Lugar: Sol]\nCuriosidades:\n- O Rei de Terra de Ooo se autoproclama o \"dono do Sol\".",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_sol",
+        "nome": "Sol",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

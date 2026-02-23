@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_espada_do_rei_da_luta",
+  "tipo": "objeto",
+  "nome": "Espada do Rei da Luta",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_espada_do_rei_da_luta_descricao",
+      "text": "[Objeto: Espada do Rei da Luta]\nDescricao:\n# Espada do Rei da Luta\n\nA Espada do Rei Luta é a principal arma do Rei da Luta , uma vez que aparece em \" Morituri Te Salutamus \". É muito grande e aparentemente de ouro, brilha com uma energia de amarelo e verde, e tem dois chips em ambos os lados da lâmina. A Espada do Rei da Luta é a sua principal fonte de energia. Ele tem o poder para erigir barreiras mágicas, e vincular os Gladiadores Fantasmas para sua arena. A espada foi destruída quando o Rei da Luta deu a espada para o Finn , que prontamente jogou no chão. Ele quebrou, fazendo com que o Rei da Luta murcha-se até morrer.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_do_rei_da_luta",
+        "nome": "Espada do Rei da Luta",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_do_rei_da_luta_aparicoes",
+      "text": "[Objeto: Espada do Rei da Luta]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_do_rei_da_luta",
+        "nome": "Espada do Rei da Luta",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_espada_do_rei_da_luta_curiosidades",
+      "text": "[Objeto: Espada do Rei da Luta]\nCuriosidades:\n- O Código Rúnico na lâmina da espada se traduz para: \"Lutar é viver.\"\n\n- Mesmo que pareça poderoso, esta espada é relativamente fácil de destruir.\n\n- Se destruir ela o Rei da Luta morre.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_espada_do_rei_da_luta",
+        "nome": "Espada do Rei da Luta",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

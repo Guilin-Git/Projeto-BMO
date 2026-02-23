@@ -1,14 +1,28 @@
 ---
+tipo: "episodio"
 temporada: 7
 numero_ep: 26225
 nome: "A Fina Linha Amarela"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/A_Fina_Linha_Amarela"
 data_exibicao: "25/07/2016"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/A_Fina_Linha_Amarela"
 ---
 
 # A Fina Linha Amarela
 
 **Temporada 7 — Episódio 26225**
+
+## Descrição
+" A Fina Linha Amarela " é o vigésimo sexto episódio da sétima temporada de Hora de Aventura . É o ducentésimo vigésimo quinto episódio em geral. Cartoon Network classifica este episódio como o último episódio da sétima temporada.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
 
 ## Sinopse
 Finn e Jake descobre uma conspiração depois de se infiltrar nas fileiras dos Guardas Banana.
@@ -27,3 +41,62 @@ Uma silhueta sombria aparece do canto e sussurra "eu te amo" para Jake, assustan
 No banheiro, Jake ouve alguém cantando. Jake gosta e pergunta quem está cantando, dizendo que gosta. A fonte da música desliga o chuveiro e sai correndo do banheiro com uma velocidade incrível. Jake o persegue, mas perde de vista, quando o guarda anterior corre para o chuveiro com a figura sombria e sussurra "eu te amo" novamente antes de fechar a porta. O cavalo é ouvido novamente quando Jake ordena que o guarda saia do banheiro. Jake enlouquece e assume que há uma grande conspiração em andamento.
 
 No escritório principal, Finn vê Jake correndo pelo corredor balbuciando e escreve um relatório de prisão para Jake, a razão é que Jake está "sendo uma salsicha". Finn rabisca um personagem de desenho animado parecido com um cachorro com uma coroa no relatório. Outro guarda percebe e sugere a Finn que ele deve sombrear melhor e garantir que a fonte de luz seja óbvia para o espectador. Finn faz isso, e o cão/lobo com uma coroa agora é significativamente mais realista e bem esboçado. Finn suspeita que este guarda pode ser o culpado e tenta arrancar mais informações dele, perguntando se ele tem algum trabalho seu para mostrar a ele para se inspirar. O guarda diz que seu nome é Guarda Banana #16. O guarda pede a Finn para segui-lo. Ele leva Finn a uma abertura que acaba levando a uma área cavernosa cheia de pinturas de PB, Lemon Grab, os Gumball Guardians e vários outros personagens na parede feitos por Guarda Banana#16, Finn fica com envergonha ao revelar aquilo.
+
+## Personagens
+
+### Principal
+
+- Finn
+
+- Jake
+
+- Guardas Banana
+
+- Guarda Banana #16
+
+- Princesa Jujuba
+
+
+### Menores
+
+- Coronel Milho Doce
+
+- Neddy (flashback)
+
+- Chicletões (flashback)
+
+- Oozers (flashback)
+
+- Marceline (transformada em morcego gigante em grafite)
+
+- Sr. Bolinho (cartas de Chuvas de Verão)
+
+- Dona Tromba (catas de Chuvas de Verão)
+
+- Conde de Limãograb (grafite)
+
+- Goliad (grafite)
+
+- Stormo (grafite)
+
+- Mãe Goma (grafite)
+
+- Guardiões Chicletes (grafite)
+
+- Caracol
+
+## Curiosidades
+- Este é o segundo episódio de mostrar um cartão de dedicação no final. O primeiro foi em " Silêncio! ". Este episódio foi dedicado a Mandy Longo, um talentoso músico e artista, e um estudante de Bridgewater-Raritan High School. Ela faleceu em 24 de setembro de 2015, após uma longa batalha contra o câncer no cérebro.
+
+- Esse episódio mostra que os Guardas Bananas podem ser mais espertos do que parecem, já que alguns deles possuem talento para a arte de pintura e desenho, música, canto, adestramento e ventriloquismo.
+
+- E apesar disso, eles ainda parecem ser meio ingênuos com relação a Princesa Jujuba; já que o Guarda Banana 16 (pintor) ainda vê ela como uma tirana impiedosa, uma deusa que poderia destruí-los como fez com os Chicletões; embora o Finn tenha dito que ela era legal.
+
+## Conexão de Episódios
+- A morte dos Chicletões pela Princesa Jujuba é relembrada nesse episódio.
+
+- Há um panfleto para Chuvas de Verão da Princesa Caroço do episódio do mesmo nome no beco onde o grafite está.
+
+- Marceline está transformada em Morcego Gigante no grafite feito pelo Guarda Banana #16
+
+- Há grafite que está escrito "Tiffany" Implicando que o próprio sobreviveu à batalha contra a minhoca rainha durante o episódio " Dentista ", e podemos ver que Tiffany realmente sobreviveu, mais perdeu um braço como visto em '' Preboot ''

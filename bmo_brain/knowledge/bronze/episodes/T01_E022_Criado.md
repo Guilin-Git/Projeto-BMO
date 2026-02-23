@@ -1,13 +1,17 @@
 ---
+tipo: "episodio"
 temporada: 1
 numero_ep: 22
 nome: "Criado"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Criado"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Criado"
 ---
 
 # Criado
 
 **Temporada 1 — Episódio 22**
+
+## Descrição
+" Criado " é o 22º episódio da 1º temporada de Hora de Aventura . É o vigésimo segundo episódio no total.
 
 ## Sinopse
 Finn toma o lugar do escravo de Marceline , e ele descobre o quanto é difícil obedecer seus comandos estranhos.
@@ -20,19 +24,44 @@ Marceline traz consigo um guarda-chuva e Finn pergunta se o sol pode destruí-la
 Jake salta para a frente e coloca um jogo com ele, levantando-se o guarda-chuva para revelar uma nuvem de fumaça. Finn diz a Jake que ele enfrentou seu medo de vampiro e salvou. Jake deixa, feliz por ter salvo seu amigo. Finn permanece por um momento, de pegar o guarda-chuva. Marceline emerge da mochila de Finn e diz que ele foi liberto da escravidão, porque não seria divertido se ela não pudesse enganá-lo. Eles ainda prometem ir estrangular fadas no dia seguinte. Marceline depois pega seu guarda-chuva e voa para longe.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Marceline
 
+
 ### Secundários
+
 - Eberhardt
+
 - Duque das Nozes
+
 - Duquesa das Nozes
+
 - Antigo Criado
+
 - Planta Covinha
+
 - Monstro Cérebro
+
 - Marquês das Nozes
+
 - Segundo Filho das Nozes
+
 - Mordomo Lisby
+
 - Caracol
+
+## Canção
+- Música dos Pescadores
+
+## Curiosidades
+- É visto pela segunda vez o Baixo-Machado de Marceline. (visto pela primeira vez em " Despejados! ").
+
+- O nome original desse episódio era "O Escravo da Marceline" e "O Criado da Marceline".
+
+- Essa foi a última aparição do Duque das Nozes , até " Venha Comigo ".

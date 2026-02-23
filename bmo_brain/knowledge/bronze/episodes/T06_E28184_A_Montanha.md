@@ -1,16 +1,39 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 28184
 nome: "A Montanha"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/A_Montanha"
 diretor: "Andres Salaff (supervisor) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Jesse Moynihan Adam Muto"
 codigo_producao: "1025-187"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/A_Montanha"
 ---
 
 # A Montanha
 
 **Temporada 6 — Episódio 28184**
+
+## Descrição
+" A Montanha " é o 28º episódio da 6ª temporada de Hora de Aventura . É o centésimo octagésimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Jesse Moynihan Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 O Conde de Limãograb e Finn saem em uma expedição à Montanha de Matthew.
@@ -35,8 +58,42 @@ Finn chega a luz, onde podemos ver Limãograb e ambos estão agora vestindo tún
 A cena seguinte mostra Jake transportando Finn e Limãograb e seu camelo em sua cabeça. Limãograb e seu camelo saltam de Jake, caindo através de seu castelo, através de um pool de suco de limão e para baixo seu teto do quarto onde ele cair em sua cama, olha para os hieróglifos, mastiga algumas sementes de limão e cospe para na rachadura e diz: "yo yo, é gorduroso".
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Limãograb 3
+
 - Matthew
+
+
+### Menores:
+
+- Povo Limão
+
+- Camelo Limãograb
+
+- Canelinha
+
+- Princesa de Fogo
+
+- Lemonhope (espelho)
+
+- Limãograb 2 (flashback no espelho)
+
+- Limãograb (flashback)
+
+- Princesa Jujuba (espelho)
+
+- BMO (espelho)
+
+- Caracol
+
+## Curiosidade
+- O Castelo Limãograb aparenta ter um novo ambiente com várias árvores e uma fábrica de moedor de limões dentro dele.
+
+## Censura
+- A parte que Princesa Jujuba fala " quero me relacionar com você " para o Limãograb foi cortada.

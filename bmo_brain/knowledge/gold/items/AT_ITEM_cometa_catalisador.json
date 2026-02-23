@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_cometa_catalisador",
+  "tipo": "objeto",
+  "nome": "Cometa Catalisador",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_cometa_catalisador_descricao",
+      "text": "[Objeto: Cometa Catalisador]\nDescricao:\n# Cometa Catalisador",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_cometa_catalisador",
+        "nome": "Cometa Catalisador",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_cometa_catalisador_aparicoes",
+      "text": "[Objeto: Cometa Catalisador]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_cometa_catalisador",
+        "nome": "Cometa Catalisador",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_cometa_catalisador_sobre",
+      "text": "[Objeto: Cometa Catalisador]\nSobre:\nEm \" Evergreen \", o cometa é mostrado como um risco em potencial para a vida na Terra, o que leva o Mago Evergreen a construir uma coroa para destruir tal cometa. Fora isso, nada mais é mostrado sobre ele.\n\nJá em \" Plano Astral \", Grob Gob Glob Grod revela que, a cada mil anos (é desconhecido se são anos terrestres ou marcianos, já que um ano em Marte corresponde a 687 dias na Terra) o Cometa Catalizador reencarna em rota de colisão com a Terra. Mas, sem motivo algum, ele quebra esse padrão e está prestes a colidir com Marte, o que causaria a exterminação da vida no planeta. No final do episódio, Glob e seus irmãos abrem mão da própria vida a fim de mudar o curso do cometa, salvando todos no processo. Mas é descoberto que não era um cometa, e sim a nave de Martin , que estava descontrolada.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_cometa_catalisador",
+        "nome": "Cometa Catalisador",
+        "secao": "sobre"
+      }
+    }
+  ]
+}

@@ -1,16 +1,48 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 24180
 nome: "Evergreen"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Evergreen"
 data_exibicao: "10/11/2014"
 diretor: "Andres Salaff (supervisor) Nick Jennings (arte)"
 codigo_producao: "1025-178"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Evergreen"
 ---
 
 # Evergreen
 
 **Temporada 6 — Episódio 24180**
+
+## Descrição
+" Evergreen " é o 24º episódio da 6ª temporada de Hora de Aventura . É o centésimo octagésimo (180°) episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+- Andres Salaff (supervisor)
+
+- Nick Jennings (arte)
+
+
+### Escritor
+
+- Tom Herpich
+
+- Steve Wolfhard
 
 ## Sinopse
 Um mago de gelo tenta criar uma coroa que vai conceder o desejo mais profundo do primeiro portador para impedir que um cometa mortal leve à destruição de toda a vida no planeta.
@@ -41,7 +73,74 @@ O cometa estava perto e então Evergreen fala para Gunter jogar a coroa na cabe�
 A cena muda para Rei Gelado , sonambulando, gritando " Gunter não " e pulando e ele cai da cama, ele acorda e afirma que teve um sonho com dinossauros e vê os pinguins encolhidos de medo no canto e ele pergunta se tem algo no seu dente, ou cabelo, algo no nariz, ou na orelha, e é visto o cometa no espaço vindo para a Terra acabando o episódio.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Evergreen (Personagem)
+
 - Gunter (Dinossauro)
+
 - Nina
+
+
+### Menores:
+
+- Chett Speery
+
+- Gosma D
+
+- Baldus
+
+- Tocador de Tambor
+
+- Elefante de Lava
+
+- Pyterodatils
+
+- Saychania
+
+- Rei Gelado
+
+- Pinguins
+
+- Caracol
+
+## Curiosidades
+- Este é o primeiro episódio que se passa antes da Guerra dos Cogumelos .
+
+- Esse episódio conta a origem da Coroa do Rei Gelado .
+
+- O dinossauro mostrado se chama Gunter. Pode ser que o Rei Gelado tenha dado esse nome para o pinguim Gunter por influência da coroa, assim como ele chama Marceline do mesmo nome em uma cena de " Simon & Marcy "
+
+- O Elefante de Lava apagado parece ser da mesma espécie de Dona Tromba .
+
+- O cartão de título é uma referência à abertura da série.
+
+- Nina tem uma forte semelhança com Jake .
+
+- Esse é o único episódio estreado na América Latina antes de ser estreado nos EUA.
+
+- É revelado nesse episódio o criador da Coroa do Rei Gelado, Evergreen .
+
+- Foi revelado que o objetivo da criação da Coroa do Rei Gelado era para poder deter o cometa que estava chegando a Terra.
+
+- Rei Gelado viu o passado com a sua coroa, mas pensou que foi um sonho.
+
+- Nesse episódio, são revelados que os elementais são: fogo, gelo, gosma e doce.
+
+- Como Gunter não conseguiu parar o cometa, ele pode ter sido o causador da gigantesca cratera na Terra.
+
+- O cometa foi mostrado tendo chifres iguais aos do Lich . Isso confirma o que foi dito no episódio O Cometa ; pois ele parece encarnar tudo que é de bom ( Finn ) e tudo que é ruim ( Lich ). Não se sabe a origem do cometa, mas ele parece afetar uma vida (ou toda a vida) na Terra há cada mil anos.
+
+- Assim como " Plano Astral ", esse episódio estreou no Brasil antes do que nos Estados Unidos.
+
+- Esse episódio aparenta ocorrer antes do surgimento da humanidade, pois há dinossauros vivendo por ali. Porém existe uma sala onde se pode ver algumas coisas que não pertencem a essa época. Talvez Evergreen tenha feitos viagens no futuro.
+
+## Erros
+- Nas cenas antes de Gunter ir buscar água, o tambor do Tocador de Tambor era verde, mas nas cenas seguintes ele era azul.
+
+## Referências Culturais
+- Os movimentos que Evergreen faz para realizar suas magias de gelo é semelhante a forma que os personagens do anime Naruto usam para usar os Jutsus .
+
+## Conexões de Episódios
+- Quando Gunter sobe as escadas do Castelo de Evergreen, é possível ver uma sala igual a sala escondida que foi vista em " Betty ".

@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 583
 nome: "Retorno a Noitosfera"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Retorno_a_Noitosfera"
 diretor: "Larry Lechliter"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1008-085"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Retorno_a_Noitosfera"
 ---
 
 # Retorno a Noitosfera
 
 **Temporada 4 — Episódio 583**
+
+## Descrição
+" Retorno a Noitosfera " é o quinto episódio da quarta temporada de Hora de Aventura . É o octagésimo terceiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 O pai de Marceline aprisiona Finn e Jake em uma prisão na Noitosfera , e eles não se lembram por que. Agora, eles precisam encontrar uma maneira de escapar da Noitosfera. Parte 1 de um episódio de duas partes.
@@ -25,7 +46,64 @@ Eles vão para o portal e Hunson Abadeer o segue. Finn luta com ele e corta sua 
 O episódio continua em: " Monstrinha do Papai "
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Marceline
+
+
+### Menores
+
+- Demônios Hunson Abadeer Meio Monstro Demônio Teller Demônio Carcereiro Demônio do Bote Demônio Forte
+
+- Caracol
+
+- Hunson Abadeer
+
+- Meio Monstro Demônio
+
+- Teller
+
+- Demônio Carcereiro
+
+- Demônio do Bote
+
+- Demônio Forte
+
+
+### Mencionados e em fotos
+
+- Mordomo Menta (foto)
+
+- Abraham Lincoln (foto)
+
+- BMO (mencionado)
+
+## Curiosidades
+- É revelado neste episódio que o pai de Marceline tem um nome real, Hunson Abadeer . Durante todo o episódio, Finn e Jake se referem a ele como "Hunson".
+
+- Abraham Lincoln pode ser visto com o Hunson em uma foto, sendo esta a primeira vez que Abraham é mostrado na série real.
+
+- Outra imagem mostra de Marceline como uma criança ao lado de seu pai e do lado esquerdo e outra mulher que estava no direito que tem uma notável semelhança com Marceline. Esta pode ser sua mãe.
+
+- Em uma das imagens, Mordomo Menta é visto jogando golfe com o Hunson Abadeer.
+
+- Jake falou em japonês neste episódio - embora quebrado. Depois de animar Finn, ele disse: "'(上手 で 頑張っ て ね) Jouzu de Ganbatte ne" - que pode ser traduzido como "Você está qualificado, você pode fazê-lo"
+
+- O demônio que esta em cima do bote o rosto dele quando esta com a boca ou bico fechado(o), se a semelha muito a mascara do século XIV usadas pelos médicos que tratavam os pacientes da peste bubônica também chamada simplesmente de peste negra
+
+## Erro
+- No momento que Marceline revela-se, a espada de Finn desaparece e reaparece quando ela lhes diz para ficar longe dela para sempre.
+
+## Referências Culturais
+- A aparência do Noitosfera e seus habitantes parecem ser inspirado diretamente pelas pinturas do artista Hieronymus Bosch . Particularmente, o terceiro painel do sua pintira tríptico "The Garden of Earthly Delights " (O Jardim das Delícias).
+
+- O Demônio do Bote sobre a cabeça dos outros demônios é semelhante aos Phleygas demônio, no poema Inferno de Dante Alighieri, que balsas navegam sobre o rio Styx, que é preenchido com os pecadores irados e mal-humorado.
+
+- A seqüência inicial inteira deles esquecendo de como eles chegaram em algum lugar é uma referência ao filme "Hangover". Mais tarde, eles encontram alguns vídeos no celular de Jake, que também é uma referência ao fim da Ressaca.
+
+- Os homens encima do monstro se parecem com o Spy vs Spy.

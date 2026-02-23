@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Hotel Irado"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Hotel_Irado"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Hotel_Irado"
 ---
+
+> Hotel Irado é um lugar de Hora de Aventura.
 
 # Hotel Irado
 

@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_pocao_de_descongelamento_a",
+  "tipo": "objeto",
+  "nome": "Poção de Descongelamento A",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_pocao_de_descongelamento_a_descricao",
+      "text": "[Objeto: Poção de Descongelamento A]\nDescricao:\n# Poção de Descongelamento A\n\nPoção Descongelamento A é o antídoto da Poção de Congelamento A e foi introduzido em \" Parados \". Era suposto ser usado para descongelar Finn e Jake depois deles serem amigos do Rei Gelado , mas é destruído por Gunter . Finn e Jake usaram seu cérebro aguçado para trazer a Poção de Descongelamento A ao Rei Gelado mas acidentalmente trouxeram Poção de Congelamento A.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pocao_de_descongelamento_a",
+        "nome": "Poção de Descongelamento A",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_pocao_de_descongelamento_a_aparicoes",
+      "text": "[Objeto: Poção de Descongelamento A]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_pocao_de_descongelamento_a",
+        "nome": "Poção de Descongelamento A",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

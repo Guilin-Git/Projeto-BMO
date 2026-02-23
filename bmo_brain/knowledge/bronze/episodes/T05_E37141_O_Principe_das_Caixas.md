@@ -1,16 +1,42 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 37141
 nome: "O Príncipe das Caixas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Pr%C3%ADncipe_das_Caixas"
 data_exibicao: "24/03/2014"
 diretor: "Elizabeth Ito (supervisão) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/O_Pr%C3%ADncipe_das_Caixas"
 ---
 
 # O Príncipe das Caixas
 
 **Temporada 5 — Episódio 37141**
+
+## Descrição
+" O Príncipe das Caixas " é o 37º episódio da 5ª temporada de Hora de Aventura . É o centésimo quadragésimo primeiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Finn conhece o Príncipe Caixa (um gato vestido de caixa ) e descobre que o Reino Caixa foi tomado por um impostor. Agora, Finn deve ajudar o Príncipe Caixa verdadeiro a recuperar seu trono de direito, enquanto isso, BMO ajuda Jake a tirar uma tortilla do dente
@@ -44,3 +70,31 @@ BMO é visto sentado no chão. De repente, Jake aparece, dizendo BMO que ele já
 Finn está sendo executado através da Reino Caixa, que é coberto em um completo caos. Ele encontra uma caixa mostrando um frasco de spray de água dentro, que ele tira. Ele volta para os príncipes, que ainda estão em posição de alerta, gritando. Antes de um dos Príncipes estavam prestes a arranhar o outro, Finn esguixa água sobre esse, que pára todos os cidadãos de lutar. No entanto, ele se torna confuso sobre qual gato é o verdadeiro príncipe vez que ambos são idênticos na aparência. Um dos príncipes começa a lamber o joelho de Finn, o que faz com Finn para buscá-lo e anunciar que ele é o seu verdadeiro príncipe. O outro príncipe também começa a lamber seu joelho, que ele pega, dizendo que ele "pode ​​ser este também".
 
 Todos os gatos saem. Finn começa a se questionar se o Reino Caixa é mesmo um reino real. Todos os gatos ronrom lentamente começam a esfregar suas cabeças em Finn enquanto lambia ele, e o episódio termina com Finn rindo e um monte de gatos em cima dele.
+
+## Personagens
+- Finn
+
+- Jake
+
+- BMO
+
+- Príncipe Caixa
+
+- Príncipe Caixa Impostor
+
+- Povo Caixa
+
+- Caracol
+
+## Curiosidades
+- Quando Finn olha pela a janela, dá pra ver um Reino Gelado novo e ligeiramente diferente, o que quer dizer que Gunter e os pinguins já terminaram de reconstruí-lo, desde sua destruição em " Frost & Fire ". Isso se desmente em Consertamos um Caminhão , já que o Rei Gelado ainda continua morando com Finn e Jake.
+
+- Jake está jogando Pro Football 1861 na primeira parte do episódio.
+
+- As expressões faciais das caixas mudam inexplicávelmente durante o episódio.
+
+- Aparentemente, em tese; os gatos são apenas o meio de locomoção do povo caixa.
+
+- Possivelmente Finn adora gatos como visto neste episódio.
+
+- Jake disse que odeia gatos nesse episódio, isso pode ser uma referência aos eventos de "Jake vs Me-Mow".

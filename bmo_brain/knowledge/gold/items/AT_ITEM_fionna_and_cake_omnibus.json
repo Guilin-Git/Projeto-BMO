@@ -1,0 +1,48 @@
+{
+  "id": "AT_ITEM_fionna_and_cake_omnibus",
+  "tipo": "objeto",
+  "nome": "Fionna and Cake Omnibus",
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_fionna_and_cake_omnibus_descricao",
+      "text": "[Objeto: Fionna and Cake Omnibus]\nDescricao:\n# Fionna and Cake Omnibus\n\nO Fionna and Cake Omnibus é uma coleção de fan-fic escritos por Rei Gelado . No final do episódio \" Masmorra do Mistério \", o livro em si é trazido a vida e passa a assediar o Rei Gelado, dizendo \" me escreve \" e soltando pum nele.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_fionna_and_cake_omnibus",
+        "nome": "Fionna and Cake Omnibus",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_fionna_and_cake_omnibus_informacoes",
+      "text": "[Objeto: Fionna and Cake Omnibus]\nInformacoes:\n### Nome\n\n### Espécie\n\n### Parentes",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_fionna_and_cake_omnibus",
+        "nome": "Fionna and Cake Omnibus",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_fionna_and_cake_omnibus_detalhes",
+      "text": "[Objeto: Fionna and Cake Omnibus]\nDetalhes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_fionna_and_cake_omnibus",
+        "nome": "Fionna and Cake Omnibus",
+        "secao": "detalhes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_fionna_and_cake_omnibus_curiosidades",
+      "text": "[Objeto: Fionna and Cake Omnibus]\nCuriosidades:\n- O Omnibus é um volume contendo itens anteriormente publicados separadamente, como o Livro de Fionna e Cake .\n\n- O livro é trazido a vida de cabeça para baixo.\n\n- A voz do livro em inglês é semelhante ao de Mickey Mouse.\n\n- Quando ele ainda não tem vida Rei Gelado fala: \"Para Isso\" e o Rojotor pergunta: \"Seu Díario?\", então o Rei Gelado pode ter mudado de díario desde o episódio \" A Câmara das Lâminas Congeladas \".",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_fionna_and_cake_omnibus",
+        "nome": "Fionna and Cake Omnibus",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

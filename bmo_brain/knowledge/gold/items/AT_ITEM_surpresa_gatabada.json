@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_surpresa_gatabada",
+  "tipo": "objeto",
+  "nome": "Surpresa Gatábada",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_surpresa_gatabada_descricao",
+      "text": "[Objeto: Surpresa Gatábada]\nDescricao:\n# Surpresa Gatábada\n\nSurpresa Gatábada é uma das garrafas no episódio \" O Duque \". Finn e Jake foram vistos jogando garrafas fora do castelo da Princesa Jujuba . Quando lançada, ela explode e gatos espectrais multicoloridos correm em todas as direções. É uma das poucas armas explosivas que aparecem na série.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_surpresa_gatabada",
+        "nome": "Surpresa Gatábada",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_surpresa_gatabada_aparicoes",
+      "text": "[Objeto: Surpresa Gatábada]\nAparicoes:\n### Primeira Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_surpresa_gatabada",
+        "nome": "Surpresa Gatábada",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

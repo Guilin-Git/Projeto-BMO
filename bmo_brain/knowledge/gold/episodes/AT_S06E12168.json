@@ -1,0 +1,135 @@
+{
+  "id": "AT_S06E12168",
+  "tipo": "episodio",
+  "nome": "Ocarina",
+  "total_chunks": 9,
+  "chunks": [
+    {
+      "chunk_id": "AT_S06E12168_meta",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nDiretor: -\nRoteiro: Kent Osborne Pendleton Ward Jack Pendarvis Tom Herpich Steve Wolfhard Adam Muto\nPersonagens Principais: Finn, Jake, Kim Kil Whan",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E12168_sinopse",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nSinopse: A fim de tentar trazer responsabilidade a seu pai , Kim Kil Whan compra a escritura da Casa da Árvore e obriga ele e Finn a respeitarem suas regras.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E12168_enredo_1",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nEnredo Parte 1:\nO episódio começa com um encontro de aniversário dos Filhotes de Jake e Lady , e eles estão à espera de seu pai que ficou encarregado de trazer a comida. Jake aparece sem presentes e com uma pequena porção de \"salada de macarrão\". Kim Kil Whan diz a seu pai que eles têm novos negócios para discutir; isso mais tarde se desdobra para que ele tenha comprado a escritura de sua Casa na Árvore . Jake leva-os lá para ver seu estoque de dinheiro, mas não há nada lá, devido aos eventos de \" Móveis e Carnes \". Eles só são capazes de pagar para ficarem na escada com algumas fotos antigas. A noite vem, e as pessoas se mudaram para a casa, Finn tenta se adaptar ao seu novo ambiente, a escada, mas falha quando pisado. Ele passa para o banheiro para lavar a pegada e acaba sendo preso por entrar no quarto de outra pessoa.\n\nEles são socorridos por Kim Kil Whan e, consequentemente, tributados. Isto acende uma conversa entre Jake e Finn sobre a obtenção de postos de trabalho, o que desencadeia Jake a se lembrar que ele escondeu um tesouro no jardim da frente. Eles, então, cavam o osso de ouro isso mas Kim Kil Whan confisca, dizendo-lhes que foi desenterrado em sua propriedade. Eles então deduzem que Kim Kil Whan deve estar em algum problema e precisa de seu dinheiro para resolvê-lo. Eles vinculá-lo a problemas de máfia e seguem Kim Kil Whan para sua casa em uma floresta. Eles vêem que é uma casa enorme que lhes mostra que ele é de fato rico. Então, eles atraem a atenção dele com pedras, e quando ele vem, Jake apresenta-o com o seu amor e um presente. O presente acaba por ser uma ocarina que não é oca ou mesmo útil, mas Kim Kil Whan aceita o presente e entrega a escritura da casa. Kim Kil Whan então entra em sua casa e é consolado por sua esposa . Ele conversa com sua esposa sobre o fato de que ele só queria que seu pai percebesse o mundo real e parasse de agir como uma criança, mas, em seguida, aceita que é sua escolha de vida e que \"ele é bom.\"",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "enredo",
+        "parte": 1
+      }
+    },
+    {
+      "chunk_id": "AT_S06E12168_informacoes",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nInformacoes:\n### Temporada\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E12168_creditos",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nCreditos:\n### História\n\nPendleton Ward Jack Pendarvis Tom Herpich Steve Wolfhard Adam Muto\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E12168_curiosidades",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nCuriosidades:\n- O título deste episódio é uma referência a série de videogames The Legend of Zelda.\n\n- Foi revelado que Kim Kil Whan é rico.\n\n- É a primeira vez que Viola e Kim Kil Whan falam.\n\n- Ocarina é um instrumento de sopro da família das flautas, inventado pelos maias; feito de madeira, terracota ou pedra.\n\n- É a primeira aparição de Lady Íris e de Marceline na 6ª temporada.\n\n- De acordo com o primeiro desenho do cartão de título, o nome desse episódio originalmente seria \"The Ocarina\" (\"A Ocarina\").\n\n- Parece que Kim Kil Whan tem uma esposa, junto com o que parece ser um(a) filho(a), como visto em um porta-retrato.\n\n- Até agora Charlie foi a única filha de Jake que ainda não falou.\n\n- Ironicamente, o Caracol aparece acenando na parte em que Finn e Jake acenam para Kim Kil Whan .\n\n- Na casa de Kim Kil Whan, pode-se ver uma estátua do Rei de Terra de Ooo .\n\n- Nesse episódio mostra que é o aniversário de Jake Jr. , TV , Charlie , Viola e Kim Kil Whan .",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "curiosidades"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E12168_conexoes_de_episodios",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nConexoes_De_Episodios:\n- Viola menciona a personalidade \"distraída\" de Jake , que é vista no episódio \" Incansável \".\n\n- T.V diz que ele só viu seu pai duas vezes. A primeira vez (depois do seu nascimento) em \" Traje de Jake \" e a segunda em \" Casamento de Maçã \".\n\n- Jake mencionou que gastou todos os seus tesouros, o que ele fez em \" Móveis e Carne \".\n\n- A fada vista quando Finn e Jake estão caminhando para a casa de Kim Kil Whan, assemelha-se a fada de \" Sonhos de Um Dia Chuvoso \".",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "conexoes_de_episodios"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E12168_erros",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nErros:\n- Quando Kim Kil Whan levanta para ver Finn e Jake , sua mão esquerda entra dentro do braço do sofá.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "erros"
+      }
+    },
+    {
+      "chunk_id": "AT_S06E12168_censura",
+      "text": "[Episódio: Ocarina (Temporada 6, Ep 12168)]\nCensura:\n- Finn abrindo a boca lentamente por estar ''abismado'' com o que Kim Kil Whan diz\n\n- Finn sendo pisado por um insento pequeno com uma bunda grande.\n\n- A parte do ''Close'' de Jake enconlhido e se perguntando ''Porque?''",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S06E12168",
+        "temporada": 6,
+        "numero_ep": 12168,
+        "nome": "Ocarina",
+        "characters_main": "Finn|Jake|Kim Kil Whan",
+        "characters_secondary": "Lady Íris|Jake Jr.|Charlie|TV|Viola|Pat|Marceline (cameo)|Sr. Raposo|Povo Nuvem|Povo Doce Chocofruta|Wubiwub|Minhoca|Princesa Anjo Espacial|Povo Tartaruga|Rei de Terra de Ooo (estátua)|Chocofruta",
+        "secao": "censura"
+      }
+    }
+  ]
+}

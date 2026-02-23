@@ -1,15 +1,36 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 12237
 nome: "Pré-Início"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Pr%C3%A9-In%C3%ADcio"
 data_exibicao: "30/01/2017"
 roteiro: "Aleks Sennwald"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Pr%C3%A9-In%C3%ADcio"
 ---
 
 # Pré-Início
 
 **Temporada 8 — Episódio 12237**
+
+## Descrição
+" Pré-Início " é o décimo segundo episódio da oitava temporada de Hora de Aventura. É o ducentésimo trigésimo sétimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Enquanto escavam artefatos humanos, Finn , Jake e Susana Forte são apresentados a uma estranha que talvez tenha as respostas para o passado.
@@ -25,13 +46,48 @@ Eles vêm para fora para ver um enorme robô cavando seu caminho para a superfí
 
 Finn parece feliz em vê-lo e pensou que a rainha minhoca tinha o devorado. Tiffany então diz para vir com ele e que ele vai explicar quase tudo. Finn, Jake e Susana se encolhem de ombros e seguem Tiffany para dentro. A porta se abre para eles e uma voz robótica lhes dá as boas-vindas. A passarela continua e ventos em torno de um canto. Há flores e várias formas flutuando e crescendo ao seu redor.
 
-Continua em breve
-
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Susana Forte
+
 - Tiffany
+
 - Doutora Gross
+
 - Animais híbridos
+
+
+### Menores
+
+- Betty (mencionada)
+
+- Martin (mencionado)
+
+- Rei Gelado (mencionado)
+
+- Caracol
+
+## Curiosidades
+- É revelado que o Tiffany sobreviveu dos eventos de " Dentista ".
+
+- Esse episódio junto com " Reboot " são os episódios finais da 7ª Temporada.
+
+- É revelado que o Urso Relógico de um dos sonhos de Finn em " Amor Cósmico " é real. Isso indica que o sonho foi alguma previsão dos eventos recentes da série.
+
+- Todos animais híbridos que estão no laboratório da Doutora Gross têm o mesmo chip implantado igual da cabeça da Susana Forte que foi mostrado em " Roxo Escuro " implicando que Susana Forte sofreu experiências pela Doutora Gross também.
+
+- Porém Doutora Gross não reconhecei o implante na cabeça dela, mas aparentemente sabia de onde venho.
+
+- É revelado pela Doutora Gross que ainda há humanos vivos atualmente na série.
+
+## Conexões de Episódios
+- Tiffany sobreviveu da suposta morte que ele sofreu em " Dentista " que resultou na perda do seu braço.
+
+## Referências Culturais
+- Um cientista viajando em um barco parecido com um narval poderia ser uma referência a Júlio Verne .

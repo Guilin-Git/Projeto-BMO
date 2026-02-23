@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Monte Cragdor"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Monte_Cragdor"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Monte_Cragdor"
 ---
+
+> Monte Cragdor é um lugar de Hora de Aventura.
 
 # Monte Cragdor
 

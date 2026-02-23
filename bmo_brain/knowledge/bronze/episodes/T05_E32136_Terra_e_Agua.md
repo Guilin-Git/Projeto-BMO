@@ -1,17 +1,48 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 32136
 nome: "Terra e Água"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Terra_e_%C3%81gua"
 data_exibicao: "14/08/2014 (pelo SBT) 13/09/2014 (pelo Cartoon Network)"
 diretor: "Elizabeth Ito (supervisando) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
 codigo_producao: "1014-141"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Terra_e_%C3%81gua"
 ---
 
 # Terra e Água
 
 **Temporada 5 — Episódio 32136**
+
+## Descrição
+" Terra e Água " é o 32º episódio da 5ª temporada de Hora de Aventura . É o 136 episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+13/09/2014 (pelo Cartoon Network)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Como Princesa de Fogo tenta contemplar seus problemas com  honestidade, ela ganha importantes conselhos de uma fonte improvável que muda tudo.
@@ -32,18 +63,83 @@ Já no Reino De Fogo, se encontram com os guardas reais, que so deixam eles pass
 Finn tenta se desculpar pelo acontecido em Frost & Fire mais a Princesa De Fogo o detem, dizendo que tudo o que aconteceu e passado agora, Finn se vê feliz, e pergunta se eles ainda estão namorando, mais ela nega dizendo que seu lugar agora e aqui, governando estas pessoas desonestas e perversas. Finn triste deita no chão e assuma uma posição de tristeza, mas a Princesa De Fogo o anima dizendo que ele pode ir lá a hora que ele quiser, mais só se ele prometer uma coisa, que ele seja totalmente honesto com ela, o episodio termina com Finn com cara de assustado, com a seriedade da Princesa De Fogo para que cumpra sua promessa.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Princesa de Fogo
+
 - Princesa Jujuba
+
 - Canelinha
 
+
 ### Secundários
+
 - Jake
+
 - Rei Gelado
+
 - Povo de Fogo Guardas de Fogo Rei de Fogo
+
 - Filhote Lobo de Fogo
+
 - Gunter
+
 - Serpentes de Neve
+
 - Aranha
+
 - Caracol
+
+- Guardas de Fogo
+
+- Rei de Fogo
+
+## Curiosidades
+- No Brasil este episódio passou primeiramente no canal SBT, antes de passar no Cartoon Network Brasil.
+
+- Enquanto a Princesa de Fogo falava sobre os jeitos traiçoeiros dos cidadãos do Reino de Fogo , ela faz uma referência ao famoso poeta inglês William Shakespeare .
+
+- É a segunda vez que o cabelo da Princesa de Fogo não está para cima, e parece mais longo do que usual.
+
+- O nome desse episódio é parecido com o " Frio e Fogo ".
+
+- Parece que o Rei Gelado se mudou para a casa de Finn e Jake após os eventos de "Frost & Fire" em que a Princesa de Fogo derreteu sua casa.
+
+- É revelado que o Rei Gelado emprestou sua coroa à Gunter para ele reconstruir o Reino Gelado .
+
+- O telefone banana do Rei Gelado de " Lealdade ao Rei " retorna, porém está com uma cor mais clara e tem um chaveiro de pinguim.
+
+- O lago em que a Princesa de Fogo está sentada ao lado é o mesmo lago que ela molha a mão em " Quente Demais ".
+
+- É a primeira vez que Princesa Jujuba e Princesa de Fogo são vistas interagindo diretamente.
+
+- Rei Gelado menciona pra Jake da vez em que eles se casaram, que foi em " Quando os Sinos de Casamento Derretem ".
+
+- A Princesa de Fogo diz a Finn que eles são "apenas amigos" e que eles ainda podem sair juntos se ele prometer ser honesto com ela.
+
+- Canelinha deixa o Reino Doce para viver no Reino de Fogo como companheiro da Princesa de Fogo.
+
+- Nesse episódio Canelinha vira o melhor amigo da Princesa de Fogo .
+
+- Canelinha tinha um "cão" (que na verdade é uma vassoura sem cabo) que se chama Jake. No final ele adotou um filhote de Lobo de Fogo que chamou de Jake 2.
+
+- Depois que a Princesa de Fogo virou o novo Rei de Fogo, ela estabeleceu a regra que todos devem ser honestos.
+
+- Canelinha disse que a Princesa Jujuba é do mal, talvez porque ela tirou sua luz noturna em " Mais Outras Cinco Historinhas ".
+
+- A Princesa Jujuba mostra-se meio egoísta, pois só queria ir atrás da Princesa de Fogo , para concluir sua pesquisa e não ter desperdiçado seu "precioso tempo";
+
+- Depois de tomar o Reino de Fogo , a Princesa de Fogo agora é chamada de "Rei de Fogo".
+
+## Conexões de Episódio
+- O Telefone Banana de " Lealdade ao Rei " retorna.
+
+- Rei Gelado menciona a vez em que ele e Jake se casaram, em " Quando Os Sinos de Casamento Derretem ".
+
+## Censura
+- No Cartoon Network, a parte que Jake zomba com o bumbum dele com Finn quando ele ganha é censurado.
+
+- A parte que o Rei Gelado lembra o que aconteceu em " Quando Os Sinos de Casamento Derretem " quando ele e Jake se casar por acidente foi censurado.

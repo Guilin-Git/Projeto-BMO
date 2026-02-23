@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Casa de Joshua e Margaret"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Casa_de_Joshua_e_Margaret"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Casa_de_Joshua_e_Margaret"
 ---
+
+> Casa de Joshua e Margaret é um lugar de Hora de Aventura.
 
 # Casa de Joshua e Margaret
 

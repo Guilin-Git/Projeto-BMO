@@ -1,16 +1,40 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 49153
 nome: "Péssima Hora"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/P%C3%A9ssima_Hora"
 data_exibicao: "23/06/2014"
 diretor: "Adam Muto (supervisor) Nick Jennings (art)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/P%C3%A9ssima_Hora"
 ---
 
 # Péssima Hora
 
 **Temporada 5 — Episódio 49153**
+
+## Descrição
+Péssima Hora é o 49ª episódio da 5ª temporada. É no total o 153º episódio de Hora de Aventura.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 O amor está no ar quando Princesa Caroço se reencontra com um antigo colega. Mas seu ciúme ficará no caminho de encontrar o amor verdadeiro?
@@ -33,7 +57,87 @@ Princesa Jujuba chega às portas apenas para descobrir Manfreid extinguir as cha
 Na taberna vazia, Princesa Caroço vagueia ao redor, tentando encontrar Johnnie. Princesa Jujuba aparece a partir de uma janela, dizendo: "Ele não está aqui". Ela explica que a Máquina do Tempo tinha que registrar suas moléculas antes de ela funcionar. Princesa Caroço pergunta a ela sobre o paradeiro de Johnnie, para a qual a princesa solenemente responde: "Eu não sei". Johnnie se materializa em um plano diferente e observa as duas, mas elas parecem não o notar. Princesa Caroço, em seguida, solicita que ser enviada de volta no tempo para quando ela nunca tivesse reencontrado o Johnnie. Princesa Jujuba aquiesce e envia-la de volta. Ela traz de volta a Princesa Caroço, quando ela tinha saltado pela primeira vez na esfera (querendo Brad) e começa a gritar novamente, criticando como ela nunca vai saber sua mágoa. Princesa Caroço sai, e Johnnie inclina a cabeça na tristeza, enquanto Princesa Jujuba se serve uma bebida.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Princesa Caroço
+
 - Princesa Jujuba
+
 - Johnnie
+
+
+### Menores:
+
+- Finn
+
+- Jake
+
+- Princesa Embrião
+
+- Ponche
+
+- Brad (mencionado)
+
+- Melissa (mencionada)
+
+- Rei Gelado (mencionado)
+
+- Betty (mencionada)
+
+- Rei Caroço (mencionado)
+
+- Rainha Caroço (mencionada)
+
+- Dona Tromba
+
+- Sr. Porco
+
+- Manfreid
+
+- Aldeões de Wubiwub
+
+- Garçom da Taverna Doce
+
+- Kent
+
+- Caracol
+
+## Música
+- Pegar Um Navio Para China
+
+## Curiosidades
+- Esse episódio é um dos que tiveram mais censuras no Brasil.
+
+- No preview deste episódio é possível ver a Princesa Caroço arrancando os cabelos da Princesa Jujuba.
+
+- Este episódio inteiro foi mostrado em um pequeno círculo central com pequenas criaturas dançando e fazendo várias coisas no exterior, tornando a tela menor. No final, Johnnie é visto lá depois que a Princesa Caroço o teletransporta. Alguns podem dizer que é o ponto da tela menor, mas se você assistir o episódio, você vai ver que é um universo paralelo; em que se pode olhar para a Terra de Ooo.
+
+- No final do episódio Johnnie pode ser visto no canto inferior esquerdo da tela, do lado de fora do círculo. Parece que ele é capaz de ver a Princesa quando ela sai do bar.
+
+- É a primeira vez que se mostra rivalidade entre a Princesa Caroço e a Princesa Jujuba.
+
+- Esse é o episódio com mais insinuações sexuais, os outros são " Te Peguei! ", " All the Little People " e " Jogos de Amor ".
+
+## Conexões de Episódios
+- Jake menciona Simon trazendo Betty para o futuro no episódio " Betty ".
+
+- Princesa Caroço queria estar com seu ex-namorado Brad , que fez sua aparição em "Problemas na Terra do Caroço".
+
+- As criaturinhas que a Princesa Jujuba usa como cobaia são as mesmas que ela faz experiência em " O Lich ".
+
+## Referência Cultural
+- Um dos registros de Johnnie é uma cópia do álbum de Frank Zappa , Apostrophe ('), que a Princesa Caroço usa como máscara em uma brincadeira que ela e seu amigo fizeram as pazes.
+
+## Censura
+- É censurado quando a Princesa Caroço arranca os cabelos da Princesa Jujuba.
+
+- É censurado todo O Discurso da Princesa Jujuba.
+
+- É censurado Johnnie convidando a Princesa Caroço para ir em sua casa.
+
+- É censurado a Princesa Caroço colocando fogo no Castelo Doce.
+
+- É censurado a fala da Princesa Caroço: "Você não sabe o que é sofrer com o Reino Doce admirando seu traseiro de chiclete" e na dublagem ela só fala até o Reino Doce e silenciam a sua fala.
+
+- É censurado a Princesa Jujuba bebendo no final.

@@ -1,17 +1,46 @@
 ---
+tipo: "episodio"
 temporada: 6
 numero_ep: 23179
 nome: "A Guerra do Pijama"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/A_Guerra_do_Pijama"
 data_exibicao: "16/02/2015"
 diretor: "Cole Sanchez (supervisor) Nick Jennings (arte)"
 roteiro: "Kent Osborne Pendleton Ward Jack Pendarvis Adam Muto"
 codigo_producao: "1025-189"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/A_Guerra_do_Pijama"
 ---
 
 # A Guerra do Pijama
 
 **Temporada 6 — Episódio 23179**
+
+## Descrição
+" A Guerra do Pijama " é o 23º episódio da 6ª temporada de Hora de Aventura . É o centésimo septuagésimo nono episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+Pendleton Ward Jack Pendarvis Adam Muto
+
+
+### Escritor
 
 ## Sinopse
 Quando Finn e a Princesa Jujuba somem de uma festa do pijama, os outros convidados entram em pânico.
@@ -46,8 +75,101 @@ Jake diz que ele deve fazer algo, então ele envia fotos engraçadas de si mesmo
 Crocante retomou esta lacuna, obtido a coroa pintada e está montando no Coronel como um cavalo, e depois tenta matar Starchie por fazer os outros empurrá-lo para dentro da cratera. A Princesa aparece e envia todos de volta para seus sacos de dormir sob a promessa de uma história, que é sobre a história da roupa do homem moderno. Finn olha para as fotos dele e a Jujuba em seu celular dando risadas.
 
 ## Personagens
-### Principais
+
+### Principais:
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Povo Doce Timmy Coronel Milho Doce Crocante Dr. Rosquinha Sr. Bolinho Starchy Dr. Sorvete Chocolate Banana Chocolate Pessoal do Castelo Gominha 1 Gominha 2 Pequeno Sorvete Sr. Sorvete Rosquinha Bastão de Caramelo Caramelinha Manfried Chet Moranguinha Guardas Banana Biscoito de Gengibre Muto
+
+- Timmy
+
+- Coronel Milho Doce
+
+- Crocante
+
+- Dr. Rosquinha
+
+- Sr. Bolinho
+
+- Starchy
+
+- Dr. Sorvete
+
+- Chocolate
+
+- Banana Chocolate
+
+- Pessoal do Castelo
+
+- Gominha 1
+
+- Gominha 2
+
+- Pequeno Sorvete
+
+- Sr. Sorvete
+
+- Rosquinha
+
+- Bastão de Caramelo
+
+- Caramelinha
+
+- Manfried
+
+- Chet
+
+- Moranguinha
+
+- Guardas Banana
+
+- Biscoito de Gengibre Muto
+
+
+### Menores:
+
+- Canelinha (mencionado)
+
+- Dona Tromba
+
+- Sr. Porco
+
+- BMO (mencionado)
+
+- Martin (mencionado)
+
+- Caracol
+
+## Curiosidades
+- É revelado que a Princesa Jujuba possui um gato gigante chamado Timmy .
+
+- Sr. Porco ficou com ciúme de Finn nesse episódio.
+
+- Nesse episódio pode-se ver que Princesa Jujuba conseguiu um novo pijama, já que deu a sua Camisa de Rock para Maja em troca de Hambo em " A Bruxa do Céu ".
+
+- É o primeiro episódio a passar em 2015.
+
+- É revelado mais uma passagem secreta no Castelo Doce.
+
+- De acordo com Chet, o Povo Doce exala um gás tóxico, mas isso não passou de um sensacionalismo a respeito do dióxido de carbono, revelando assim que o povo doce possui um sistema respiratório ao menos similar ao dos animais (inclusive humanos).
+
+- É revelado que Finn e Jake possuem telefones modernos.
+
+## Referências Culturais
+- O cartão de título é uma referência a pintura de Eugene Delacroix feita em 1830, chamado de Liberdade que Conduz os Povos .
+
+- Talvez a ideia de uma passagem secreta dentro de um guarda-roupa cheio de casacos de pele seja uma referência ao romance The Lion, The Witch and the Wardrobe , do escritor britânico C. S. Lewis, onde crianças são levadas a um mundo mágico através de um guarda-roupa.
+
+## Conexões de Episódios
+- É a segunda vez que a Princesa Jujuba dá uma festa do pijama, a primeira foi em " Pânico na Festa do Pijama ".
+
+- Finn diz para Dona Tromba: "Vem Dona Tromba e traga seus pãezinhos" a mesma frase que ele diz em " Pânico na Festa do Pijama ".
+
+- Finn menciona seu pai biológico .
+
+- Starchy chama Crocante de "Novo Canelinha" devido ao fato de Canelinha ter mudado para o Reino de Fogo em " Terra e Água ".

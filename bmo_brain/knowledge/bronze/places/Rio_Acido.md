@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Rio Ácido"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Rio_%C3%81cido"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Rio_%C3%81cido"
 ---
+
+> Rio Ácido é um lugar de Hora de Aventura.
 
 # Rio Ácido
 

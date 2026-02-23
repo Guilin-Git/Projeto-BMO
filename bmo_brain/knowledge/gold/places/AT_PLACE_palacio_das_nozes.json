@@ -1,0 +1,28 @@
+{
+  "id": "AT_PLACE_palacio_das_nozes",
+  "tipo": "lugar",
+  "nome": "Palácio das Nozes",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_PLACE_palacio_das_nozes_descricao",
+      "text": "[Lugar: Palácio das Nozes]\nDescricao:\n# Palácio das Nozes\n\nO Palácio das Nozes é a casa do Duque das Nozes , sua família e os outros Povo Nozes . Tudo aqui, incluindo aves e árvores, é porca-temático. É palácio, não é um reino, porque ele é governado por um duque e duquesa. Desconhece-se se o palácio é um território independente ou uma província subordinada dentro do Reino Amendoim governado pela Princesa Amendoim .",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_palacio_das_nozes",
+        "nome": "Palácio das Nozes",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_PLACE_palacio_das_nozes_castelo",
+      "text": "[Lugar: Palácio das Nozes]\nCastelo:\nO Castelo é uma pequena estrutura de propriedade do Duque e da Duquesa das Nozes. É menor do que um castelo média e mais como uma casa de verão. Há um grande salão de algum tipo, onde eles celebraram o primeiro aniversário do segundo filho do duque em \" Criado \". O Mordomo Lisby parece guardar a porta da frente, junto com vários outros Povo Nozes.",
+      "metadata": {
+        "tipo": "lugar",
+        "doc_id": "AT_PLACE_palacio_das_nozes",
+        "nome": "Palácio das Nozes",
+        "secao": "castelo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "AT_ITEM_celular_da_marceline",
+  "tipo": "objeto",
+  "nome": "Celular da Marceline",
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_celular_da_marceline_descricao",
+      "text": "[Objeto: Celular da Marceline]\nDescricao:\n# Celular da Marceline\n\nO Celular da Marceline é um objeto usado por ela em \" Vem Comigo \".",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_celular_da_marceline",
+        "nome": "Celular da Marceline",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_celular_da_marceline_aparicoes",
+      "text": "[Objeto: Celular da Marceline]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_celular_da_marceline",
+        "nome": "Celular da Marceline",
+        "secao": "aparicoes"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_celular_da_marceline_aparencia",
+      "text": "[Objeto: Celular da Marceline]\nAparencia:\nO Celular da Marceline aparece primeiramente como um inseto, mas quando Marceline o esmaga, ele vira um telefone-celular. Na forma de inseto, ele tem uma semelhança a um peixe e tem o tamanho de um telefone médio.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_celular_da_marceline",
+        "nome": "Celular da Marceline",
+        "secao": "aparencia"
+      }
+    }
+  ]
+}

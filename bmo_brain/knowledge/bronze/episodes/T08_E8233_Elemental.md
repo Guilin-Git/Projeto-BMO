@@ -1,15 +1,36 @@
 ---
+tipo: "episodio"
 temporada: 8
 numero_ep: 8233
 nome: "Elemental"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Elemental"
 data_exibicao: "19/09/2016"
 diretor: "Elizabeth Ito"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Elemental"
 ---
 
 # Elemental
 
 **Temporada 8 — Episódio 8233**
+
+## Descrição
+" Elemental " é o oitavo episódio da oitava temporada de Hora de Aventura. É o duzentos e trigésimo terceiro episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### Escritor
 
 ## Sinopse
 Rei Gelado desenterra algo misterioso embaixo do Reino Gelado .
@@ -26,11 +47,70 @@ Ela explica que sempre houve encarnações dos quatro elementos, fogo, gelo, doc
 Ela então passa a mostrar às princesas seus poderes, que Bonnibel tenta usar contra ela. Mesmo que ela tenha falhado, posteriormente depois que Patience escorrega em uma jujuba, naufraga seu barco e, finalmente, liberta as princesas. Com raiva, Patience carrega em direção a eles, apenas para ser incapacitado pelo lodo da Princesa Geleca. O episódio termina com o Rei Gelado ajudando Patience a se libertar enquanto ela revela seus planos. Rei Gelado então descobre que suas chaves estão alojadas em sua garganta.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Paciência St. Pim
+
 - Rei Gelado
+
 - Princesa Jujuba
+
 - Princesa Gosminha
+
 - Princesa de Fogo
+
+
+### Menores
+
+- Starchy
+
+- Guardas Banana
+
+- Canelinha
+
+- Gunter
+
+- Morte (quadro)
+
+- Gelo (elemental) (flashback)
+
+- Gosma (elemental) (flashback)
+
+- Fogo (elemental) (flahback)
+
+- Lich (como visão) (Flashback)
+
+- Evergreen (flashback)
+
+- Caracol
+
+## Curiosidades
+- Neste episódio o Rei Gelado tem um facilidade muito maior para capturar princesas comparadas com a da primeira temporada.
+
+- É revelado que a Princesa Jujuba , Princesa Geleca , e Princesa de Fogo são reencarnações dos elementares do episódio " Evergreen ".
+
+- É revelado que Starchy tem um quadro da Morte pendurado em sua casa. Não se sabe se ele se encontrou pessoalmente com ele ou se ele o admira como um ídolo.
+
+- Desde que a Princesa Jujuba descobriu que é parte de um dos elementais, é revelado que ela tem a habilidade de soltar doces das mãos, de forma similar do Chett Speery .
+
+- É a primeira vez que mostram a bomba da Guerra dos Cogumelos explodindo (que não seja da realidade de Farmworld ).
+
+- Esse episódio confirma que a bomba não causou a grande cratera na Terra; por mais poderosa que ela tenha sido.
+
+- Este episódio marca a primeira vez que Rei Gelado raptou uma princesa, a Princesa de Fogo .
+
+- É revelado que os Elementais podem ter visões do futuro que sempre envolva o Lich e um grande desastre. Isso explica como a Princesa Jujuba previu o retorno de Lich em " Folia Mortal " e como ela sabia que o Billy na verdade era o Lich disfarçado em " O Lich ".
+
+- De todos os elementais, os de gelo parecem ser os únicos que se distanciam do grupo. Evergreen era arrogante, se achava mais superior e inteligente que os outros; Paciência é jovial e alegre, mas quando contrariada fica emburrada e um tanto irritada. Rei Gelado não faz parte desse grupo porque era um ser humano comum que foi afetado pelo poder da Coroa .
+
+## Conexões de episódios
+- Princesa Jujuba estava usando a mesma roupa que ela usava em " Os Cineastas ".
+
+- Rei Gelado faz o seu antigo ato de capturar princesas nesse episódio, coisa que ele fazia nos episódios antigos.
+
+- Paciência explica que Elementais podem ter visões do futuro que envolve uma catástrofe com o Lich , e nesse episódio revela que Princesa Jujuba é uma dos Elementais, o que explica do porquê ela viu o Lich enquanto meditava em " Folia Mortal ".

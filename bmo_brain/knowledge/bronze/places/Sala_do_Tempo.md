@@ -1,8 +1,10 @@
 ---
 tipo: "lugar"
 nome: "Sala do Tempo"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Sala_do_Tempo"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Sala_do_Tempo"
 ---
+
+> Sala do Tempo é um lugar de Hora de Aventura.
 
 # Sala do Tempo
 
@@ -12,3 +14,6 @@ A Sala do Tempo é uma dimensão localizada no centro do Multiverso que existe f
 Uma forma de chegar a Sala do Tempo, é adicionar às nove gemas preciosas das coroas de poder ao Enquirídio. Uma vez que a última joia é inserida no livro, ele terá o poder de criar um portal para qualquer dimensão no Multiverso.
 
 Cada ser do Multiverso possui o direito de ter um pedido - independentemente qual seja - concedido pelo mestre de desejos Prismo. Uma vez que o indivíduo fez o seu pedido, ele é enviado a uma linha do tempo onde seu desejo é realizado. Qualquer ser presente na Sala do Tempo que ainda não tenha feito o seu desejo não é afetado pelos desejos anteriores. Algo importante a se citar, é que o indivíduo deve ser extremamente específico em relação ao seu pedido, caso o contrário, ele não pode sair como o desejado.
+
+## Curiosidades
+- A Sala do Tempo possui o formato de uma Esponja de Menger .

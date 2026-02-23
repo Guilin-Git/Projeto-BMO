@@ -1,16 +1,37 @@
 ---
+tipo: "episodio"
 temporada: 4
 numero_ep: 280
 nome: "Cinco Historinhas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Cinco_Historinhas"
 diretor: "Larry Leichliter"
 roteiro: "Kent Osborne Patrick McHale Pendleton Ward"
 codigo_producao: "1008-079"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Cinco_Historinhas"
 ---
 
 # Cinco Historinhas
 
 **Temporada 4 — Episódio 280**
+
+## Descrição
+" Cinco Historinhas " é o segundo episódio da quarta temporada de Hora de Aventura . É o octagésimo episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 Cuber , um ser cósmico, conta 5 histórinhas diferentes, para que adivinhemos o tema.
@@ -18,12 +39,110 @@ Cuber , um ser cósmico, conta 5 histórinhas diferentes, para que adivinhemos o
 ## Enredo
 O episódio começa com um homem estranho chamado Cuber saudando os espectadores, ele diz que vai mostrar uma série de cinco curtas dos "tempos antigos", todos de alguma forma ligados, e gostaria que você adivinhasse qual é o "tema". Ele, então, pega sua holo-pirâmide que tem imagens de Finn e Jake, BMO, a Princesa Jujuba, O Rei Gelado, e a Princesa Caroço. As histórias começam.
 
+
+### BMO
+
+Finn e Jake deixam BMO sozinho em casa, como a alegação de que eles estão indo para o "Reino Supermercado" e diz que eles estarão de volta na Casa Na Árvore em uma hora. BMO , em seguida, vai até o banheiro, tranca a porta e, em seguida, chama por Finn e Jake para se certificar de que ninguém está olhando. Quando BMO acha que ninguém está olhando, ele fala para si mesmo, através do espelho. BMO finge ter um amigo imaginário chamado "Futebol" e pretende impressionar o amigo, mostrando que ele é um "menino de verdade". Futebol está impressionado com todas as coisas BMO realiza como "escovar os dentes", "limpeza com água e sabão", e "fazer xixi", embora BMO apenas finge fazer essas coisas e faz um mal trabalho de fazê-lo. A câmera então Reduz para Finn e Jake assistindo BMO o tempo todo, o que Finn comenta sobre as ações estranhas de BMO quando eles sumiram. Eles, então, marcam "Provar que Beemo faz coisas estranhas quando ninguém está por perto" na sua lista de coisas para fazer.
+
+
+### Finn e Jake
+
+Ao realizar isso, eles tentam fazer um "toca aqui" (conhecido também como high-five), mas falham e tocam, eles acharam muito fraco e tentam novamente, mas desta vez começam a correr. Eles conseguem, mas eles acham que podem fazer melhor e de volta ainda mais para uma ainda maior "toca aqui". Depois de realizar essa conquista, Finn diz que sabe como fazer o "maior toca-aqui de todos", e Jake diz: " Você ficou louco com o poder, e eu estou adorando". Há uma mudança de cena e Finn é visto em uma catapulta falando através de um walkie-talkie para Jake , que está no Deserto da Morte , utilizando um esqueleto desconhecido e Jake usando seus poderes elásticos para catapultar-se, Finn, em seguida, exclama "SUPER TOCA-AQUI SUPREMO! " e elas são empurradas um para a outro, e a cena muda.
+
+
+### Pricesa Jujuba
+
+Princesa Jujuba é mostrado trabalhando duro para criar um sanduíche. Ela faz o queijo, girando em torno de uma vaca em uma centrífuga. Ela, então, cria a alface crescendo e encolhendo um pequeno pedaço de alface para o tamanho perfeito com produtos químicos, ela faz um tomate através da combinação de uma água-viva e um balão em uma máquina de transporte, ela canta períodos ímpares para fazer um pão. Depois de fazer tudo isso, ela corta os ingredientes e os combina de uma forma única em que ela apresenta para o Canelinha como "o melhor sanduíche que já existiu e sempre existirá nesse espaço tempo." Para seu horror, Canelinha coloca o sanduíche diretamente em seu estômago sem provar o sabor, então ele regurgitar a maior parte do que fora em seu rosto da Princesa e o chão. Canelinha, em seguida, agradece pelo sanduíche e vai embora dizendo: "na paz". Por trás de uma janela, Finn é visto voando pelo ar, gritando, quando a cena termina.
+
+
+### Rei Gelado
+
+Na cena seguinte, Rei Gelado busca através de sua fortaleza para a fonte do mau cheiro. Ele encontra Gunter e acusa-o de estar fedendo. O Rei Gelado diz à Gunter para não se preocupar porque ele vai resolver o problema. Ele então coloca Gunter em um chão de gelo e envia-lo ao mar, alegando que ele nunca terá sucesso na aquisição de uma princesa enquanto Gunter estiver "infestando o lugar". No entanto, ao voltar para sua caverna, o Rei Gelado descobre que ainda cheira. Com Gunter fora de cogitação, o Rei rapidamente percebe que suas axilas são a fonte do mau cheiro terrível. A cena corta para um pinguim girando o geristro do chuveiro, e vemos o Rei Gelado de pé no chuveiro com os braços erguidos e os pinguins esfregando furiosamente suas axilas como ele ordena-los para esfregar com mais força. Após o banho, o Rei Gelado descarta os pinguins que estavam lavando-o em uma pilha de lixo. Ele, então, volta-se para descobrir que Gunter voltou, e ele está encharcado. O Rei Gelado alegremente diz ao Gunter de sua descoberta de que suas axilas eram a fonte do mau cheiro, e então ele se desculpa quando ele carrega o pinguim para dentro. O Rei Gelado observa em voz alta que ele não tem idéia de como as axilas ficarão tão fedorentas, imediatamente após o Gunter fica debaixo do braço do Rei Gelado, ele solta um pum sem o Rei mesmo perceber, revelando que Gunter era a verdadeira origem do cheiro, afinal. Depois que isso acontece, Jake é visto voando pela janela e, em seguida, a cena muda.
+
+
+### Princesa Caroço
+
+A cena final abre no " Show de Talentos do Reino Doce " com Mordomo Menta como apresentador. No palco, Marc tenta fazer cestas, mas só faz duas de 10. No bastidores, Princesa Caroço se gaba de que sua interpretação de " Meus Caroços " vai garantir sua vitória. Ela começa a cantar a sua música nos bastidores. Quando ela começa a correr no palco Mordomo Menta informa que ela não é o próxima. Em vez disso, um grupo de meninas doces aparece, e para horror Princesa Caroço, elas executam sua canção, "Meus Caroços". Depois que terminar , a Princesa Caroço perturbada sobe ao palco e murmura sua música. A multidão acusa de roubar o ato anterior. Na raiva, ela joga uma bola de basquete em um membro da platéia. A bola ricocheteia e faz uma cesta. A Princesa repete isso duas vezes. O público adora, e a Princesa Caroço é nomeada a vencedora, mas, de repente, Finn e Jake completam o "Toca-aqui Supremo" sobre o palco causando um estrondo sônico e caem no chão. O público é ainda mais impressionado e Mordomo Menta nomea Finn e Jake vencedores do show de talento, fazendo a Princesa Caroço frustrada com a derrota.
+
+
+### O Tema
+
+No final, Cuber pergunta se o espectador adivinhou o tema das histórias, e diz ao espectador uma pausa na apresentação para pensar. Ele então revela que o tema foi os cinco sentidos, visão, tato, paladar, olfato e audição. BMO vê seu reflexo no espelho, Finn e Jake realizam um "toca-aqui". Rei Gelado tenta se livrar do mau cheiro. Princesa Jujuba faz um sanduíche para Canelinha . E Princesa Caroço canta sua música.
+
 ## Personagens
+
 ### Principais
+
 - Cuber
+
 - BMO
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Rei Gelado
+
 - Princesa Caroço
+
+
+### Menores
+
+- Canelinha
+
+- Mordomo Menta
+
+- Gunter
+
+- Princesa Frutinhas
+
+- Garota Pirulito
+
+- Moranguinha
+
+- Gominha 1
+
+- Gominha 2
+
+- Rosquinha
+
+- Banana Chocolate
+
+- Mágico Doce
+
+- Marc
+
+## Curiosidades
+- A holo-pirâmide de Cuber tem 4 lados.
+
+- Apesar de ter 4 lados, são 5 histórias. Isso é porque um dos lados muda quando Cuber está os mostrando que era o do BMO que mudou pra Princesa Caroço .
+
+- Cuber parece ser um homem do futuro. Essa hipótese se concretiza por suas roupas e por sua frase, dizendo que mostrará 5 histórias de tempos idos, e em outro episódio ele vai á terra, e é muito parecida (ou é) a terra do futuro.
+
+- Não se sabe como Cuber ficou sabendo das histórias.
+
+- Cuber usa cristais como fogueira.
+
+- É revelado que Mordomo Menta luta karatê.
+
+- É revelado que Canelinha tem uma boca na região do estomago, que também tosse.
+
+- É mostrado no CardTitulo Finn voando e Cuber dentro de uma nave ou uma dimensão de cristal.
+
+- Aparece um holograma da terra com uma cratera do lado de Cuber.
+
+## Referências Culturais
+- O teletransporte que a Princesa Jujuba usa para fazer um tomate é semelhante ao um filme de 1958 (remake em 1986) chamado "A Mosca", onde um acidente de teletransporte de um humano, acidentalmente o transforma em uma mosca mutante (No caso da Princesa Jujuba, foi intencional)
+
+- A cena em que a Princesa Jujuba alimenta o alface com pingos de alguma solução usando um conta-gotas é uma referência ao filme "A Pequena Loja de Horrores" (remake em 1960), onde o protagonista alimentava uma planta carnívora com gotas de seu sangue.
+
+- Os movimentos da boca da Princesa Jujuba ao dizer a palavra "queijo" imita o personagem Wallace da série "Wallace e Gromit". Wallace é conhecido por sua maneira de dizer a palavra "queijo".
+
+## ​Erro
+- Quando o BMO bateu o sabonete na cara e a "Futebol" colocou as mãos na boca o BMO ainda estava com o sabonete na mão.
+
+- Neste episódio, Canelinha come pela barriga, mas em " De Mal a Pior " ele come a carne de zumbi pela boca.
+
+- Princesa Jujuba é vista na plateia do Show de Talentos, porém, quando ela da o sanduíche para o Canelinha e ele sai é visto Finn voando pela janela. Seria uma questão de poucos segundos até o Finn tocar o Jake.

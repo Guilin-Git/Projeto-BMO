@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Forno Doce"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Forno_Doce"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Forno_Doce"
 ---
+
+> Forno Doce é um objeto/item de Hora de Aventura.
 
 # Forno Doce
 

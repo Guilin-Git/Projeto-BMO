@@ -1,0 +1,14 @@
+{
+  "id": "AT_ITEM_robo_dos_executivos",
+  "tipo": "objeto",
+  "nome": "Robô dos Executivos",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Rob%C3%B4_dos_Executivos",
+  "sections": {
+    "descricao": "# Robô dos Executivos",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "Tem um chapéu igual o de Finn com um \"rosto\" onde pode se ver os controladores, tem uma espécie de mochila atrás de suas costas. Usa uma camisa azul com um tubo que suga pessoas para uma bola transparente onde elas ficam. Tem três pernas robóticos.",
+    "sobre": "Os Executivos usaram para proteger o Povo Felpudo, guardando dentro de sua bola transparente. Foi destruido por Jake após aumentar seu tamanho dentro dele até fazê-lo explodir.",
+    "curiosidades": "- O robô é semelhante a Finn ."
+  },
+  "source_file": "Robo_dos_Executivos.md"
+}

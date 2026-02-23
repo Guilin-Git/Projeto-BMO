@@ -1,0 +1,28 @@
+{
+  "id": "AT_ITEM_chapeu_de_fionna",
+  "tipo": "objeto",
+  "nome": "Chapéu de Fionna",
+  "total_chunks": 2,
+  "chunks": [
+    {
+      "chunk_id": "AT_ITEM_chapeu_de_fionna_descricao",
+      "text": "[Objeto: Chapéu de Fionna]\nDescricao:\n# Chapéu de Fionna\n\nO chapéu de Fionna é um item fictício pertencente a Fionna . tem orelhas bem grandes e assemelhando com orelhas de coelho. Ele aparece em todos os episódios que Fionna aparece. Como o chapéu do Finn é feito de pele de urso, acredita-se que o da Fionna seja de coelho.\n\nNo episódio \" Menininho Mal \", ela o tira, revelando um cabelo tão grande que arrasta no chão, como o de Finn antes. Ao contrário de Finn, ela deixa uma mecha de cabelo para fora do chapéu.",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_chapeu_de_fionna",
+        "nome": "Chapéu de Fionna",
+        "secao": "descricao"
+      }
+    },
+    {
+      "chunk_id": "AT_ITEM_chapeu_de_fionna_aparicoes",
+      "text": "[Objeto: Chapéu de Fionna]\nAparicoes:\n### Primeira Aparição\n\n### Última Aparição",
+      "metadata": {
+        "tipo": "objeto",
+        "doc_id": "AT_ITEM_chapeu_de_fionna",
+        "nome": "Chapéu de Fionna",
+        "secao": "aparicoes"
+      }
+    }
+  ]
+}

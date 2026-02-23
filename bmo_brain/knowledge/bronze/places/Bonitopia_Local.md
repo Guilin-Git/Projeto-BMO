@@ -1,10 +1,23 @@
 ---
 tipo: "lugar"
 nome: "Bonitopia (Local)"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Bonitopia_(Local)"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Bonitopia_(Local)"
 ---
+
+> Bonitopia (Local) é um lugar de Hora de Aventura.
 
 # Bonitopia (Local)
 
 ## Descrição
 Bonitopia era o lar da tribo Hyooman antes de ser tomada pelos Ameboides , como visto no episódio " Bonitopia ". Ele está localizado no fundo do sistema de cavernas que Finn e Jake descobriram sob a escotilha perto do Reino Doce em " Susana Forte ". Após os Ameboides expulsar os Hyoomans, eles foram obrigados a retirar-se para os montes de lixo perto da entrada da escotilha. Bonitopia foi recuperado por Finn, Jake e Susana Forte . Parece que fica em uma cidade comercial abandonada; várias lojas podem ser vistas. Em um ponto os Ameboides emergem de uma das lojas. No centro de Bonitopia, há uma torre, que atua como um dispositivo de iluminação para a cidade inteira. Uma vez que a torre principal é iluminada, uma série de outras chamas são iluminadas a partir dele. Isto é o que expulsou os Ameboides. O cartão de título do episódio mostra que talvez tenha sido um resort de luxo do litoral.
+
+## Utopia (significado)
+Utopia tem como significado mais comum a ideia de civilização ideal, imaginária, fantástica. Pode referir-se a uma cidade ou a um mundo, sendo possível tanto no futuro, quanto no presente, porém em um paralelo. Pode também ser utilizado para definir um sonho ainda não realizado. Uma fantasia, uma esperança muito forte.
+
+A palavra foi criada a partir dos radicais gregos οὐ, "não" e τόπος, "lugar", portanto, o "não-lugar" ou "lugar que não existe". (Resultado a partir do site Wikipédia )
+
+## Áreas
+
+### Coração da Cidade
+
+O Coração da Cidade é a fonte de luz para Bonitopia, que se assemelha a um farol vermelho. Susana Forte diz para Finn e Jake usarem a Flor Vermelha (fogo) para iluminar o coração da cidade. Apesar dos esforços dos Ameboides de impedir que seja aceso, Jake acende e os Ameboides se queimam. Ele também ilumina agora toda Bonitopia, tornando-se um ambiente melhor para a tribo Hyoomano.

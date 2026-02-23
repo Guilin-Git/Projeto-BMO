@@ -1,17 +1,53 @@
 ---
+tipo: "episodio"
 temporada: 2
 numero_ep: 2450
 nome: "Folia Mortal"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Folia_Mortal"
 data_exibicao: "02/05/2011"
 diretor: "Larry Leichliter"
 roteiro: "Mark Banker Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1002-049"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Folia_Mortal"
 ---
 
 # Folia Mortal
 
 **Temporada 2 — Episódio 2450**
+
+## Descrição
+" Folia Mortal " é o 24º episódio da 2ª temporada de Hora de Aventura . É o 50º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+- Mark Banker
+
+- Patrick McHale
+
+- Kent Osborne
+
+- Pendleton Ward
+
+
+### Escritor
+
+- Rebecca Sugar
+
+- Adam Muto
 
 ## Sinopse
 ﻿Finn e Jake saem em uma missão para encontrar Lich enquanto o Rei Gelado os importuna pedindo permissão para se casar com a Princesa Jujuba .
@@ -28,16 +64,59 @@ Quando chegaram lá, Lich trás a vida alguns mortos vivos que rasgam a mochila 
 O Rei Gelado comemorou tanto que acabou derrubando a Princesa Jujuba no poço.
 
 ## Personagens
+
 ### Principais
+
 - Finn
+
 - Jake
+
 - Princesa Jujuba
+
 - Rei Gelado
+
 - Lich
+
 - Caracol
 
+
 ### Secundários
+
 - Mordomo Menta .
+
 - Esqueletos .
+
 - Lady Íris .
+
 - Billy (mencionado).
+
+## Curiosidades
+- O cartão titulo representa Finn e Jake olhando para a explosão causada quando o Lich chega ao poço de poder.
+
+- "Mortal Folly" (nome original do episódio) pode ​​significar "uma morte tola" ou "um ato fatal e tolo". Isso pode ser referência quando o Rei Gelado quase matou a Princesa Jujuba de uma forma tola.
+
+- Este e " Recuo Mortal " fazem são os primeiros episódios a fazerem sequência na série.
+
+- Este é o primeiro episódio em que o caracol tem um papel importante.
+
+- Rei Gelado estava na presença do Lich sem a proteção de jóias da princesa Jujuba. Mais tarde no episódio " O Lich " é mostrado que a Coroa do Rei Gelado possui joias que o protege do Lich, pois Finn e Jake pegam ela pra colocarem no Enchiridion . Outra prova está em uma HQ de Hora de Aventura quando o Rei Gelado diz que sua coroa possui joias que protegem ele do Lich e Princesa Jujuba confirma.
+
+- O covil do Lich está em uma estação de metrô a partir de antes da Guerra dos Cogumelos .
+
+- Um dos chifres do Lich está quebrado, mas ele não está quebrado na visão da princesa Jujuba.
+
+- No covil do Lich um dos metrôs parece ter dois motores a jato montado em cima dele.
+
+- Foi a primeira vez que a Princesa Jujuba esteve a ponto de morrer, já que caiu dentro do poço de poder do Rei Lich .
+
+- Perto da entrada do metrô havia um míssil não detonado com a marca de uma caveira.
+
+## Conexões do episódio
+- Quando Finn e Jake vão para a praia, eles passam pelo pier que foi feito pelos executivos de " Hora de Negócios "
+
+## Erros
+- Quando Finn olha o Lich recuperar sua energia no poço, Finn está com sua mochila.
+
+- Nesse episódio, Princesa Jujuba afirma que Billy venceu o Lich com a Manopla do Poder . Porém, no episódio " O Herói Dele ", ele usa apenas um chute. Não se sabe se é um erro, pois Billy pode ter vencido ele mais de uma vez.
+
+- Quando Finn e Jake estavam na trilha de morte do Lich, Rei Gelado aparece, Finn cai em cima dele, eles rolam e ambos parecem parar em outra trilha.

@@ -1,17 +1,44 @@
 ---
+tipo: "episodio"
 temporada: 5
 numero_ep: 18122
 nome: "Festinha de Princesas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Festinha_de_Princesas"
 data_exibicao: "21/10/2013"
 diretor: "Adam Muto (supervisão) Nick Jennings (arte)"
 roteiro: "Patrick McHale Kent Osborne Pendleton Ward"
 codigo_producao: "1014-122"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Festinha_de_Princesas"
 ---
 
 # Festinha de Princesas
 
 **Temporada 5 — Episódio 18122**
+
+## Descrição
+" Festinha de Princesas " é o 18º episódio da 5ª temporada de Hora de Aventura . É o 122º episódio no total.
+
+## Informações
+
+### Temporada
+
+
+### Código de Produção
+
+
+### Exibição
+
+
+### Exibição (BR)
+
+## Créditos
+
+### Diretor
+
+
+### História
+
+
+### Escritor
 
 ## Sinopse
 O Rei Gelado faz todo o possível para arruinar a festa da Princesa Jujuba , porque ele não foi convidado. Usando uma variedade de táticas.
@@ -30,3 +57,89 @@ A cena muda para Finn, que pede a Gunter uma de suas meias. Ele eletrocuta para 
 Sua próxima idéia é criar um outro festa, a fim de torná-los com ciúmes. Ele cria alguns bonecos de neve e diz a Guntelina para ir servir comida para eles, que empurra as bandejas em seus estômagos. Seu rádio começa a tocar outra música, que o Rei realmente gosta. Ele começa a dançar com Roger , mas as princesas parecem não notá-lo. Rei Gelado deseja que ele poderia magicamente destruir a festa, de repente percebendo que ele pode, como ele é um mago. Ele começa a atacar a festa como ele voa para o céu e cai um raio de gelo gigante perto de Finn e depois chove granizo em todos. Todo mundo se refugia na Princesa Pula-Pula exceto Finn, a quem o Rei atira mais raios de gelo gigantes. Finn então tira um de seus sapatos pula pegando impulso sobre a Princesa Pula-Pula sobre o Rei Gelado e coloca o sapato em seu nariz, fazendo com que ele caia. Quando Finn questiona ele, Rei Gelado afirma que ele fez isso porque ele não foi convidado para a festa. Princesa Jujuba aponta que ela teve, de fato, enviar-lhe um convite pelo correio. Rei Gelado, em seguida, diz que sempre espera até que suas pilhas de correio para cima e cai, pedaços de TI e é feita em artesanato. Ele, então, pergunta se ele pode divertir com eles, para que Finn concorda com a condição de que "não pirar a cachola".
 
 A festa recomeça com Rei Gelado, que agora esta feliz, saltando com Finn e Jake na Princesa Pula-Pula enquanto Finn faz outro sapato para seus pés. Princesa Jujuba anuncia que é hora para o sorteio, e que o vencedor é Finn, que ganha um Toicinho do Mar . Jake é, então, de repente, atingido na cabeça por uma flecha, e todo mundo se vira para ver o Esquilo Raivoso . Que espuma pela boca, enquanto ele grita: "SEU DESGRAÇADO, DESGRAÇADO!!" Jake não reconhece, dizendo: "oooooi, moço..."
+
+## Personagens
+- Rei Gelado
+
+- Finn
+
+- Jake
+
+- Gunter
+
+- Princesa Pula-Pula
+
+- Princesa Caroço
+
+- Princesa Jujuba
+
+- Princesa Embrião
+
+- Princesa Esqueleto
+
+- Princesa Princesa Princesa
+
+- Princesa Cara Quadriculada
+
+- Princesa Frutinhas
+
+- Princesa Geleca
+
+- Princesa Cachorro Quente
+
+- Princesa Músculos
+
+- Guntelina
+
+- Bonecos de Neve
+
+- Esquilo Raivoso
+
+- Roger
+
+- Toicinho do Mar
+
+- Caracol
+
+## Curiosidades
+- O Esquilo que odeia Jake de " O Duque " retorna. Porém, dessa vez o nome pelo qual ele xinga Jake foi alterado de filho de um cão sarnento para desgraçado e a voz ficou muito diferente.
+
+- James Baxter é o nome de um animador britânicos, e também já trabalhou na Walt Disney Animation Studios e por sua vez em Hora de Aventura.
+
+- No cartão do titúlo é possivel obvservar Jake no canto inferior esquerdo com uma aparência de um "balão".
+
+- Gunter por sua vez, também aparece no cartão do titúlo com aparência de um "balão".
+
+- Esse episódio mostra o que aconteceu em " BMO Noire " enquanto BMO ficou em casa e Finn e Jake saíram. Há vários indícios disso: Jake tem um alvo pintado no rosto e uma flecha nas costas, Finn está sem uma das meias e ganha a criatura que aparece em " BMO Noire ".
+
+- Neste episodio é revelado que Gunter tem uma arma de choque.
+
+- Neste episódio as princesas se referem a Gunter como ela e a Princesa Caroço refere Gunter como gata .
+
+- É revelado que Gunter sabe cozinhar.
+
+- Finn não lembra o nome da Princesa Esqueleto , ele chama de você ai .
+
+- A lata de refrigerante de uva que Finn da para a Princesa Jujuba é parecida com a lata que Marceline usa em Simon & Marcy .
+
+- Segundo Rei Gelado, a Princesa Jujuba é sua namorada de vai e vem, Finn e Jake são seus melhores amigos e todas as princesas querem namorá-lo;
+
+- O Rei Gelado diz que Gunter é muito popular.
+
+- No final do episódio (nos créditos), é mostrado uma curta do episódio James Baxter, o Cavalo em forma de "storyboard" animado.
+
+- Quem animou o cavalo "James Baxter" foi o próprio animador James Baxter . James Baxter ending storyboard Comparação das Latas
+
+## Censura
+- Grande parte da dancinha maluca do Rei Gelado foi cortada.
+
+- Foi cortada uma cena onde dois gatos faziam massagem um no outro.
+
+- Censura-se uma cena em que a Princesa Pula-Pula , convida Finn para dar uns pulinhos dentro dela.
+
+## Erros
+- Nesse episódio a Princesa Embrião está menor que o normal.
+
+- Na dublagem brasileira, Princesa Geleca aparece com voz masculina de um homem velho, porém ela não havia antes.
+
+- Quando Finn foi pular na Princesa Pula-Pula por dentro ela era laranja e quando Rei Gelado estava pulando, ela etava azul por dentro.

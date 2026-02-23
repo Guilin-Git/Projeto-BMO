@@ -1,8 +1,10 @@
 ---
 tipo: "objeto"
 nome: "Planta Princesa"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Planta_Princesa"
+url: "https://horadeaventura.fandom.com/pt-br/wiki/Planta_Princesa"
 ---
+
+> Planta Princesa é um objeto/item de Hora de Aventura.
 
 # Planta Princesa
 

@@ -1,0 +1,78 @@
+{
+  "id": "AT_S10E2268",
+  "tipo": "episodio",
+  "nome": "BMO Vendedor",
+  "total_chunks": 5,
+  "chunks": [
+    {
+      "chunk_id": "AT_S10E2268_meta",
+      "text": "[Episódio: BMO Vendedor (Temporada 10, Ep 2268)]\nDiretor: Diana Lafyatis\nRoteiro: -\nPersonagens Principais: Finn Mertens, Jake, BMO, Rei Gelado, Gumbald",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E2268",
+        "temporada": 10,
+        "numero_ep": 2268,
+        "nome": "BMO Vendedor",
+        "characters_main": "Finn Mertens|Jake|BMO|Rei Gelado|Gumbald",
+        "characters_secondary": "Sr. Porco|Dona Tromba|Princesa Caroço|Caracol",
+        "secao": "metadados"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E2268_sinopse",
+      "text": "[Episódio: BMO Vendedor (Temporada 10, Ep 2268)]\nSinopse: BMO e Rei Gelado pegam a estrada como vendedores de porta em porta e se deparam com uma oportunidade irresistível.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E2268",
+        "temporada": 10,
+        "numero_ep": 2268,
+        "nome": "BMO Vendedor",
+        "characters_main": "Finn Mertens|Jake|BMO|Rei Gelado|Gumbald",
+        "characters_secondary": "Sr. Porco|Dona Tromba|Princesa Caroço|Caracol",
+        "secao": "sinopse"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E2268_informacoes",
+      "text": "[Episódio: BMO Vendedor (Temporada 10, Ep 2268)]\nInformacoes:\n### Temporada\n\n### Episódio\n\n### Código de Produção\n\n### Exibição\n\n### Exibição (BR)",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E2268",
+        "temporada": 10,
+        "numero_ep": 2268,
+        "nome": "BMO Vendedor",
+        "characters_main": "Finn Mertens|Jake|BMO|Rei Gelado|Gumbald",
+        "characters_secondary": "Sr. Porco|Dona Tromba|Princesa Caroço|Caracol",
+        "secao": "informacoes"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E2268_creditos",
+      "text": "[Episódio: BMO Vendedor (Temporada 10, Ep 2268)]\nCreditos:\n### Diretor\n\n### Escritor",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E2268",
+        "temporada": 10,
+        "numero_ep": 2268,
+        "nome": "BMO Vendedor",
+        "characters_main": "Finn Mertens|Jake|BMO|Rei Gelado|Gumbald",
+        "characters_secondary": "Sr. Porco|Dona Tromba|Princesa Caroço|Caracol",
+        "secao": "creditos"
+      }
+    },
+    {
+      "chunk_id": "AT_S10E2268_curiosidades",
+      "text": "[Episódio: BMO Vendedor (Temporada 10, Ep 2268)]\nCuriosidades:\n- Este episódio apresenta uma transição de título pela primeira vez desde a segunda temporada.\n\n- Perto da casa de Dona Tromba , há uma escultura em uma árvore de um coração com \"TT + W\", esculpido dentro. Isso provavelmente foi feito por Wyatt . Tree Trunks é o nome da Dona Tromba em inglês, por isso a abreviação é TT.\n\n- Há um poster faltando para Crunchy colado na casa de Dona Tromba, prenunciando a revelação de que Crunchy é o primo chicle da Princesa Jujuba, revelado em \" Princesa Jujuba Jujuba \", e desapareceu do Reino dos Doces.",
+      "metadata": {
+        "tipo": "episodio",
+        "doc_id": "AT_S10E2268",
+        "temporada": 10,
+        "numero_ep": 2268,
+        "nome": "BMO Vendedor",
+        "characters_main": "Finn Mertens|Jake|BMO|Rei Gelado|Gumbald",
+        "characters_secondary": "Sr. Porco|Dona Tromba|Princesa Caroço|Caracol",
+        "secao": "curiosidades"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "AT_ITEM_luvas_da_maquina_do_tempo",
+  "tipo": "objeto",
+  "nome": "Luvas da Máquina do Tempo",
+  "url": "https://horadeaventura.fandom.com/pt-br/wiki/Luvas_da_M%C3%A1quina_do_Tempo",
+  "sections": {
+    "descricao": "# Luvas da Máquina do Tempo",
+    "informacoes": "### Tipo\n\n### Dono\n\nPrincesa Caroço (temporariamente)",
+    "aparicoes": "### Primeira Aparição",
+    "aparencia": "Elas são verdes e tem um contador de tempo como os dos relógios que marca o tempo, tem linhas pretas que tem bolinhas amarelas no final.",
+    "sobre": "A Princesa Jujuba usou elas no começo e no final de \" Péssima Hora \" quando ela usa para teletransportar  as criaturinhas e a Princesa Caroço."
+  },
+  "source_file": "Luvas_da_Maquina_do_Tempo.md"
+}
