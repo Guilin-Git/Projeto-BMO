@@ -1,219 +1,124 @@
-# 🤖 BMO Brain — Base de Conhecimento para Agente IA
+# 🤖 BMO Brain — Base de Conhecimento & Agente IA
 
-> *"Eu sou o BMO! Eu sei tudo sobre Ooo!"*
+> *"Eu sou o BMO! Bip bop! Eu sei tudo sobre a Terra de Ooo!"*
 
-BMO Brain é a base de conhecimento do agente IA BMO — um assistente com personalidade do personagem BMO da série **Hora de Aventura (Adventure Time)**. O projeto implementa um pipeline completo de coleta, limpeza, enriquecimento e vetorização de dados para alimentar um sistema **RAG (Retrieval-Augmented Generation)**.
+O **BMO Brain** não é apenas uma base de dados, é a mente e o coração de um agente de Inteligência Artificial desenhado para agir, pensar e falar exatamente como o personagem BMO da série **Hora de Aventura (Adventure Time)**. 
+
+Este projeto implementa uma **Arquitetura Medallion (Bronze, Silver, Gold)** de pipeline de dados (ETL) acoplada a um poderoso sistema **RAG (Retrieval-Augmented Generation)** utilizando **LangChain**, **Ollama** e **ChromaDB**.
 
 ---
 
-## 📐 Arquitetura
+## 📐 Arquitetura do Sistema
 
-```
-Fandom Wiki (PT-BR)
-       │
-       ▼
-  [Scrapers] ──────────────────► knowledge/bronze/   (dados brutos)
-       │
-  [process_silver.py] ─────────► knowledge/silver/   (limpos e normalizados)
-       │
-  [process_gold.py] ───────────► knowledge/gold/     (enriquecidos para RAG)
-       │
-  [vectorize.py] ──────────────► database/chroma_db/ (embeddings indexados)
-       │
-       ▼
-  Agente BMO (RAG + LLM)
+```mermaid
+graph TD
+    A[Fandom Wiki PT-BR] -->|Playwright Scrapers| B(Camada Bronze: Markdown Bruto)
+    B -->|bronze_to_silver.py| C(Camada Silver: JSONs Limpos)
+    C -->|silver_to_gold.py| D(Camada Gold: Chunks Semânticos JSON)
+    D -->|vectorize.py| E[(ChromaDB: Vetores e Metadados)]
+    
+    E <-->|LangChain Retrieval| F((Agente BMO - agent/main.py))
+    G[Ollama LLM local] <--> F
+    F <--> H{Usuário}
 ```
 
 ---
 
 ## 🗂️ Estrutura do Projeto
 
-```
+```text
 Projeto-BMO/
 ├── bmo_brain/
-│   ├── knowledge/
-│   │   ├── bronze/          # Dados brutos dos scrapers
-│   │   │   ├── episodes/    # 293 episódios
-│   │   │   ├── characters/  # 73 personagens
-│   │   │   ├── places/      # 116 lugares
-│   │   │   └── items/       # 133 objetos
-│   │   ├── silver/          # Dados limpos
-│   │   └── gold/            # Dados enriquecidos (use estes no RAG)
+│   ├── agent/               
+│   │   └── main.py          # 🤖 Aplicativo principal do Agente RAG BMO
+│   │
 │   ├── database/
-│   │   └── chroma_db/       # ChromaDB com 1842 chunks vetorizados
-│   └── scripts/
-│       ├── scrape_episodes.py
-│       ├── scrape_characters_ptbr.py
-│       ├── scrape_places.py
-│       ├── scrape_objects.py
-│       ├── process_silver.py
-│       ├── process_gold.py
+│   │   └── chroma_db/       # ChromaDB persistente com +3000 chunks vetorizados
+│   │
+│   ├── knowledge/
+│   │   ├── bronze/          # 🟤 Dados brutos dos scrapers (Arquivos .md)
+│   │   ├── silver/          # ⚪ Dados limpos estruturados (Arquivos .json)
+│   │   └── gold/            # 🟡 Chunks contextuais enriquecidos para RAG (.json)
+│   │
+│   └── scripts/             # 🛠️ Scripts do Pipeline
+│       ├── scrape_*.py      # Scrapers (episódios, personagens, lugares, itens)
+│       ├── bronze_to_silver.py
+│       ├── silver_to_gold.py
 │       └── vectorize.py
-├── pyproject.toml
-└── main.py
+│
+├── pyproject.toml           # Configurações do ambiente (uv)
+└── README.md
 ```
 
 ---
 
-## ⚙️ Pipeline de Dados
+## ⚙️ O Pipeline de Dados (Medallion)
 
-### 1. Scraping — Camada Bronze
+### 1. 🟤 Camada Bronze (Scraping)
+Scrapers assíncronos utilizam `Playwright` e `BeautifulSoup` para navegar pela Wiki do Hora de Aventura e extrair artigos de Episódios, Personagens, Lugares e Objetos. O conteúdo bruto é salvo em formato Markdown com cabeçalho YAML (Frontmatter).
 
-Quatro scrapers usando **Playwright** coletam dados da [Wiki de Hora de Aventura (PT-BR)](https://horadeaventura.fandom.com/pt-br):
+### 2. ⚪ Camada Silver (Limpeza e Estruturação)
+O script `bronze_to_silver.py` corrige falhas de formatação, uniformiza seções irregulares criadas por fãs da wiki, normaliza nomes de personagens e extrai um JSON limpo, consolidado e seguro.
 
-| Script | O que coleta | Saída |
-|---|---|---|
-| `scrape_episodes.py` | 293 episódios (sinopse, enredo, personagens, curiosidades) | `.md` + `.json` |
-| `scrape_characters_ptbr.py` | 73 personagens principais (descrição, aparência, habilidades, história) | `.md` + `.json` |
-| `scrape_places.py` | 116 lugares (descrição, aparência, história) | `.md` + `.json` |
-| `scrape_objects.py` | 133 objetos (descrição, histórico) | `.md` + `.json` |
+### 3. 🟡 Camada Gold (Context-Aware Chunking)
+O script `silver_to_gold.py` quebra os documentos da camada Silver em pedaços menores (chunks). Em vez de usar divisões aleatórias por "tamanho de tokens" (que podem quebrar o sentido de uma frase), o script realiza recortes lógicos (ex: parágrafos da seção de relacionamentos). 
+**O diferencial RAG:** O script "injeta" um cabeçalho explícito (uma *Anchor Sentence*) como `[Personagem: Marceline | Categoria: Núcleo principal]` em todos os sub-chunks para garantir que o LLM nunca perca o contexto do que está lendo.
 
-Cada arquivo gerado é um **Markdown com frontmatter YAML**, ex:
-```yaml
 ---
-tipo: "personagem"
-nome: "Finn"
-categoria: "Protagonistas"
-link: "https://horadeaventura.fandom.com/pt-br/wiki/Finn"
----
-# Finn
-## Descrição
-Finn Mertens é o protagonista de Hora de Aventura...
-```
 
+## 🧠 Vetorização e Busca (ChromaDB)
+
+O `vectorize.py` carrega os chunks da camada Gold, calcula os *Embeddings* matemáticos utilizando o modelo avançado `intfloat/multilingual-e5-large` (otimizado para português) e salva no **ChromaDB**. 
+
+- **Prefixos E5:** O embedder utiliza strict guidelines inserindo os prefixos automáticos de `passage:` para armazenamento e `query:` para as perguntas do usuário, garantindo similaridade excepcional na busca vetorial.
+- **Batches:** A vetorização ocorre em *batches* de 64 documentos simultâneos para aliviar o uso de VRAM (RAM de Vídeo).
+
+---
+
+## 🎮 Agente BMO (O RAG Final)
+
+Execute o agente e converse com o BMO de verdade: `uv run bmo_brain/agent/main.py`.
+
+A aplicação conecta o LLM local (via **Ollama**) ao Vector Store em milissegundos.
+- **Retrieval:** Recebe a pergunta do usuário e busca as 7 memórias mais parecidas no banco do ChromaDB.
+- **LLM Engine:** Recomendado o uso do `gemma3:4b` ou `qwen2.5:3b` que rodam rapidamente e localmente sem custos de API.
+- **Personalidade:** Um complexo *System Prompt* no LangChain força a IA a abandonar a forma engessada de "assistente prestativo" para falar na terceira pessoa, emitir barulhos de circuito (`bip bop!`), ser ingênuo e referenciar os episódios estritamente baseados nas memórias carregadas do ChromaDB, ignorando o próprio treinamento mundial do modelo.
+
+---
+
+## 🚀 Como Executar
+
+O projeto utiliza o **`uv`** moderno da Astral para gestão veloz de pacotes.
+
+### 1. Instalando Dependências
 ```bash
-uv run bmo_brain/scripts/scrape_episodes.py
-uv run bmo_brain/scripts/scrape_characters_ptbr.py
-uv run bmo_brain/scripts/scrape_places.py
-uv run bmo_brain/scripts/scrape_objects.py
-```
-
----
-
-### 2. Limpeza — Camada Silver
-
-**`process_silver.py`** lê os dados Bronze e aplica transformações sistemáticas:
-
-| Transformação | Problema resolvido |
-|---|---|
-| Remove referências wiki (`[1]`, `[2]`) | Ruído residual do scraping |
-| Normaliza espaços antes de pontuação | `Finn .` → `Finn.` |
-| Limpa valores da infobox | `"", Memória, ""` → `Memória` |
-| Limpa labels embutidos | `Antigo dono:, Marceline` → `Antigo dono: Marceline` |
-| Remove colchetes soltos | `[, 1, ]` → `` |
-| Corrige `numero_ep` dos episódios | Extrai número correto do nome do arquivo |
-| Marca episódios incompletos | Adiciona `incompleto: true` para eps < 400 bytes |
-| Remove seções duplicadas | Detecta e remove seção cujo conteúdo está contido em outra |
-
-```bash
-uv run bmo_brain/scripts/process_silver.py
-```
-
----
-
-### 3. Enriquecimento — Camada Gold
-
-**`process_gold.py`** adiciona metadados semânticos para otimizar o RAG:
-
-| Campo adicionado | Como é gerado | Para que serve |
-|---|---|---|
-| `resumo` | Primeiro parágrafo (≤200 chars) | Preview rápido no retrieval |
-| `tags` | Análise de conteúdo por categoria | Filtragem semântica |
-| `personagens_mencionados` | Match contra 55 personagens conhecidos | Cross-referencing |
-| Contexto RAG | Frase introdutória (`> Este documento...`) | Melhora qualidade dos embeddings |
-
-Exemplos de tags geradas automaticamente:
-- Personagem BMO → `["herói", "protagonista", "robô", "realeza", "combate"]`
-- Item Hambo → `["mágico"]`
-- Episódio T01E001 → `["ação", "morte", "temporada_1"]`
-
-```bash
-uv run bmo_brain/scripts/process_gold.py
-```
-
----
-
-### 4. Vetorização — ChromaDB
-
-**`vectorize.py`** transforma os documentos Gold em vetores semânticos e os indexa no ChromaDB para retrieval eficiente.
-
-**Modelo de Embedding:** `intfloat/multilingual-e5-small`
-- Roda **localmente** (sem API key)
-- Otimizado para **português**
-- 384 dimensões, distância cosseno
-
-**Estratégia de Chunking — por seção:**
-
-```
-# Finn.md (162 linhas)
-  ├── chunk: characters/Finn/descri__o
-  ├── chunk: characters/Finn/apar_ncia
-  ├── chunk: characters/Finn/habilidades
-  ├── chunk: characters/Finn/hist_ria
-  ├── chunk: characters/Finn/relacionamentos___jake
-  ├── chunk: characters/Finn/relacionamentos___marceline
-  └── ...
-```
-
-Regras: seções longas (>2000 chars) são divididas com overlap de 1 parágrafo. Documentos sem seções viram um único chunk.
-
-**Resultados:**
-
-| Categoria | Docs | Chunks |
-|---|---|---|
-| Episódios | 293 | 1277 |
-| Personagens | 73 | 203 |
-| Lugares | 115 | 149 |
-| Objetos | 124 | 213 |
-| **Total** | **605** | **1842** |
-
-**Queries de teste (similarity score):**
-
-```
-"Quem mora na Casa da Árvore?"
-  [0.91] characters/Finn/descri__o
-  [0.91] characters/Jake/descri__o
-  [0.89] characters/BMO/descri__o
-  [0.86] places/Casa_na_Arvore/descri__o
-
-"Quem é o Lich?"
-  [0.89] characters/Lich/descri__o
-  [0.85] places/Covil_do_Lich/descri__o
-  [0.85] characters/Lich/hist_ria
-```
-
-```bash
-# (Re)vetorizar tudo
-uv run bmo_brain/scripts/vectorize.py
-
-# Testar queries
-uv run bmo_brain/scripts/vectorize.py --query "O que é a Espada de Grama?"
-uv run bmo_brain/scripts/vectorize.py --query "Qual a história de Marceline?" --n-results 10
-```
-
----
-
-## 🚀 Setup
-
-```bash
-# Clonar e instalar dependências
-git clone <repo>
+# Clone este repositório
+git clone https://github.com/Guilin-Git/Projeto-BMO.git
 cd Projeto-BMO
-uv sync
 
-# Rodar o pipeline completo (se já tem os dados Gold)
+# Instale os pacotes pelo uv
+uv sync
+```
+
+### 2. Rodando o Pipeline de Dados Completo (Opcional)
+Se desejar reprocessar as páginas ou se atualizar, rode o pipeline em ordem:
+```bash
+# Atualiza os dados de Bronze para Silver
+uv run bmo_brain/scripts/bronze_to_silver.py
+
+# Prepara os chunks contextuais Silver para Gold
+uv run bmo_brain/scripts/silver_to_gold.py
+
+# Aplica os Embeddings NPL e insere no Banco Vetorial
 uv run bmo_brain/scripts/vectorize.py
 ```
 
-**Dependências principais:**
-- `chromadb` — vector store local
-- `sentence-transformers` — embeddings multilingual
-- `playwright` — scraping dinâmico
+### 3. Ligando o BMO (Interface de Chat)
+Lembre-se de ter o [Ollama](https://ollama.com/) instalado em sua máquina e com o modelo em pull (ex: `ollama pull gemma3:4b`).
+```bash
+uv run bmo_brain/agent/main.py
+```
 
 ---
 
-## 🔜 Próximos Passos
-
-- [ ] `retriever.py` — interface de consulta para o LLM
-- [ ] Agente BMO com personalidade da série
-- [ ] API para integração com frontend
+> *"Quem quer jogar videogame comigo agora?!"* — **BMO**
