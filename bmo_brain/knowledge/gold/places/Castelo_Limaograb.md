@@ -1,0 +1,27 @@
+---
+tipo: "lugar"
+nome: "Castelo Limãograb"
+link: "https://horadeaventura.fandom.com/pt-br/wiki/Castelo_Lim%C3%A3ograb"
+resumo: "O Castelo de Limãograb é a maior estrutura no condado de Limãograb governado pelo Conde de Limãograb. É localizado na Terra de Ooo e esta pelo território do Reino Doce, que significa que requer..."
+tags: ["construção"]
+personagens_mencionados: ["Finn", "Jake", "Princesa Jujuba"]
+---
+
+
+> Este documento descreve o local Castelo Limãograb do universo de Hora de Aventura (Adventure Time).
+
+
+
+# Castelo Limãograb
+
+## Descrição
+O Castelo de Limãograb é a maior estrutura no condado de Limãograb governado pelo Conde de Limãograb. É localizado na Terra de Ooo e esta pelo território do Reino Doce, que significa que requer autoridade da Princesa Jujuba.
+
+Segundo o próprio Limãograb no episódio " Você Me Fez ", o castelo não tinha cidadãos. Princesa Jujuba pede três voluntários para morar com o Conde, mas as pessoas doces se recusam a fazê-lo e responder com uma multidão enfurecida. No entanto, mais tarde na história Princesa Jujuba cria outro Limãograb que vai viver no castelo.
+
+Em " A Culpa é Toda Sua ", os Limãograbs criam pelo menos vinte crianças de limão que habitam o castelo, no final do episódio o Castelo foi deslocado próximo ao Reino Doce pelo João Limão antes de se sacrificar.
+
+Em " Velha Demais ", Finn diz que eles estão mais chiques porque agora tinha carruagem. Vendo antes do Reino, todos os cidadãos estão vestidos civilizadamente, e Limãograb e Limãograb 2 mudaram muito como Limãograb é obeso mórbida enquanto Lemongrab 2 é magro e com uma mordida do Limãograb(provavelmente).Finn e Jujuba resgatam um de seus cidadãos nomeado de Lemonhope.
+
+Em " Lemonhope Primeira Parte ", o Castelo Limãograb é pior do que antes, como Limãograb é agora um monstro ditador que come seus cidadãos. Ele proíbe Lemonhope de voltar ao seu reino. Depois de " Lemonhope Segunda Parte ", Limãograb 2 fundiu com o velho Limãograb é agora rei de Castelo Limãograb como Lemonhope rejeitou a oferta da Princesa Jujuba. O Castelo Limãograb é mostrado que ainda estar de pé em um futuro distante, deserta junto com os restos do Reino Doce e o que antes era a Casa na Árvore de Finn e Jake.
+O Castelo Lemongrab se destruiu por conta do fim do episódio " Lemonhope Segunda Parte " que com o vento o castelo virou areia e se desmanchou.

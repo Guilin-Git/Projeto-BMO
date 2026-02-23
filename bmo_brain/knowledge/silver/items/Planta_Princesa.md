@@ -1,0 +1,17 @@
+---
+tipo: "objeto"
+nome: "Planta Princesa"
+link: "https://horadeaventura.fandom.com/pt-br/wiki/Planta_Princesa"
+---
+
+
+# Planta Princesa
+
+## Descrição
+A Planta Princesa é um tipo de planta visto no episódio " Morte em Botão ". Assemelha-se a um lírio branco, exceto que ele tem uma pétala ao redor da flor. Quando Princesa Jujuba atribui ao Finn e Jake cuidar dela, eles acidentalmente matam a planta, alimentando-a com pizza e refrigerantes, ao invés de água pura. Também puxando-o para fora do vaso e, acidentalmente, queimando-a. Eles tiveram que ir para a Terra dos Mortos para recuperar sua alma da Morte. Quando a princesa Jujuba come o bulbo de flor, ela muda o penteado de ser, em linha reta e na altura do joelho, para um curto e ondulado.
+
+## Aparência
+Planta Princesa é uma planta regular com flores semelhantes a um lírio, com pétalas brancas, um estigma de laranja, e um caule verde, e é um pequeno pote verde com um ziguezague amarelo e alças.
+
+## Curiosidades
+- Foi revelado pelo storyboard de " Morte em Botão ", que planta princesa foi originalmente chamado de " Halo Lily " (Lírio Resplandecente).

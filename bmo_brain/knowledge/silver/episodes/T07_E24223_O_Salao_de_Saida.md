@@ -1,0 +1,33 @@
+---
+temporada: "7"
+numero_ep: 24223
+nome: "O Salão de Saída"
+link: "https://horadeaventura.fandom.com/pt-br/wiki/O_Sal%C3%A3o_de_Sa%C3%ADda"
+data_exibicao: "04/07/16"
+---
+
+
+# O Salão de Saída
+
+**Temporada 7 — Episódio 24223**
+
+## Sinopse
+Encurralado e sozinho, Finn deve desvendar o enigma de uma caverna estranha sem saída.
+
+## Enredo
+Finn e Jake estão subindo uma montanha para encontrar uma caverna que é mostrado em um mapa do irmão de Flambo perto de onde o trem masmorra está. Quando a encontra, vai para dentro e acidentalmente pisa em uma placa de pressão, prendendo-se lá dentro. Finn encontra três passagens e decide ir pelo meio usando um fio de sua camisa para deixar um rastro. caminha sem olhar e cai uma encosta íngreme, chegando em uma sala de tamanho médio com a luz solar pecando através e uma estátua boneco de neve de cabeça pra baixo. Finn se depara então por uma enorme porta como a de um submarino, com as palavras "Hall of Egress" impresso no desenho de um laço acima da escotilha.
+
+Finn tenta abrir a escotilha e falha várias vezes. Finalmente, na exaustão, ele descansa a cabeça contra a escotilha. Sua cabeça cai através do portal e para o chão. Ele abre os olhos e se encontra de volta no corredor. Em seguida, ele fecha os olhos e estende a mão. Sua mão passa direto através da escotilha. Ele anda para a frente, após a porta. Ele abre os olhos e se encontra de volta no corredor. Ele tenta novamente e encontra uma corda. Ele segue a sequência até que ele cai em um buraco. Pendurado na borda do buraco ele lentamente deixa o pé para baixo. Ele descobre que ele caiu em uma armadilha espiga. Ele abre os olhos e se encontra de volta no corredor.
+
+Depois de muitas tentativas falhadas de encontrar uma saída, Finn apenas cobra pela porta. Ele continua a funcionar até que ele ouve a voz de Jake chamá-lo. Finn continua a correr e, eventualmente, sai do chão por trás dos pés de Jake. Ele abre os olhos e ele está de volta ao corredor. Ele então repete-se, só que não abrir os olhos quando ele descobre. Ele volta para a Casa na Árvore com Jake e vai dormir, esperando que ele irá voltar ao normal na parte da manhã. Na parte da manhã Finn é importunado por BMO para abrir os olhos. Ele abre e instantaneamente se encontra de volta no corredor.
+
+Finn repete a mesma coisa uma e outra, cada vez que seja BMO ou Jake força abrir os olhos. Cada vez que ele se encontra no salão. Finn finalmente deixa a Casa na Árvore a noite, enquanto Jake e BMO estão dormindo. Ele vagueia na noite e eventualmente atinge um córrego. Ele toma uma bebida e se despoja de suas roupas. Ele veste uma pele de animal e percorre muitos reinos ao longo de muitos dias, progressivamente ficando mais sujo. Ele finalmente chega a uma caverna, aparentemente a mesma caverna da montanha, mas em um deserto.
+
+Finn entra na caverna, com os pés sujos evitando por pouco à pisar em uma placa de pressão. Ele atinge mais três passagens e mais uma vez escolhe o caminho do meio. Ele desce a encosta íngreme, agora com uma rampa. Ele atinge o corredor e caminha até a sua chegada, sem saber, na escotilha. Ele esbarra-se, achando que ele não pode passar por ele. Ouvi-se a voz do BMO para fora através de sua cabeça, indicando as palavras "Algo está diferente". Finn abre os olhos para ver uma passagem transparente à frente dele, onde a escotilha costumava ser. Ele entra, e vê os animais que andam por acima dele no chão, aparentemente clara. À distância, ele vê Jake procurando por ele.
+
+Finn rompe-se para uma corrida. Em sua cabeça, durante isso, ouve-se a voz da Princesa Jujuba, e ela diz "Depressa Finn. No centro da concha encontra-se menor a porta da corno cópia". Finn corre mais rápido e pausas para fora do solo, espalhando destroços do subsolo na face de Jake. Finn salta para Jake e calorosamente o abraça. Ele gira em torno de Jake. Jake ri e diz "Deve ter sido uma caverna e tanto". Finn responde: "Você não faz ideia".
+
+## Personagens
+### Principais
+- Finn
+- Jake

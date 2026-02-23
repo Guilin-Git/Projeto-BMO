@@ -1,0 +1,21 @@
+---
+tipo: "lugar"
+nome: "Mundo Espiritual"
+link: "https://horadeaventura.fandom.com/pt-br/wiki/Mundo_Espiritual"
+resumo: "O Mundo Espiritual é uma dimensão de destaque no episódio \" Além Deste Plano Terreno \" da 4 ª temporada. Ele parece sobrepor-se ao mundo físico a maior parte, mas funciona de forma diferente...."
+personagens_mencionados: ["Finn", "Rei Gelado"]
+---
+
+
+> Este documento descreve o local Mundo Espiritual do universo de Hora de Aventura (Adventure Time).
+
+
+
+# Mundo Espiritual
+
+## Descrição
+O Mundo Espiritual é uma dimensão de destaque no episódio " Além Deste Plano Terreno " da 4 ª temporada. Ele parece sobrepor-se ao mundo físico a maior parte, mas funciona de forma diferente. Enquanto Espíritos no mundo espiritual não pode tocar os seres no mundo físico, eles podem tocar nas paredes e materiais de influência e de eletricidade.
+
+Finn entra no Mundo Espiritual, tocando no Cordeiro de Porcelana, fazendo com que os seres do mundo físico não possa vê-lo. A exceção a isso (pelo menos no episódio) foi o Rei Gelado, que foi capaz de ver Finn graças a seus Olhos de Mago. Que outros podem aprender a ver espíritos é desconhecida. O Rei Gelado também disse que existem portais em todo o universo, não se sabe se ele está conectado a outras dimensões.
+
+Há muitas entradas para esse lugar, e algumas delas parecem criar portais entre si como o buraco no castelo do Rei Gelado que funcionava como uma entrada levou de volta para a Caverna Misteriosa com o Cordeiro de Porcelana. Isto sugere que, enquanto o mundo espiritual se sobrepõe ao mundo físico, ele trata o espaço de forma diferente ou pode ligar dois pontos com portais.

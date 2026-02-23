@@ -1,0 +1,43 @@
+---
+temporada: "1"
+numero_ep: "22"
+nome: "Criado"
+link: "https://horadeaventura.fandom.com/pt-br/wiki/Criado"
+resumo: "Finn toma o lugar do escravo de Marceline, e ele descobre o quanto é difícil obedecer seus comandos estranhos."
+tags: ["magia", "temporada_1"]
+personagens_mencionados: ["Caracol", "Finn", "Jake", "Marceline"]
+---
+
+
+
+# Criado
+
+**Temporada 1 — Episódio 22**
+
+## Sinopse
+Finn toma o lugar do escravo de Marceline, e ele descobre o quanto é difícil obedecer seus comandos estranhos.
+
+## Enredo
+Finn e Jake estão jogando um esqueleto de um monstro quando Marceline aparece atrás de alguns arbustos próximos, espionando-los. Finn ouve alguém gritar ao longe e vai investigar, e descobre Marceline e o seu Criado Velho. Marceline está discutindo com o Criado Velho, que quer ser libertado de sua escravidão, porque ele é velho e fraco, embora dada a sua desenvoltura como ele foge este foi claramente apenas uma armadilha para Finn. Quando Finn e Jake correm em seu auxílio, ela começa a ordenar ao Velho para fazer tarefas incomuns para ela para atormentá-los. Finn se compadece do Velho, então ele se oferece para tomar seu lugar como capanga de Marceline. Jake tenta falar Finn fugir, mas Marceline assusta Jake e depois voa com Finn.
+
+Marceline traz consigo um guarda-chuva e Finn pergunta se o sol pode destruí-la. Ela responde: "Sim, dói, mas eu meio que gosto disso. Lembra-me de quando eu machucava meu joelho quando era criança e minha mãe passava remédio depois," Finn responde dizendo que Jake lhe disse que ele saiu de um repolho. Marceline então pergunta Finn se ele quer ir estrangular algumas fadas com ela e Finn concorda. Ela é surpreendida por sua atitude casual sobre isso, dizendo estrangulamento fadas é "mal" e Finn diz a ela que sabia que seus maus atos não eram tão mal depois de tudo. Marceline brincando o repreende por ter demorado tanto para descobrir que ela não era tão ruim. De repente, Jake (disfarçados como um morango gigante) pula em Marceline e joga alho para ela, fazendo-a cair seu guarda-chuva e se tornar exposta ao sol. Marceline cai no chão, enfraquecido e empolado. Finn diz a Jake que Marceline não é tão mau como parece, mas Jake acredita que ele está sob um feitiço vampiro de algum tipo. Marceline esconde-se sob o guarda-chuva e Finn corre para ele, levantando-se de um lado dizendo-lhe um plano que ele só pensava.
+
+Jake salta para a frente e coloca um jogo com ele, levantando-se o guarda-chuva para revelar uma nuvem de fumaça. Finn diz a Jake que ele enfrentou seu medo de vampiro e salvou. Jake deixa, feliz por ter salvo seu amigo. Finn permanece por um momento, de pegar o guarda-chuva. Marceline emerge da mochila de Finn e diz que ele foi liberto da escravidão, porque não seria divertido se ela não pudesse enganá-lo. Eles ainda prometem ir estrangular fadas no dia seguinte. Marceline depois pega seu guarda-chuva e voa para longe.
+
+## Personagens
+### Principais
+- Finn
+- Jake
+- Marceline
+
+### Secundários
+- Eberhardt
+- Duque das Nozes
+- Duquesa das Nozes
+- Antigo Criado
+- Planta Covinha
+- Monstro Cérebro
+- Marquês das Nozes
+- Segundo Filho das Nozes
+- Mordomo Lisby
+- Caracol

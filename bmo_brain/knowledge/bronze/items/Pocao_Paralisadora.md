@@ -1,0 +1,13 @@
+---
+tipo: "objeto"
+nome: "Poção Paralisadora"
+tipo_objeto: "Poção"
+dono: "Princesa Jujuba"
+primeira_aparicao: "", As Outras Tortas, ""
+link: "https://horadeaventura.fandom.com/pt-br/wiki/Po%C3%A7%C3%A3o_Paralisadora"
+---
+
+# Poção Paralisadora
+
+## Descrição
+A Poção Paralisadora é vista em "As Outras Tortas". Como o próprio nome indica, causa paralisia permanente em qualquer ser vivo. Finn e Jake decidem borrifar a poção em algumas tortas imperfeitas depois de coloca-las em uma Câmara Anti-gravitacional . Eles, então, levam as tortas contaminados sem querer, servindo ao propósito original que Finn pretendia: para paralisar potenciais ladrões de tortas. No final, a paralisia entra em vigor, como a Borboleta com Arma Laser é vista se afastando imóvel depois de comer uma torta envenenada. É provável que Grimby e Taddle também ficaram paralisados​​.

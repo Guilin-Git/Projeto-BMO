@@ -1,0 +1,13 @@
+---
+temporada: 7
+numero_ep: 10209
+nome: "Estaca Zero"
+link: "https://horadeaventura.fandom.com/pt-br/wiki/Hora_de_Aventura:_Estaca_Zero"
+---
+
+# Estaca Zero
+
+**Temporada 7 — Episódio 10209**
+
+## Enredo
+Em um especial de oito partes, Estaca Zero conta o desejo de Marceline de não ser mais uma vampira. Depois que Bonnibel extrai sua essência de vampiro, cinco de seus maiores inimigos voltam a vida. Finn , Jake , Marceline e Jujuba devem se juntar para acabar com as ameaças.
