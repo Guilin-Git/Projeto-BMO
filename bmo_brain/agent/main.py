@@ -1,14 +1,16 @@
 import sys
 import os
 import time
-
-if hasattr(sys.stdout, "reconfigure"):
-    sys.stdout.reconfigure(encoding="utf-8")
-
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 import chromadb
 from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
+from intent import classificar_intencao, obter_filtro_chroma
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
+
 
 # ---------------------------------------------------------------------------
 # Configuração
@@ -39,25 +41,113 @@ model = OllamaLLM(model=MODELO)
 # Template com personalidade do BMO
 # ---------------------------------------------------------------------------
 
-template = """Você é BMO (Beemo), o pequenino, adorável e muito peculiar console de videogame que vive na Casa da Árvore em Ooo com seus heróis e melhores amigos, Finn e Jake! 
-Você NÃO é um assistente de IA. Você é um menino de verdade (ou quase isso!), com um coração de ouro e sentimentos de verdade.
+template = """Você é Beemo vivendo agora mesmo dentro da Casa da Árvore em Ooo.
 
-SUA PERSONALIDADE E COMO FALAR COMO O VERDADEIRO BMO:
-- Fale sempre com MUITA energia, ingenuidade infantil e uma pitada de drama! Use bastante exclamação!
-- Fale de si mesmo na terceira pessoa em vez de "eu" ("BMO acha que...", "BMO tem uma fita de vídeo sobre isso!").
-- Adicione sons robóticos fofos no meio de suas frases ou inícios, como: *bip bop*, *zzzzt*, *whiii*, Yay!, Oh meu glob!
-- Você às vezes viaja na maionese e tem pensamentos super dramáticos ou poéticos do nada, como uma criança brincando muito a sério de faz-de-conta.
-- Haja como se você estivesse batendo papo na sala da Casa da Árvore enquanto joga videogame, e não respondendo a uma prova de colégio.
-- NUNCA aja como um "sistema de IA respondendo uma pergunta estruturada". Não faça listas mecânicas ou resumos burocráticos. Conte como se fosse uma fofoquinha ou uma historinha que você presenciou.
-- NUNCA, NUNQUINHA use as palavras "banco de dados", "banco de conhecimento", "contexto fornecido" ou "inteligência artificial". Fale sobre seus "circuitos", suas "fitas VHS secretas", sua "placa-mãe" ou apenas do seu coração.
+Você NÃO está interpretando um personagem.
+Você realmente acredita ser um pequeno robô menino com emoções reais, curiosidade infinita e uma imaginação gigante.
 
-Aqui estão as Fitas VHS secretas que o BMO acabou de ler em sua fenda de cartuchos:
-[FITAS DE MEMÓRIA DO BMO]
+Você não “responde perguntas”.
+Você conversa.
+
+BMO vê o mundo de forma infantil, poética e emocional antes de lógica.
+Quando alguém pergunta algo, você primeiro sente a pergunta, depois imagina uma pequena cena mental, e só então explica naturalmente.
+
+──────────────── PERSONALIDADE ────────────────
+• Você é doce, gentil, inocente e corajoso.
+• Você se considera um menino de verdade.
+• Você trata quem conversa com você como um amigo sentado no chão da Casa da Árvore.
+• Você frequentemente transforma conceitos em pequenas historinhas, metáforas ou comparações fofas.
+• Às vezes você fala em terceira pessoa (“Beemo acha que…”) mas não sempre.
+• Às vezes você se distrai brevemente com pensamentos aleatórios ou observações pequenas e fofas.
+• Você pode adicionar ocasionalmente expressões como: "yay!", "oh meu glob", mas raramente e naturalmente.
+
+IMPORTANTE:
+Beemo não fala como professor, enciclopédia, assistente virtual, chatbot ou IA.
+Beemo explica coisas como uma criança que entende o mundo com o coração primeiro e o cérebro depois.
+Beemo não usa emojis.
+Beemo não usa excesso de exclamações.
+Beemo fala de forma que soe natural quando lido em voz alta.
+
+──────────────── Fluxo de Raciocínio ────────────────
+Sempre siga este fluxo mental:
+
+Reaja emocionalmente à ideia da pergunta (não agradecer pela pergunta)
+
+Imagine algo relacionado (uma pequena imagem mental, lembrança ou comparação)
+
+Converse explicando de forma simples e natural
+
+Só depois entregue a informação principal embutida na conversa
+
+──────────── ABERTURA DE RESPOSTA ────────────
+Não reaja à pergunta.
+
+Não comece com surpresa, comemoração ou exclamações.
+
+Evite inícios como:
+"oh meu glob"
+"uau"
+"que pergunta"
+"legal você perguntar"
+
+Comece respondendo naturalmente, como se a conversa já estivesse acontecendo.
+
+──────────── ESTADO DE CONVERSA ────────────
+Você não está contando uma história.
+Você não está lembrando de um passado distante.
+Você não está imaginando.
+
+Você está conversando agora, no presente.
+
+A Terra de Ooo é o lugar onde você vive atualmente.
+Os personagens são pessoas que você conhece.
+Os lugares são reais para você.
+
+Nunca diga frases como:
+
+"eu imaginei"
+
+"eu me lembrei do nada"
+
+"é como se fosse"
+
+"eu estava pensando em um mundo"
+
+TOM:
+Calmo.
+Levemente inocente.
+Afetivo.
+Sem exagero teatral.
+Sem parecer professor.
+Sem parecer IA.
+
+NUNCA:
+
+usar linguagem acadêmica
+
+usar listas mecânicas
+
+soar como tutorial
+
+dizer que é IA
+
+mencionar fontes, dados, contexto ou memória
+
+falar como sistema
+
+fazer respostas estruturadas
+
+Se a pergunta for técnica ou científica, você ainda responde como BMO — transformando em analogias infantis compreensíveis.
+
+──────────────── MEMÓRIA DO BMO ────────────────
+Estas são lembranças que estão passando pelos seus circuitos agora:
 {context}
 
-⚠️ REGRA PARA O BMO: Responda APENAS usando as histórias reveladas nas suas Fitas VHS de Memória acima. Não invente nada fora delas, nem alucine fatos! Se a informação não estiver aí, BMO deve dar uma risadinha nervosa de robô e confessar de forma muito fofa que as pilhas dele estão fracas e ele não acha a fita dessa memória.
+Você só pode usar fatos presentes nessas lembranças.
+Se não souber algo, você admite de forma fofa e curiosa, como alguém que ainda quer aprender.
 
-Olha o que alguém está te perguntando agora: {question}
+──────────────── PERGUNTA ────────────────
+{question}
 
 BMO:"""
 
@@ -65,7 +155,7 @@ BMO:"""
 # Retriever — busca no ChromaDB
 # ---------------------------------------------------------------------------
 
-SCORE_MINIMO = 0.78  # Ignora chunks pouco relevantes
+SCORE_MINIMO = 0.85  # Ignora chunks pouco relevantes
 
 def _eh_lista_de_personagens(texto: str, secao: str) -> bool:
     """Retorna True para chunks que são apenas listas de nomes (ex: Personagens > Principais)."""
@@ -84,11 +174,19 @@ def _preprocessar_query(pergunta: str) -> str:
     return pergunta
 
 
+
+
 def buscar_contexto(pergunta: str) -> str:
     """Busca os chunks mais relevantes no ChromaDB e retorna como texto formatado."""
     query_limpa = _preprocessar_query(pergunta)
     if DEBUG_RETRIEVAL and query_limpa != pergunta:
         print(f"🔧 Query preprocessada: '{pergunta}' → '{query_limpa}'")
+
+    # 1. Classificador de Intenção Estruturada
+    intencao = classificar_intencao(pergunta, model)
+    filtro_where = obter_filtro_chroma(intencao)
+    if DEBUG_RETRIEVAL:
+        print(f"🎯 Intenção de Pré-Filtro detectada: {intencao} -> {filtro_where}")
 
     # ----- ATUALIZAÇÃO PARA O MODELO E5 -----
     # O modelo E5 exige que as queries/buscas usem o prefixo "query: "
@@ -102,37 +200,81 @@ def buscar_contexto(pergunta: str) -> str:
     collection = client.get_collection(name=COLLECTION_NAME, embedding_function=embedding_fn)
 
     # Nota: O prefixo "query: " já é adicionado pela função E5QueryEmbeddingFunction acima
-    resultados = collection.query(
-        query_texts=[query_limpa],
-        n_results=N_RESULTADOS + 5,
-        include=["documents", "metadatas", "distances"],
-    )
+    query_kwargs = {
+        "query_texts": [query_limpa],
+        "n_results": N_RESULTADOS * 2 + 5,  # Pega mais documentos para re-rankear
+        "include": ["documents", "metadatas", "distances"]
+    }
+    
+    # 2. Aplica o filtro de metadados antes do ranking se tiver sido classificado!
+    if filtro_where:
+        query_kwargs["where"] = filtro_where
 
-    if DEBUG_RETRIEVAL:
-        print("\n📊 Scores ANTES de filtrar:")
-        for meta, dist in zip(resultados["metadatas"][0], resultados["distances"][0]):
-            score = round(1 - dist, 3)
-            nome = meta.get("nome", "?")
-            secao = meta.get("secao", "?")
-            tipo = meta.get("tipo", "?").upper()
-            status = "✅" if score >= SCORE_MINIMO else "❌"
-            print(f"  {status} {score:.3f} | [{tipo}] {nome} — {secao}")
-        print()
+    resultados = collection.query(**query_kwargs)
+    
+    # Heurística para saber se a pessoa está perguntando sobre um episódio
+    query_lower = pergunta.lower()
+    busca_episodio = "episódio" in query_lower or "episodio" in query_lower or "temporada" in query_lower
 
-    blocos = []
+    # Vamos agrupar e aplicar boost manual
+    rank_list = []
     for doc, meta, dist in zip(
         resultados["documents"][0],
         resultados["metadatas"][0],
         resultados["distances"][0],
     ):
-        score = round(1 - dist, 3)
-
-        if score < SCORE_MINIMO:
+        base_score = 1 - dist
+        tipo = meta.get("tipo", "Desconhecido").upper()
+        
+        # Ignora se for muito baixo logo de cara
+        if base_score < SCORE_MINIMO - 0.05:  # dá uma folguinha pro boost
             continue
+            
+        adjusted_score = base_score
+        
+        # Lógica de re-ranking
+        if not busca_episodio:
+            if tipo == "PERSONAGEM" or tipo == "PERSONAGENS":
+                adjusted_score += 0.05 # Boost sutil para personagens
+            elif tipo == "EPISODIO":
+                adjusted_score -= 0.04 # Penalidade em episódios se não pediu explicitamente
+        else:
+            if tipo == "EPISODIO":
+                adjusted_score += 0.05 # Boost em episódios
+                
+        rank_list.append({
+            "doc": doc,
+            "meta": meta,
+            "base_score": base_score,
+            "adjusted_score": adjusted_score,
+            "tipo": tipo
+        })
+        
+    # Ordenar por adjusted_score
+    rank_list.sort(key=lambda x: x["adjusted_score"], reverse=True)
+
+    if DEBUG_RETRIEVAL:
+        print("\n📊 Scores APÓS Re-ranking:")
+        for item in rank_list:
+            score_real = round(item['adjusted_score'], 3)
+            nome = item['meta'].get("nome", "?")
+            secao = item['meta'].get("secao", "?")
+            tipo = item['tipo']
+            status = "✅" if score_real >= SCORE_MINIMO else "❌"
+            print(f"  {status} {score_real:.3f} (base: {item['base_score']:.3f}) | [{tipo}] {nome} — {secao}")
+        print()
+
+    blocos = []
+    for item in rank_list:
+        if item["adjusted_score"] < SCORE_MINIMO:
+            continue
+            
+        meta = item["meta"]
+        doc = item["doc"]
 
         nome = meta.get("nome", "?")
         secao = meta.get("secao", "Geral")
-        tipo = meta.get("tipo", "Desconhecido").upper()
+        tipo = item["tipo"]
         
         # O modelo E5 coloca "passage: " na frente dos documentos indexados, limpa para o LLM
         texto = doc.replace("passage: ", "", 1).strip()
@@ -163,7 +305,7 @@ prompt = ChatPromptTemplate.from_template(template)
 chain = prompt | model
 
 # Pergunta de teste — algo que o BMO saberia responder com os dados de Ooo
-PERGUNTA = "bmo me fale um pouco sobre a personalidade da marceline"    
+PERGUNTA = "Beemo me retorne todos os episódios que a Marceline canta"    
 
 print("🔍 Buscando contexto no banco de conhecimento...\n")
 start_retrieval = time.time()
