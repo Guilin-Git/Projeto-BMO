@@ -36,6 +36,13 @@ _RE_SENTENCE_SPLIT = re.compile(
     re.MULTILINE,
 )
 
+# Remove ações cênicas entre asteriscos ou parênteses, ex: *sorri*, (balança a cabeça)
+_RE_ACTIONS_ASTERISK = re.compile(r"\*[^*]+\*")
+_RE_ACTIONS_PARENS = re.compile(r"\([^)]+\)")
+
+# Limpa caracteres bizarros ou aspas duras que atrapalham a entonação
+_RE_QUOTES = re.compile(r'[""\'\']')
+
 # Abreviações comuns PT-BR que NÃO devem ser quebradas em sentença
 _ABBREVIATIONS = {
     "sr.", "sra.", "dr.", "dra.", "prof.", "profa.",
@@ -81,6 +88,29 @@ def clean(text: str) -> str:
     # Normaliza quebras de linha → espaço
     text = text.replace("\n", " ").replace("\r", " ")
 
+    # Remove cênicas geradas por IA (caso o prompt escape)
+    text = _RE_ACTIONS_ASTERISK.sub("", text)
+    text = _RE_ACTIONS_PARENS.sub("", text)
+
+    # Remove aspas e aspas simples
+    text = _RE_QUOTES.sub("", text)
+
+    # Suaviza travessões e hífens falsos para o edge-tts não gaguejar
+    text = text.replace("—", ",").replace("-", " ")
+
+    # Reduz pontuações repetitivas ou dramáticas que geram gaps de áudio grandes
+    # Quando ver reticências, substitui por um espaço ou prolonga a palavra
+    text = re.sub(r"\.{2,}", " ", text)
+    
+    # Exclamações exageradas viram uma só
+    text = re.sub(r"!{2,}", "!", text)
+    
+    # Interrogações exageradas viram uma só
+    text = re.sub(r"\?{2,}", "?", text)
+    
+    # Remove vírgulas duplas ocasionadas pelas edições anteriores
+    text = re.sub(r",+", ",", text)
+
     # Normaliza espaços múltiplos
     text = _RE_MULTI_SPACE.sub(" ", text)
 
@@ -114,10 +144,12 @@ def split_sentences(text: str) -> list[str]:
         if is_abbrev:
             buffer = (buffer + " " + part).strip()
         else:
-            combined = (buffer + " " + part).strip()
-            if len(combined) >= 3:  # mínimo de 3 chars para valer a pena sintetizar
-                sentences.append(combined)
-            buffer = ""
+            buffer = (buffer + " " + part).strip()
+            # Só quebra a sentença se ela já tiver um tamanho decente (> 60 chars) 
+            # ou se for a última. Isso evita que o TTS faça fôlegos a cada frase curtíssima (ex: "Yay.").
+            if len(buffer) >= 60:
+                sentences.append(buffer)
+                buffer = ""
 
     # Flush do buffer restante
     if buffer.strip():

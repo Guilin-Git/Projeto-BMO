@@ -35,10 +35,12 @@ class EdgeTTSBackend(TTSBackend):
         voice: str = "pt-BR-ThalitaNeural",
         rate: str = "+5%",
         volume: str = "+0%",
+        pitch: str = "+0Hz",
     ) -> None:
         self.voice = voice
         self.rate = rate
         self.volume = volume
+        self.pitch = pitch
 
     async def synthesize(self, text: str) -> tuple[bytes, int]:
         """
@@ -50,7 +52,7 @@ class EdgeTTSBackend(TTSBackend):
         # Gera MP3 em memória via streaming
         mp3_buf = io.BytesIO()
         communicate = edge_tts.Communicate(
-            text, self.voice, rate=self.rate, volume=self.volume
+            text, self.voice, rate=self.rate, volume=self.volume, pitch=self.pitch
         )
         async for chunk in communicate.stream():
             if chunk["type"] == "audio":
@@ -64,6 +66,21 @@ class EdgeTTSBackend(TTSBackend):
 
         # Converte MP3 → numpy float32 usando soundfile
         audio_np, sr = sf.read(io.BytesIO(mp3_bytes), dtype="float32")
+
+        # --- Removemos os gaps de silêncio massivos que a Microsoft põe nas pontas da fala ---
+        threshold = 0.002  # Limiar baixíssimo para cortar apenas o silêncio digital vazio
+        abs_audio = np.abs(audio_np)
+        mask = abs_audio > threshold
+        if np.any(mask):
+            first = np.argmax(mask)
+            last = len(audio_np) - np.argmax(mask[::-1])
+            
+            # Deixa 150ms (0.15s) de margem natural no começo e fim para não devorar o eco da palavra
+            pad = int(sr * 0.15)
+            first = max(0, first - pad)
+            last = min(len(audio_np), last + pad)
+            
+            audio_np = audio_np[first:last]
 
         # Converte float32 array → WAV PCM bytes (16-bit)
         wav_buf = io.BytesIO()

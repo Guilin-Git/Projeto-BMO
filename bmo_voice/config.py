@@ -17,12 +17,13 @@ class VoiceConfig:
     # TTS — edge-tts (Microsoft Neural TTS via rede, sem instalação nativa)
     # ------------------------------------------------------------------
     # Vozes PT-BR disponíveis:
-    #   pt-BR-ThalitaNeural   (feminina, suave)       ← padrão
-    #   pt-BR-AntonioNeural   (masculino, neutro)
-    #   pt-BR-FranciscaNeural (feminina, expressiva)
-    tts_voice: str = "pt-BR-ThalitaNeural"
-    tts_rate: str = "+5%"     # velocidade: +X% = mais rápido, -X% = mais lento
+    #   pt-BR-ThalitaNeural   (feminina, suave)
+    #   pt-BR-AntonioNeural   (masculino, neutro) 
+    #   pt-BR-FranciscaNeural (feminina, expressiva) ← fit para voz com muita emoção e mais aguda
+    tts_voice: str = "pt-BR-FranciscaNeural"
+    tts_rate: str = "+0%"     # Normal (a pausa letárgica será corrigida removendo padding de áudio do TTS)
     tts_volume: str = "+0%"
+    tts_pitch: str = "+0Hz"   # Ajuste de tom do TTS antes do RVC
 
     # ------------------------------------------------------------------
     # RVC — Applio rodando localmente via Gradio API

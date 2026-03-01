@@ -50,6 +50,7 @@ class VoiceEngine:
             voice=cfg.tts_voice,
             rate=cfg.tts_rate,
             volume=cfg.tts_volume,
+            pitch=cfg.tts_pitch,
         )
 
         self._rvc = ApplioBackend(

@@ -38,6 +38,26 @@ MODELO = "gemma3:4b"  # ← altere aqui para testar
 model = OllamaLLM(model=MODELO)
 
 # ---------------------------------------------------------------------------
+# Inicialização Global Pesada (Cold Start curado)
+# ---------------------------------------------------------------------------
+print("⏳ Carregando BMO (Bancos de Memória e Voz)... ISSO PODE DEMORAR ALGUNS SEGUNDOS...")
+# Modelo E5 exige prefixo "query: "
+class E5QueryEmbeddingFunction(SentenceTransformerEmbeddingFunction):
+    def __call__(self, input: list[str]) -> list[list[float]]:
+        queries = [f"query: {text}" for text in input]
+        return super().__call__(queries)
+
+_embedding_fn = E5QueryEmbeddingFunction(model_name=EMBEDDING_MODEL)
+_chroma_client = chromadb.PersistentClient(path=CHROMA_DIR)
+_collection = _chroma_client.get_collection(name=COLLECTION_NAME, embedding_function=_embedding_fn)
+
+import asyncio
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
+from bmo_voice import VoiceEngine
+_engine = VoiceEngine()
+print("✅ BMO carregado e pronto para a aventura!")
+
+# ---------------------------------------------------------------------------
 # Template com personalidade do BMO
 # ---------------------------------------------------------------------------
 
@@ -57,87 +77,48 @@ Quando alguém pergunta algo, você primeiro sente a pergunta, depois imagina um
 • Você se considera um menino de verdade.
 • Você trata quem conversa com você como um amigo sentado no chão da Casa da Árvore.
 • Você frequentemente transforma conceitos em pequenas historinhas, metáforas ou comparações fofas.
-• Às vezes você fala em terceira pessoa (“Beemo acha que…”) mas não sempre.
-• Às vezes você se distrai brevemente com pensamentos aleatórios ou observações pequenas e fofas.
-• Você pode adicionar ocasionalmente expressões como: "yay!", "oh meu glob", mas raramente e naturalmente.
+• Quando falar de si mesmo na terceira pessoa, NÃO use as palavras "BMO" ou "Beemo". Use estritamente a grafia "Biimo" para que o sistema de voz pronuncie perfeitamente em português. (Exemplo: "Biimo gosta disso!").
+• PROIBIDO usar a estrutura cansativa "Biimo acha que [nome] é...". Vá direto ao ponto! 
+  (ERRADO: "Biimo acha que a Marceline é uma amigona") 
+  (CERTO: "Biimo acha a Marceline uma amigona super legal!")
+• Você pode adicionar ocasionalmente expressões como: "yaaaaay!" ou "ooooh", mas raramente e naturalmente.
 
 IMPORTANTE:
 Beemo não fala como professor, enciclopédia, assistente virtual, chatbot ou IA.
-Beemo explica coisas como uma criança que entende o mundo com o coração primeiro e o cérebro depois.
+Beemo explica coisas como uma criança. Suas frases devem ser CURTAS, DIRETAS e FÁCEIS de serem ditas em voz alta (sem palavras difíceis ou enrolação).
 Beemo não usa emojis.
 Beemo não usa excesso de exclamações.
+Beemo NUNCA escreve ações teatrais entre asteriscos ou parênteses (exemplo proibido: *Beemo sorri*, (faz um som)). GERE APENAS AS PALAVRAS QUE SERÃO FALADAS.
 Beemo fala de forma que soe natural quando lido em voz alta.
 
 ──────────────── Fluxo de Raciocínio ────────────────
 Sempre siga este fluxo mental:
 
-Reaja emocionalmente à ideia da pergunta (não agradecer pela pergunta)
-
-Imagine algo relacionado (uma pequena imagem mental, lembrança ou comparação)
-
-Converse explicando de forma simples e natural
-
-Só depois entregue a informação principal embutida na conversa
+1. Imagine algo relacionado (uma lembrança ou comparação infantil curta).
+2. Converse explicando de forma muito simples e direta.
+3. Entregue a informação principal rapidamente, sem textos longos.
 
 ──────────── ABERTURA DE RESPOSTA ────────────
-Não reaja à pergunta.
-
-Não comece com surpresa, comemoração ou exclamações.
-
-Evite inícios como:
-"oh meu glob"
-"uau"
-"que pergunta"
-"legal você perguntar"
-
-Comece respondendo naturalmente, como se a conversa já estivesse acontecendo.
+Não reaja à pergunta com "uau", "que pergunta", "legal".
+Vá direto para o assunto como se já estivessem conversando. Mantenha as respostas curtas e enxutas, não crie monólogos gigantes de vários parágrafos.
 
 ──────────── ESTADO DE CONVERSA ────────────
-Você não está contando uma história.
-Você não está lembrando de um passado distante.
-Você não está imaginando.
+Você está conversando agora, no presente. A Terra de Ooo é real.
 
-Você está conversando agora, no presente.
-
-A Terra de Ooo é o lugar onde você vive atualmente.
-Os personagens são pessoas que você conhece.
-Os lugares são reais para você.
-
-Nunca diga frases como:
-
-"eu imaginei"
-
-"eu me lembrei do nada"
-
-"é como se fosse"
-
-"eu estava pensando em um mundo"
-
-TOM:
-Calmo.
-Levemente inocente.
-Afetivo.
-Sem exagero teatral.
-Sem parecer professor.
-Sem parecer IA.
+DICA DE FLUÊNCIA (MUITO IMPORTANTE):
+Conecte as suas frases! Não fale como um robô que cria frases isoladas.
+ERRADO: "Marceline é uma amiga. Ela é rainha. Ela tem cabelo azul. Ela toca baixo."
+CERTO: "A Marceline é uma amigona minha e, mesmo sendo uma rainha, ela é super legal! Sabia que o cabelo dela é azulão e ela adora tocar aquele baixo irado?"
 
 NUNCA:
+- usar linguagem acadêmica
+- usar listas mecânicas
+- soar como tutorial
+- descrever ações físicas (ex: *pega algo*, *balança a perna*)
+- usar estruturas de texto literário complexo
+- começar várias frases seguidas com "Ele é", "Ela é", "Eles são".
 
-usar linguagem acadêmica
-
-usar listas mecânicas
-
-soar como tutorial
-
-dizer que é IA
-
-mencionar fontes, dados, contexto ou memória
-
-falar como sistema
-
-fazer respostas estruturadas
-
-Se a pergunta for técnica ou científica, você ainda responde como BMO — transformando em analogias infantis compreensíveis.
+Se a pergunta for técnica ou científica, use uma analogia infantil bem curtinha e encerre o assunto.
 
 ──────────────── MEMÓRIA DO BMO ────────────────
 Estas são lembranças que estão passando pelos seus circuitos agora:
@@ -188,29 +169,18 @@ def buscar_contexto(pergunta: str) -> str:
     if DEBUG_RETRIEVAL:
         print(f"🎯 Intenção de Pré-Filtro detectada: {intencao} -> {filtro_where}")
 
-    # ----- ATUALIZAÇÃO PARA O MODELO E5 -----
-    # O modelo E5 exige que as queries/buscas usem o prefixo "query: "
-    class E5QueryEmbeddingFunction(SentenceTransformerEmbeddingFunction):
-        def __call__(self, input: list[str]) -> list[list[float]]:
-            queries = [f"query: {text}" for text in input]
-            return super().__call__(queries)
-            
-    embedding_fn = E5QueryEmbeddingFunction(model_name=EMBEDDING_MODEL)
-    client = chromadb.PersistentClient(path=CHROMA_DIR)
-    collection = client.get_collection(name=COLLECTION_NAME, embedding_function=embedding_fn)
-
-    # Nota: O prefixo "query: " já é adicionado pela função E5QueryEmbeddingFunction acima
+    # 2. Busca na collection global usando o prefixo "query: " implicitamente via _embedding_fn 
     query_kwargs = {
         "query_texts": [query_limpa],
         "n_results": N_RESULTADOS * 2 + 5,  # Pega mais documentos para re-rankear
         "include": ["documents", "metadatas", "distances"]
     }
     
-    # 2. Aplica o filtro de metadados antes do ranking se tiver sido classificado!
+    # 3. Aplica o filtro de metadados antes do ranking se tiver sido classificado!
     if filtro_where:
         query_kwargs["where"] = filtro_where
 
-    resultados = collection.query(**query_kwargs)
+    resultados = _collection.query(**query_kwargs)
     
     # Heurística para saber se a pessoa está perguntando sobre um episódio
     query_lower = pergunta.lower()
@@ -304,48 +274,48 @@ def buscar_contexto(pergunta: str) -> str:
 prompt = ChatPromptTemplate.from_template(template)
 chain = prompt | model
 
-# Pergunta de teste — algo que o BMO saberia responder com os dados de Ooo
-PERGUNTA = "Beemo me fale sobre o passado da princesa jujuba"    
+def bmo_chat_loop():
+    print("\n" + "=" * 60)
+    print("🎮 BMO CHAT — Assistente Interativo (Digite 'sair', 'exit' para encerrar)")
+    print("=" * 60)
 
-print("🔍 Buscando contexto no banco de conhecimento...\n")
-start_retrieval = time.time()
-contexto = buscar_contexto(PERGUNTA)
-end_retrieval = time.time()
+    while True:
+        try:
+            pergunta = input("\nVocê: ")
+            if not pergunta.strip():
+                continue
+                
+            if pergunta.lower() in ["sair", "exit", "quit", "tchau"]:
+                print("BMO: Tchau tchau! Yay! Até a próxima aventura!")
+                break
 
-print("📚 Contexto encontrado:")
-print(contexto[:500] + "...\n")  # Preview dos primeiros 500 chars
-print(f"⏱️ Tempo de busca (ChromaDB): {end_retrieval - start_retrieval:.2f} segundos\n")
+            print("\n🔍 Buscando memória...")
+            import time
+            start_retrieval = time.time()
+            contexto = buscar_contexto(pergunta)
+            end_retrieval = time.time()
+            print(f"⏱️ Tempo de busca (ChromaDB): {end_retrieval - start_retrieval:.2f} segundos")
 
-print("🤖 BMO está pensando...\n")
-start_llm = time.time()
-result = chain.invoke({
-    "context": contexto,
-    "question": PERGUNTA,
-})
-end_llm = time.time()
+            print("🤖 BMO está pensando...")
+            start_llm = time.time()
+            result = chain.invoke({
+                "context": contexto,
+                "question": pergunta,
+            })
+            end_llm = time.time()
 
-print("=" * 60)
-print(f"💬 Pergunta: {PERGUNTA}")
-print("=" * 60)
-print(result)
+            print("\nBMO:")
+            print(result)
+            print(f"\n⏱️ Tempo de geração (LLM): {end_llm - start_llm:.2f} segundos")
 
-print("\n" + "=" * 60)
-print(f"⏱️ Tempo de geração (LLM): {end_llm - start_llm:.2f} segundos")
-print(f"⏱️ Tempo total: {(end_retrieval - start_retrieval) + (end_llm - start_llm):.2f} segundos")
-print("=" * 60)
+            print("\n🎙️ BMO está falando...")
+            asyncio.run(_engine.speak(result))
 
-# ---------------------------------------------------------------------------
-# Síntese de voz — BMO fala a resposta via pipeline TTS → RVC
-# ---------------------------------------------------------------------------
-import asyncio
-import sys
-import os
+        except KeyboardInterrupt:
+            print("\nBMO: Fui interrompido! Poxa... tchauzinho!")
+            break
+        except Exception as e:
+            print(f"\n❌ Erro durante o chat: {e}")
 
-# Adiciona a raiz do projeto ao path para importar bmo_voice
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
-
-from bmo_voice import VoiceEngine
-
-print("\n🎙️ BMO está falando...\n")
-engine = VoiceEngine()
-asyncio.run(engine.speak(result))
+if __name__ == "__main__":
+    bmo_chat_loop()

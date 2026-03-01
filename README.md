@@ -1,25 +1,36 @@
-# 🤖 BMO Brain — Base de Conhecimento & Agente IA
+# 🤖 BMO Brain + Voice — Agente IA Sensorial
 
-> *"Eu sou o BMO! Bip bop! Eu sei tudo sobre a Terra de Ooo!"*
+> *"Quem quer jogar videogame comigo agora?!"* — **Biimo**
 
-O **BMO Brain** não é apenas uma base de dados, é a mente e o coração de um agente de Inteligência Artificial desenhado para agir, pensar e falar exatamente como o personagem BMO da série **Hora de Aventura (Adventure Time)**. 
+O **BMO Brain** não é apenas uma base de dados, é a mente e o coração de um agente de Inteligência Artificial desenhado para agir, pensar e **falar** exatamente como o personagem BMO da série **Hora de Aventura (Adventure Time)**. 
 
-Este projeto implementa uma **Arquitetura Medallion (Bronze, Silver, Gold)** de pipeline de dados (ETL) acoplada a um poderoso sistema **RAG (Retrieval-Augmented Generation)** utilizando **LangChain**, **Ollama** e **ChromaDB**.
+Este projeto implementa uma **Arquitetura Medallion (Bronze, Silver, Gold)** de pipeline de dados acoplada a um poderoso sistema **RAG (Retrieval-Augmented Generation)** utilizando **LangChain**, **Ollama**, **ChromaDB** e um pipeline completo de **Sintese de Voz em Tempo Real (TTS + RVC)**.
 
 ---
 
-## 📐 Arquitetura do Sistema
+## 📐 Arquitetura do Sistema Inteiro
+
+Abaixo está o mapeamento dos fluxos de Extração de Conhecimento, Geração de Resposta e Síntese de Áudio:
 
 ```mermaid
 graph TD
-    A[Fandom Wiki PT-BR] -->|Playwright Scrapers| B(Camada Bronze: Markdown Bruto)
-    B -->|bronze_to_silver.py| C(Camada Silver: JSONs Limpos)
-    C -->|silver_to_gold.py| D(Camada Gold: Chunks Semânticos JSON)
-    D -->|vectorize.py| E[(ChromaDB: Vetores e Metadados)]
+    %% Pipeline de Dados RAG
+    A[Fandom Wiki PT-BR] -->|Scrapers| B(Bronze: Markdown)
+    B -->|bronze_to_silver| C(Silver: JSONs)
+    C -->|silver_to_gold| D(Gold: Chunks Semânticos)
+    D -->|vectorize| E[(ChromaDB: Vetores e Metadados)]
     
-    E <-->|LangChain Retrieval| F((Agente BMO - agent/main.py))
+    %% Cérebro do Agente
+    E <-->|LangChain Retrieval| F((Agente BMO - main.py))
     G[Ollama LLM local] <--> F
-    F <--> H{Usuário}
+    
+    %% Engine de Voz (Pipelining Assíncrono)
+    F -->|Texto Gerado| V1[TextCleaner & SentenceSplitter]
+    V1 -->|Frases processadas| V2(Edge-TTS: Microsoft Azure)
+    V2 -->|Áudio Neutro WAV| V3(Applio RVC: Conversão de Voz)
+    V3 -->|Voz BMO WAV| V4((SoundDevice: Reprodução))
+    
+    F <--> H{Usuário Interagindo localmente}
 ```
 
 ---
@@ -28,23 +39,19 @@ graph TD
 
 ```text
 Projeto-BMO/
-├── bmo_brain/
-│   ├── agent/               
-│   │   └── main.py          # 🤖 Aplicativo principal do Agente RAG BMO
-│   │
-│   ├── database/
-│   │   └── chroma_db/       # ChromaDB persistente com +3000 chunks vetorizados
-│   │
-│   ├── knowledge/
-│   │   ├── bronze/          # 🟤 Dados brutos dos scrapers (Arquivos .md)
-│   │   ├── silver/          # ⚪ Dados limpos estruturados (Arquivos .json)
-│   │   └── gold/            # 🟡 Chunks contextuais enriquecidos para RAG (.json)
-│   │
-│   └── scripts/             # 🛠️ Scripts do Pipeline
-│       ├── scrape_*.py      # Scrapers (episódios, personagens, lugares, itens)
-│       ├── bronze_to_silver.py
-│       ├── silver_to_gold.py
-│       └── vectorize.py
+├── bmo_brain/               # 🧠 Cérebro (RAG, Scraping e Agente LLM)
+│   ├── agent/main.py        # OChatbot REPL que orquestra LLM e Áudio
+│   ├── database/            # Banco vetorial local ChromaDB
+│   ├── knowledge/           # Datasets das camadas Medallion (Textos da Wiki Ooo)
+│   └── scripts/             # Scripts de ETL e Vetorização 
+│
+├── bmo_voice/               # 🎙️ Cordas Vocais (Pipeline TTS e Conversão)
+│   ├── voice_engine.py      # Motor Assíncrono para latência zero
+│   ├── text_cleaner.py      # Filtro de emoções e pausas sonoras
+│   ├── config.py            # Configura velocidade, pitch e modelos
+│   ├── voice_models/        # Modelos Treinados .pth e .index do BMO
+│   ├── tts_backends/        # Gerador de Sotaques (Edge-TTS Microsoft)
+│   └── rvc_backends/        # Modulador de Voz (Applio Subprocess via CLI)
 │
 ├── pyproject.toml           # Configurações do ambiente (uv)
 └── README.md
@@ -52,73 +59,60 @@ Projeto-BMO/
 
 ---
 
-## ⚙️ O Pipeline de Dados (Medallion)
+## ⚙️ 1. O Pipeline de Conhecimento (RAG)
 
-### 1. 🟤 Camada Bronze (Scraping)
-Scrapers assíncronos utilizam `Playwright` e `BeautifulSoup` para navegar pela Wiki do Hora de Aventura e extrair artigos de Episódios, Personagens, Lugares e Objetos. O conteúdo bruto é salvo em formato Markdown com cabeçalho YAML (Frontmatter).
-
-### 2. ⚪ Camada Silver (Limpeza e Estruturação)
-O script `bronze_to_silver.py` corrige falhas de formatação, uniformiza seções irregulares criadas por fãs da wiki, normaliza nomes de personagens e extrai um JSON limpo, consolidado e seguro.
-
-### 3. 🟡 Camada Gold (Context-Aware Chunking)
-O script `silver_to_gold.py` quebra os documentos da camada Silver em pedaços menores (chunks). Em vez de usar divisões aleatórias por "tamanho de tokens" (que podem quebrar o sentido de uma frase), o script realiza recortes lógicos (ex: parágrafos da seção de relacionamentos). 
-**O diferencial RAG:** O script "injeta" um cabeçalho explícito (uma *Anchor Sentence*) como `[Personagem: Marceline | Categoria: Núcleo principal]` em todos os sub-chunks para garantir que o LLM nunca perca o contexto do que está lendo.
+1. **Scraping e Ouro (O Pipeline Medallion):** Extraímos dados cru da wiki do Hora de Aventura, limpamos discrepâncias (Silver) e aplicamos recortes baseados em contexto lógico (Gold), injetando *Anchor Sentences* (`[Personagem: Finn]`) em cada frase.
+2. **Embeddings:** Os recortes são convertidos em espaço vetorial matematicamente via `intfloat/multilingual-e5-large` (HuggingFace) e engolidos pelo **ChromaDB**.
+3. **Loop Contínuo (REPL):** Para evitar atrasos no carregamento do Modelo de Embeddings gigante e do Banco de Dados a cada pergunta, o `main.py` roda de forma contínua no terminal, reduzindo a busca na memória de ~70segundos para míseros **0.2s**. O LLM usado roda localmente puxado do **Ollama** (ideal: `gemma3:4b` ou superior).
+4. **Personalidade (System Prompt):** Regras estritas barram o BMO de parecer um assistente ou IA. Ele assume que a "Terra de Ooo" é o momento presente, sendo restrito a conversas simplificadas, poéticas e que fluem organicamente como um menino fofo de jogo.
 
 ---
 
-## 🧠 Vetorização e Busca (ChromaDB)
+## 🎙️ 2. A Mágica Vocal (Voice Engine)
 
-O `vectorize.py` carrega os chunks da camada Gold, calcula os *Embeddings* matemáticos utilizando o modelo avançado `intfloat/multilingual-e5-large` (otimizado para português) e salva no **ChromaDB**. 
+O desafio de "Falar em Tempo Real" enquanto uma IA pesada pensa é resolvido através da `VoiceEngine`, utilizando paralelismo quádruplo e modelo VITS invertido:
 
-- **Prefixos E5:** O embedder utiliza strict guidelines inserindo os prefixos automáticos de `passage:` para armazenamento e `query:` para as perguntas do usuário, garantindo similaridade excepcional na busca vetorial.
-- **Batches:** A vetorização ocorre em *batches* de 64 documentos simultâneos para aliviar o uso de VRAM (RAM de Vídeo).
-
----
-
-## 🎮 Agente BMO (O RAG Final)
-
-Execute o agente e converse com o BMO de verdade: `uv run bmo_brain/agent/main.py`.
-
-A aplicação conecta o LLM local (via **Ollama**) ao Vector Store em milissegundos.
-- **Retrieval:** Recebe a pergunta do usuário e busca as 7 memórias mais parecidas no banco do ChromaDB.
-- **LLM Engine:** Recomendado o uso do `gemma3:4b` ou `qwen2.5:3b` que rodam rapidamente e localmente sem custos de API.
-- **Personalidade:** Um complexo *System Prompt* no LangChain força a IA a abandonar a forma engessada de "assistente prestativo" para falar na terceira pessoa, emitir barulhos de circuito (`bip bop!`), ser ingênuo e referenciar os episódios estritamente baseados nas memórias carregadas do ChromaDB, ignorando o próprio treinamento mundial do modelo.
+1. **Text Cleaner & Buffer:** O motor varre e tranca ruídos, exclamações gigantes e limpa formatações cênicas como `*sorri*`. Ele encadeia micro-frases (`Ele é legal. Tudo bem.`) num bloco coeso `>60 caracteres` para não forçar a IA gaguejar ou pausar ociosamente.
+2. **Edge-TTS / Tesoura Digital:** O texto viaja online direto pros servidores da Azure, sendo lido pela voz neural super veloz `pt-BR-FranciscaNeural`. Quando o áudio neutro volta pra BMO, um script digital em *Numpy* corta fora todos os "milissegundos de eco e fôlego vazios" da IA da Microsoft da borda do aúdio.
+3. **Applio / RVC em Subprocess:** O áudio recortado é injetado sob o modelo acústico do próprio BMO `BMOcvlc1`. Para zerar bugs de bibliotecas de rede, o RVC não é chamado por APIs normais, e sim executando os binários internos Python do `Applio` direto do HD. A voz da "Francisca" assume as cordas vocais ressonantes fofas originais do desenho!
+4. **Pipelining Assíncrono:** Ao mesmo tempo em que a primeira frase do RVC está sendo cantada no falante pelo `sounddevice` em *streaming*, a frase 2 já está no inferidor RVC e a 3 já está na Microsoft sendo gerada — **0 delay de espera total**.
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Como Executar Passo a Passo
 
-O projeto utiliza o **`uv`** moderno da Astral para gestão veloz de pacotes.
+O projeto utiliza o **`uv`** moderno da Astral Python para gestão extrema de pacotes e virtualenvs.
 
-### 1. Instalando Dependências
+### 1. Preparando os "Órgãos" (Servidores Base)
+Para o BMO existir sem nuvens ou apagar dados seus, precisamos de dois "Motores Universais" instalados no seu PC fora da pasta:
+
+- **Ollama:** Instale o [Ollama Local](https://ollama.com/) e baixe o LLM puxando `ollama pull gemma3:4b`.
+- **Applio (RVC):** Baixe o [Applio V3.6.2](https://github.com/IAHispano/Applio) em alguma pasta (ex: `C:/ApplioV3.6.2`). Rode o `.bat` padrão dele uma vez para instalar seus requisitos.
+
+### 2. Baixando a Consciência do BMO
 ```bash
-# Clone este repositório
+# Clone e baixe as dependências instantaneamente com UV
 git clone https://github.com/Guilin-Git/Projeto-BMO.git
 cd Projeto-BMO
-
-# Instale os pacotes pelo uv
 uv sync
 ```
 
-### 2. Rodando o Pipeline de Dados Completo (Opcional)
-Se desejar reprocessar as páginas ou se atualizar, rode o pipeline em ordem:
+### 3. Ligando a Conversa Interativa!
+Inicie ambos em terminais separados:
+
+**Terminal 1 — Liga as Cordas Vocais do Applio:**
+Vá na pasta onde instalou o Applio e levante-o na porta 7865:
 ```bash
-# Atualiza os dados de Bronze para Silver
-uv run bmo_brain/scripts/bronze_to_silver.py
-
-# Prepara os chunks contextuais Silver para Gold
-uv run bmo_brain/scripts/silver_to_gold.py
-
-# Aplica os Embeddings NPL e insere no Banco Vetorial
-uv run bmo_brain/scripts/vectorize.py
+cd C:/ApplioV3.6.2
+.\env\python.exe app.py --port 7865
 ```
 
-### 3. Ligando o BMO (Interface de Chat)
-Lembre-se de ter o [Ollama](https://ollama.com/) instalado em sua máquina e com o modelo em pull (ex: `ollama pull gemma3:4b`).
+**Terminal 2 — Acorda o BMO:**
+No projeto do BMO, rode o agente interativo. Ele irá carregar os ~3 GBs de Memória da série na RAM (Leva de 20s a 60s). Quando aparecer *BMO carregado...* você poderá conversar à vontade usando o RAG super veloz através do Chat!
 ```bash
-uv run bmo_brain/agent/main.py
+uv run python bmo_brain/agent/main.py
 ```
 
 ---
 
-> *"Quem quer jogar videogame comigo agora?!"* — **BMO**
+> *"Yay! Isso sim que é computação!"* — **Biimo**
