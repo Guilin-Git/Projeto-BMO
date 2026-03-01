@@ -305,7 +305,7 @@ prompt = ChatPromptTemplate.from_template(template)
 chain = prompt | model
 
 # Pergunta de teste — algo que o BMO saberia responder com os dados de Ooo
-PERGUNTA = "Beemo me retorne todos os episódios que a Marceline canta"    
+PERGUNTA = "Beemo me fale sobre o passado da princesa jujuba"    
 
 print("🔍 Buscando contexto no banco de conhecimento...\n")
 start_retrieval = time.time()
@@ -333,3 +333,19 @@ print("\n" + "=" * 60)
 print(f"⏱️ Tempo de geração (LLM): {end_llm - start_llm:.2f} segundos")
 print(f"⏱️ Tempo total: {(end_retrieval - start_retrieval) + (end_llm - start_llm):.2f} segundos")
 print("=" * 60)
+
+# ---------------------------------------------------------------------------
+# Síntese de voz — BMO fala a resposta via pipeline TTS → RVC
+# ---------------------------------------------------------------------------
+import asyncio
+import sys
+import os
+
+# Adiciona a raiz do projeto ao path para importar bmo_voice
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
+
+from bmo_voice import VoiceEngine
+
+print("\n🎙️ BMO está falando...\n")
+engine = VoiceEngine()
+asyncio.run(engine.speak(result))
