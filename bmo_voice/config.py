@@ -21,7 +21,7 @@ class VoiceConfig:
     #   pt-BR-AntonioNeural   (masculino, neutro) 
     #   pt-BR-FranciscaNeural (feminina, expressiva) ← fit para voz com muita emoção e mais aguda
     tts_voice: str = "pt-BR-FranciscaNeural"
-    tts_rate: str = "+0%"     # Normal (a pausa letárgica será corrigida removendo padding de áudio do TTS)
+    tts_rate: str = "-3%"     # Normal (a pausa letárgica será corrigida removendo padding de áudio do TTS)
     tts_volume: str = "+0%"
     tts_pitch: str = "+0Hz"   # Ajuste de tom do TTS antes do RVC
 
